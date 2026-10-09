@@ -1,0 +1,82 @@
+{
+  "id": "2021-32",
+  "markdown": "# FFFS 2021:32 — Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2014:33) om kontracykliskt buffertvärde\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2021-32.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2021/202132/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/280d61f68dcf4da1ad441f6f9eb80c08/fs2132.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Chefsjurist Eric Leijonram, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n<a id=\"section-0002\"></a>\n## Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2014:33) om kontracykliskt buffertvärde;\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2021-32/FFFS_2021-32.pdf-0001-03.png)\n\n<a id=\"section-0003\"></a>\n## FFFS 2021:32\n\nUtkom från trycket den 4 oktober 2021\n\nbeslutade den 28 september 2021.\n\nFinansinspektionen föreskriver med stöd av 19 § 4 förordningen (2014:993) om särskild tillsyn och kapitalbuffertar att Finansinspektionens föreskrifter (FFFS 2014:33) om kontracykliskt buffertvärde ska upphöra att gälla den 15 oktober 2021.\n\nERIK THEDÉEN\n\nErika Goldkuhl\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Chefsjurist Eric Leijonram, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460"
+    },
+    {
+      "id": "section-0002",
+      "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2014:33) om kontracykliskt buffertvärde;",
+      "page": 1,
+      "text": "![](https://nic-esp.github.io/fffs-bibliotek/images/2021-32/FFFS_2021-32.pdf-0001-03.png)"
+    },
+    {
+      "id": "section-0003",
+      "title": "FFFS 2021:32",
+      "page": 1,
+      "text": "Utkom från trycket den 4 oktober 2021\n\nbeslutade den 28 september 2021.\n\nFinansinspektionen föreskriver med stöd av 19 § 4 förordningen (2014:993) om särskild tillsyn och kapitalbuffertar att Finansinspektionens föreskrifter (FFFS 2014:33) om kontracykliskt buffertvärde ska upphöra att gälla den 15 oktober 2021.\n\nERIK THEDÉEN\n\nErika Goldkuhl"
+    }
+  ],
+  "metadata": {
+    "id": "2021-32",
+    "number": "FFFS 2021:32",
+    "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2014:33) om kontracykliskt buffertvärde",
+    "year": 2021,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": null,
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2021/202132/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/280d61f68dcf4da1ad441f6f9eb80c08/fs2132.pdf",
+    "pdfUrl": "pdf/2021-32.pdf",
+    "markdownUrl": "documents/2021-32.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2021-32/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Fond",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2021/202132/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2021:32.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Fond",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Fond innehåller registerposten FFFS 2021:32.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=98",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2021:32.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "id": "2011-01",
+  "markdown": "# FFFS 2011:1 — Föreskrifter om ersättningssystem i kreditinstitut, värdepappersbolag och fondbolag med tillstånd för diskretionär portföljförvaltning\n\n> Egen konsolidering med riktad granskning. Texten är inte en officiell utgåva och har inte genomgått fullständig juridisk verifiering. Kontrollera layoutkritiska tabeller och bilagor mot originalakterna på fi.se.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2011-01.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/3d48edfd38c242509562281a138f95e4/fs1101.pdf)\n\n---\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens föreskrifter (FFFS 2011:1) om ersättningssystem i kreditinstitut\n\n**EGEN KONSOLIDERING – baserad på Finansinspektionens konsoliderade version med tillägg för ändringar t.o.m. FFFS 2026:14, sammanställd 2026-10-09**\n\nInförda tilläggsändringar utöver Finansinspektionens konsoliderade version (senast uppdaterad 2021-12-21):\n\n- FFFS 2026:14 (ikraftträdande 2026-07-01): ny paragraf 2 kap. 2 b § införd.\n\n*Observera: Detta är en egen sammanställning. De officiella texterna på fi.se är rättsligt bindande; endast den tryckta utgåvan gäller vid rättstillämpning.*\n\nBeslutade: 2011-02-17\nIkraftträdande: 2011-03-01\nÄndringar: FFFS 2014:22, FFFS 2016:25, FFFS 2020:30, FFFS 2021:17, FFFS 2026:14\n\n---\n\n<a id=\"section-0002\"></a>\n## 1 kap. Inledande bestämmelser\n\n<a id=\"section-0003\"></a>\n### Tillämpningsområde\n\n<a id=\"section-0004\"></a>\n### 1 §\n\nDessa föreskrifter innehåller bestämmelser om hur företag ska mäta, styra, rapportera och kontrollera de risker som ersättningssystem kan medföra.\n\n<a id=\"section-0005\"></a>\n### 2 §\n\nFöreskrifterna gäller för\n\n1. bankaktiebolag,\n2. sparbanker,\n3. medlemsbanker,\n4. kreditmarknadsbolag, och\n5. kreditmarknadsföreningar. (FFFS 2021:17)\n\n<a id=\"section-0006\"></a>\n### 2 a §\n\nBestämmelserna i 2 kap. 5 § samt 4 kap. 6 och 7 §§ gäller inte för ett företag\n\n1. som inte är ett stort institut enligt definitionen i artikel 4.1.146 i tillsynsförordningen, och\n2. vars tillgångar i genomsnitt och på enskild nivå är lika med eller mindre än fem miljarder euro för de fyra närmast föregående räkenskapsåren. (FFFS 2020:30)\n\n<a id=\"section-0007\"></a>\n### 3 §\n\nDessa föreskrifter ska, i enlighet med vad som gäller enligt 3 kap. 4 § lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag, tillämpas på grupp- eller undergruppsnivå. (FFFS 2014:22)\n\n<a id=\"section-0008\"></a>\n### Definitioner\n\n<a id=\"section-0009\"></a>\n### 4 §\n\nI dessa föreskrifter ska termer och beteckningar ha följande betydelse.\n\n1. Diskretionär pensionsförmån: En pensionsförmån som ett företag på individuell basis beviljar en anställd som en del av hans eller hennes rörliga ersättning. Detta omfattar inte ackumulerade förmåner som den anställde tjänat in enligt villkoren i företagets pensionssystem.\n\n2. Ersättning: Alla ersättningar och förmåner till en anställd, t.ex. kontant lön och andra kontanta ersättningar, ersättningar i form av aktier eller aktierelaterade instrument, pensionsavsättningar, avgångsvederlag och bilförmåner.\n\n3. Ersättningspolicy: Grunder och principer för hur ersättning ska fastställas, tillämpas och följas upp samt för hur företaget definierar anställda vars arbetsuppgifter har väsentlig inverkan på företagets riskprofil.\n\n4. Tillsynsförordningen: Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012.\n\n5. Kontrollfunktion: Företagets funktion eller funktioner för riskkontroll, regelefterlevnad (compliance) och internrevision eller motsvarande.\n\n6. Rörlig ersättning: Ersättning som inte på förhand är fastställd till belopp eller storlek. Som rörlig ersättning räknas inte provisionsbaserad lön som är utan koppling till sådana framtida riskåtaganden vilka kan komma att ändra företagets resultat- eller balansräkning.\n\n7. Verkställande ledning: Verkställande direktör, vice verkställande direktör och andra personer i företagets ledningsgrupp eller liknande organ som är direkt ansvariga inför styrelsen eller den verkställande direktören. (FFFS 2021:17)\n\n<a id=\"section-0010\"></a>\n### 4 a §\n\nMed anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil avses i dessa föreskrifter följande:\n\n1. Styrelseledamöter och anställda som ingår i den verkställande ledningen.\n\n2. Anställda med ledningsansvar för företagets kontrollfunktioner eller väsentliga affärsenheter.\n\n3. En anställd som har rätt till en betydande ersättning för det närmast föregående räkenskapsåret om\n\n   a) hans eller hennes ersättning är lika med eller högre än 500 000 euro och lika med eller högre än den genomsnittliga ersättningen som ges till de som avses i 1, och\n\n   b) han eller hon arbetar inom en väsentlig affärsenhet och tjänsten är sådan att den har en betydande inverkan på den berörda affärsenhetens riskprofil.\n\n4. Andra anställda som företaget har identifierat enligt 2 kap. 3 § eller enligt den delegerade förordning som Europeiska kommissionen antagit med stöd av artikel 94.2 i Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG. (FFFS 2021:17)\n\n<a id=\"section-0011\"></a>\n### Annan lagstiftning\n\n<a id=\"section-0012\"></a>\n### 5 §\n\nDessa föreskrifter påverkar inte ett företags skyldigheter enligt tillämplig avtals- och arbetsrätt. Föreskrifterna har inte heller någon inverkan på de rättigheter som arbetsmarknadens parter har vid kollektivavtalsförhandlingar.\n\n<a id=\"section-0013\"></a>\n## 2 kap. Generella krav på ersättningspolicy och rörlig ersättning\n\n<a id=\"section-0014\"></a>\n### Ersättningspolicy\n\n<a id=\"section-0015\"></a>\n### 1 §\n\nEtt företag ska ha en dokumenterad ersättningspolicy som dels är förenlig med och främjar en sund och effektiv riskhantering, dels motverkar ett överdrivet risktagande. Ersättningspolicyn ska vara uppdaterad och ses över regelbundet.\n\nErsättningspolicyn ska omfatta alla anställda och vara könsneutral. (FFFS 2020:30)\n\n<a id=\"section-0016\"></a>\n### 2 §\n\nErsättningspolicyn ska utformas och tillämpas på ett sätt som är lämpligt med hänsyn till företagets storlek och interna organisation samt verksamhetens art, omfattning och komplexitet. Ersättningspolicyn ska även överensstämma med företagets affärsstrategi, mål, värderingar och långsiktiga intressen.\n\n<a id=\"section-0017\"></a>\n### 2 a §\n\nErsättningspolicyn ska innehålla dels kriterier för fastställande av fast ersättning, dels kriterier för fastställande av rörlig ersättning. Av ersättningspolicyn ska skillnaden mellan dessa kriterier framgå tydligt. (FFFS 2014:22)\n\n<a id=\"section-0018\"></a>\n### 2 b §\n\nErsättningspolicyn ska innehålla en beskrivning av de åtgärder som företaget vidtar för att undvika intressekonflikter. (FFFS 2026:14)\n\n<a id=\"section-0019\"></a>\n### 3 §\n\nEtt företag ska årligen göra en analys i syfte att identifiera anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil. Företaget ska i analysen beakta samtliga risker som företaget är eller kan komma att bli exponerade för inklusive de risker som är förenade med företagets ersättningspolicy och ersättningssystem. Analysen ska dokumenteras. (FFFS 2014:22)\n\n<a id=\"section-0020\"></a>\n### Pensionspolicy\n\n<a id=\"section-0021\"></a>\n### 4 §\n\nEtt företag som tillämpar rörlig ersättning som innehåller diskretionära pensionsförmåner ska ha en pensionspolicy. Pensionspolicyn ska överensstämma med företagets affärsstrategi, mål, värderingar och långsiktiga intressen.\n\nFöretaget ska överlåta eller betala ut diskretionära pensionsförmåner i form av aktier eller sådana instrument som avses i 4 kap. 7 §.\n\n<a id=\"section-0022\"></a>\n### 5 §\n\nEtt företag ska se till att diskretionära pensionsförmåner som överlåts på en anställd i samband med att den anställde går i pension, omfattas av en tidsperiod på minst fem år inom vilken den anställde inte får förfoga över instrumenten.\n\nOm företaget överlåter diskretionära pensionsförmåner till en anställd innan den anställde går i pension, på grund av att anställningen upphör, ska de diskretionära pensionsförmånerna omfattas av uppskjutande i minst fem år.\n\nFörsta och andra styckena ska inte tillämpas på en anställd vars årliga rörliga ersättning uppgår till maximalt 50 000 euro och inte motsvarar mer än en tredjedel av den anställdes totala årliga ersättning. (FFFS 2020:30)\n\n<a id=\"section-0023\"></a>\n### Rörlig ersättning\n\n<a id=\"section-0024\"></a>\n### 6 §\n\nEtt företag ska säkerställa att dess totala rörliga ersättningar inte begränsar företagets förmåga att upprätthålla en tillräcklig kapitalbas eller att vid behov stärka kapitalbasen.\n\n<a id=\"section-0025\"></a>\n### Begränsning av garanterad rörlig ersättning\n\n<a id=\"section-0026\"></a>\n### 7 §\n\nEtt företag får inte lämna garanterad rörlig ersättning annat än i samband med nyanställning och om det finns särskilda skäl för det. Företaget ska begränsa en sådan ersättning till det första anställningsåret. (FFFS 2014:22)\n\n<a id=\"section-0027\"></a>\n### Risksäkringsstrategier\n\n<a id=\"section-0028\"></a>\n### 8 §\n\nEtt företag ska säkerställa att dess anställda förbinder sig att inte använda personliga risksäkringsstrategier eller försäkringar som syftar till att minska eller undanröja effekterna av att en uppskjuten ersättning justeras eller bortfaller.\n\n<a id=\"section-0029\"></a>\n### Ersättning i samband med att en anställning upphör\n\n<a id=\"section-0030\"></a>\n### 9 §\n\nEtt företag ska säkerställa att ersättning som utgår till en anställd i samband med att anställningen upphör står i relation till den anställdes prestationer under anställningstiden och beräknas så att den inte belönar osunt risktagande.\n\n<a id=\"section-0031\"></a>\n### Inlösen av tidigare anställningskontrakt\n\n<a id=\"section-0032\"></a>\n### 10 §\n\nEtt företag ska säkerställa att ersättningspaket som används i syfte att ersätta eller lösa in tidigare anställningskontrakt överensstämmer med företagets ersättningspolicy och att de är förenliga med bestämmelserna i 4 kap. (FFFS 2014:22)\n\n<a id=\"section-0033\"></a>\n### Offentliggörande\n\n<a id=\"section-0034\"></a>\n### 11 §\n\nEtt företag ska på sin webbplats förklara hur det uppfyller de krav på ersättningspolicy och ersättningssystem som ställs på företaget i dessa föreskrifter.\n\nOm företaget inte har en webbplats ska det kunna tillhandahålla informationen på annat sätt till allmänheten. (FFFS 2014:22)\n\n<a id=\"section-0035\"></a>\n## 3 kap. Styrning och kontroll\n\n<a id=\"section-0036\"></a>\n### Styrning\n\n<a id=\"section-0037\"></a>\n### 1 §\n\nEtt företags styrelse ska besluta om en ersättningspolicy. Beslutet ska grundas på den analys som avses i 2 kap. 3 §. Styrelsen ska se till att ersättningspolicyn tillämpas och följs upp.\n\n<a id=\"section-0038\"></a>\n### 2 §\n\nStyrelsen ska besluta om\n\na) ersättning till den verkställande ledningen,\nb) ersättning till anställda som har det övergripande ansvaret för någon av företagets kontrollfunktioner, och\nc) åtgärder för att följa upp tillämpningen av företagets ersättningspolicy.\n\nStyrelsens beslut ska i tillämpliga fall följa vad bolagsstämman beslutat i fråga om ersättning i företaget.\n\n<a id=\"section-0039\"></a>\n### Ersättningskommitté\n\n<a id=\"section-0040\"></a>\n### 3 §\n\nEtt företag som är betydande i fråga om storlek, intern organisation och verksamhetens art, omfattning och komplexitet ska ha en ersättningskommitté som ska utföra en oberoende bedömning av företagets ersättningspolicy och ersättningssystem. I de fall det finns fler än ett betydande företag i en konsoliderad situation enligt artikel 18 i tillsynsförordningen får det inrättas en gemensam ersättningskommitté för samtliga företag i gruppen. Medlemmarna i ersättningskommittén ska ha tillräcklig kunskap och erfarenhet i frågor om riskhantering och ersättning.\n\nOrdföranden och övriga medlemmar i ersättningskommittén ska vara ledamöter i företagets styrelse och får inte vara anställda i företaget.\n\nAndra stycket gäller inte arbetstagarrepresentanter som har utsetts enligt lagen (1987:1245) om styrelserepresentation för de privatanställda. (FFFS 2014:22)\n\n<a id=\"section-0041\"></a>\n### 4 §\n\nErsättningskommittén ska bereda sådana styrelsebeslut om ersättning och åtgärder som avses i 2 §.\n\nI beredningen ska det tas hänsyn till aktieägares, investerares och övriga intressenters långsiktiga intressen.\n\n<a id=\"section-0042\"></a>\n### 5 §\n\nEtt företag som inte har inrättat en särskild ersättningskommitté ska utse en särskild ledamot i styrelsen som ska göra bedömningen enligt 3 § och bereda sådana beslut som avses i 4 §. Den särskilda ledamoten får inte ingå i företagets verkställande ledning och ska ha tillräcklig kunskap och erfarenhet i frågor om riskhantering och ersättning.\n\n<a id=\"section-0043\"></a>\n### Kontroll\n\n<a id=\"section-0044\"></a>\n### 6 §\n\nEtt företag ska minst årligen låta en kontrollfunktion granska om företagets ersättningssystem överensstämmer med ersättningspolicyn. Kontrollfunktionen ska senast i samband med att årsredovisningen fastställs, rapportera resultatet av granskningen till styrelsen.\n\n<a id=\"section-0045\"></a>\n### 7 §\n\nEtt företag ska se till att lämpliga kontrollfunktioner deltar i den bedömnings- och utvärderingsprocess som ersättningskommittén eller den särskilda styrelseledamoten ska göra enligt 3 §.\n\n<a id=\"section-0046\"></a>\n### 8 §\n\nEtt företag ska se till att anställda i kontrollfunktioner är oberoende i förhållande till de affärsområden de övervakar samt har lämpliga befogenheter och resurser att följa upp och kontrollera de risker som är förknippade med företagets ersättningssystem.\n\n<a id=\"section-0047\"></a>\n### Ersättning till anställda i kontrollfunktioner\n\n<a id=\"section-0048\"></a>\n### 9 §\n\nEtt företag ska, om anställda i kontrollfunktioner får rörlig ersättning, se till att den bestäms utifrån mål som är kopplade till kontrollfunktionen, oberoende av resultatet i de affärsområden de kontrollerar.\n\n<a id=\"section-0049\"></a>\n## 4 kap. Ersättningens struktur\n\n<a id=\"section-0050\"></a>\n### Balans mellan fast och rörlig ersättning\n\n<a id=\"section-0051\"></a>\n### 1 §\n\nEtt företag vars ersättning innehåller rörliga delar, ska se till att det finns en lämplig balans mellan fasta och rörliga delar av ersättningen. De fasta delarna ska stå för en tillräckligt stor del av den anställdes totala ersättning för att det ska vara möjligt att sätta de rörliga delarna till noll.\n\nFöretaget ska i sin ersättningspolicy ange hur stora de rörliga delarna högst kan bli i förhållande till de fasta delarna för samtliga kategorier av anställda som kan få rörlig ersättning. Undantag från dessa förhållanden ska i varje enskilt fall godkännas av styrelsen.\n\n<a id=\"section-0052\"></a>\n### Resultatbedömning och riskjustering\n\n<a id=\"section-0053\"></a>\n### 2 §\n\nEtt företags bedömning av resultat som ligger till grund för beräkning av rörlig ersättning, ska i huvudsak baseras på riskjusterade vinstmått. Såväl nuvarande som framtida risker ska beaktas. I bedömningen ska företaget även ta hänsyn till de faktiska kostnaderna för det kapital och den likviditet som verksamheten kräver.\n\nOm ett företag använder sig av subjektiva bedömningar för justering av resultat utifrån risk, ska de överväganden som ligger till grund för justeringen vara väl avvägda och dokumenterade.\n\n<a id=\"section-0054\"></a>\n### 3 §\n\nEtt företags resultatbedömning ska göras i ett flerårigt perspektiv för att säkerställa dels att bedömningen baseras på långsiktigt hållbara resultat, dels att företagets underliggande konjunkturcykel och affärsrisker beaktas när den resultatbaserade ersättningen betalas ut.\n\n<a id=\"section-0055\"></a>\n### 4 §\n\nEtt företag ska basera den rörliga ersättningen till anställda vars arbetsuppgifter har en väsentlig inverkan på företagets risknivå på såväl den anställdes resultat som den berörda resultatenhetens och företagets totala resultat. Vid bedömningen av den anställdes resultat ska både finansiella och icke-finansiella kriterier beaktas.\n\nDe finansiella och icke-finansiella kriterier som företaget lägger till grund för beslut om ersättning ska specificeras och dokumenteras. (FFFS 2014:22)\n\n<a id=\"section-0056\"></a>\n### Information till anställda\n\n<a id=\"section-0057\"></a>\n### 5 §\n\nEtt företag ska informera sina anställda om dels vilka kriterier som styr deras ersättning, dels om hur deras resultat bedöms. Bedömningsprocessen och ersättningspolicyn ska vara tillgänglig för alla anställda.\n\n<a id=\"section-0058\"></a>\n### Uppskjutande\n\n<a id=\"section-0059\"></a>\n### 6 §\n\nEtt företag ska se till att minst 40 procent av den rörliga ersättningen till en anställd vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil, skjuts upp minst fyra år innan den betalas ut eller äganderätten går över på den anställde. När företaget beslutar om hur stor del av den rörliga ersättningen som ska skjutas upp, och hur länge, ska det ta hänsyn till företagets konjunkturcykel, de risker affärsverksamheten medför, den anställdes ansvar och arbetsuppgifter samt storleken på den rörliga ersättningen.\n\nTidsperioden för uppskjutande ska inte vara kortare än fem år för en styrelseledamot och en anställd i den verkställande ledningen för ett institut som är betydande i fråga om storlek, intern organisation och verksamhetens art, omfattning och komplexitet.\n\nFöretaget ska skjuta upp minst 60 procent av den rörliga ersättningen för anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil och som har rörliga ersättningsdelar på ett särskilt högt belopp.\n\nEtt företag får betala ut uppskjuten ersättning en gång om året jämnt fördelad över den tid som ersättningen skjutits upp (pro rata). Den första utbetalningen får göras först ett år efter det att den rörliga ersättningen beslutades. (FFFS 2020:30)\n\n<a id=\"section-0060\"></a>\n### 6 a §\n\nKravet på uppskjutande enligt 6 § ska inte tillämpas på en anställd vars årliga rörliga ersättning uppgår till maximalt 50 000 euro och inte motsvarar mer än en tredjedel av den anställdes totala årliga ersättning. (FFFS 2020:30)\n\n<a id=\"section-0061\"></a>\n### Aktier och andra instrument\n\n<a id=\"section-0062\"></a>\n### 7 §\n\nEtt företag ska se till att minst 50 procent av den rörliga ersättningen till en anställd vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil, består av\n\na) företagets aktier, andelar eller instrument som är kopplade till företagets aktier eller andelar, eller andra likvärdiga instrument, eller\n\nb) andra instrument enligt artiklarna 52 eller 63 i tillsynsförordningen eller andra instrument enligt kommissionens delegerade förordning (EU) nr 527/2014 av den 12 mars 2014 om komplettering av Europaparlamentets och rådets direktiv 2013/36/EU med avseende på tekniska tillsynsstandarder som specificerar de instrumentklasser som på ett tillbörligt sätt återspeglar institutens kreditkvalitet på löpande basis och är avsedda att användas till rörliga ersättningar.\n\nOm det är möjligt ska företaget låta den rörliga ersättningen enligt första stycket bestå av en avvägning av instrument enligt a och b.\n\nFörsta stycket ska tillämpas både på rörlig ersättning som skjuts upp och rörlig ersättning som inte skjuts upp. (FFFS 2020:30)\n\n<a id=\"section-0063\"></a>\n### 7 a §\n\nKravet på utbetalning i aktier, andelar eller andra instrument enligt 7 § ska inte tillämpas på en anställd vars årliga rörliga ersättning uppgår till maximalt 50 000 euro och inte motsvarar mer än en tredjedel av den anställdes totala årliga ersättning. (FFFS 2020:30)\n\n<a id=\"section-0064\"></a>\n### 8 §\n\nEtt företag ska se till att sådana aktier, andelar och andra instrument som avses i 7 § omfattas av restriktioner som innebär att en anställd inte får förfoga över instrumenten under minst ett år, eller längre beroende på företagets långsiktiga intressen, efter att äganderätten till instrumenten har gått över till den anställde. Detta gäller oavsett om den rörliga ersättningen har skjutits upp eller inte.\n\nErsättningspolicyn ska innehålla regler om den kortaste tid som den anställde inte får förfoga över rörlig ersättning som lämnas i form av aktier, andelar och andra instrument. (FFFS 2020:30)\n\n<a id=\"section-0065\"></a>\n### Bortfall av ersättning\n\n<a id=\"section-0066\"></a>\n### Justering av rörlig ersättning\n\n<a id=\"section-0067\"></a>\n### 9 §\n\nEtt företag ska säkerställa att rörlig ersättning till anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil, inbegripet ersättning som skjutits upp, endast betalas ut eller övergår till den anställde till den del det är försvarbart med hänsyn till företagets finansiella situation och motiverat enligt företagets, den berörda affärsenhetens och den anställdes resultat. Den rörliga ersättningen ska även kunna falla bort helt av samma skäl. Företaget ska i sin ersättningspolicy fastställa kriterier för tillämpningen av denna paragraf. (FFFS 2014:22)\n\n---\n\n<a id=\"section-0068\"></a>\n## Ikraftträdande- och övergångsbestämmelser\n\n**FFFS 2011:1**\n\n1. Dessa föreskrifter träder i kraft den 1 mars 2011, då Finansinspektionens föreskrifter och allmänna råd (FFFS 2009:6) om ersättningspolicy i kreditinstitut, värdepappersbolag och fondbolag ska upphöra att gälla.\n\n2. Ett företag ska tillämpa dessa föreskrifter på ersättning som följer av avtal som ingåtts före den 1 mars 2011 och som beslutas eller betalas ut efter denna dag, och på ersättning som tjänats in under 2010 som beslutats men ännu inte betalats ut före den 1 mars 2011.\n\n3. Bestämmelserna i 4 kap. 7 § behöver inte tillämpas på rörlig ersättning som tjänats in före den 1 mars 2011 och som beslutas eller betalas ut före den 1 juli 2011.\n\n4. Ett företag ska senast den 31 augusti 2011 underrätta Finansinspektionen om företaget fortfarande har ersättningsförpliktelser som inte stämmer överens med dessa föreskrifter.\n\n**FFFS 2014:22**\n\nDessa föreskrifter träder i kraft den 2 augusti 2014.\n\n**FFFS 2016:25**\n\nDessa föreskrifter träder i kraft den 1 november 2016.\n\n**FFFS 2020:30**\n\nDessa föreskrifter träder i kraft den 29 december 2020.\n\n**FFFS 2021:17**\n\nDessa föreskrifter träder i kraft den 7 juli 2021.\n\n**FFFS 2026:14**\n\nDessa föreskrifter träder i kraft den 1 juli 2026.\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens föreskrifter (FFFS 2011:1) om ersättningssystem i kreditinstitut",
+      "text": "**EGEN KONSOLIDERING – baserad på Finansinspektionens konsoliderade version med tillägg för ändringar t.o.m. FFFS 2026:14, sammanställd 2026-10-09**\n\nInförda tilläggsändringar utöver Finansinspektionens konsoliderade version (senast uppdaterad 2021-12-21):\n\n- FFFS 2026:14 (ikraftträdande 2026-07-01): ny paragraf 2 kap. 2 b § införd.\n\n*Observera: Detta är en egen sammanställning. De officiella texterna på fi.se är rättsligt bindande; endast den tryckta utgåvan gäller vid rättstillämpning.*\n\nBeslutade: 2011-02-17\nIkraftträdande: 2011-03-01\nÄndringar: FFFS 2014:22, FFFS 2016:25, FFFS 2020:30, FFFS 2021:17, FFFS 2026:14\n\n---"
+    },
+    {
+      "id": "section-0002",
+      "title": "1 kap. Inledande bestämmelser",
+      "text": ""
+    },
+    {
+      "id": "section-0003",
+      "title": "Tillämpningsområde",
+      "text": ""
+    },
+    {
+      "id": "section-0004",
+      "title": "1 kap. 1 §",
+      "text": "Dessa föreskrifter innehåller bestämmelser om hur företag ska mäta, styra, rapportera och kontrollera de risker som ersättningssystem kan medföra."
+    },
+    {
+      "id": "section-0005",
+      "title": "1 kap. 2 §",
+      "text": "Föreskrifterna gäller för\n\n1. bankaktiebolag,\n2. sparbanker,\n3. medlemsbanker,\n4. kreditmarknadsbolag, och\n5. kreditmarknadsföreningar. (FFFS 2021:17)"
+    },
+    {
+      "id": "section-0006",
+      "title": "1 kap. 2 a §",
+      "text": "Bestämmelserna i 2 kap. 5 § samt 4 kap. 6 och 7 §§ gäller inte för ett företag\n\n1. som inte är ett stort institut enligt definitionen i artikel 4.1.146 i tillsynsförordningen, och\n2. vars tillgångar i genomsnitt och på enskild nivå är lika med eller mindre än fem miljarder euro för de fyra närmast föregående räkenskapsåren. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0007",
+      "title": "1 kap. 3 §",
+      "text": "Dessa föreskrifter ska, i enlighet med vad som gäller enligt 3 kap. 4 § lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag, tillämpas på grupp- eller undergruppsnivå. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0008",
+      "title": "Definitioner",
+      "text": ""
+    },
+    {
+      "id": "section-0009",
+      "title": "1 kap. 4 §",
+      "text": "I dessa föreskrifter ska termer och beteckningar ha följande betydelse.\n\n1. Diskretionär pensionsförmån: En pensionsförmån som ett företag på individuell basis beviljar en anställd som en del av hans eller hennes rörliga ersättning. Detta omfattar inte ackumulerade förmåner som den anställde tjänat in enligt villkoren i företagets pensionssystem.\n\n2. Ersättning: Alla ersättningar och förmåner till en anställd, t.ex. kontant lön och andra kontanta ersättningar, ersättningar i form av aktier eller aktierelaterade instrument, pensionsavsättningar, avgångsvederlag och bilförmåner.\n\n3. Ersättningspolicy: Grunder och principer för hur ersättning ska fastställas, tillämpas och följas upp samt för hur företaget definierar anställda vars arbetsuppgifter har väsentlig inverkan på företagets riskprofil.\n\n4. Tillsynsförordningen: Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012.\n\n5. Kontrollfunktion: Företagets funktion eller funktioner för riskkontroll, regelefterlevnad (compliance) och internrevision eller motsvarande.\n\n6. Rörlig ersättning: Ersättning som inte på förhand är fastställd till belopp eller storlek. Som rörlig ersättning räknas inte provisionsbaserad lön som är utan koppling till sådana framtida riskåtaganden vilka kan komma att ändra företagets resultat- eller balansräkning.\n\n7. Verkställande ledning: Verkställande direktör, vice verkställande direktör och andra personer i företagets ledningsgrupp eller liknande organ som är direkt ansvariga inför styrelsen eller den verkställande direktören. (FFFS 2021:17)"
+    },
+    {
+      "id": "section-0010",
+      "title": "1 kap. 4 a §",
+      "text": "Med anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil avses i dessa föreskrifter följande:\n\n1. Styrelseledamöter och anställda som ingår i den verkställande ledningen.\n\n2. Anställda med ledningsansvar för företagets kontrollfunktioner eller väsentliga affärsenheter.\n\n3. En anställd som har rätt till en betydande ersättning för det närmast föregående räkenskapsåret om\n\n   a) hans eller hennes ersättning är lika med eller högre än 500 000 euro och lika med eller högre än den genomsnittliga ersättningen som ges till de som avses i 1, och\n\n   b) han eller hon arbetar inom en väsentlig affärsenhet och tjänsten är sådan att den har en betydande inverkan på den berörda affärsenhetens riskprofil.\n\n4. Andra anställda som företaget har identifierat enligt 2 kap. 3 § eller enligt den delegerade förordning som Europeiska kommissionen antagit med stöd av artikel 94.2 i Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG. (FFFS 2021:17)"
+    },
+    {
+      "id": "section-0011",
+      "title": "Annan lagstiftning",
+      "text": ""
+    },
+    {
+      "id": "section-0012",
+      "title": "1 kap. 5 §",
+      "text": "Dessa föreskrifter påverkar inte ett företags skyldigheter enligt tillämplig avtals- och arbetsrätt. Föreskrifterna har inte heller någon inverkan på de rättigheter som arbetsmarknadens parter har vid kollektivavtalsförhandlingar."
+    },
+    {
+      "id": "section-0013",
+      "title": "2 kap. Generella krav på ersättningspolicy och rörlig ersättning",
+      "text": ""
+    },
+    {
+      "id": "section-0014",
+      "title": "Ersättningspolicy",
+      "text": ""
+    },
+    {
+      "id": "section-0015",
+      "title": "2 kap. 1 §",
+      "text": "Ett företag ska ha en dokumenterad ersättningspolicy som dels är förenlig med och främjar en sund och effektiv riskhantering, dels motverkar ett överdrivet risktagande. Ersättningspolicyn ska vara uppdaterad och ses över regelbundet.\n\nErsättningspolicyn ska omfatta alla anställda och vara könsneutral. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0016",
+      "title": "2 kap. 2 §",
+      "text": "Ersättningspolicyn ska utformas och tillämpas på ett sätt som är lämpligt med hänsyn till företagets storlek och interna organisation samt verksamhetens art, omfattning och komplexitet. Ersättningspolicyn ska även överensstämma med företagets affärsstrategi, mål, värderingar och långsiktiga intressen."
+    },
+    {
+      "id": "section-0017",
+      "title": "2 kap. 2 a §",
+      "text": "Ersättningspolicyn ska innehålla dels kriterier för fastställande av fast ersättning, dels kriterier för fastställande av rörlig ersättning. Av ersättningspolicyn ska skillnaden mellan dessa kriterier framgå tydligt. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0018",
+      "title": "2 kap. 2 b §",
+      "text": "Ersättningspolicyn ska innehålla en beskrivning av de åtgärder som företaget vidtar för att undvika intressekonflikter. (FFFS 2026:14)"
+    },
+    {
+      "id": "section-0019",
+      "title": "2 kap. 3 §",
+      "text": "Ett företag ska årligen göra en analys i syfte att identifiera anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil. Företaget ska i analysen beakta samtliga risker som företaget är eller kan komma att bli exponerade för inklusive de risker som är förenade med företagets ersättningspolicy och ersättningssystem. Analysen ska dokumenteras. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0020",
+      "title": "Pensionspolicy",
+      "text": ""
+    },
+    {
+      "id": "section-0021",
+      "title": "2 kap. 4 §",
+      "text": "Ett företag som tillämpar rörlig ersättning som innehåller diskretionära pensionsförmåner ska ha en pensionspolicy. Pensionspolicyn ska överensstämma med företagets affärsstrategi, mål, värderingar och långsiktiga intressen.\n\nFöretaget ska överlåta eller betala ut diskretionära pensionsförmåner i form av aktier eller sådana instrument som avses i 4 kap. 7 §."
+    },
+    {
+      "id": "section-0022",
+      "title": "2 kap. 5 §",
+      "text": "Ett företag ska se till att diskretionära pensionsförmåner som överlåts på en anställd i samband med att den anställde går i pension, omfattas av en tidsperiod på minst fem år inom vilken den anställde inte får förfoga över instrumenten.\n\nOm företaget överlåter diskretionära pensionsförmåner till en anställd innan den anställde går i pension, på grund av att anställningen upphör, ska de diskretionära pensionsförmånerna omfattas av uppskjutande i minst fem år.\n\nFörsta och andra styckena ska inte tillämpas på en anställd vars årliga rörliga ersättning uppgår till maximalt 50 000 euro och inte motsvarar mer än en tredjedel av den anställdes totala årliga ersättning. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0023",
+      "title": "Rörlig ersättning",
+      "text": ""
+    },
+    {
+      "id": "section-0024",
+      "title": "2 kap. 6 §",
+      "text": "Ett företag ska säkerställa att dess totala rörliga ersättningar inte begränsar företagets förmåga att upprätthålla en tillräcklig kapitalbas eller att vid behov stärka kapitalbasen."
+    },
+    {
+      "id": "section-0025",
+      "title": "Begränsning av garanterad rörlig ersättning",
+      "text": ""
+    },
+    {
+      "id": "section-0026",
+      "title": "2 kap. 7 §",
+      "text": "Ett företag får inte lämna garanterad rörlig ersättning annat än i samband med nyanställning och om det finns särskilda skäl för det. Företaget ska begränsa en sådan ersättning till det första anställningsåret. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0027",
+      "title": "Risksäkringsstrategier",
+      "text": ""
+    },
+    {
+      "id": "section-0028",
+      "title": "2 kap. 8 §",
+      "text": "Ett företag ska säkerställa att dess anställda förbinder sig att inte använda personliga risksäkringsstrategier eller försäkringar som syftar till att minska eller undanröja effekterna av att en uppskjuten ersättning justeras eller bortfaller."
+    },
+    {
+      "id": "section-0029",
+      "title": "Ersättning i samband med att en anställning upphör",
+      "text": ""
+    },
+    {
+      "id": "section-0030",
+      "title": "2 kap. 9 §",
+      "text": "Ett företag ska säkerställa att ersättning som utgår till en anställd i samband med att anställningen upphör står i relation till den anställdes prestationer under anställningstiden och beräknas så att den inte belönar osunt risktagande."
+    },
+    {
+      "id": "section-0031",
+      "title": "Inlösen av tidigare anställningskontrakt",
+      "text": ""
+    },
+    {
+      "id": "section-0032",
+      "title": "2 kap. 10 §",
+      "text": "Ett företag ska säkerställa att ersättningspaket som används i syfte att ersätta eller lösa in tidigare anställningskontrakt överensstämmer med företagets ersättningspolicy och att de är förenliga med bestämmelserna i 4 kap. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0033",
+      "title": "Offentliggörande",
+      "text": ""
+    },
+    {
+      "id": "section-0034",
+      "title": "2 kap. 11 §",
+      "text": "Ett företag ska på sin webbplats förklara hur det uppfyller de krav på ersättningspolicy och ersättningssystem som ställs på företaget i dessa föreskrifter.\n\nOm företaget inte har en webbplats ska det kunna tillhandahålla informationen på annat sätt till allmänheten. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0035",
+      "title": "3 kap. Styrning och kontroll",
+      "text": ""
+    },
+    {
+      "id": "section-0036",
+      "title": "Styrning",
+      "text": ""
+    },
+    {
+      "id": "section-0037",
+      "title": "3 kap. 1 §",
+      "text": "Ett företags styrelse ska besluta om en ersättningspolicy. Beslutet ska grundas på den analys som avses i 2 kap. 3 §. Styrelsen ska se till att ersättningspolicyn tillämpas och följs upp."
+    },
+    {
+      "id": "section-0038",
+      "title": "3 kap. 2 §",
+      "text": "Styrelsen ska besluta om\n\na) ersättning till den verkställande ledningen,\nb) ersättning till anställda som har det övergripande ansvaret för någon av företagets kontrollfunktioner, och\nc) åtgärder för att följa upp tillämpningen av företagets ersättningspolicy.\n\nStyrelsens beslut ska i tillämpliga fall följa vad bolagsstämman beslutat i fråga om ersättning i företaget."
+    },
+    {
+      "id": "section-0039",
+      "title": "Ersättningskommitté",
+      "text": ""
+    },
+    {
+      "id": "section-0040",
+      "title": "3 kap. 3 §",
+      "text": "Ett företag som är betydande i fråga om storlek, intern organisation och verksamhetens art, omfattning och komplexitet ska ha en ersättningskommitté som ska utföra en oberoende bedömning av företagets ersättningspolicy och ersättningssystem. I de fall det finns fler än ett betydande företag i en konsoliderad situation enligt artikel 18 i tillsynsförordningen får det inrättas en gemensam ersättningskommitté för samtliga företag i gruppen. Medlemmarna i ersättningskommittén ska ha tillräcklig kunskap och erfarenhet i frågor om riskhantering och ersättning.\n\nOrdföranden och övriga medlemmar i ersättningskommittén ska vara ledamöter i företagets styrelse och får inte vara anställda i företaget.\n\nAndra stycket gäller inte arbetstagarrepresentanter som har utsetts enligt lagen (1987:1245) om styrelserepresentation för de privatanställda. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0041",
+      "title": "3 kap. 4 §",
+      "text": "Ersättningskommittén ska bereda sådana styrelsebeslut om ersättning och åtgärder som avses i 2 §.\n\nI beredningen ska det tas hänsyn till aktieägares, investerares och övriga intressenters långsiktiga intressen."
+    },
+    {
+      "id": "section-0042",
+      "title": "3 kap. 5 §",
+      "text": "Ett företag som inte har inrättat en särskild ersättningskommitté ska utse en särskild ledamot i styrelsen som ska göra bedömningen enligt 3 § och bereda sådana beslut som avses i 4 §. Den särskilda ledamoten får inte ingå i företagets verkställande ledning och ska ha tillräcklig kunskap och erfarenhet i frågor om riskhantering och ersättning."
+    },
+    {
+      "id": "section-0043",
+      "title": "Kontroll",
+      "text": ""
+    },
+    {
+      "id": "section-0044",
+      "title": "3 kap. 6 §",
+      "text": "Ett företag ska minst årligen låta en kontrollfunktion granska om företagets ersättningssystem överensstämmer med ersättningspolicyn. Kontrollfunktionen ska senast i samband med att årsredovisningen fastställs, rapportera resultatet av granskningen till styrelsen."
+    },
+    {
+      "id": "section-0045",
+      "title": "3 kap. 7 §",
+      "text": "Ett företag ska se till att lämpliga kontrollfunktioner deltar i den bedömnings- och utvärderingsprocess som ersättningskommittén eller den särskilda styrelseledamoten ska göra enligt 3 §."
+    },
+    {
+      "id": "section-0046",
+      "title": "3 kap. 8 §",
+      "text": "Ett företag ska se till att anställda i kontrollfunktioner är oberoende i förhållande till de affärsområden de övervakar samt har lämpliga befogenheter och resurser att följa upp och kontrollera de risker som är förknippade med företagets ersättningssystem."
+    },
+    {
+      "id": "section-0047",
+      "title": "Ersättning till anställda i kontrollfunktioner",
+      "text": ""
+    },
+    {
+      "id": "section-0048",
+      "title": "3 kap. 9 §",
+      "text": "Ett företag ska, om anställda i kontrollfunktioner får rörlig ersättning, se till att den bestäms utifrån mål som är kopplade till kontrollfunktionen, oberoende av resultatet i de affärsområden de kontrollerar."
+    },
+    {
+      "id": "section-0049",
+      "title": "4 kap. Ersättningens struktur",
+      "text": ""
+    },
+    {
+      "id": "section-0050",
+      "title": "Balans mellan fast och rörlig ersättning",
+      "text": ""
+    },
+    {
+      "id": "section-0051",
+      "title": "4 kap. 1 §",
+      "text": "Ett företag vars ersättning innehåller rörliga delar, ska se till att det finns en lämplig balans mellan fasta och rörliga delar av ersättningen. De fasta delarna ska stå för en tillräckligt stor del av den anställdes totala ersättning för att det ska vara möjligt att sätta de rörliga delarna till noll.\n\nFöretaget ska i sin ersättningspolicy ange hur stora de rörliga delarna högst kan bli i förhållande till de fasta delarna för samtliga kategorier av anställda som kan få rörlig ersättning. Undantag från dessa förhållanden ska i varje enskilt fall godkännas av styrelsen."
+    },
+    {
+      "id": "section-0052",
+      "title": "Resultatbedömning och riskjustering",
+      "text": ""
+    },
+    {
+      "id": "section-0053",
+      "title": "4 kap. 2 §",
+      "text": "Ett företags bedömning av resultat som ligger till grund för beräkning av rörlig ersättning, ska i huvudsak baseras på riskjusterade vinstmått. Såväl nuvarande som framtida risker ska beaktas. I bedömningen ska företaget även ta hänsyn till de faktiska kostnaderna för det kapital och den likviditet som verksamheten kräver.\n\nOm ett företag använder sig av subjektiva bedömningar för justering av resultat utifrån risk, ska de överväganden som ligger till grund för justeringen vara väl avvägda och dokumenterade."
+    },
+    {
+      "id": "section-0054",
+      "title": "4 kap. 3 §",
+      "text": "Ett företags resultatbedömning ska göras i ett flerårigt perspektiv för att säkerställa dels att bedömningen baseras på långsiktigt hållbara resultat, dels att företagets underliggande konjunkturcykel och affärsrisker beaktas när den resultatbaserade ersättningen betalas ut."
+    },
+    {
+      "id": "section-0055",
+      "title": "4 kap. 4 §",
+      "text": "Ett företag ska basera den rörliga ersättningen till anställda vars arbetsuppgifter har en väsentlig inverkan på företagets risknivå på såväl den anställdes resultat som den berörda resultatenhetens och företagets totala resultat. Vid bedömningen av den anställdes resultat ska både finansiella och icke-finansiella kriterier beaktas.\n\nDe finansiella och icke-finansiella kriterier som företaget lägger till grund för beslut om ersättning ska specificeras och dokumenteras. (FFFS 2014:22)"
+    },
+    {
+      "id": "section-0056",
+      "title": "Information till anställda",
+      "text": ""
+    },
+    {
+      "id": "section-0057",
+      "title": "4 kap. 5 §",
+      "text": "Ett företag ska informera sina anställda om dels vilka kriterier som styr deras ersättning, dels om hur deras resultat bedöms. Bedömningsprocessen och ersättningspolicyn ska vara tillgänglig för alla anställda."
+    },
+    {
+      "id": "section-0058",
+      "title": "Uppskjutande",
+      "text": ""
+    },
+    {
+      "id": "section-0059",
+      "title": "4 kap. 6 §",
+      "text": "Ett företag ska se till att minst 40 procent av den rörliga ersättningen till en anställd vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil, skjuts upp minst fyra år innan den betalas ut eller äganderätten går över på den anställde. När företaget beslutar om hur stor del av den rörliga ersättningen som ska skjutas upp, och hur länge, ska det ta hänsyn till företagets konjunkturcykel, de risker affärsverksamheten medför, den anställdes ansvar och arbetsuppgifter samt storleken på den rörliga ersättningen.\n\nTidsperioden för uppskjutande ska inte vara kortare än fem år för en styrelseledamot och en anställd i den verkställande ledningen för ett institut som är betydande i fråga om storlek, intern organisation och verksamhetens art, omfattning och komplexitet.\n\nFöretaget ska skjuta upp minst 60 procent av den rörliga ersättningen för anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil och som har rörliga ersättningsdelar på ett särskilt högt belopp.\n\nEtt företag får betala ut uppskjuten ersättning en gång om året jämnt fördelad över den tid som ersättningen skjutits upp (pro rata). Den första utbetalningen får göras först ett år efter det att den rörliga ersättningen beslutades. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0060",
+      "title": "4 kap. 6 a §",
+      "text": "Kravet på uppskjutande enligt 6 § ska inte tillämpas på en anställd vars årliga rörliga ersättning uppgår till maximalt 50 000 euro och inte motsvarar mer än en tredjedel av den anställdes totala årliga ersättning. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0061",
+      "title": "Aktier och andra instrument",
+      "text": ""
+    },
+    {
+      "id": "section-0062",
+      "title": "4 kap. 7 §",
+      "text": "Ett företag ska se till att minst 50 procent av den rörliga ersättningen till en anställd vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil, består av\n\na) företagets aktier, andelar eller instrument som är kopplade till företagets aktier eller andelar, eller andra likvärdiga instrument, eller\n\nb) andra instrument enligt artiklarna 52 eller 63 i tillsynsförordningen eller andra instrument enligt kommissionens delegerade förordning (EU) nr 527/2014 av den 12 mars 2014 om komplettering av Europaparlamentets och rådets direktiv 2013/36/EU med avseende på tekniska tillsynsstandarder som specificerar de instrumentklasser som på ett tillbörligt sätt återspeglar institutens kreditkvalitet på löpande basis och är avsedda att användas till rörliga ersättningar.\n\nOm det är möjligt ska företaget låta den rörliga ersättningen enligt första stycket bestå av en avvägning av instrument enligt a och b.\n\nFörsta stycket ska tillämpas både på rörlig ersättning som skjuts upp och rörlig ersättning som inte skjuts upp. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0063",
+      "title": "4 kap. 7 a §",
+      "text": "Kravet på utbetalning i aktier, andelar eller andra instrument enligt 7 § ska inte tillämpas på en anställd vars årliga rörliga ersättning uppgår till maximalt 50 000 euro och inte motsvarar mer än en tredjedel av den anställdes totala årliga ersättning. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0064",
+      "title": "4 kap. 8 §",
+      "text": "Ett företag ska se till att sådana aktier, andelar och andra instrument som avses i 7 § omfattas av restriktioner som innebär att en anställd inte får förfoga över instrumenten under minst ett år, eller längre beroende på företagets långsiktiga intressen, efter att äganderätten till instrumenten har gått över till den anställde. Detta gäller oavsett om den rörliga ersättningen har skjutits upp eller inte.\n\nErsättningspolicyn ska innehålla regler om den kortaste tid som den anställde inte får förfoga över rörlig ersättning som lämnas i form av aktier, andelar och andra instrument. (FFFS 2020:30)"
+    },
+    {
+      "id": "section-0065",
+      "title": "Bortfall av ersättning",
+      "text": ""
+    },
+    {
+      "id": "section-0066",
+      "title": "Justering av rörlig ersättning",
+      "text": ""
+    },
+    {
+      "id": "section-0067",
+      "title": "4 kap. 9 §",
+      "text": "Ett företag ska säkerställa att rörlig ersättning till anställda vars arbetsuppgifter har en väsentlig inverkan på företagets riskprofil, inbegripet ersättning som skjutits upp, endast betalas ut eller övergår till den anställde till den del det är försvarbart med hänsyn till företagets finansiella situation och motiverat enligt företagets, den berörda affärsenhetens och den anställdes resultat. Den rörliga ersättningen ska även kunna falla bort helt av samma skäl. Företaget ska i sin ersättningspolicy fastställa kriterier för tillämpningen av denna paragraf. (FFFS 2014:22)\n\n---"
+    },
+    {
+      "id": "section-0068",
+      "title": "Ikraftträdande- och övergångsbestämmelser",
+      "text": "**FFFS 2011:1**\n\n1. Dessa föreskrifter träder i kraft den 1 mars 2011, då Finansinspektionens föreskrifter och allmänna råd (FFFS 2009:6) om ersättningspolicy i kreditinstitut, värdepappersbolag och fondbolag ska upphöra att gälla.\n\n2. Ett företag ska tillämpa dessa föreskrifter på ersättning som följer av avtal som ingåtts före den 1 mars 2011 och som beslutas eller betalas ut efter denna dag, och på ersättning som tjänats in under 2010 som beslutats men ännu inte betalats ut före den 1 mars 2011.\n\n3. Bestämmelserna i 4 kap. 7 § behöver inte tillämpas på rörlig ersättning som tjänats in före den 1 mars 2011 och som beslutas eller betalas ut före den 1 juli 2011.\n\n4. Ett företag ska senast den 31 augusti 2011 underrätta Finansinspektionen om företaget fortfarande har ersättningsförpliktelser som inte stämmer överens med dessa föreskrifter.\n\n**FFFS 2014:22**\n\nDessa föreskrifter träder i kraft den 2 augusti 2014.\n\n**FFFS 2016:25**\n\nDessa föreskrifter träder i kraft den 1 november 2016.\n\n**FFFS 2020:30**\n\nDessa föreskrifter träder i kraft den 29 december 2020.\n\n**FFFS 2021:17**\n\nDessa föreskrifter träder i kraft den 7 juli 2021.\n\n**FFFS 2026:14**\n\nDessa föreskrifter träder i kraft den 1 juli 2026."
+    }
+  ],
+  "metadata": {
+    "id": "2011-01",
+    "number": "FFFS 2011:1",
+    "title": "Föreskrifter om ersättningssystem i kreditinstitut, värdepappersbolag och fondbolag med tillstånd för diskretionär portföljförvaltning",
+    "year": 2011,
+    "status": "current",
+    "kind": "self_consolidated",
+    "effectiveFrom": "2011-03-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/3d48edfd38c242509562281a138f95e4/fs1101.pdf",
+    "pdfUrl": "pdf/2011-01.pdf",
+    "markdownUrl": "documents/2011-01.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2011-01/",
+    "amendments": [
+      {
+        "number": "FFFS 2014:22",
+        "effectiveFrom": "2014-08-02",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/201422/",
+        "pdfUrl": "https://www.fi.se/contentassets/f83dd9f9bdff462eacf1457ba29cae60/fs1422.pdf"
+      },
+      {
+        "number": "FFFS 2016:25",
+        "effectiveFrom": "2016-11-01",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/201625/",
+        "pdfUrl": "https://www.fi.se/contentassets/7f89b32ef6884536ac954871b9dbf491/fs1625.pdf"
+      },
+      {
+        "number": "FFFS 2020:30",
+        "effectiveFrom": "2020-12-29",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/202030/",
+        "pdfUrl": "https://www.fi.se/contentassets/c5dfde6adf344d92abfe244992c3ae4d/fs2030.pdf"
+      },
+      {
+        "number": "FFFS 2021:17",
+        "effectiveFrom": "2021-07-07",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/202117/",
+        "pdfUrl": "https://www.fi.se/contentassets/3069437deb454639be1a82282e63ddfb/fs2117.pdf"
+      },
+      {
+        "number": "FFFS 2026:14",
+        "effectiveFrom": "2026-07-01",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/202614/",
+        "pdfUrl": "https://www.fi.se/contentassets/0d73ff9ade66404cb60a137877ecf920/fs2614.pdf"
+      }
+    ],
+    "notes": [
+      "Registerstatus och identifierade statusavvikelser är granskade per 2026-10-09. Fullständig juridisk validering av samtliga övergångsregler återstår.",
+      "Egen konsolidering. Riktad granskning och rättning, inte fullständig juridisk verifiering. Originalakterna på fi.se är källorna."
+    ],
+    "textQuality": "reviewed_text",
+    "pageCount": 6,
+    "categories": [
+      "Bank och kredit",
+      "Fond",
+      "Värdepappersinstitut",
+      "Företagsstyrning"
+    ],
+    "institutions": [
+      "Bankaktiebolag",
+      "Sparbanker",
+      "Medlemsbanker",
+      "Kreditmarknadsbolag",
+      "Kreditmarknadsföreningar",
+      "Kreditinstitut"
+    ],
+    "applicability": {
+      "text": "1 kap. 1 §\nDessa föreskrifter innehåller bestämmelser om hur företag ska mäta, styra, rapportera och kontrollera de risker som ersättningssystem kan medföra.\n\n1 kap. 2 §\nFöreskrifterna gäller för\n\n1. bankaktiebolag,\n2. sparbanker,\n3. medlemsbanker,\n4. kreditmarknadsbolag, och\n5. kreditmarknadsföreningar. (FFFS 2021:17)\n\n1 kap. 2 a §\nBestämmelserna i 2 kap. 5 § samt 4 kap. 6 och 7 §§ gäller inte för ett företag\n\n1. som inte är ett stort institut enligt definitionen i artikel 4.1.146 i tillsynsförordningen, och\n2. vars tillgångar i genomsnitt och på enskild nivå är lika med eller mindre än fem miljarder euro för de fyra närmast föregående räkenskapsåren. (FFFS 2020:30)",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+      "note": "Utdrag, inte en uttömmande tillämplighetsbedömning. Läs hela tillämpningsområdet och dess undantag. Institutionstaggarna är sökhjälp för den berörda delen av en grupp, inte ett besked om att varje företag i gruppen omfattas. Läs verksamhetsvillkor, undantag och övergångsregler; en filtrerad lista är inte uttömmande.",
+      "sectionId": "section-0004"
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2011:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Fond",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Fond innehåller registerposten FFFS 2011:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=98",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2011:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Företagsstyrning",
+        "type": "category",
+        "evidence": "Redaktionellt ämnesord grundat på rubriken: Föreskrifter om ersättningssystem i kreditinstitut, värdepappersbolag och fondbolag med tillstånd för diskretionär portföljförvaltning",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "confidence": "editorial"
+      },
+      {
+        "tag": "Bankaktiebolag",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: bankaktiebolag,",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sectionId": "section-0005",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Sparbanker",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: sparbanker,",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sectionId": "section-0005",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Medlemsbanker",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: medlemsbanker,",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sectionId": "section-0005",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Kreditmarknadsbolag",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: kreditmarknadsbolag, och",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sectionId": "section-0005",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Kreditmarknadsföreningar",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: kreditmarknadsföreningar. (FFFS 2021:17)",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sectionId": "section-0005",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Kreditinstitut",
+        "type": "institution",
+        "evidence": "Överordnad sökgrupp för de uttryckligen omfattade typerna Bankaktiebolag, Kreditmarknadsbolag, Kreditmarknadsföreningar, Medlemsbanker, Sparbanker. Sambandet följer av definitionerna i 1 kap. 5 § lagen (2004:297). Taggen utvidgar inte föreskriftens personkrets.",
+        "sourceUrl": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2004297-om-bank-och-finansieringsrorelse_sfs-2004-297/",
+        "confidence": "editorial",
+        "sectionId": "section-0004"
+      }
+    ],
+    "euRelations": [
+      {
+        "id": "32013L0036",
+        "celex": "32013L0036",
+        "title": "Direktiv 2013/36",
+        "label": "CRD",
+        "relation": "implements",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013L0036",
+        "evidence": "Som en del i genomförandet av kapitaltäckningsdirektivet i svensk rätt ändras föreskrifterna på vissa punkter.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "evidenceType": "fi_summary",
+        "relationBasis": "FI anger uttryckligen att föreskrifterna eller deras ändringar bidrar till genomförandet.",
+        "sourceSectionTitle": "Sammanfattning / Ändringar i grundförfattningen",
+        "sourceTextPath": "_granskning_2026-10-09/eu-fi-summaries.json"
+      },
+      {
+        "id": "32012R0648",
+        "celex": "32012R0648",
+        "title": "Förordning nr 648/2012",
+        "label": "EMIR",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648",
+        "evidence": "… riskprofil. 4. Tillsynsförordningen: Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012. 5. Kontrollfunktion: Företagets funktion eller funktioner för riskkontroll, regelefterlevnad (compliance) och internrevision eller motsvarande. 6. Rörlig ersättning: Ersättning som inte på förhand är fastställd till belopp eller storlek. Som rörlig ersättning räknas inte provisionsbaserad lön som är utan koppling till sådana framtida riskåtaganden vilka kan komma att ändra företagets resultat- eller balansräkning. 7. Verkställande ledning: Verkställande direktör, vice verkställande direktör och andra personer i företagets ledningsgrupp eller  …",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2011-01.json",
+        "sourceSectionTitle": "1 kap. 4 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0009"
+      },
+      {
+        "id": "32013R0575",
+        "celex": "32013R0575",
+        "title": "Förordning nr 575/2013",
+        "label": "CRR",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0575",
+        "evidence": "… samt för hur företaget definierar anställda vars arbetsuppgifter har väsentlig inverkan på företagets riskprofil. 4. Tillsynsförordningen: Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012. 5. Kontrollfunktion: Företagets funktion eller funktioner för riskkontroll, regelefterlevnad (compliance) och internrevision eller motsvarande. 6. Rörlig ersättning: Ersättning som inte på förhand är fastställd till belopp eller storlek. Som rörlig ersättning räknas inte provisionsbaserad lön som är utan koppling till sådana framtida riskåtaganden vilka kan komma att ändra företagets resultat- eller balansräkning. 7. Verkställande ledning: Ver …",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2011-01.json",
+        "sourceSectionTitle": "1 kap. 4 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0009"
+      },
+      {
+        "id": "32002L0087",
+        "celex": "32002L0087",
+        "title": "Direktiv 2002/87",
+        "label": "Direktiv 2002/87",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32002L0087",
+        "evidence": "… och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG. (FFFS 2021:17)",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2011-01.json",
+        "sourceSectionTitle": "1 kap. 4 a §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0010"
+      },
+      {
+        "id": "32006L0048",
+        "celex": "32006L0048",
+        "title": "Direktiv 2006/48",
+        "label": "Direktiv 2006/48",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0048",
+        "evidence": "… av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG. (FFFS 2021:17)",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2011-01.json",
+        "sourceSectionTitle": "1 kap. 4 a §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0010"
+      },
+      {
+        "id": "32006L0049",
+        "celex": "32006L0049",
+        "title": "Direktiv 2006/49",
+        "label": "Direktiv 2006/49",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32006L0049",
+        "evidence": "… om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG. (FFFS 2021:17)",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2011-01.json",
+        "sourceSectionTitle": "1 kap. 4 a §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0010"
+      },
+      {
+        "id": "32014R0527",
+        "celex": "32014R0527",
+        "title": "Förordning nr 527/2014",
+        "label": "Förordning nr 527/2014",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0527",
+        "evidence": "… eller andra likvärdiga instrument, eller b) andra instrument enligt artiklarna 52 eller 63 i tillsynsförordningen eller andra instrument enligt kommissionens delegerade förordning (EU) nr 527/2014 av den 12 mars 2014 om komplettering av Europaparlamentets och rådets direktiv 2013/36/EU med avseende på tekniska tillsynsstandarder som specificerar de instrumentklasser som på ett tillbörligt sätt återspeglar institutens kreditkvalitet på löpande basis och är avsedda att användas till rörliga ersättningar. Om det är möjligt ska företaget låta den rörliga ersättningen enligt första stycket bestå av en avvägning av instrument enligt a och b. Första stycket ska tillämpas både på rörlig ersättning som skjuts upp och rörlig ersättning som inte s …",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/20111/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2011-01.json",
+        "sourceSectionTitle": "4 kap. 7 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0062"
+      }
+    ]
+  }
+}

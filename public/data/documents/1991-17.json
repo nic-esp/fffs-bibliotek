@@ -1,0 +1,68 @@
+{
+  "id": "1991-17",
+  "markdown": "# FFFS 1991:17 — Föreskrifter om upphävande av Bankinspektionens föreskrifter (BFFS 1989:3 och BFFS 1989:5) om bankernas och fondkommissionsbolagens redovisning av skatt på omsättning av vissa värdepapper\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1991-17.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/199117/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/59bc33b0d0ea44ac96ce14065aa2fe8e/fffs9117.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n<a id=\"section-0002\"></a>\n## FFFS 1991:17\n\nFinansinspektionen föreskriver med stöd av 4 kap. 1 § 3 stycket bankrörelselagen (1987:617) jämte 56 § 4. bankrörelseförordningen (1987:647) samt 34 § fondkommissionslagen (1979:748) att bankinspektionens föreskrifter (BFFS 1989:3 och BFFS 1989:5) om bankernas och fondkommissionsbolagens redovisning av skatt på omsättning av vissa värdepapper skall upphöra att gälla denna dag. Föreskrifterna i denna författning har beslutats den 17 december 1991.\n\nANDERS SAHLÉN\n\nBirger Persson (Kreditinstitutsavdelningen)\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0002",
+      "title": "FFFS 1991:17",
+      "page": 1,
+      "text": "Finansinspektionen föreskriver med stöd av 4 kap. 1 § 3 stycket bankrörelselagen (1987:617) jämte 56 § 4. bankrörelseförordningen (1987:647) samt 34 § fondkommissionslagen (1979:748) att bankinspektionens föreskrifter (BFFS 1989:3 och BFFS 1989:5) om bankernas och fondkommissionsbolagens redovisning av skatt på omsättning av vissa värdepapper skall upphöra att gälla denna dag. Föreskrifterna i denna författning har beslutats den 17 december 1991.\n\nANDERS SAHLÉN\n\nBirger Persson (Kreditinstitutsavdelningen)"
+    }
+  ],
+  "metadata": {
+    "id": "1991-17",
+    "number": "FFFS 1991:17",
+    "title": "Föreskrifter om upphävande av Bankinspektionens föreskrifter (BFFS 1989:3 och BFFS 1989:5) om bankernas och fondkommissionsbolagens redovisning av skatt på omsättning av vissa värdepapper",
+    "year": 1991,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1991-12-17",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/199117/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/59bc33b0d0ea44ac96ce14065aa2fe8e/fffs9117.pdf",
+    "pdfUrl": "pdf/1991-17.pdf",
+    "markdownUrl": "documents/1991-17.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1991-17/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/199117/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 1991:17.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 1991:17.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

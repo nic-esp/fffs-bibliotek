@@ -1,0 +1,68 @@
+{
+  "id": "2020-28",
+  "markdown": "# FFFS 2020:28 — Allmänna råd om upphävande av Finansinspektionens allmänna råd (FFFS 2000:10) om hantering av marknads- och likviditetsrisker i kreditinstitut och värdepappersbolag\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2020-28.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2020/202028/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/e33dd76e76c24b379a79e7609b4f365c/fs2028.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Chefsjurist Eric Leijonram, Finansinspektionen, www.fi.se ISSN 1102-7460\n\n<a id=\"section-0002\"></a>\n## Allmänna råd\n\n**om upphävande av Finansinspektionens allmänna råd (FFFS 2000:10) om hantering av marknads- och likviditetsrisker i kreditinstitut och värdepappersbolag;**\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2020-28/FFFS_2020-28.pdf-0001-04.png)\n\n**FFFS 2020:28** Utkom från trycket den 21 december 2020\n\nbeslutade den 15 december 2020.\n\nGenom dessa allmänna råd upphävs Finansinspektionens allmänna råd (FFFS 2000:10) om hantering av marknads- och likviditetsrisker i kreditinstitut och värdepappersbolag från och med den 1 januari 2021.\n\n_______________\n\nERIK THEDÉEN\n\nSara Ehnlund Martinussen\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Chefsjurist Eric Leijonram, Finansinspektionen, www.fi.se ISSN 1102-7460"
+    },
+    {
+      "id": "section-0002",
+      "title": "Allmänna råd",
+      "page": 1,
+      "text": "**om upphävande av Finansinspektionens allmänna råd (FFFS 2000:10) om hantering av marknads- och likviditetsrisker i kreditinstitut och värdepappersbolag;**\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2020-28/FFFS_2020-28.pdf-0001-04.png)\n\n**FFFS 2020:28** Utkom från trycket den 21 december 2020\n\nbeslutade den 15 december 2020.\n\nGenom dessa allmänna råd upphävs Finansinspektionens allmänna råd (FFFS 2000:10) om hantering av marknads- och likviditetsrisker i kreditinstitut och värdepappersbolag från och med den 1 januari 2021.\n\n_______________\n\nERIK THEDÉEN\n\nSara Ehnlund Martinussen"
+    }
+  ],
+  "metadata": {
+    "id": "2020-28",
+    "number": "FFFS 2020:28",
+    "title": "Allmänna råd om upphävande av Finansinspektionens allmänna råd (FFFS 2000:10) om hantering av marknads- och likviditetsrisker i kreditinstitut och värdepappersbolag",
+    "year": 2020,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2021-01-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2020/202028/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/e33dd76e76c24b379a79e7609b4f365c/fs2028.pdf",
+    "pdfUrl": "pdf/2020-28.pdf",
+    "markdownUrl": "documents/2020-28.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2020-28/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2020/202028/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2020:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2020:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

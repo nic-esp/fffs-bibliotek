@@ -1,0 +1,66 @@
+{
+  "id": "1995-68",
+  "markdown": "# FFFS 1995:68 — Föreskrifter om upphävande av vissa författningar rörande försäkringsmäklare\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1995-68.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1995/199568/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/d988006dc55449958afac0c8135b5bc3/fffs9568.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANS- INSPEKTIONEN\n\n<a id=\"section-0002\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n<a id=\"section-0003\"></a>\n### Finansinspektionens föreskrifter om upphävande av vissa författningar rörande försäkringsmäklare\n\n**FFFS 1995:68**\n\nbeslutade den 28 december 1995\n\nFinansinspektionen föreskriver att följande författningar skall upphöra att gälla den 31 december 1995.\n\n1. Försäkringsinspektionens föreskrifter (BFFS 1989:23) angående försäkringsmäklarregister och ansökan om registrering av försäkringsmäklare enligt lagen (1989:508) om försäkringsmäklare.\n\n2. Finansinspektionens föreskrifter (FFFS 1994:14) angående försäkringsmäklares skyldighet att lämna uppgifter till inspektionen.\n\n_______________________\n\nClaes Norgren\n\n(Försäkringsmarknadsavdelningen)\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANS- INSPEKTIONEN",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0002",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0003",
+      "title": "Finansinspektionens föreskrifter om upphävande av vissa författningar rörande försäkringsmäklare",
+      "page": 1,
+      "text": "**FFFS 1995:68**\n\nbeslutade den 28 december 1995\n\nFinansinspektionen föreskriver att följande författningar skall upphöra att gälla den 31 december 1995.\n\n1. Försäkringsinspektionens föreskrifter (BFFS 1989:23) angående försäkringsmäklarregister och ansökan om registrering av försäkringsmäklare enligt lagen (1989:508) om försäkringsmäklare.\n\n2. Finansinspektionens föreskrifter (FFFS 1994:14) angående försäkringsmäklares skyldighet att lämna uppgifter till inspektionen.\n\n_______________________\n\nClaes Norgren\n\n(Försäkringsmarknadsavdelningen)"
+    }
+  ],
+  "metadata": {
+    "id": "1995-68",
+    "number": "FFFS 1995:68",
+    "title": "Föreskrifter om upphävande av vissa författningar rörande försäkringsmäklare",
+    "year": 1995,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1995-12-31",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1995/199568/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/d988006dc55449958afac0c8135b5bc3/fffs9568.pdf",
+    "pdfUrl": "pdf/1995-68.pdf",
+    "markdownUrl": "documents/1995-68.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1995-68/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Försäkringsförmedlare"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1995/199568/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Försäkringsförmedlare",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsförmedlare innehåller registerposten FFFS 1995:68.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=102",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

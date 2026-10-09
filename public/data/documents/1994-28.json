@@ -1,0 +1,106 @@
+{
+  "id": "1994-28",
+  "markdown": "# FFFS 1994:28 — Föreskrifter om upphävande av dåvarande Bankinspektionens kungörelse (BFFS 1978:2) om tillstånd att förstöra räkenskapsmaterial respektive dåvarande Försäkringsinspektionens anvisningar om tillstånd att förstöra räkenskapsmaterial (cirkulär nr. 333)\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1994-28.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1994/199428/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/ef33346e213c4352849cb61bd44cbf64/fffs9428.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANS- INSPEKTIONEN\n\n<a id=\"section-0002\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n**Finansinspektionens föreskrifter om upphävande av dåvarande Bankinspektionens kungörelse (BFFS 1978:2) om tillstånd att förstöra räkenskapsmaterial respektive dåvarande Försäkringsinspektionens anvisningar om tillstånd att förstöra räkenskapsmaterial (cirkulär nr. 333);**\n\n<a id=\"section-0003\"></a>\n### FFFS 1994:28\n\nbeslutade den 20 april 1994.\n\nI anslutning till Finansinspektionens allmänna råd angående villkor för tillstånd att förstöra räkenskapsmaterial enligt 22 § tredje och fjärde styckena bokföringslagen (1976:125), FFFS 1994:29, beslutas att nedanstående kungörelse respektive cirkulär upphör att gälla vid utgången av maj 1994.\n\n1. Kungörelse (BFFS 1978:2, B:2) om tillstånd att förstöra räkenskapsmaterial.\n\n2. Cirkulär (1978-08-10 nr. 333) om tillstånd att förstöra räkenskapsmaterial.\n\nCLAES NORGREN\n\nMats Stenhammar (Redovisningsenheten)\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANS- INSPEKTIONEN",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0002",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": "**Finansinspektionens föreskrifter om upphävande av dåvarande Bankinspektionens kungörelse (BFFS 1978:2) om tillstånd att förstöra räkenskapsmaterial respektive dåvarande Försäkringsinspektionens anvisningar om tillstånd att förstöra räkenskapsmaterial (cirkulär nr. 333);**"
+    },
+    {
+      "id": "section-0003",
+      "title": "FFFS 1994:28",
+      "page": 1,
+      "text": "beslutade den 20 april 1994.\n\nI anslutning till Finansinspektionens allmänna råd angående villkor för tillstånd att förstöra räkenskapsmaterial enligt 22 § tredje och fjärde styckena bokföringslagen (1976:125), FFFS 1994:29, beslutas att nedanstående kungörelse respektive cirkulär upphör att gälla vid utgången av maj 1994.\n\n1. Kungörelse (BFFS 1978:2, B:2) om tillstånd att förstöra räkenskapsmaterial.\n\n2. Cirkulär (1978-08-10 nr. 333) om tillstånd att förstöra räkenskapsmaterial.\n\nCLAES NORGREN\n\nMats Stenhammar (Redovisningsenheten)"
+    }
+  ],
+  "metadata": {
+    "id": "1994-28",
+    "number": "FFFS 1994:28",
+    "title": "Föreskrifter om upphävande av dåvarande Bankinspektionens kungörelse (BFFS 1978:2) om tillstånd att förstöra räkenskapsmaterial respektive dåvarande Försäkringsinspektionens anvisningar om tillstånd att förstöra räkenskapsmaterial (cirkulär nr. 333)",
+    "year": 1994,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1994-05-31",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1994/199428/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/ef33346e213c4352849cb61bd44cbf64/fffs9428.pdf",
+    "pdfUrl": "pdf/1994-28.pdf",
+    "markdownUrl": "documents/1994-28.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1994-28/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Börs och clearing",
+      "Fond",
+      "Försäkringsföretag",
+      "Understödsföreningar",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1994/199428/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 1994:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 1994:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Fond",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Fond innehåller registerposten FFFS 1994:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=98",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Försäkringsföretag",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsföretag innehåller registerposten FFFS 1994:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=99",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Understödsföreningar",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Understödsföreningar innehåller registerposten FFFS 1994:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=100",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 1994:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "1999-23",
+  "markdown": "# FFFS 1999:23 — Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1998:1) om skyldighet att redogöra för beräkningarna av de försäkringstekniska avsättningarna\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1999-23.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1999/199923/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/c4b8c5c13fd14f66a119abd16683f623/fffs9923.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Hans Schedin, Finansinspektionen, Box 7831, 103 98 Stockholm. Beställningsadress: Fakta Info Direkt, Box 6430, 113 82 Stockholm. Tel. 08-587 671 00, Fax 08-587 671 71. ISSN 1102-7460\n\n**FFFS 1999:23**\n\n**Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1998:1) om skyldighet att redogöra för beräkningarna av de försäkringstekniska avsättningarna;**\n\nbeslutade den 29 december 1999.\n\nFinansinspektionen föreskriver<sup>1</sup> att Finansinspektionens föreskrifter (FFFS 1998:1) om skyldighet att redogöra för beräkningarna av de försäkringstekniska avsättningarna skall upphöra att gälla vid utgången av december 1999.\n\nCLAES NORGREN\n\nLeif Bjärlind (Försäkringsmarknadsavdelningen)\n\n> 1 Föreskrifterna meddelas med stöd av 49 § försäkringsrörelseförordningen (1982:790).\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Hans Schedin, Finansinspektionen, Box 7831, 103 98 Stockholm. Beställningsadress: Fakta Info Direkt, Box 6430, 113 82 Stockholm. Tel. 08-587 671 00, Fax 08-587 671 71. ISSN 1102-7460\n\n**FFFS 1999:23**\n\n**Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1998:1) om skyldighet att redogöra för beräkningarna av de försäkringstekniska avsättningarna;**\n\nbeslutade den 29 december 1999.\n\nFinansinspektionen föreskriver<sup>1</sup> att Finansinspektionens föreskrifter (FFFS 1998:1) om skyldighet att redogöra för beräkningarna av de försäkringstekniska avsättningarna skall upphöra att gälla vid utgången av december 1999.\n\nCLAES NORGREN\n\nLeif Bjärlind (Försäkringsmarknadsavdelningen)\n\n> 1 Föreskrifterna meddelas med stöd av 49 § försäkringsrörelseförordningen (1982:790)."
+    }
+  ],
+  "metadata": {
+    "id": "1999-23",
+    "number": "FFFS 1999:23",
+    "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1998:1) om skyldighet att redogöra för beräkningarna av de försäkringstekniska avsättningarna",
+    "year": 1999,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1999-12-31",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1999/199923/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/c4b8c5c13fd14f66a119abd16683f623/fffs9923.pdf",
+    "pdfUrl": "pdf/1999-23.pdf",
+    "markdownUrl": "documents/1999-23.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1999-23/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Försäkringsföretag"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1999/199923/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Försäkringsföretag",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsföretag innehåller registerposten FFFS 1999:23.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=99",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

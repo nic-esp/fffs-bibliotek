@@ -1,0 +1,60 @@
+{
+  "id": "2025-13",
+  "markdown": "# FFFS 2025:13 — Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2010:1) om kvartalsstatistik för vissa värdepappersbolag\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2025-13.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2025/202513/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/cd749024a57e441aa6d269a8254be6db/fs2513.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Chefsjurist Erik Blommé, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n<a id=\"section-0002\"></a>\n## Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2010:1) om kvartalsstatistik för vissa värdepappersbolag;\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2025-13/FFFS_2025-13.pdf-0001-03.png)\n\n**FFFS 2025:13** Utkom från trycket den 22 december 2025\n\nbeslutade den 16 december 2025.\n\nFinansinspektionen föreskriver med stöd av 15 § förordningen (2001:100) om den officiella statistiken och 6 kap. 1 § 52 och 53 förordningen (2007:572) om värdepappersmarknaden att Finansinspektionens föreskrifter (FFFS 2010:1) om kvartalsstatistik för vissa värdepappersbolag ska upphöra att gälla.\n\n_______________\n\nDessa föreskrifter träder i kraft den 1 januari 2026.\n\nJOHAN ALMENBERG\n\nHenrik Engvall\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Chefsjurist Erik Blommé, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460"
+    },
+    {
+      "id": "section-0002",
+      "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2010:1) om kvartalsstatistik för vissa värdepappersbolag;",
+      "page": 1,
+      "text": "![](https://nic-esp.github.io/fffs-bibliotek/images/2025-13/FFFS_2025-13.pdf-0001-03.png)\n\n**FFFS 2025:13** Utkom från trycket den 22 december 2025\n\nbeslutade den 16 december 2025.\n\nFinansinspektionen föreskriver med stöd av 15 § förordningen (2001:100) om den officiella statistiken och 6 kap. 1 § 52 och 53 förordningen (2007:572) om värdepappersmarknaden att Finansinspektionens föreskrifter (FFFS 2010:1) om kvartalsstatistik för vissa värdepappersbolag ska upphöra att gälla.\n\n_______________\n\nDessa föreskrifter träder i kraft den 1 januari 2026.\n\nJOHAN ALMENBERG\n\nHenrik Engvall"
+    }
+  ],
+  "metadata": {
+    "id": "2025-13",
+    "number": "FFFS 2025:13",
+    "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2010:1) om kvartalsstatistik för vissa värdepappersbolag",
+    "year": 2025,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2026-01-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2025/202513/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/cd749024a57e441aa6d269a8254be6db/fs2513.pdf",
+    "pdfUrl": "pdf/2025-13.pdf",
+    "markdownUrl": "documents/2025-13.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2025-13/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2025/202513/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2025:13.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2013-04",
+  "markdown": "# FFFS 2013:4 — Allmänna råd om upphävande av Finansinspektionens allmänna råd (FFFS 1996:16) om ansökan om att få auktorisation som börs eller marknadsplats eller tillstånd att bedriva clearingverksamhet enligt lagen (1992:543) om börs och clearingverksamhet\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2013-04.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2013/20134/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/eb367ad4915f45b2b3ff07af25da1b5f/fs1304.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n**Allmänna råd om upphävande av Finansinspektionens allmänna råd (FFFS 1996:16) om ansökan om att få auktorisation som börs eller marknadsplats eller tillstånd att bedriva clearingverksamhet enligt lagen (1992:543) om börs- och clearingverksamhet;**\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2013-04/FFFS_2013-04.pdf-0001-03.png)\n\n**FFFS 2013:4** Utkom från trycket den 19 april 2013\n\nbeslutade den 15 april 2013.\n\nGenom dessa råd upphävs Finansinspektionens allmänna råd (FFFS 1996:16) om ansökan om att få auktorisation som börs eller marknadsplats eller tillstånd att bedriva clearingverksamhet enligt lagen (1992:543) om börs- och clearingverksamhet från och med den 1 juni 2013.\n\nMARTIN ANDERSSON\n\n<a id=\"section-0002\"></a>\n## Elisabeth Helmenius\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n**Allmänna råd om upphävande av Finansinspektionens allmänna råd (FFFS 1996:16) om ansökan om att få auktorisation som börs eller marknadsplats eller tillstånd att bedriva clearingverksamhet enligt lagen (1992:543) om börs- och clearingverksamhet;**\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2013-04/FFFS_2013-04.pdf-0001-03.png)\n\n**FFFS 2013:4** Utkom från trycket den 19 april 2013\n\nbeslutade den 15 april 2013.\n\nGenom dessa råd upphävs Finansinspektionens allmänna råd (FFFS 1996:16) om ansökan om att få auktorisation som börs eller marknadsplats eller tillstånd att bedriva clearingverksamhet enligt lagen (1992:543) om börs- och clearingverksamhet från och med den 1 juni 2013.\n\nMARTIN ANDERSSON"
+    },
+    {
+      "id": "section-0002",
+      "title": "Elisabeth Helmenius",
+      "page": 1,
+      "text": ""
+    }
+  ],
+  "metadata": {
+    "id": "2013-04",
+    "number": "FFFS 2013:4",
+    "title": "Allmänna råd om upphävande av Finansinspektionens allmänna råd (FFFS 1996:16) om ansökan om att få auktorisation som börs eller marknadsplats eller tillstånd att bedriva clearingverksamhet enligt lagen (1992:543) om börs och clearingverksamhet",
+    "year": 2013,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2013-06-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2013/20134/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/eb367ad4915f45b2b3ff07af25da1b5f/fs1304.pdf",
+    "pdfUrl": "pdf/2013-04.pdf",
+    "markdownUrl": "documents/2013-04.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2013-04/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Börs och clearing"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2013/20134/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 2013:4.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

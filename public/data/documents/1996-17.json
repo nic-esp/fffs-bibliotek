@@ -1,0 +1,60 @@
+{
+  "id": "1996-17",
+  "markdown": "# FFFS 1996:17 — Upphävande av Bankinspektionens allmänna råd till fondkommissionärer m.fl. som avser att ansöka om tillstånd att vara kontoförande institut i det s.k. VP-systemet (BFFS 1989:15)\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1996-17.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1996/199617/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/73de02099ae24b4db098e050c9449ff1/fffs9617.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANS- INSPEKTIONEN\n\n<a id=\"section-0002\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n**Upphävande av bankinspektionens allmänna råd till fondkommissionärer m.fl. som avser att ansöka om tillstånd att vara kontoförande institut i det s.k. VPsystemet (BFFS 1989:15)**\n\n**FFFS 1996:17**\n\nbeslutade den 19 juni 1996\n\nFinansinspektionen beslutar att bankinspektionens allmänna råd till fondkommissionärer m.fl. som avser att ansöka om tillstånd att vara kontoförande institut i det s.k. VP-systemet (BFFS 1989:15) skall upphöra att gälla den 1 juli 1996.\n\nClaes Norgren\n\nInga-Lill Askersjö\n\n(Värdepappersmarknadsavdelningen)\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANS- INSPEKTIONEN",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0002",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": "**Upphävande av bankinspektionens allmänna råd till fondkommissionärer m.fl. som avser att ansöka om tillstånd att vara kontoförande institut i det s.k. VPsystemet (BFFS 1989:15)**\n\n**FFFS 1996:17**\n\nbeslutade den 19 juni 1996\n\nFinansinspektionen beslutar att bankinspektionens allmänna råd till fondkommissionärer m.fl. som avser att ansöka om tillstånd att vara kontoförande institut i det s.k. VP-systemet (BFFS 1989:15) skall upphöra att gälla den 1 juli 1996.\n\nClaes Norgren\n\nInga-Lill Askersjö\n\n(Värdepappersmarknadsavdelningen)"
+    }
+  ],
+  "metadata": {
+    "id": "1996-17",
+    "number": "FFFS 1996:17",
+    "title": "Upphävande av Bankinspektionens allmänna råd till fondkommissionärer m.fl. som avser att ansöka om tillstånd att vara kontoförande institut i det s.k. VP-systemet (BFFS 1989:15)",
+    "year": 1996,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1996-07-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1996/199617/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/73de02099ae24b4db098e050c9449ff1/fffs9617.pdf",
+    "pdfUrl": "pdf/1996-17.pdf",
+    "markdownUrl": "documents/1996-17.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1996-17/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1996/199617/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 1996:17.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "1992-34",
+  "markdown": "# FFFS 1992:34 — Föreskrifter om upphävande av föreskrifter som utfärdats av f.d. Bankinspektionen i BFFS-serien\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1992-34.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1992/199234/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/e408052ee63649e48f9362477008f39b/fffs9234.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANS- INSPEKTIONEN\n\n<a id=\"section-0002\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n**Finansinspektionens föreskrift om upphävande av föreskrifter som utfär dats av f.d. Bankinspektionen i BFFS-serien;**\n\n**FFFS 1992:34**\n\nbeslutad den 22 december 1992.\n\nFinansinspektionen  föreskriver med stöd av 56 § bankrörelseförordningen (1987:647) att följande föreskrifter skall upphöra att gälla vid utgången av år 1992.\n\n<a id=\"section-0003\"></a>\n### om krediter\n\n1.  Föreskrifter (1987:12) ang. jävs- och personalkrediter\n\n2.  Föreskrifter (1988:16, B 14) ang. belåning av egna aktier\n\n____________________________\n\nANDERS SAHLÉN\n\nTore Arvidsson\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANS- INSPEKTIONEN",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0002",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": "**Finansinspektionens föreskrift om upphävande av föreskrifter som utfär dats av f.d. Bankinspektionen i BFFS-serien;**\n\n**FFFS 1992:34**\n\nbeslutad den 22 december 1992.\n\nFinansinspektionen  föreskriver med stöd av 56 § bankrörelseförordningen (1987:647) att följande föreskrifter skall upphöra att gälla vid utgången av år 1992."
+    },
+    {
+      "id": "section-0003",
+      "title": "om krediter",
+      "page": 1,
+      "text": "1.  Föreskrifter (1987:12) ang. jävs- och personalkrediter\n\n2.  Föreskrifter (1988:16, B 14) ang. belåning av egna aktier\n\n____________________________\n\nANDERS SAHLÉN\n\nTore Arvidsson"
+    }
+  ],
+  "metadata": {
+    "id": "1992-34",
+    "number": "FFFS 1992:34",
+    "title": "Föreskrifter om upphävande av föreskrifter som utfärdats av f.d. Bankinspektionen i BFFS-serien",
+    "year": 1992,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1992-12-31",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1992/199234/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/e408052ee63649e48f9362477008f39b/fffs9234.pdf",
+    "pdfUrl": "pdf/1992-34.pdf",
+    "markdownUrl": "documents/1992-34.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1992-34/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Börs och clearing",
+      "Fond",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1992/199234/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 1992:34.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 1992:34.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Fond",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Fond innehåller registerposten FFFS 1992:34.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=98",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 1992:34.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

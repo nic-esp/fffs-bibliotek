@@ -1,0 +1,388 @@
+{
+  "id": "2024-20",
+  "markdown": "# FFFS 2024:20 — Föreskrifter om rapportering av incidenter och informationsregister enligt EU:s förordning om digital operativ motståndskraft för finanssektorn\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2024-20.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/a9b636f77a0b40dab90b33d9071df0ee/fs2420.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Tillförordnad chefsjurist Sophie Degenne, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2024-20/FFFS_2024-20.pdf-0001-02.png)\n\n<a id=\"section-0002\"></a>\n## FFFS 2024:20\n\n<a id=\"section-0003\"></a>\n## Finansinspektionens föreskrifter om rapportering av incidenter och informationsregister enligt EU:s förordning om digital operativ motståndskraft för finanssektorn;\n\nUtkom från trycket den 27 december 2024\n\nbeslutade den 18 december 2024.\n\nFinansinspektionen föreskriver följande med stöd av 2 § förordningen (2024:1292) med kompletterande bestämmelser till EU:s förordning om digital operativ motståndskraft för finanssektorn.\n\n<a id=\"section-0004\"></a>\n### Tillämpningsområde\n\n<a id=\"section-0005\"></a>\n### 1 §\n\nDessa föreskrifter innehåller bestämmelser om finansiella entiteters rapportering enligt Europaparlamentets och rådets förordning (EU) 2022/2554 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen.\n\nFöreskrifterna gäller för rapportering av\n\n1. allvarliga IKT-relaterade incidenter, och\n\n2. register med information om kontraktsmässiga arrangemang.\n\nTermer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen.\n\n<a id=\"section-0006\"></a>\n### 2 §\n\nDessa föreskrifter gäller för sådana finansiella entiteter som omfattas av tillämpningsområdet för artikel 2 i Dora-förordningen och som står under tillsyn av Finansinspektionen.\n\n<a id=\"section-0007\"></a>\n### Rapportering av allvarliga IKT-relaterade incidenter och frivillig anmälan av betydande cyberhot\n\n<a id=\"section-0008\"></a>\n### 3 §\n\nEn finansiell entitet ska till Finansinspektionen rapportera allvarliga IKTrelaterade incidenter enligt artikel 19.1 i Dora-förordningen på det sätt som anges på Finansinspektionens webbplats. Detsamma gäller för sådan frivillig rapportering av betydande cyberhot som avses i artikel 19.2 Dora-förordningen.\n\n<a id=\"section-0009\"></a>\n### Rapportering av register med information om kontraktsmässiga arrangemang\n\n<a id=\"section-0010\"></a>\n### 4 §\n\nEn finansiell entitet ska ge Finansinspektionen tillgång till sitt fullständiga register med information om kontraktsmässiga arrangemang enligt artikel 28.3 fjärde stycket i Dora-förordningen genom att årligen senast den 28 februari lämna in registret till Finansinspektionen. Registret ska lämnas in på det sätt som anges på\n\n<!-- PDF page 2 -->\n\nFinansinspektionens webbplats. Den version av registret som lämnas in ska avse förhållandena vid utgången av föregående kalenderår.\n\n_______________\n\n1. Dessa föreskrifter träder i kraft den 17 januari 2025.\n\n2. Rapporteringen enligt 4 § ska lämnas första gången senast den 15 april 2025. Den version av registret som då lämnas in ska, med avvikelse för vad som sägs i 4 §, avse förhållandena vid utgången av mars 2025.\n\nDANIEL BARR\n\nAgneta Blomquist\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Tillförordnad chefsjurist Sophie Degenne, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2024-20/FFFS_2024-20.pdf-0001-02.png)"
+    },
+    {
+      "id": "section-0002",
+      "title": "FFFS 2024:20",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0003",
+      "title": "Finansinspektionens föreskrifter om rapportering av incidenter och informationsregister enligt EU:s förordning om digital operativ motståndskraft för finanssektorn;",
+      "page": 1,
+      "text": "Utkom från trycket den 27 december 2024\n\nbeslutade den 18 december 2024.\n\nFinansinspektionen föreskriver följande med stöd av 2 § förordningen (2024:1292) med kompletterande bestämmelser till EU:s förordning om digital operativ motståndskraft för finanssektorn."
+    },
+    {
+      "id": "section-0004",
+      "title": "Tillämpningsområde",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0005",
+      "title": "1 §",
+      "page": 1,
+      "text": "Dessa föreskrifter innehåller bestämmelser om finansiella entiteters rapportering enligt Europaparlamentets och rådets förordning (EU) 2022/2554 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen.\n\nFöreskrifterna gäller för rapportering av\n\n1. allvarliga IKT-relaterade incidenter, och\n\n2. register med information om kontraktsmässiga arrangemang.\n\nTermer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen."
+    },
+    {
+      "id": "section-0006",
+      "title": "2 §",
+      "page": 1,
+      "text": "Dessa föreskrifter gäller för sådana finansiella entiteter som omfattas av tillämpningsområdet för artikel 2 i Dora-förordningen och som står under tillsyn av Finansinspektionen."
+    },
+    {
+      "id": "section-0007",
+      "title": "Rapportering av allvarliga IKT-relaterade incidenter och frivillig anmälan av betydande cyberhot",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0008",
+      "title": "3 §",
+      "page": 1,
+      "text": "En finansiell entitet ska till Finansinspektionen rapportera allvarliga IKTrelaterade incidenter enligt artikel 19.1 i Dora-förordningen på det sätt som anges på Finansinspektionens webbplats. Detsamma gäller för sådan frivillig rapportering av betydande cyberhot som avses i artikel 19.2 Dora-förordningen."
+    },
+    {
+      "id": "section-0009",
+      "title": "Rapportering av register med information om kontraktsmässiga arrangemang",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0010",
+      "title": "4 §",
+      "page": 1,
+      "text": "En finansiell entitet ska ge Finansinspektionen tillgång till sitt fullständiga register med information om kontraktsmässiga arrangemang enligt artikel 28.3 fjärde stycket i Dora-förordningen genom att årligen senast den 28 februari lämna in registret till Finansinspektionen. Registret ska lämnas in på det sätt som anges på\nFinansinspektionens webbplats. Den version av registret som lämnas in ska avse förhållandena vid utgången av föregående kalenderår.\n\n_______________\n\n1. Dessa föreskrifter träder i kraft den 17 januari 2025.\n\n2. Rapporteringen enligt 4 § ska lämnas första gången senast den 15 april 2025. Den version av registret som då lämnas in ska, med avvikelse för vad som sägs i 4 §, avse förhållandena vid utgången av mars 2025.\n\nDANIEL BARR\n\nAgneta Blomquist"
+    }
+  ],
+  "metadata": {
+    "id": "2024-20",
+    "number": "FFFS 2024:20",
+    "title": "Föreskrifter om rapportering av incidenter och informationsregister enligt EU:s förordning om digital operativ motståndskraft för finanssektorn",
+    "year": 2024,
+    "status": "current",
+    "kind": "original",
+    "effectiveFrom": "2025-01-17",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/a9b636f77a0b40dab90b33d9071df0ee/fs2420.pdf",
+    "pdfUrl": "pdf/2024-20.pdf",
+    "markdownUrl": "documents/2024-20.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2024-20/",
+    "amendments": [],
+    "notes": [
+      "Registerstatus och identifierade statusavvikelser är granskade per 2026-10-09. Fullständig juridisk validering av samtliga övergångsregler återstår.",
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 2,
+    "categories": [
+      "Bank och kredit",
+      "Betaltjänster",
+      "Börs och clearing",
+      "Elektroniska pengar",
+      "Fond",
+      "Försäkringsföretag",
+      "Försäkringsförmedlare",
+      "Pensionsstiftelser",
+      "Tjänstepensionsföretag",
+      "Understödsföreningar",
+      "Värdepappersinstitut",
+      "Övriga verksamheter",
+      "Rapportering"
+    ],
+    "institutions": [
+      "Finansiella entiteter enligt DORA",
+      "Kreditinstitut",
+      "Betalningsinstitut",
+      "Institut för elektroniska pengar",
+      "Värdepappersföretag",
+      "AIF-förvaltare",
+      "Förvaltningsbolag",
+      "Försäkringsföretag",
+      "Tjänstepensionsinstitut",
+      "Fondförvaltare"
+    ],
+    "applicability": {
+      "text": "2 §\nDessa föreskrifter gäller för sådana finansiella entiteter som omfattas av tillämpningsområdet för artikel 2 i Dora-förordningen och som står under tillsyn av Finansinspektionen.",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+      "note": "Endast entiteter inom artikel 2 i DORA som står under FI:s tillsyn. Undantagen i artikel 2.3–2.4 gäller även de expanderade sökgrupperna. Institutionstaggarna är sökhjälp för den berörda delen av en grupp, inte ett besked om att varje företag i gruppen omfattas. Läs verksamhetsvillkor, undantag och övergångsregler; en filtrerad lista är inte uttömmande.",
+      "sectionId": "section-0006"
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Betaltjänster",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Betaltjänster innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=95",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Elektroniska pengar",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Elektroniska pengar innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=97",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Fond",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Fond innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=98",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Försäkringsföretag",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsföretag innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=99",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Försäkringsförmedlare",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsförmedlare innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=102",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Pensionsstiftelser",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Pensionsstiftelser innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=101",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Tjänstepensionsföretag",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Tjänstepensionsföretag innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=129",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Understödsföreningar",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Understödsföreningar innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=100",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Övriga verksamheter",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Övriga verksamheter innehåller registerposten FFFS 2024:20.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=105",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Rapportering",
+        "type": "category",
+        "evidence": "Redaktionellt ämnesord grundat på rubriken: Föreskrifter om rapportering av incidenter och informationsregister enligt EU:s förordning om digital operativ motståndskraft för finanssektorn",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "confidence": "editorial"
+      },
+      {
+        "tag": "Finansiella entiteter enligt DORA",
+        "type": "institution",
+        "evidence": "Endast entiteter inom artikel 2 i DORA som står under FI:s tillsyn. Undantagen i artikel 2.3–2.4 gäller även de expanderade sökgrupperna. Underlag: 2 §\nDessa föreskrifter gäller för sådana finansiella entiteter som omfattas av tillämpningsområdet för artikel 2 i Dora-förordningen och som står under tillsyn av Finansinspektionen.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "confidence": "explicit",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Kreditinstitut",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 a. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Betalningsinstitut",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 b. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Institut för elektroniska pengar",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 d. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Värdepappersföretag",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 e. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "AIF-förvaltare",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 k. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Förvaltningsbolag",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 l. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Försäkringsföretag",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 n. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Tjänstepensionsinstitut",
+        "type": "institution",
+        "evidence": "Sökhjälp genom hänvisningen i 2 § till DORA artikel 2.1 p. Endast den del av gruppen som omfattas av DORA och står under FI:s tillsyn; undantagen i artikel 2.3–2.4 kvarstår.",
+        "sourceUrl": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Fondförvaltare",
+        "type": "institution",
+        "evidence": "Redaktionell sökgrupp som samlar de uttryckligt eller genom dokumenterad laghänvisning omfattade typerna AIF-förvaltare, Förvaltningsbolag. Ingen fristående legal definition eller utvidgning av tillämpningsområdet.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      }
+    ],
+    "euRelations": [
+      {
+        "id": "32022R2554",
+        "celex": "32022R2554",
+        "title": "Förordning 2022/2554",
+        "label": "DORA",
+        "relation": "supplements",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32022R2554",
+        "evidence": "Dessa föreskrifter innehåller bestämmelser om finansiella entiteters rapportering enligt Europaparlamentets och rådets förordning (EU) 2022/2554 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen. Föreskrifterna gäller för rapportering av 1. allvarliga IKT-relaterade incidenter, och 2. register med information om kontraktsmässiga arrangemang. Termer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "evidenceType": "explicit_application_clause",
+        "relationBasis": "1–4 §§ reglerar svensk rapportering enligt DORA. Ingressen anger stöd i 2 § förordningen (2024:1292) med kompletterande bestämmelser till DORA. Klassningen bygger på dessa bestämmelser; DORA är direkt tillämplig EU-förordning.",
+        "sectionId": "section-0005",
+        "sourceSectionTitle": "1 §",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2024-20.json",
+        "page": 1
+      },
+      {
+        "id": "32012R0648",
+        "celex": "32012R0648",
+        "title": "Förordning nr 648/2012",
+        "label": "EMIR",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648",
+        "evidence": "… enligt Europaparlamentets och rådets förordning (EU) 2022/2554 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen. Föreskrifterna gäller för rapportering av 1. allvarliga IKT-relaterade incidenter, och 2. register med information om kontraktsmässiga arrangemang. Termer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2024-20.json",
+        "sourceSectionTitle": "1 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0005",
+        "page": 1
+      },
+      {
+        "id": "32014R0600",
+        "celex": "32014R0600",
+        "title": "Förordning nr 600/2014",
+        "label": "MiFIR",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0600",
+        "evidence": "… och rådets förordning (EU) 2022/2554 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen. Föreskrifterna gäller för rapportering av 1. allvarliga IKT-relaterade incidenter, och 2. register med information om kontraktsmässiga arrangemang. Termer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2024-20.json",
+        "sourceSectionTitle": "1 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0005",
+        "page": 1
+      },
+      {
+        "id": "32016R1011",
+        "celex": "32016R1011",
+        "title": "Förordning 2016/1011",
+        "label": "Referensvärdesförordningen",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32016R1011",
+        "evidence": "… om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen. Föreskrifterna gäller för rapportering av 1. allvarliga IKT-relaterade incidenter, och 2. register med information om kontraktsmässiga arrangemang. Termer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2024-20.json",
+        "sourceSectionTitle": "1 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0005",
+        "page": 1
+      },
+      {
+        "id": "32009R1060",
+        "celex": "32009R1060",
+        "title": "Förordning nr 1060/2009",
+        "label": "Förordning nr 1060/2009",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32009R1060",
+        "evidence": "… entiteters rapportering enligt Europaparlamentets och rådets förordning (EU) 2022/2554 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen. Föreskrifterna gäller för rapportering av 1. allvarliga IKT-relaterade incidenter, och 2. register med information om kontraktsmässiga arrangemang. Termer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2024-20.json",
+        "sourceSectionTitle": "1 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0005",
+        "page": 1
+      },
+      {
+        "id": "32014R0909",
+        "celex": "32014R0909",
+        "title": "Förordning nr 909/2014",
+        "label": "Förordning nr 909/2014",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32014R0909",
+        "evidence": "… förordning (EU) 2022/2554 om digital operativ motståndskraft för finanssektorn och om ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011, i dessa föreskrifter kallad Dora-förordningen. Föreskrifterna gäller för rapportering av 1. allvarliga IKT-relaterade incidenter, och 2. register med information om kontraktsmässiga arrangemang. Termer och uttryck i dessa föreskrifter har samma betydelse som i Dora-förordningen.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2024/fffs-202420/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2024-20.json",
+        "sourceSectionTitle": "1 §",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0005",
+        "page": 1
+      }
+    ]
+  }
+}

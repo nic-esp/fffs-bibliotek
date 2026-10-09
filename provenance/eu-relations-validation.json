@@ -1,0 +1,28 @@
+{
+  "checkedOn": "2026-10-09",
+  "valid": true,
+  "documents": 130,
+  "documentsWithMappedRelation": 46,
+  "relations": 326,
+  "relationTypes": {
+    "references": 292,
+    "supplements": 11,
+    "implements": 23
+  },
+  "uniqueEuActs": 93,
+  "sha256": "5c43f9091eb7993fb21e528770bb0ae1c4d36659b8a4b646a99ca060b137ad7c",
+  "checks": [
+    "Alla 130 katalognycklar, inga extra",
+    "Inga dubbla EU-rättsakter per FFFS",
+    "CELEX-format och kanoniska länkar",
+    "FI-källlänk och belägg i varje post",
+    "Alla sectionId finns och både rubrik och belägg matchar slutlig text",
+    "Genomförande/komplettering har separat granskat belägg",
+    "Kända feltrycket 2016/101 länkas inte",
+    "CRD/CRR/DORA-klassning kontrollerad"
+  ],
+  "limits": [
+    "Teknisk validering är inte fullständig juridisk granskning.",
+    "Alla 93 unika EU-rättsakters webbsidor har inte hämtats individuellt."
+  ]
+}

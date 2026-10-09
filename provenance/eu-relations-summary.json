@@ -1,0 +1,759 @@
+{
+  "documents": 130,
+  "documentsWithMappedRelation": 46,
+  "relations": 326,
+  "relationTypes": {
+    "references": 292,
+    "supplements": 11,
+    "implements": 23
+  },
+  "uniqueEuActs": 93,
+  "noMappedRelationIds": [
+    "2026-11",
+    "2026-03",
+    "2026-02",
+    "2026-01",
+    "2025-13",
+    "2025-10",
+    "2025-08",
+    "2025-02",
+    "2024-21",
+    "2024-17",
+    "2024-14",
+    "2024-06",
+    "2024-05",
+    "2024-03",
+    "2024-02",
+    "2023-20",
+    "2023-18",
+    "2022-17",
+    "2022-01",
+    "2021-35",
+    "2021-32",
+    "2021-28",
+    "2021-04",
+    "2020-28",
+    "2020-14",
+    "2020-13",
+    "2018-21",
+    "2018-16",
+    "2017-20",
+    "2017-19",
+    "2016-34",
+    "2016-01",
+    "2015-01",
+    "2013-08",
+    "2013-04",
+    "2013-01",
+    "2012-04",
+    "2011-55",
+    "2011-48",
+    "2011-43",
+    "2011-39",
+    "2011-25",
+    "2011-24",
+    "2011-18",
+    "2008-28",
+    "2007-26",
+    "2007-24",
+    "2007-15",
+    "2005-30",
+    "2005-01",
+    "2004-15",
+    "2004-10",
+    "2004-07",
+    "2004-04",
+    "2002-23",
+    "2002-08",
+    "2002-01",
+    "2001-08",
+    "2000-17",
+    "2000-09",
+    "2000-08",
+    "1999-23",
+    "1999-02",
+    "1998-22",
+    "1998-12",
+    "1998-06",
+    "1997-20",
+    "1996-27",
+    "1996-17",
+    "1995-68",
+    "1995-62",
+    "1995-39",
+    "1995-20",
+    "1994-28",
+    "1993-17",
+    "1992-34",
+    "1992-33",
+    "1992-12",
+    "1992-03",
+    "1991-17",
+    "1991-16",
+    "1991-15",
+    "1991-12",
+    "1991-01"
+  ],
+  "sources": [
+    {
+      "id": "2026-11",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2026-11.json",
+      "count": 0
+    },
+    {
+      "id": "2026-10",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2026-10.json",
+      "count": 7
+    },
+    {
+      "id": "2026-09",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2026-09.json",
+      "count": 7
+    },
+    {
+      "id": "2026-03",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2026-03.json",
+      "count": 0
+    },
+    {
+      "id": "2026-02",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2026-02.json",
+      "count": 0
+    },
+    {
+      "id": "2026-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2026-01.json",
+      "count": 0
+    },
+    {
+      "id": "2025-13",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2025-13.json",
+      "count": 0
+    },
+    {
+      "id": "2025-10",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2025-10.json",
+      "count": 0
+    },
+    {
+      "id": "2025-08",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2025-08.json",
+      "count": 0
+    },
+    {
+      "id": "2025-02",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2025-02.json",
+      "count": 0
+    },
+    {
+      "id": "2024-22",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-22.json",
+      "count": 6
+    },
+    {
+      "id": "2024-21",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-21.json",
+      "count": 0
+    },
+    {
+      "id": "2024-20",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-20.json",
+      "count": 6
+    },
+    {
+      "id": "2024-17",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-17.json",
+      "count": 0
+    },
+    {
+      "id": "2024-14",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-14.json",
+      "count": 0
+    },
+    {
+      "id": "2024-06",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-06.json",
+      "count": 0
+    },
+    {
+      "id": "2024-05",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-05.json",
+      "count": 0
+    },
+    {
+      "id": "2024-03",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-03.json",
+      "count": 0
+    },
+    {
+      "id": "2024-02",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2024-02.json",
+      "count": 0
+    },
+    {
+      "id": "2023-22",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2023-22.json",
+      "count": 6
+    },
+    {
+      "id": "2023-20",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2023-20.json",
+      "count": 0
+    },
+    {
+      "id": "2023-18",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2023-18.json",
+      "count": 0
+    },
+    {
+      "id": "2023-13",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2023-13.json",
+      "count": 9
+    },
+    {
+      "id": "2023-12",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2023-12.json",
+      "count": 6
+    },
+    {
+      "id": "2022-20",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2022-20.json",
+      "count": 3
+    },
+    {
+      "id": "2022-17",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2022-17.json",
+      "count": 0
+    },
+    {
+      "id": "2022-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2022-01.json",
+      "count": 0
+    },
+    {
+      "id": "2021-35",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2021-35.json",
+      "count": 0
+    },
+    {
+      "id": "2021-32",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2021-32.json",
+      "count": 0
+    },
+    {
+      "id": "2021-28",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2021-28.json",
+      "count": 0
+    },
+    {
+      "id": "2021-11",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2021-11.json",
+      "count": 4
+    },
+    {
+      "id": "2021-04",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2021-04.json",
+      "count": 0
+    },
+    {
+      "id": "2020-28",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2020-28.json",
+      "count": 0
+    },
+    {
+      "id": "2020-27",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2020-27.json",
+      "count": 8
+    },
+    {
+      "id": "2020-14",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2020-14.json",
+      "count": 0
+    },
+    {
+      "id": "2020-13",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2020-13.json",
+      "count": 0
+    },
+    {
+      "id": "2020-09",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2020-09.json",
+      "count": 7
+    },
+    {
+      "id": "2019-23",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2019-23.json",
+      "count": 2
+    },
+    {
+      "id": "2019-22",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2019-22.json",
+      "count": 22
+    },
+    {
+      "id": "2019-21",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2019-21.json",
+      "count": 14
+    },
+    {
+      "id": "2019-19",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2019-19.json",
+      "count": 0
+    },
+    {
+      "id": "2019-08",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2019-08.json",
+      "count": 4
+    },
+    {
+      "id": "2019-07",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2019-07.json",
+      "count": 2
+    },
+    {
+      "id": "2018-21",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2018-21.json",
+      "count": 0
+    },
+    {
+      "id": "2018-18",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2018-18.json",
+      "count": 3
+    },
+    {
+      "id": "2018-16",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2018-16.json",
+      "count": 0
+    },
+    {
+      "id": "2018-10",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2018-10.json",
+      "count": 3
+    },
+    {
+      "id": "2018-04",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2018-04.json",
+      "count": 6
+    },
+    {
+      "id": "2017-22",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2017-22.json",
+      "count": 2
+    },
+    {
+      "id": "2017-20",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2017-20.json",
+      "count": 0
+    },
+    {
+      "id": "2017-19",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2017-19.json",
+      "count": 0
+    },
+    {
+      "id": "2017-11",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2017-11.json",
+      "count": 0
+    },
+    {
+      "id": "2017-02",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2017-02.json",
+      "count": 7
+    },
+    {
+      "id": "2016-34",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2016-34.json",
+      "count": 0
+    },
+    {
+      "id": "2016-29",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2016-29.json",
+      "count": 2
+    },
+    {
+      "id": "2016-06",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2016-06.json",
+      "count": 3
+    },
+    {
+      "id": "2016-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2016-01.json",
+      "count": 0
+    },
+    {
+      "id": "2015-21",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2015-21.json",
+      "count": 4
+    },
+    {
+      "id": "2015-13",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2015-13.json",
+      "count": 17
+    },
+    {
+      "id": "2015-10",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2015-10.json",
+      "count": 6
+    },
+    {
+      "id": "2015-09",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2015-09.json",
+      "count": 2
+    },
+    {
+      "id": "2015-08",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2015-08.json",
+      "count": 6
+    },
+    {
+      "id": "2015-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2015-01.json",
+      "count": 0
+    },
+    {
+      "id": "2014-14",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2014-14.json",
+      "count": 1
+    },
+    {
+      "id": "2014-12",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2014-12.json",
+      "count": 3
+    },
+    {
+      "id": "2014-04",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2014-04.json",
+      "count": 2
+    },
+    {
+      "id": "2014-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2014-01.json",
+      "count": 9
+    },
+    {
+      "id": "2013-10",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2013-10.json",
+      "count": 22
+    },
+    {
+      "id": "2013-09",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2013-09.json",
+      "count": 25
+    },
+    {
+      "id": "2013-08",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2013-08.json",
+      "count": 0
+    },
+    {
+      "id": "2013-04",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2013-04.json",
+      "count": 0
+    },
+    {
+      "id": "2013-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2013-01.json",
+      "count": 0
+    },
+    {
+      "id": "2012-04",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2012-04.json",
+      "count": 0
+    },
+    {
+      "id": "2011-55",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-55.json",
+      "count": 0
+    },
+    {
+      "id": "2011-49",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-49.json",
+      "count": 11
+    },
+    {
+      "id": "2011-48",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-48.json",
+      "count": 0
+    },
+    {
+      "id": "2011-43",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-43.json",
+      "count": 0
+    },
+    {
+      "id": "2011-39",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-39.json",
+      "count": 0
+    },
+    {
+      "id": "2011-27",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-27.json",
+      "count": 3
+    },
+    {
+      "id": "2011-26",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-26.json",
+      "count": 2
+    },
+    {
+      "id": "2011-25",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-25.json",
+      "count": 0
+    },
+    {
+      "id": "2011-24",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-24.json",
+      "count": 0
+    },
+    {
+      "id": "2011-18",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-18.json",
+      "count": 0
+    },
+    {
+      "id": "2011-14",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-14.json",
+      "count": 6
+    },
+    {
+      "id": "2011-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2011-01.json",
+      "count": 7
+    },
+    {
+      "id": "2010-07",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2010-07.json",
+      "count": 1
+    },
+    {
+      "id": "2010-03",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2010-03.json",
+      "count": 11
+    },
+    {
+      "id": "2008-28",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2008-28.json",
+      "count": 0
+    },
+    {
+      "id": "2008-25",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2008-25.json",
+      "count": 9
+    },
+    {
+      "id": "2007-26",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2007-26.json",
+      "count": 0
+    },
+    {
+      "id": "2007-24",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2007-24.json",
+      "count": 0
+    },
+    {
+      "id": "2007-17",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2007-17.json",
+      "count": 23
+    },
+    {
+      "id": "2007-15",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2007-15.json",
+      "count": 0
+    },
+    {
+      "id": "2005-30",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2005-30.json",
+      "count": 0
+    },
+    {
+      "id": "2005-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2005-01.json",
+      "count": 0
+    },
+    {
+      "id": "2004-15",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2004-15.json",
+      "count": 0
+    },
+    {
+      "id": "2004-10",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2004-10.json",
+      "count": 0
+    },
+    {
+      "id": "2004-07",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2004-07.json",
+      "count": 0
+    },
+    {
+      "id": "2004-04",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2004-04.json",
+      "count": 0
+    },
+    {
+      "id": "2002-23",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2002-23.json",
+      "count": 0
+    },
+    {
+      "id": "2002-11",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2002-11.json",
+      "count": 2
+    },
+    {
+      "id": "2002-08",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2002-08.json",
+      "count": 0
+    },
+    {
+      "id": "2002-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2002-01.json",
+      "count": 0
+    },
+    {
+      "id": "2001-08",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2001-08.json",
+      "count": 0
+    },
+    {
+      "id": "2000-17",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2000-17.json",
+      "count": 0
+    },
+    {
+      "id": "2000-09",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2000-09.json",
+      "count": 0
+    },
+    {
+      "id": "2000-08",
+      "source": "_granskning_2026-10-09/webdata/data/documents/2000-08.json",
+      "count": 0
+    },
+    {
+      "id": "1999-23",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1999-23.json",
+      "count": 0
+    },
+    {
+      "id": "1999-02",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1999-02.json",
+      "count": 0
+    },
+    {
+      "id": "1998-22",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1998-22.json",
+      "count": 0
+    },
+    {
+      "id": "1998-12",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1998-12.json",
+      "count": 0
+    },
+    {
+      "id": "1998-06",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1998-06.json",
+      "count": 0
+    },
+    {
+      "id": "1997-20",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1997-20.json",
+      "count": 0
+    },
+    {
+      "id": "1996-27",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1996-27.json",
+      "count": 0
+    },
+    {
+      "id": "1996-17",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1996-17.json",
+      "count": 0
+    },
+    {
+      "id": "1995-68",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1995-68.json",
+      "count": 0
+    },
+    {
+      "id": "1995-62",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1995-62.json",
+      "count": 0
+    },
+    {
+      "id": "1995-39",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1995-39.json",
+      "count": 0
+    },
+    {
+      "id": "1995-20",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1995-20.json",
+      "count": 0
+    },
+    {
+      "id": "1994-28",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1994-28.json",
+      "count": 0
+    },
+    {
+      "id": "1993-17",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1993-17.json",
+      "count": 0
+    },
+    {
+      "id": "1992-34",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1992-34.json",
+      "count": 0
+    },
+    {
+      "id": "1992-33",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1992-33.json",
+      "count": 0
+    },
+    {
+      "id": "1992-12",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1992-12.json",
+      "count": 0
+    },
+    {
+      "id": "1992-03",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1992-03.json",
+      "count": 0
+    },
+    {
+      "id": "1991-17",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1991-17.json",
+      "count": 0
+    },
+    {
+      "id": "1991-16",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1991-16.json",
+      "count": 0
+    },
+    {
+      "id": "1991-15",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1991-15.json",
+      "count": 0
+    },
+    {
+      "id": "1991-12",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1991-12.json",
+      "count": 0
+    },
+    {
+      "id": "1991-01",
+      "source": "_granskning_2026-10-09/webdata/data/documents/1991-01.json",
+      "count": 0
+    }
+  ],
+  "excluded": [
+    {
+      "id": "2013-09",
+      "celex": "32016R0101",
+      "reason": "Källtexten anger (EU) 2016/101 i DORA-titeln. Det är ett ofullständigt nummer för 2016/1011; länka inte annan rättsakt.",
+      "sectionId": "section-0018"
+    }
+  ],
+  "asOf": "2026-10-09",
+  "emptyArrayMeaning": "Ingen EU-koppling kartlagd i denna genomgång; betyder inte att EU-koppling saknas."
+}

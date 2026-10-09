@@ -1,0 +1,110 @@
+{
+  "id": "1991-01",
+  "markdown": "# FFFS 1991:1 — Föreskrifter om fortsatt giltighet av bestämmelser m m i Bankinspektionens och Försäkringsinspektionens författningssamling\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1991-01.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/19911/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/dae30cf7c9fd47e6b9680efbc73bba25/fffs9101.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n**FFFS 1991:1**\n\n**Föreskrifter om fortsatt giltighet av bestämmelser m m i bankinspektionens och försäkringsinspektionens författningssamling;**\n\nbeslutade den 1 juli 1991.\n\nFinansinspektionen föreskriver att föreskrifter och allmänna råd i bankinspektionens och försäkringsinspektionens författningssamling skall fortsätta att gälla och att vad som däri anges om bankinspektionen eller försäkringsinspektionen skall avse finansinspektionen.\n\nANDERS SAHLÉN\n\nBerit Lunning (Administrativa avdelningen)\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": "**FFFS 1991:1**\n\n**Föreskrifter om fortsatt giltighet av bestämmelser m m i bankinspektionens och försäkringsinspektionens författningssamling;**\n\nbeslutade den 1 juli 1991.\n\nFinansinspektionen föreskriver att föreskrifter och allmänna råd i bankinspektionens och försäkringsinspektionens författningssamling skall fortsätta att gälla och att vad som däri anges om bankinspektionen eller försäkringsinspektionen skall avse finansinspektionen.\n\nANDERS SAHLÉN\n\nBerit Lunning (Administrativa avdelningen)"
+    }
+  ],
+  "metadata": {
+    "id": "1991-01",
+    "number": "FFFS 1991:1",
+    "title": "Föreskrifter om fortsatt giltighet av bestämmelser m m i Bankinspektionens och Försäkringsinspektionens författningssamling",
+    "year": 1991,
+    "status": "current",
+    "kind": "original",
+    "effectiveFrom": "1991-07-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/19911/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/dae30cf7c9fd47e6b9680efbc73bba25/fffs9101.pdf",
+    "pdfUrl": "pdf/1991-01.pdf",
+    "markdownUrl": "documents/1991-01.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1991-01/",
+    "amendments": [],
+    "notes": [
+      "Registerstatus och identifierade statusavvikelser är granskade per 2026-10-09. Fullständig juridisk validering av samtliga övergångsregler återstår.",
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Börs och clearing",
+      "Fond",
+      "Försäkringsföretag",
+      "Försäkringsförmedlare",
+      "Publika bolag och deras ägare",
+      "Understödsföreningar",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/19911/",
+      "note": "Se tillämpningsområdet. Ingen säker specifik institutionstagg har lagts till; laghänvisningar har inte expanderats till aktörslistor."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Fond",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Fond innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=98",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Försäkringsföretag",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsföretag innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=99",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Försäkringsförmedlare",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsförmedlare innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=102",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Publika bolag och deras ägare",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Publika bolag och deras ägare innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=103",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Understödsföreningar",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Understödsföreningar innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=100",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 1991:1.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

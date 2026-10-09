@@ -1,0 +1,407 @@
+{
+  "schema_version": 1,
+  "corrected_at": "2026-10-09",
+  "page_numbers": "one-based inclusive",
+  "documents": [
+    {
+      "fffs": "2015:13",
+      "pdf": "Egenkonsoliderade/FFFS 2015-13_egenkonsoliderad.pdf",
+      "annexes": [
+        {
+          "annex": 1,
+          "output_start_page": 8,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2015-13_grund.pdf",
+              "source_sha256": "c41c5d5708cc21130d11f8be3bd841f0bb416706a891e432252c170661acd1a5",
+              "source_start_page": 8,
+              "source_end_page": 8,
+              "output_start_page": 8,
+              "mode": "source_page",
+              "output_end_page": 8
+            }
+          ],
+          "output_end_page": 8
+        },
+        {
+          "annex": 2,
+          "output_start_page": 9,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2015-13_grund.pdf",
+              "source_sha256": "c41c5d5708cc21130d11f8be3bd841f0bb416706a891e432252c170661acd1a5",
+              "source_start_page": 9,
+              "source_end_page": 31,
+              "output_start_page": 9,
+              "mode": "source_page",
+              "output_end_page": 31
+            }
+          ],
+          "output_end_page": 31
+        },
+        {
+          "annex": 3,
+          "output_start_page": 32,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 2,
+              "source_end_page": 18,
+              "output_start_page": 32,
+              "mode": "source_page",
+              "output_end_page": 48
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 19,
+              "source_end_page": 19,
+              "output_start_page": 49,
+              "mode": "source_page_excerpt",
+              "clip_rect": [
+                0,
+                58,
+                595.3200073242188,
+                486.3279724121094
+              ],
+              "output_end_page": 49
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2023-24.pdf",
+              "source_sha256": "9f3e7ba4b7cdb389d200421136d1f3a6e465a8f75931b64a071b0dd08de3936a",
+              "source_start_page": 3,
+              "source_end_page": 3,
+              "output_start_page": 50,
+              "mode": "source_page",
+              "output_end_page": 50
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 19,
+              "source_end_page": 19,
+              "output_start_page": 51,
+              "mode": "source_page_excerpt",
+              "clip_rect": [
+                0,
+                692.6079711914062,
+                595.3200073242188,
+                780
+              ],
+              "output_end_page": 51
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 20,
+              "source_end_page": 35,
+              "output_start_page": 52,
+              "mode": "source_page",
+              "output_end_page": 67
+            }
+          ],
+          "output_end_page": 67
+        },
+        {
+          "annex": 4,
+          "output_start_page": 68,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2015-13_grund.pdf",
+              "source_sha256": "c41c5d5708cc21130d11f8be3bd841f0bb416706a891e432252c170661acd1a5",
+              "source_start_page": 66,
+              "source_end_page": 81,
+              "output_start_page": 68,
+              "mode": "source_page",
+              "output_end_page": 83
+            }
+          ],
+          "output_end_page": 83
+        },
+        {
+          "annex": 5,
+          "output_start_page": 84,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 36,
+              "source_end_page": 47,
+              "output_start_page": 84,
+              "mode": "source_page",
+              "output_end_page": 95
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 48,
+              "source_end_page": 48,
+              "output_start_page": 96,
+              "mode": "source_page_excerpt",
+              "clip_rect": [
+                0,
+                58,
+                595.3200073242188,
+                714.8079833984375
+              ],
+              "output_end_page": 96
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2023-24.pdf",
+              "source_sha256": "9f3e7ba4b7cdb389d200421136d1f3a6e465a8f75931b64a071b0dd08de3936a",
+              "source_start_page": 4,
+              "source_end_page": 4,
+              "output_start_page": 97,
+              "mode": "source_page",
+              "output_end_page": 97
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 49,
+              "source_end_page": 49,
+              "output_start_page": 98,
+              "mode": "source_page_excerpt",
+              "clip_rect": [
+                0,
+                202.0479736328125,
+                595.3200073242188,
+                780
+              ],
+              "output_end_page": 98
+            },
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 50,
+              "source_end_page": 52,
+              "output_start_page": 99,
+              "mode": "source_page",
+              "output_end_page": 101
+            }
+          ],
+          "output_end_page": 101
+        },
+        {
+          "annex": 6,
+          "output_start_page": 102,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2015-13_grund.pdf",
+              "source_sha256": "c41c5d5708cc21130d11f8be3bd841f0bb416706a891e432252c170661acd1a5",
+              "source_start_page": 99,
+              "source_end_page": 106,
+              "output_start_page": 102,
+              "mode": "source_page",
+              "output_end_page": 109
+            }
+          ],
+          "output_end_page": 109
+        },
+        {
+          "annex": 7,
+          "output_start_page": 110,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2023-24.pdf",
+              "source_sha256": "9f3e7ba4b7cdb389d200421136d1f3a6e465a8f75931b64a071b0dd08de3936a",
+              "source_start_page": 5,
+              "source_end_page": 11,
+              "output_start_page": 110,
+              "mode": "source_page",
+              "output_end_page": 116
+            }
+          ],
+          "output_end_page": 116
+        },
+        {
+          "annex": 8,
+          "output_start_page": 117,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2015-13_grund.pdf",
+              "source_sha256": "c41c5d5708cc21130d11f8be3bd841f0bb416706a891e432252c170661acd1a5",
+              "source_start_page": 113,
+              "source_end_page": 113,
+              "output_start_page": 117,
+              "mode": "source_page",
+              "output_end_page": 117
+            }
+          ],
+          "output_end_page": 117
+        },
+        {
+          "annex": 9,
+          "output_start_page": 118,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2015-13/FFFS2019-26.pdf",
+              "source_sha256": "7c7ab6d9d71ee086048cd7edfbbd5b17e303f182b03f3932ae6ae9a1136105af",
+              "source_start_page": 60,
+              "source_end_page": 61,
+              "output_start_page": 118,
+              "mode": "source_page",
+              "output_end_page": 119
+            }
+          ],
+          "output_end_page": 119
+        }
+      ],
+      "chapter_pages": 7,
+      "total_pages": 119
+    },
+    {
+      "fffs": "2019:22",
+      "pdf": "Egenkonsoliderade/FFFS 2019-22_egenkonsoliderad.pdf",
+      "annexes": [
+        {
+          "annex": 1,
+          "output_start_page": 10,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2025-1.pdf",
+              "source_sha256": "c385763d696cd465656735194cd22ddc31b57c1e864a4f72935695cbb7f90127",
+              "source_start_page": 3,
+              "source_end_page": 33,
+              "output_start_page": 10,
+              "mode": "source_page",
+              "output_end_page": 40
+            }
+          ],
+          "output_end_page": 40
+        },
+        {
+          "annex": 2,
+          "output_start_page": 41,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2025-1.pdf",
+              "source_sha256": "c385763d696cd465656735194cd22ddc31b57c1e864a4f72935695cbb7f90127",
+              "source_start_page": 34,
+              "source_end_page": 77,
+              "output_start_page": 41,
+              "mode": "source_page",
+              "output_end_page": 84
+            }
+          ],
+          "output_end_page": 84
+        },
+        {
+          "annex": 3,
+          "output_start_page": 85,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2025-1.pdf",
+              "source_sha256": "c385763d696cd465656735194cd22ddc31b57c1e864a4f72935695cbb7f90127",
+              "source_start_page": 78,
+              "source_end_page": 97,
+              "output_start_page": 85,
+              "mode": "source_page",
+              "output_end_page": 104
+            }
+          ],
+          "output_end_page": 104
+        },
+        {
+          "annex": 4,
+          "output_start_page": 105,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2025-1.pdf",
+              "source_sha256": "c385763d696cd465656735194cd22ddc31b57c1e864a4f72935695cbb7f90127",
+              "source_start_page": 98,
+              "source_end_page": 152,
+              "output_start_page": 105,
+              "mode": "source_page",
+              "output_end_page": 159
+            }
+          ],
+          "output_end_page": 159
+        },
+        {
+          "annex": 5,
+          "output_start_page": 160,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2025-1.pdf",
+              "source_sha256": "c385763d696cd465656735194cd22ddc31b57c1e864a4f72935695cbb7f90127",
+              "source_start_page": 153,
+              "source_end_page": 164,
+              "output_start_page": 160,
+              "mode": "source_page",
+              "output_end_page": 171
+            }
+          ],
+          "output_end_page": 171
+        },
+        {
+          "annex": 6,
+          "output_start_page": 172,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2025-1.pdf",
+              "source_sha256": "c385763d696cd465656735194cd22ddc31b57c1e864a4f72935695cbb7f90127",
+              "source_start_page": 165,
+              "source_end_page": 178,
+              "output_start_page": 172,
+              "mode": "source_page",
+              "output_end_page": 185
+            }
+          ],
+          "output_end_page": 185
+        },
+        {
+          "annex": 7,
+          "output_start_page": 186,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2019-22_grund.pdf",
+              "source_sha256": "4a9bbcb1df1cf600c6b52bc80fb0ac20daac1a4fd2f327c6fa2875256d3f66d3",
+              "source_start_page": 169,
+              "source_end_page": 169,
+              "output_start_page": 186,
+              "mode": "source_page",
+              "output_end_page": 186
+            }
+          ],
+          "output_end_page": 186
+        },
+        {
+          "annex": 8,
+          "output_start_page": 187,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2021-31.pdf",
+              "source_sha256": "13008b969d0211ed62030f79149955d7c7207ca962badb52c45d4b58f6ed8386",
+              "source_start_page": 2,
+              "source_end_page": 4,
+              "output_start_page": 187,
+              "mode": "source_page",
+              "output_end_page": 189
+            }
+          ],
+          "output_end_page": 189
+        },
+        {
+          "annex": 9,
+          "output_start_page": 190,
+          "segments": [
+            {
+              "source_path": "_arbete/konsolidering/2019-22/FFFS2020-12.pdf",
+              "source_sha256": "968797fabb311ec5c2c3db09e843c7aa6ee9f28311982598727d4d35d939a55b",
+              "source_start_page": 7,
+              "source_end_page": 8,
+              "output_start_page": 190,
+              "mode": "source_page",
+              "output_end_page": 191
+            }
+          ],
+          "output_end_page": 191
+        }
+      ],
+      "chapter_pages": 9,
+      "total_pages": 191
+    }
+  ]
+}

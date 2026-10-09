@@ -1,0 +1,33 @@
+{
+  "name": "fffs-bibliotek",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build && tsx scripts/prerender.ts && tsx scripts/validate-build.ts",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "tsx --test tests/*.test.ts",
+    "build:mcp": "node scripts/build-mcp.mjs",
+    "check": "tsc --noEmit",
+    "validate": "tsx scripts/validate-build.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.1",
+    "dompurify": "^3.4.16",
+    "htmlparser2": "^12.0.0",
+    "katex": "^0.19.0",
+    "marked": "^18.1.0",
+    "sanitize-html": "^2.18.0",
+    "vite": "^8.3.4",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/dompurify": "^3.0.5",
+    "@types/node": "^26.6.4",
+    "@types/sanitize-html": "^2.16.2",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

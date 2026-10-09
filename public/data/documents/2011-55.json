@@ -1,0 +1,68 @@
+{
+  "id": "2011-55",
+  "markdown": "# FFFS 2011:55 — Föreskrifter om upphävande av Finansinspektionens allmänna råd (FFFS 2009:8) om fortsatt tillämpning av övergångsregler om kapitalbaskrav och offentliggörande av information\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2011-55.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/201155/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/2c8b189ba21443afb447dd755e85ecb8/fs1155.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2011-55/FFFS_2011-55.pdf-0001-02.png)\n\n<a id=\"section-0002\"></a>\n## FFFS 2011:55\n\n**Föreskrifter om upphävande av Finansinspektionens allmänna råd (FFFS 2009:8) om fortsatt tillämpning av övergångsregler om kapitalbaskrav och offentliggörande av information;**\n\nUtkom från trycket den 12 december 2011\n\nbeslutade den 6 december 2011.\n\nFinansinspektionen föreskriver med stöd av 5 kap. 2 § 4 förordningen om bank- och finansieringsrörelse och 32 § 42 förordningen (2006:1533) om kapitaltäckning och stora exponeringar att Finansinspektionens allmänna råd (FFFS 2009:8) om fortsatt tillämpning av övergångsregler om kapitalbaskrav och offentliggörande av information ska upphöra att gälla den 12 december 2011.\n\nMARTIN ANDERSSON\n\nCamilla Edvardsson\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2011-55/FFFS_2011-55.pdf-0001-02.png)"
+    },
+    {
+      "id": "section-0002",
+      "title": "FFFS 2011:55",
+      "page": 1,
+      "text": "**Föreskrifter om upphävande av Finansinspektionens allmänna råd (FFFS 2009:8) om fortsatt tillämpning av övergångsregler om kapitalbaskrav och offentliggörande av information;**\n\nUtkom från trycket den 12 december 2011\n\nbeslutade den 6 december 2011.\n\nFinansinspektionen föreskriver med stöd av 5 kap. 2 § 4 förordningen om bank- och finansieringsrörelse och 32 § 42 förordningen (2006:1533) om kapitaltäckning och stora exponeringar att Finansinspektionens allmänna råd (FFFS 2009:8) om fortsatt tillämpning av övergångsregler om kapitalbaskrav och offentliggörande av information ska upphöra att gälla den 12 december 2011.\n\nMARTIN ANDERSSON\n\nCamilla Edvardsson"
+    }
+  ],
+  "metadata": {
+    "id": "2011-55",
+    "number": "FFFS 2011:55",
+    "title": "Föreskrifter om upphävande av Finansinspektionens allmänna råd (FFFS 2009:8) om fortsatt tillämpning av övergångsregler om kapitalbaskrav och offentliggörande av information",
+    "year": 2011,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2011-12-12",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/201155/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/2c8b189ba21443afb447dd755e85ecb8/fs1155.pdf",
+    "pdfUrl": "pdf/2011-55.pdf",
+    "markdownUrl": "documents/2011-55.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2011-55/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/201155/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2011:55.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2011:55.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

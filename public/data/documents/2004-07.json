@@ -1,0 +1,60 @@
+{
+  "id": "2004-07",
+  "markdown": "# FFFS 2004:7 — Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 1996:8) till förebyggande av brott i bankverksamhet\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2004-07.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2004/20047/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/4cf914629be0453287d2fb86dc234b4d/fffs0407.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Gent Jansson, Finansinspektionen, Box 6750, 113 85 Stockholm. Beställningsadress: Thomson Fakta AB, Box 6430, 113 82 Stockholm. Tfn 08-587 671 00, Fax 08-587 671 71. Prenumerera också per e-post på www.fi.se. ISSN 1102-7460\n\n<a id=\"section-0002\"></a>\n## FFFS 2004:7\n\n**Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 1996:8) till förebyggande av brott i bankverksamhet;**\n\nUtkom från trycket den 23 juni 2004\n\nbeslutade den 15 juni 2004.\n\nFinansinspektionen föreskriver<sup>1</sup> att Finansinspektionens föreskrifter och allmänna råd (FFFS 1996:8) till förebyggande av brott i bankverksamhet ska upphöra att gälla vid utgången av juni 2004.\n\nINGRID BONDE\n\nÅsa Arffman\n\n> 1 Föreskrifterna meddelas med stöd av 56 § första stycket 6 bankrörelseförordningen (1987:647).\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Gent Jansson, Finansinspektionen, Box 6750, 113 85 Stockholm. Beställningsadress: Thomson Fakta AB, Box 6430, 113 82 Stockholm. Tfn 08-587 671 00, Fax 08-587 671 71. Prenumerera också per e-post på www.fi.se. ISSN 1102-7460"
+    },
+    {
+      "id": "section-0002",
+      "title": "FFFS 2004:7",
+      "page": 1,
+      "text": "**Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 1996:8) till förebyggande av brott i bankverksamhet;**\n\nUtkom från trycket den 23 juni 2004\n\nbeslutade den 15 juni 2004.\n\nFinansinspektionen föreskriver<sup>1</sup> att Finansinspektionens föreskrifter och allmänna råd (FFFS 1996:8) till förebyggande av brott i bankverksamhet ska upphöra att gälla vid utgången av juni 2004.\n\nINGRID BONDE\n\nÅsa Arffman\n\n> 1 Föreskrifterna meddelas med stöd av 56 § första stycket 6 bankrörelseförordningen (1987:647)."
+    }
+  ],
+  "metadata": {
+    "id": "2004-07",
+    "number": "FFFS 2004:7",
+    "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 1996:8) till förebyggande av brott i bankverksamhet",
+    "year": 2004,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2004-06-30",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2004/20047/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/4cf914629be0453287d2fb86dc234b4d/fffs0407.pdf",
+    "pdfUrl": "pdf/2004-07.pdf",
+    "markdownUrl": "documents/2004-07.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2004-07/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2004/20047/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2004:7.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

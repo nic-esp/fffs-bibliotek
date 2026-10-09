@@ -1,0 +1,66 @@
+{
+  "id": "2011-18",
+  "markdown": "# FFFS 2011:18 — Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2007:8) om förlagslån i försäkringsbolags kapitalbas\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2011-18.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/201118/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/4aed7d66fa9740af8538178e2ee64fc1/fs1118.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n<a id=\"section-0002\"></a>\n## Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2007:8) om förlagslån i försäkringsbolags kapitalbas;\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2011-18/FFFS_2011-18.pdf-0001-03.png)\n\n<a id=\"section-0003\"></a>\n## FFFS 2011:18\n\nUtkom från trycket den 1 april 2011\n\nbeslutade den 25 mars 2011.\n\nFinansinspektionen föreskriver med stöd av 49 § försäkringsrörelseförordningen (1982:790) att Finansinspektionens föreskrifter (FFFS 2007:8) om förlagslån i försäkringsbolags kapitalbas ska upphöra att gälla vid utgången av mars 2011.\n\nFöreskrifterna ska dock fortsätta att gälla för förlagslån som får räknas in i kapitalbasen genom medgivande som har beslutats av Finansinspektionen före den 1 april 2011.\n\nMARTIN ANDERSSON\n\nAnders Lindkvist\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460"
+    },
+    {
+      "id": "section-0002",
+      "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2007:8) om förlagslån i försäkringsbolags kapitalbas;",
+      "page": 1,
+      "text": "![](https://nic-esp.github.io/fffs-bibliotek/images/2011-18/FFFS_2011-18.pdf-0001-03.png)"
+    },
+    {
+      "id": "section-0003",
+      "title": "FFFS 2011:18",
+      "page": 1,
+      "text": "Utkom från trycket den 1 april 2011\n\nbeslutade den 25 mars 2011.\n\nFinansinspektionen föreskriver med stöd av 49 § försäkringsrörelseförordningen (1982:790) att Finansinspektionens föreskrifter (FFFS 2007:8) om förlagslån i försäkringsbolags kapitalbas ska upphöra att gälla vid utgången av mars 2011.\n\nFöreskrifterna ska dock fortsätta att gälla för förlagslån som får räknas in i kapitalbasen genom medgivande som har beslutats av Finansinspektionen före den 1 april 2011.\n\nMARTIN ANDERSSON\n\nAnders Lindkvist"
+    }
+  ],
+  "metadata": {
+    "id": "2011-18",
+    "number": "FFFS 2011:18",
+    "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2007:8) om förlagslån i försäkringsbolags kapitalbas",
+    "year": 2011,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2011-04-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/201118/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/4aed7d66fa9740af8538178e2ee64fc1/fs1118.pdf",
+    "pdfUrl": "pdf/2011-18.pdf",
+    "markdownUrl": "documents/2011-18.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2011-18/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Försäkringsföretag"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2011/201118/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Försäkringsföretag",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Försäkringsföretag innehåller registerposten FFFS 2011:18.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=99",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

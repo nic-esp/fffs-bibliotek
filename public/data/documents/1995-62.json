@@ -1,0 +1,68 @@
+{
+  "id": "1995-62",
+  "markdown": "# FFFS 1995:62 — Upphävande av Bankinspektionens allmänna råd angående handel med standardiserade optioner och aktieterminer samt vissa rutiner inom aktiehandelsrörelse (BFFS 1988:7)\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1995-62.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1995/199562/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/61dea586a6864b46a8d2f63662747a6c/fffs9562.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANS- INSPEKTIONEN\n\n<a id=\"section-0002\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n**FFFS 1995:62**\n\n**Upphävande av bankinspektionens allmänna råd angående handel med standardiserade optioner och aktieterminer samt vissa rutiner inom aktiehandelsrörelse (BFFS 1988:7);**\n\nbeslutade den 20 december 1995\n\nFinansinspektionen beslutar att bankinspektionens allmänna råd angående handel med standardiserade optioner och aktieterminer samt vissa rutiner inom aktiehandelsrörelse (BFFS 1988:7) skall upphöra att gälla vid utgången av 1995.\n\n____________________\n\nClaes Norgren\n\nMirre Laurell (Värdepappersmarknadsavdelningen)\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANS- INSPEKTIONEN",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0002",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": "**FFFS 1995:62**\n\n**Upphävande av bankinspektionens allmänna råd angående handel med standardiserade optioner och aktieterminer samt vissa rutiner inom aktiehandelsrörelse (BFFS 1988:7);**\n\nbeslutade den 20 december 1995\n\nFinansinspektionen beslutar att bankinspektionens allmänna råd angående handel med standardiserade optioner och aktieterminer samt vissa rutiner inom aktiehandelsrörelse (BFFS 1988:7) skall upphöra att gälla vid utgången av 1995.\n\n____________________\n\nClaes Norgren\n\nMirre Laurell (Värdepappersmarknadsavdelningen)"
+    }
+  ],
+  "metadata": {
+    "id": "1995-62",
+    "number": "FFFS 1995:62",
+    "title": "Upphävande av Bankinspektionens allmänna råd angående handel med standardiserade optioner och aktieterminer samt vissa rutiner inom aktiehandelsrörelse (BFFS 1988:7)",
+    "year": 1995,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1995-12-31",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1995/199562/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/61dea586a6864b46a8d2f63662747a6c/fffs9562.pdf",
+    "pdfUrl": "pdf/1995-62.pdf",
+    "markdownUrl": "documents/1995-62.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1995-62/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Börs och clearing",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1995/199562/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 1995:62.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 1995:62.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

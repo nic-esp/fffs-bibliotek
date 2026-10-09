@@ -1,0 +1,74 @@
+{
+  "id": "2016-34",
+  "markdown": "# FFFS 2016:34 — Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 2005:9) om investeringsrekommendationer riktade till allmänheten samt hantering av intressekonflikter\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2016-34.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2016/201634/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/d7bed3ba47674e6d9a155c6784f6f9e9/fs1634.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n<a id=\"section-0002\"></a>\n## Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 2005:9) om investeringsrekommendationer riktade till allmänheten samt hantering av intressekonflikter;\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2016-34/FFFS_2016-34.pdf-0001-03.png)\n\n<a id=\"section-0003\"></a>\n## FFFS 2016:34\n\nUtkom från trycket den 28 december 2016\n\nbeslutade den 21 december 2016.\n\nFinansinspektionen föreskriver med stöd av 4 § 15 förordningen (2007:375) om handel med finansiella instrument att Finansinspektionens föreskrifter och allmänna råd (FFFS 2005:9) om investeringsrekommendationer riktade till allmänheten samt hantering av intressekonflikter ska upphöra att gälla den 1 februari 2017.\n\nERIK THEDÉEN\n\nNanny Hiort\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460"
+    },
+    {
+      "id": "section-0002",
+      "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 2005:9) om investeringsrekommendationer riktade till allmänheten samt hantering av intressekonflikter;",
+      "page": 1,
+      "text": "![](https://nic-esp.github.io/fffs-bibliotek/images/2016-34/FFFS_2016-34.pdf-0001-03.png)"
+    },
+    {
+      "id": "section-0003",
+      "title": "FFFS 2016:34",
+      "page": 1,
+      "text": "Utkom från trycket den 28 december 2016\n\nbeslutade den 21 december 2016.\n\nFinansinspektionen föreskriver med stöd av 4 § 15 förordningen (2007:375) om handel med finansiella instrument att Finansinspektionens föreskrifter och allmänna råd (FFFS 2005:9) om investeringsrekommendationer riktade till allmänheten samt hantering av intressekonflikter ska upphöra att gälla den 1 februari 2017.\n\nERIK THEDÉEN\n\nNanny Hiort"
+    }
+  ],
+  "metadata": {
+    "id": "2016-34",
+    "number": "FFFS 2016:34",
+    "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter och allmänna råd (FFFS 2005:9) om investeringsrekommendationer riktade till allmänheten samt hantering av intressekonflikter",
+    "year": 2016,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2017-02-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2016/201634/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/d7bed3ba47674e6d9a155c6784f6f9e9/fs1634.pdf",
+    "pdfUrl": "pdf/2016-34.pdf",
+    "markdownUrl": "documents/2016-34.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2016-34/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Börs och clearing",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2016/201634/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 2016:34.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2016:34.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}

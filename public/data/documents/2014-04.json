@@ -1,0 +1,676 @@
+{
+  "id": "2014-04",
+  "markdown": "# FFFS 2014:4 — Finansinspektionens föreskrifter och allmänna råd om hantering av operativa risker\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2014-04.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/e9720562371742808d03dbae519473cf/fs1404.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n_Observera att denna konsoliderade version är en sammanställning, och att den tryckta författningen är den officiellt giltiga. En konsoliderad version är en fulltextversion där alla ändringar har införts i grundförfattningen._\n\n<a id=\"section-0002\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Chefsjurist Erik Blommé, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n<a id=\"section-0003\"></a>\n## Finansinspektionens föreskrifter och allmänna råd om hantering av operativa risker\n\n<a id=\"section-0004\"></a>\n## FFFS 2014:4\n\nKonsoliderad elektronisk utgåva\n\nSenast uppdaterad: 2025-06-19\n\nObservera att endast den tryckta utgåvan gäller vid rättstillämpning\n\n|Beslutade:|2014-04-11|\n|---|---|\n|Ikraftträdande:|2014-06-01|\n|Ändringar:|FFFS 2014:31, FFFS 2017:9, FFFS 2018:1, FFFS 2020:31, FFFS 2021:22,|\n||FFFS 2023:4, FFFS 2024:10, FFFS 2024:29, FFFS 2025:11|\n\n<a id=\"section-0005\"></a>\n## 1 kap. Tillämpningsområde\n\n<a id=\"section-0006\"></a>\n### 1 §\n\nDessa föreskrifter innehåller bestämmelser om hur ett företag ska hantera sina operativa risker.\n\n<a id=\"section-0007\"></a>\n### 2 §\n\nFöreskrifterna gäller för\n\n1. bankaktiebolag,\n\n2. sparbanker,\n\n3. medlemsbanker,\n\n4. kreditmarknadsbolag,\n\n5. kreditmarknadsföreningar, och\n\n6. värdepappersbolag som avses i 1 kap. 2 § första stycket 7 c–g lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag.\n\nFöreskrifterna ska, i enlighet med 3 kap. 4 § lagen om särskild tillsyn över kreditinstitut och värdepappersbolag, tillämpas på grupp- eller undergruppsnivå.\n\nBestämmelserna i dessa föreskrifter gäller inte för hantering av sådana IKT-risker som avses i Dora-förordningen. _(FFFS 2024:29)_\n\n<a id=\"section-0008\"></a>\n### 3 §\n\nFör värdepappersbolag gäller inte 5 kap. 13–20 §§ och 6 kap. 4 § första stycket 1. _(FFFS 2025:11)_\n\n<a id=\"section-0009\"></a>\n### 4 §\n\nFöreskrifterna innehåller bestämmelser om följande:\n\n- Tillämpningsområde (1 kap.),\n\n- Styrning och ansvar (2 kap.),\n\n- Identifiering och mätning (3 kap.),\n\n<!-- PDF page 2 -->\n\n- Rapportering (4 kap.),\n\n- Hantering av operativa risker i verksamheten (5 kap.), och\n\n– Ytterligare krav på hantering av operativa risker inom värdepappersrörelse och valutahandel (6 kap.).\n\n<a id=\"section-0010\"></a>\n#### Definitioner\n\n<a id=\"section-0011\"></a>\n### 5 §\n\nI dessa föreskrifter och allmänna råd används samma definitioner som i 1 kap. 3 § Finansinspektionens föreskrifter och allmänna råd (FFFS 2014:1) om styrning, riskhantering och kontroll i kreditinstitut och Finansinspektionens föreskrifter (FFFS 2017:2) om värdepappersrörelse, om inget annat anges.\n\n<a id=\"section-0012\"></a>\n#### Därutöver betyder\n\n1. _beredskapsplan_ : en plan som beskriver de åtgärder som ett företag ska vidta för att hantera allvarliga och omfattande avbrott, störningar eller kriser,\n\n2. _incident_ : en händelse som har eller riskerar att få negativ påverkan på företagets verksamhet, tillgångar eller förtroende,\n\n3. _kontinuitetsplan_ : en plan som beskriver hur en verksamhet ska upprätthållas i händelse av ett avbrott eller en större verksamhetsstörning,\n\n4. _operativ risk_ : detsamma som i artikel 4.1 52 i Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012,\n\n5. _process_ : en kedja av sammanhängande aktiviteter som utifrån en viss resursinsats producerar ett resultat, och\n\n6. _återställningsplan_ : en plan som beskriver enligt vilka prioriteringar och rutiner ett företag ska återgå till normal verksamhet efter ett avbrott eller en större verksamhetsstörning. _(FFFS 2021:22)_\n\n<a id=\"section-0013\"></a>\n## 2 kap. Styrning och ansvar\n\n<a id=\"section-0014\"></a>\n### 1 §\n\nEtt företag ska fastställa en riskaptit för sina operativa risker. Inom ramen för riskaptiten ska företaget även ha limiter för sina operativa risker.\n\nFöretaget ska när det fastställer limiter utgå från produkter, tjänster, funktioner, processer och it-system. Limiterna ska kunna vara mätbara genom kvalitativa eller kvantitativa mått. Företaget ska dokumentera riskaptiten och limiterna.\n\nStyrelsen ska besluta om och regelbundet utvärdera och uppdatera riskaptiten för operativa risker om det behövs. Den verkställande direktören ska besluta om och regelbundet utvärdera och uppdatera limiterna för de operativa riskerna om det behövs.\n\n<a id=\"section-0015\"></a>\n### 2 §\n\nEtt företag ska ha interna regler för sin hantering av operativa risker som anger\n\n1. vilka operativa risker som företaget i huvudsak är exponerat för,\n\n<!-- PDF page 3 -->\n\n2. dels de metoder och processer som används för att identifiera, mäta och hantera operativa risker, inklusive de risker som följer av uppdragsavtal, som även tar hänsyn till sällan förekommande incidenter av allvarlig art, dels rutiner för att hantera risken för att metoderna kan ge felaktiga resultat, samt\n\n3. företagets rutiner för att fastställa och övervaka riskaptiten och limiterna enligt 1 §.\n\nOm företaget använder risköverföring i sin hantering av operativa risker, ska det ange principerna för detta i de interna reglerna.\n\nStyrelsen ska besluta om de interna reglerna.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet. _(FFFS 2020:31)_\n\n<a id=\"section-0016\"></a>\n#### Uppdragsavtal\n\n<a id=\"section-0017\"></a>\n### 3 §\n\nBestämmelser om uppdragsavtal finns i artiklarna 30–32 i den delegerade förordningen till Mifid 2 och 10 kap. Finansinspektionens föreskrifter och allmänna råd (FFFS 2014:1) om styrning, riskhantering och kontroll i kreditinstitut. _(FFFS 2017:9)_\n\n<a id=\"section-0018\"></a>\n## 3 kap. Identifiering och mätning\n\n<a id=\"section-0019\"></a>\n### 1 §\n\nEtt företag ska identifiera operativa risker i sina produkter, tjänster, funktioner och processer. ( _FFFS 2024:29_ ).\n\n<a id=\"section-0020\"></a>\n### 2 §\n\nEtt företag ska ha metoder för att identifiera och mäta sina operativa risker. Metoderna ska vara dokumenterade.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n<a id=\"section-0021\"></a>\n### 3 §\n\nEtt företag ska regelbundet mäta de operativa riskerna enligt 1 §, genom att bedöma sannolikheten för att de inträffar och vilka konsekvenserna blir av detta. Företaget ska även fastställa vilka åtgärder det ska vidta för att hantera riskerna.\n\n<a id=\"section-0022\"></a>\n#### Riskindikatorer\n\n<a id=\"section-0023\"></a>\n### 4 §\n\nEtt företag ska fastställa och dokumentera indikatorer och gränsvärden för sina operativa risker som ger en förvarning om när riskerna har ökat.\n\nFöretaget ska regelbundet se över och om det behövs uppdatera indikatorerna och gränsvärdena.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n_Allmänna råd_\n\nExempel på indikatorer som företaget bör beakta är\n\n1. frekventa omorganisationer eller större verksamhetsförändringar,\n\n<!-- PDF page 4 -->\n\n2. hög personalomsättning,\n\n3. många vakanta tjänster,\n\n4. många kundklagomål,\n\n5. att antalet incidenter har ökat eller typen av incidenter har förändrats, och\n\n6. att funktionen för internrevision har rapporterat om brister i de interna reglerna.\n\n<a id=\"section-0024\"></a>\n#### Incidenter\n\n<a id=\"section-0025\"></a>\n### 5 §\n\nEtt företag ska ha interna regler för att hantera de incidenter som uppstår i verksamheten.\n\n<a id=\"section-0026\"></a>\n### 6 §\n\nEtt företag ska när det inträffar en incident dokumentera och analysera incidenten. Företaget ska även dokumentera de förluster som har uppstått i samband med denna. Företaget ska ha rutiner för att säkerställa att dessa uppgifter är korrekta. Detta gäller inte om en incident anmäls anonymt.\n\nFöretaget ska använda uppgifterna i första stycket när det identifierar och mäter operativa risker enligt 3 §.\n\n<a id=\"section-0027\"></a>\n## 4 kap. Rapportering\n\n<a id=\"section-0028\"></a>\n### 1 §\n\nEtt företag ska i sin rapportering av operativa risker till styrelsen och verkställande direktören ange\n\n1. indikatorer för operativa risker enligt 3 kap. 4 §,\n\n2. överträdelser av riskaptit och risklimiter enligt 2 kap. 1 §, samt\n\n3. allvarliga incidenter.\n\nFöretaget ska dessutom minst årligen informera styrelsen om resultatet från tester av beredskapsplaner, kontinuitetsplaner och återställningsplaner.\n\nFöretaget ska när det tillämpar första och andra styckena ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n<a id=\"section-0029\"></a>\n## 5 kap. Hantering av operativa risker i verksamheten\n\n<a id=\"section-0030\"></a>\n#### Processer\n\n<a id=\"section-0031\"></a>\n### 1 §\n\nEtt företag ska fastställa och i en förteckning ange vilka processer i verksamheten som är av väsentlig betydelse.\n\nFörteckningen ska regelbundet ses över och uppdateras om det behövs.\n\n<a id=\"section-0032\"></a>\n### 2 §\n\nEtt företag ska dokumentera processerna enligt 1 § och utse en ansvarig person eller funktion för varje sådan process.\n\n<a id=\"section-0033\"></a>\n### 3 §\n\nEtt företag ska i interna regler ange hur det ska dokumentera processerna enligt 1 § och hur operativa risker i dessa ska hanteras.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n<!-- PDF page 5 -->\n\nFöretaget bör i processdokumentationen enligt 2 § beskriva\n\n1. vilka regler som påverkar processens utformning,\n\n2. processens huvudsakliga aktiviteter och deras samband (flödesschema),\n\n3. vilken information som används i aktiviteterna enligt 2,\n\n4. de krav som ställs på kvalitet i informationen enligt 3,\n\n5. vilka it-system som stödjer processen,\n\n6. när kontroll görs och beslut fattas i processen,\n\n7. intressenter till processen, t.ex. personal, kunder, myndigheter, underleverantörer och andra företag, samt\n\n8. processens resultat, t.ex. en tjänst, produkt eller en annan uteffekt.\n\n<a id=\"section-0034\"></a>\n### 4 §\n\nEtt företag ska ha rutiner för att analysera om det finns aktiviteter i processerna enligt 1 § där det finns risk för betydande förluster på grund av t.ex. misstag, manipulering av information samt möjlighet att dölja felbedömningar och förluster.\n\nOm företaget identifierar sådana aktiviteter ska det införa nödvändiga kontroller i processerna.\n\nRutinerna enligt första stycket ska dokumenteras.\n\nFöretaget ska när det tillämpar första och andra styckena ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n<a id=\"section-0035\"></a>\n#### Personal\n\n<a id=\"section-0036\"></a>\n### 5 §\n\nEtt företag ska ha rutiner för hur det hanterar operativa risker i fråga om sin personal, där det framgår hur företaget\n\n1. kontrollerar nödvändiga uppgifter och särskilt beaktar risken för intressekonflikter i samband med att företaget anställer ny personal,\n\n2. ser till att det har tillräckligt med personal i förhållande till arbetsuppgifterna,\n\n3. dels utvärderar om det har personal med en sådan kompetens eller som fyller en sådan funktion att de är svåra att ersätta med kort varsel, dels utser ersättare för sådan personal,\n\n4. fastställer krav på kompetens och kunskap för personalen samt ser till att deras kompetens och kunskap upprätthålls,\n\n5. fastställer och uppdaterar befattningsbeskrivningar, mandat och limiter,\n\n6. hanterar den tystnadsplikt som regleras i 1 kap. 10 § lagen (2004:297) om bank- och finansieringsrörelse och 1 kap. 11 § värdepappersmarknadslagen (2007:528), samt\n\n7. identifierar och hanterar operativa risker som kan uppstå i samband med att personalen internt byter arbetsuppgifter eller organisatorisk enhet.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n<a id=\"section-0037\"></a>\n#### Legala risker\n\n<!-- PDF page 6 -->\n\n<a id=\"section-0038\"></a>\n### 6 §\n\nEtt företag ska i interna regler ange hur det hanterar legala risker. De interna reglerna ska ange på vilket sätt företaget\n\n1. säkerställer att verksamheten följer lagar, förordningar och andra regler, 2. säkerställer och följer upp att ingångna avtal eller andra rättshandlingar är korrekta och giltiga,\n\n3. arkiverar avtal och andra rättshandlingar, samt\n\n4. hanterar och följer upp rättsliga processer.\n\nDe interna reglerna enligt första stycket ska även ange vilken person eller funktion som ansvarar för hanteringen av 1–4.\n\n<a id=\"section-0039\"></a>\n#### Säkerhetsarbete\n\n<a id=\"section-0040\"></a>\n### 7 §\n\nEtt företag ska ha interna regler för säkerhetsarbete som innehåller uppgifter om vilka tillgångar och värden som ska skyddas. Företaget ska ange dels vilka åtgärder det ska vidta för att skydda dessa, dels hur omfattande åtgärderna ska vara.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n<a id=\"section-0041\"></a>\n#### Allmänna råd\n\nFöretaget bör i säkerhetsarbetet använda scenarion eller simuleringar för att öka kunskapen om hur olika typer av hot, oegentligheter och brottsliga handlingar kan uppstå i företagets verksamhet.\n\n<a id=\"section-0042\"></a>\n#### Process för godkännande\n\n<a id=\"section-0043\"></a>\n### 8 §\n\nEtt företag ska ha en process för att godkänna nya eller väsentligt förändrade produkter, tjänster, marknader och processer samt större förändringar i företagets verksamhet och organisation.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet. ( _FFFS 2024:29_ )\n\n<a id=\"section-0044\"></a>\n### 9 §\n\nEtt företag ska i interna regler beskriva processen för godkännande enligt 8 §. De interna reglerna ska även ange\n\n1. vad företaget avser med nya eller väsentligt förändrade befintliga produkter, tjänster, marknader, processer, it-system och större förändringar i företagets verksamhet och organisation, samt\n\n2. vilka funktioner och enheter som ska delta i processen.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet när det tar fram de interna reglerna. _(FFFS 2025:11)_\n\n<a id=\"section-0045\"></a>\n### 10 §\n\nEtt företag ska se till att följande moment finns med i processen för godkännande enligt 8 §:\n\n1. kontroll av att gällande regler följs,\n\n2. analys av om företagets risknivåer kan öka eller om nya risker kan uppstå och om detta kan påverka företagets kapitalbehov,\n\n<!-- PDF page 7 -->\n\n3. kontroll av att det finns tillräckligt med personal och tillgång till kompetens, interna regler, verktyg och processer i affärsenheter samt stöd- och kontrollfunktioner för att kunna förstå och övervaka riskerna, samt\n\n4. dokumentation av beslut om godkännande där de överväganden framgår som legat till grund för beslutet. _(FFFS 2025:11)_\n\n<a id=\"section-0046\"></a>\n### 11 §\n\nOm det inte anges i de interna reglerna enligt 9 § 1 att processen enligt 8 § ska tillämpas ska funktionen för riskkontroll avgöra detta. _(FFFS 2025:11)_\n\n<a id=\"section-0047\"></a>\n### 12 §\n\nNär ett företag beslutar om en ny produkt, tjänst, marknad eller process ska det fastställa vilken person eller funktion som ska ansvara för att hantera risker som är förenade med dessa. ( _FFFS 2024:29_ )\n\n<a id=\"section-0048\"></a>\n#### Kontinuitetshantering\n\n<a id=\"section-0049\"></a>\n### 13 §\n\nEtt företag ska i interna regler för kontinuitetshantering ange\n\n1. de metoder och rutiner som företaget ska följa för att ha en väl fungerande kontinuitetshantering. Metoderna och rutinerna ska omfatta beredskapsplaner, kontinuitetsplaner och återställningsplaner,\n\n2. ansvariga (roller och befattningar) för att styra verksamheten och för att besluta om åtgärder vid ett avbrott eller en större verksamhetsstörning, samt\n\n3. principer för att hantera och besluta om åtgärder beroende på typen och omfattningen av avbrott eller en större verksamhetsstörning.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\nDen verkställande direktören ska besluta om de interna reglerna. ( _FFFS 2024:29_ )\n\n<a id=\"section-0050\"></a>\n### 14 §\n\nEtt företag ska för varje process enligt 1 § fastställa den längst tillåtna tiden för avbrott. ( _FFFS 2024:29_ )\n\n_Analys av konsekvenser och planering för återställning_\n\n<a id=\"section-0051\"></a>\n### 15 §\n\nEtt företag ska regelbundet analysera konsekvenserna av sådana avbrott eller större verksamhetsstörningar som kan inträffa i företagets verksamhet samt i den verksamhet som företaget har uppdragit åt någon annan. ( _FFFS 2024:29_ )\n\n<a id=\"section-0052\"></a>\n### 16 §\n\nKonsekvensanalysen enligt 15 § ska genomföras på alla affärsenheter och stödfunktioner och ta hänsyn till deras beroende av varandra. Ett företag ska använda analysen som underlag för att\n\n1. fastställa företagets prioriteringar och mål för att återgå till normal verksamhet efter ett avbrott eller en större verksamhetsstörning, samt\n\n2. ta fram beredskapsplaner, kontinuitetsplaner och återställningsplaner.\n\nPlanerna enligt 2 ska vara dokumenterade. ( _FFFS 2025:11_ )\n\n_Kommunikation och utbildning_\n\n<!-- PDF page 8 -->\n\n<a id=\"section-0053\"></a>\n### 17 §\n\nEtt företag ska ha rutiner för att hantera sin interna och externa kommunikation i samband med ett avbrott eller en större verksamhetsstörning. Företaget ska när det planerar kommunikationen även ta hänsyn till om ett avbrott eller en störning kan få betydande konsekvenser för verksamheten hos dotterbolag eller filialer, eller på annat sätt kan påverka det finansiella systemet. ( _FFFS 2024:29_ )\n\n<a id=\"section-0054\"></a>\n### 18 §\n\nEtt företag ska regelbundet utbilda och informera sin personal om hur den ska använda beredskapsplaner, kontinuitetsplaner och återställningsplaner. ( _FFFS 2024:29_ )\n\n_Uppdatering och test av planer_\n\n<a id=\"section-0055\"></a>\n### 19 §\n\nEtt företag ska regelbundet uppdatera och testa sina beredskapsplaner, kontinuitetsplaner och återställningsplaner så att de är anpassade till verksamheten och prioriteringarna för att återgå till normal verksamhet enligt 16 §.\n\nFöretaget ska utse en ansvarig person eller funktion för uppdatering och test av varje sådan plan. _( FFFS 2025:11 )_\n\n<a id=\"section-0056\"></a>\n### 20 §\n\nEtt företag ska i de interna reglerna om kontinuitetshantering enligt 13 § fastställa\n\n1. vilka typer av tester det ska utföra enligt 19 §, och\n\n2. hur ofta testerna ska utföras.\n\nFöretaget ska minst årligen testa sina beredskapsplaner, kontinuitetsplaner och återställningsplaner för processer enligt 1 § och de it-system som stödjer dessa processer. _(FFFS 2025:11)_\n\n<a id=\"section-0057\"></a>\n## 6 kap. Ytterligare krav på hantering av operativa risker inom värdepappersrörelse och valutahandel\n\n<a id=\"section-0058\"></a>\n### 1 §\n\nBestämmelserna i detta kapitel ska, utöver det som anges i 1–5 kap., tillämpas på företag som har tillstånd att tillhandahålla investeringstjänster och utföra investeringsverksamheter enligt 2 kap. 1 § 2–3 lagen (2007:528) om värdepappersmarknaden och av de företag som driver valutahandel enligt 7 kap. 1 § 12 lagen (2004:297) om bank- och finansieringsrörelse.\n\n<a id=\"section-0059\"></a>\n#### Åtskillnad av arbetsuppgifter\n\n<a id=\"section-0060\"></a>\n### 2 §\n\nEtt företag ska se till att hålla arbetsuppgifterna åtskilda mellan personal som initierar och genomför affärstransaktioner och personal som arbetar med att stödja, verifiera och övervaka dessa.\n\n<a id=\"section-0061\"></a>\n#### Personal\n\n<a id=\"section-0062\"></a>\n### 3 §\n\nEtt företag ska se till att personal som hanterar affärstransaktioner under minst tio arbetsdagar i följd under en tolvmånadersperiod inte har möjlighet att\n\n1. initiera och genomföra affärstransaktioner,\n\n2. godkänna eller bekräfta affärstransaktioner, eller\n\n3. hantera betalningar kopplade till affärstransaktioner.\n\n<!-- PDF page 9 -->\n\n<a id=\"section-0063\"></a>\n#### Transaktionshantering\n\n<a id=\"section-0064\"></a>\n### 4 §\n\nEtt företag ska se till att\n\n1. det finns en fullständig och dokumenterad verifieringskedja för varje transaktion och att verifieringskedjan säkerställer spårbarhet som gör uppföljning möjlig per handlare,\n\n2. det finns dokumenterade rutiner och kontroller i hela kedjan från öppnandet av en affärsrelation till avveckling av utförda transaktioner,\n\n3. villkor för transaktionen dokumenteras och bekräftas innan handel påbörjas,\n\n4. personal som initierar och genomför affärstransaktioner så snart som möjligt efter ett transaktionsavslut, lämnar nödvändig information och dokumentation till stödfunktionerna så att de kan stämma av, bekräfta, avveckla och följa upp transaktionen,\n\n5. det finns fastställda rutiner för att hantera och rapportera felaktigt utförda transaktioner,\n\n6. det dels finns fastställda rutiner för att hantera och rapportera obekräftade affärer, dels följa upp dessa dagligen, samt\n\n7. dagligen stämma av transaktioner, likvider och positioner.\n\nAvstämningen enligt 7 ska även omfatta ändringar och makuleringar.\n\n<a id=\"section-0065\"></a>\n#### Hantering av säkerheter\n\n<a id=\"section-0066\"></a>\n### 5 §\n\nEtt företag ska ha rutiner för att hantera och kontrollera säkerheterna i samband med transaktioner och positioner.\n\n<a id=\"section-0067\"></a>\n### 6 §\n\nEtt företag ska se till att det finns fastställda rutiner för kontroll av utrymme inom motpartslimiter innan dessa utnyttjas vid handel.\n\n<a id=\"section-0068\"></a>\n#### Övervakning och kontroll\n\n<a id=\"section-0069\"></a>\n### 7 §\n\nEtt företag ska vid väsentliga avvikelser eller orimliga resultat vid handel analysera om dessa är orsakade av misstag, oegentligheter eller andra händelser i verksamheten.\n\n<a id=\"section-0070\"></a>\n### 8 §\n\nEtt företag ska löpande granska och stämma av sina samtliga konton.\n\n<a id=\"section-0071\"></a>\n### 9 §\n\nEtt företag ska kontrollera värdet på sina nettopositioner och de transaktioner som ger upphov till dessa.\n\n<a id=\"section-0072\"></a>\n### 10 §\n\nEtt företag ska fastställa och regelbundet följa upp limiter för sina positioner. Företaget ska sätta limiterna så att det är möjligt att följa upp och kontrollera dem.\n\n<a id=\"section-0073\"></a>\n### 11 §\n\nEtt företag ska minst en gång i kvartalet, kontrollera att behörigheter till de itsystem som används i verksamheten är begränsade till behov utifrån tilldelade arbetsuppgifter.\n\n<!-- PDF page 10 -->\n\n_______________\n\n<a id=\"section-0074\"></a>\n### Ikraftträdande- och övergångsbestämmelser\n\nFFFS 2014:4\n\nDessa föreskrifter och allmänna råd träder i kraft den 1 juni 2014.\n\nFFFS 2014:31\n\nDessa föreskrifter träder i kraft den 2 augusti 2014.\n\nFFFS 2017:9\n\nDessa föreskrifter träder i kraft den 3 januari 2018.\n\nFFFS 2018:1\n\nDessa föreskrifter träder i kraft den 1 mars 2018.\n\nFFFS 2020:31\n\nDessa föreskrifter träder i kraft 29 december 2020.\n\nFFFS 2021:22\n\nDessa föreskrifter träder i kraft den 7 juli 2021.\n\nFFFS 2023:4\n\nDessa föreskrifter träder i kraft den 8 mars 2023.\n\nFFFS 2024:10\n\nDessa föreskrifter träder i kraft den 1 juli 2024.\n\nFFFS 2024:29 Dessa föreskrifter träder i kraft den 17 januari 2025.\n\nFFFS 2025:11\n\nDessa föreskrifter träder i kraft den 1 juli 2025.\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Inledning",
+      "page": 1,
+      "text": "_Observera att denna konsoliderade version är en sammanställning, och att den tryckta författningen är den officiellt giltiga. En konsoliderad version är en fulltextversion där alla ändringar har införts i grundförfattningen._"
+    },
+    {
+      "id": "section-0002",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Chefsjurist Erik Blommé, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460"
+    },
+    {
+      "id": "section-0003",
+      "title": "Finansinspektionens föreskrifter och allmänna råd om hantering av operativa risker",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0004",
+      "title": "FFFS 2014:4",
+      "page": 1,
+      "text": "Konsoliderad elektronisk utgåva\n\nSenast uppdaterad: 2025-06-19\n\nObservera att endast den tryckta utgåvan gäller vid rättstillämpning\n\n|Beslutade:|2014-04-11|\n|---|---|\n|Ikraftträdande:|2014-06-01|\n|Ändringar:|FFFS 2014:31, FFFS 2017:9, FFFS 2018:1, FFFS 2020:31, FFFS 2021:22,|\n||FFFS 2023:4, FFFS 2024:10, FFFS 2024:29, FFFS 2025:11|"
+    },
+    {
+      "id": "section-0005",
+      "title": "1 kap. Tillämpningsområde",
+      "page": 1,
+      "text": ""
+    },
+    {
+      "id": "section-0006",
+      "title": "1 kap. 1 §",
+      "page": 1,
+      "text": "Dessa föreskrifter innehåller bestämmelser om hur ett företag ska hantera sina operativa risker."
+    },
+    {
+      "id": "section-0007",
+      "title": "1 kap. 2 §",
+      "page": 1,
+      "text": "Föreskrifterna gäller för\n\n1. bankaktiebolag,\n\n2. sparbanker,\n\n3. medlemsbanker,\n\n4. kreditmarknadsbolag,\n\n5. kreditmarknadsföreningar, och\n\n6. värdepappersbolag som avses i 1 kap. 2 § första stycket 7 c–g lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag.\n\nFöreskrifterna ska, i enlighet med 3 kap. 4 § lagen om särskild tillsyn över kreditinstitut och värdepappersbolag, tillämpas på grupp- eller undergruppsnivå.\n\nBestämmelserna i dessa föreskrifter gäller inte för hantering av sådana IKT-risker som avses i Dora-förordningen. _(FFFS 2024:29)_"
+    },
+    {
+      "id": "section-0008",
+      "title": "1 kap. 3 §",
+      "page": 1,
+      "text": "För värdepappersbolag gäller inte 5 kap. 13–20 §§ och 6 kap. 4 § första stycket 1. _(FFFS 2025:11)_"
+    },
+    {
+      "id": "section-0009",
+      "title": "1 kap. 4 §",
+      "page": 1,
+      "text": "Föreskrifterna innehåller bestämmelser om följande:\n\n- Tillämpningsområde (1 kap.),\n\n- Styrning och ansvar (2 kap.),\n\n- Identifiering och mätning (3 kap.),\n- Rapportering (4 kap.),\n\n- Hantering av operativa risker i verksamheten (5 kap.), och\n\n– Ytterligare krav på hantering av operativa risker inom värdepappersrörelse och valutahandel (6 kap.)."
+    },
+    {
+      "id": "section-0010",
+      "title": "Definitioner",
+      "page": 2,
+      "text": ""
+    },
+    {
+      "id": "section-0011",
+      "title": "1 kap. 5 §",
+      "page": 2,
+      "text": "I dessa föreskrifter och allmänna råd används samma definitioner som i 1 kap. 3 § Finansinspektionens föreskrifter och allmänna råd (FFFS 2014:1) om styrning, riskhantering och kontroll i kreditinstitut och Finansinspektionens föreskrifter (FFFS 2017:2) om värdepappersrörelse, om inget annat anges."
+    },
+    {
+      "id": "section-0012",
+      "title": "Därutöver betyder",
+      "page": 2,
+      "text": "1. _beredskapsplan_ : en plan som beskriver de åtgärder som ett företag ska vidta för att hantera allvarliga och omfattande avbrott, störningar eller kriser,\n\n2. _incident_ : en händelse som har eller riskerar att få negativ påverkan på företagets verksamhet, tillgångar eller förtroende,\n\n3. _kontinuitetsplan_ : en plan som beskriver hur en verksamhet ska upprätthållas i händelse av ett avbrott eller en större verksamhetsstörning,\n\n4. _operativ risk_ : detsamma som i artikel 4.1 52 i Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012,\n\n5. _process_ : en kedja av sammanhängande aktiviteter som utifrån en viss resursinsats producerar ett resultat, och\n\n6. _återställningsplan_ : en plan som beskriver enligt vilka prioriteringar och rutiner ett företag ska återgå till normal verksamhet efter ett avbrott eller en större verksamhetsstörning. _(FFFS 2021:22)_"
+    },
+    {
+      "id": "section-0013",
+      "title": "2 kap. Styrning och ansvar",
+      "page": 2,
+      "text": ""
+    },
+    {
+      "id": "section-0014",
+      "title": "2 kap. 1 §",
+      "page": 2,
+      "text": "Ett företag ska fastställa en riskaptit för sina operativa risker. Inom ramen för riskaptiten ska företaget även ha limiter för sina operativa risker.\n\nFöretaget ska när det fastställer limiter utgå från produkter, tjänster, funktioner, processer och it-system. Limiterna ska kunna vara mätbara genom kvalitativa eller kvantitativa mått. Företaget ska dokumentera riskaptiten och limiterna.\n\nStyrelsen ska besluta om och regelbundet utvärdera och uppdatera riskaptiten för operativa risker om det behövs. Den verkställande direktören ska besluta om och regelbundet utvärdera och uppdatera limiterna för de operativa riskerna om det behövs."
+    },
+    {
+      "id": "section-0015",
+      "title": "2 kap. 2 §",
+      "page": 2,
+      "text": "Ett företag ska ha interna regler för sin hantering av operativa risker som anger\n\n1. vilka operativa risker som företaget i huvudsak är exponerat för,\n2. dels de metoder och processer som används för att identifiera, mäta och hantera operativa risker, inklusive de risker som följer av uppdragsavtal, som även tar hänsyn till sällan förekommande incidenter av allvarlig art, dels rutiner för att hantera risken för att metoderna kan ge felaktiga resultat, samt\n\n3. företagets rutiner för att fastställa och övervaka riskaptiten och limiterna enligt 1 §.\n\nOm företaget använder risköverföring i sin hantering av operativa risker, ska det ange principerna för detta i de interna reglerna.\n\nStyrelsen ska besluta om de interna reglerna.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet. _(FFFS 2020:31)_"
+    },
+    {
+      "id": "section-0016",
+      "title": "Uppdragsavtal",
+      "page": 3,
+      "text": ""
+    },
+    {
+      "id": "section-0017",
+      "title": "2 kap. 3 §",
+      "page": 3,
+      "text": "Bestämmelser om uppdragsavtal finns i artiklarna 30–32 i den delegerade förordningen till Mifid 2 och 10 kap. Finansinspektionens föreskrifter och allmänna råd (FFFS 2014:1) om styrning, riskhantering och kontroll i kreditinstitut. _(FFFS 2017:9)_"
+    },
+    {
+      "id": "section-0018",
+      "title": "3 kap. Identifiering och mätning",
+      "page": 3,
+      "text": ""
+    },
+    {
+      "id": "section-0019",
+      "title": "3 kap. 1 §",
+      "page": 3,
+      "text": "Ett företag ska identifiera operativa risker i sina produkter, tjänster, funktioner och processer. ( _FFFS 2024:29_ )."
+    },
+    {
+      "id": "section-0020",
+      "title": "3 kap. 2 §",
+      "page": 3,
+      "text": "Ett företag ska ha metoder för att identifiera och mäta sina operativa risker. Metoderna ska vara dokumenterade.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet."
+    },
+    {
+      "id": "section-0021",
+      "title": "3 kap. 3 §",
+      "page": 3,
+      "text": "Ett företag ska regelbundet mäta de operativa riskerna enligt 1 §, genom att bedöma sannolikheten för att de inträffar och vilka konsekvenserna blir av detta. Företaget ska även fastställa vilka åtgärder det ska vidta för att hantera riskerna."
+    },
+    {
+      "id": "section-0022",
+      "title": "Riskindikatorer",
+      "page": 3,
+      "text": ""
+    },
+    {
+      "id": "section-0023",
+      "title": "3 kap. 4 §",
+      "page": 3,
+      "text": "Ett företag ska fastställa och dokumentera indikatorer och gränsvärden för sina operativa risker som ger en förvarning om när riskerna har ökat.\n\nFöretaget ska regelbundet se över och om det behövs uppdatera indikatorerna och gränsvärdena.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\n_Allmänna råd_\n\nExempel på indikatorer som företaget bör beakta är\n\n1. frekventa omorganisationer eller större verksamhetsförändringar,\n2. hög personalomsättning,\n\n3. många vakanta tjänster,\n\n4. många kundklagomål,\n\n5. att antalet incidenter har ökat eller typen av incidenter har förändrats, och\n\n6. att funktionen för internrevision har rapporterat om brister i de interna reglerna."
+    },
+    {
+      "id": "section-0024",
+      "title": "Incidenter",
+      "page": 4,
+      "text": ""
+    },
+    {
+      "id": "section-0025",
+      "title": "3 kap. 5 §",
+      "page": 4,
+      "text": "Ett företag ska ha interna regler för att hantera de incidenter som uppstår i verksamheten."
+    },
+    {
+      "id": "section-0026",
+      "title": "3 kap. 6 §",
+      "page": 4,
+      "text": "Ett företag ska när det inträffar en incident dokumentera och analysera incidenten. Företaget ska även dokumentera de förluster som har uppstått i samband med denna. Företaget ska ha rutiner för att säkerställa att dessa uppgifter är korrekta. Detta gäller inte om en incident anmäls anonymt.\n\nFöretaget ska använda uppgifterna i första stycket när det identifierar och mäter operativa risker enligt 3 §."
+    },
+    {
+      "id": "section-0027",
+      "title": "4 kap. Rapportering",
+      "page": 4,
+      "text": ""
+    },
+    {
+      "id": "section-0028",
+      "title": "4 kap. 1 §",
+      "page": 4,
+      "text": "Ett företag ska i sin rapportering av operativa risker till styrelsen och verkställande direktören ange\n\n1. indikatorer för operativa risker enligt 3 kap. 4 §,\n\n2. överträdelser av riskaptit och risklimiter enligt 2 kap. 1 §, samt\n\n3. allvarliga incidenter.\n\nFöretaget ska dessutom minst årligen informera styrelsen om resultatet från tester av beredskapsplaner, kontinuitetsplaner och återställningsplaner.\n\nFöretaget ska när det tillämpar första och andra styckena ta hänsyn till verksamhetens art, omfattning och komplexitet."
+    },
+    {
+      "id": "section-0029",
+      "title": "5 kap. Hantering av operativa risker i verksamheten",
+      "page": 4,
+      "text": ""
+    },
+    {
+      "id": "section-0030",
+      "title": "Processer",
+      "page": 4,
+      "text": ""
+    },
+    {
+      "id": "section-0031",
+      "title": "5 kap. 1 §",
+      "page": 4,
+      "text": "Ett företag ska fastställa och i en förteckning ange vilka processer i verksamheten som är av väsentlig betydelse.\n\nFörteckningen ska regelbundet ses över och uppdateras om det behövs."
+    },
+    {
+      "id": "section-0032",
+      "title": "5 kap. 2 §",
+      "page": 4,
+      "text": "Ett företag ska dokumentera processerna enligt 1 § och utse en ansvarig person eller funktion för varje sådan process."
+    },
+    {
+      "id": "section-0033",
+      "title": "5 kap. 3 §",
+      "page": 4,
+      "text": "Ett företag ska i interna regler ange hur det ska dokumentera processerna enligt 1 § och hur operativa risker i dessa ska hanteras.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\nFöretaget bör i processdokumentationen enligt 2 § beskriva\n\n1. vilka regler som påverkar processens utformning,\n\n2. processens huvudsakliga aktiviteter och deras samband (flödesschema),\n\n3. vilken information som används i aktiviteterna enligt 2,\n\n4. de krav som ställs på kvalitet i informationen enligt 3,\n\n5. vilka it-system som stödjer processen,\n\n6. när kontroll görs och beslut fattas i processen,\n\n7. intressenter till processen, t.ex. personal, kunder, myndigheter, underleverantörer och andra företag, samt\n\n8. processens resultat, t.ex. en tjänst, produkt eller en annan uteffekt."
+    },
+    {
+      "id": "section-0034",
+      "title": "5 kap. 4 §",
+      "page": 5,
+      "text": "Ett företag ska ha rutiner för att analysera om det finns aktiviteter i processerna enligt 1 § där det finns risk för betydande förluster på grund av t.ex. misstag, manipulering av information samt möjlighet att dölja felbedömningar och förluster.\n\nOm företaget identifierar sådana aktiviteter ska det införa nödvändiga kontroller i processerna.\n\nRutinerna enligt första stycket ska dokumenteras.\n\nFöretaget ska när det tillämpar första och andra styckena ta hänsyn till verksamhetens art, omfattning och komplexitet."
+    },
+    {
+      "id": "section-0035",
+      "title": "Personal",
+      "page": 5,
+      "text": ""
+    },
+    {
+      "id": "section-0036",
+      "title": "5 kap. 5 §",
+      "page": 5,
+      "text": "Ett företag ska ha rutiner för hur det hanterar operativa risker i fråga om sin personal, där det framgår hur företaget\n\n1. kontrollerar nödvändiga uppgifter och särskilt beaktar risken för intressekonflikter i samband med att företaget anställer ny personal,\n\n2. ser till att det har tillräckligt med personal i förhållande till arbetsuppgifterna,\n\n3. dels utvärderar om det har personal med en sådan kompetens eller som fyller en sådan funktion att de är svåra att ersätta med kort varsel, dels utser ersättare för sådan personal,\n\n4. fastställer krav på kompetens och kunskap för personalen samt ser till att deras kompetens och kunskap upprätthålls,\n\n5. fastställer och uppdaterar befattningsbeskrivningar, mandat och limiter,\n\n6. hanterar den tystnadsplikt som regleras i 1 kap. 10 § lagen (2004:297) om bank- och finansieringsrörelse och 1 kap. 11 § värdepappersmarknadslagen (2007:528), samt\n\n7. identifierar och hanterar operativa risker som kan uppstå i samband med att personalen internt byter arbetsuppgifter eller organisatorisk enhet.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet."
+    },
+    {
+      "id": "section-0037",
+      "title": "Legala risker",
+      "page": 5,
+      "text": ""
+    },
+    {
+      "id": "section-0038",
+      "title": "5 kap. 6 §",
+      "page": 6,
+      "text": "Ett företag ska i interna regler ange hur det hanterar legala risker. De interna reglerna ska ange på vilket sätt företaget\n\n1. säkerställer att verksamheten följer lagar, förordningar och andra regler, 2. säkerställer och följer upp att ingångna avtal eller andra rättshandlingar är korrekta och giltiga,\n\n3. arkiverar avtal och andra rättshandlingar, samt\n\n4. hanterar och följer upp rättsliga processer.\n\nDe interna reglerna enligt första stycket ska även ange vilken person eller funktion som ansvarar för hanteringen av 1–4."
+    },
+    {
+      "id": "section-0039",
+      "title": "Säkerhetsarbete",
+      "page": 6,
+      "text": ""
+    },
+    {
+      "id": "section-0040",
+      "title": "5 kap. 7 §",
+      "page": 6,
+      "text": "Ett företag ska ha interna regler för säkerhetsarbete som innehåller uppgifter om vilka tillgångar och värden som ska skyddas. Företaget ska ange dels vilka åtgärder det ska vidta för att skydda dessa, dels hur omfattande åtgärderna ska vara.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet."
+    },
+    {
+      "id": "section-0041",
+      "title": "Allmänna råd",
+      "page": 6,
+      "text": "Företaget bör i säkerhetsarbetet använda scenarion eller simuleringar för att öka kunskapen om hur olika typer av hot, oegentligheter och brottsliga handlingar kan uppstå i företagets verksamhet."
+    },
+    {
+      "id": "section-0042",
+      "title": "Process för godkännande",
+      "page": 6,
+      "text": ""
+    },
+    {
+      "id": "section-0043",
+      "title": "5 kap. 8 §",
+      "page": 6,
+      "text": "Ett företag ska ha en process för att godkänna nya eller väsentligt förändrade produkter, tjänster, marknader och processer samt större förändringar i företagets verksamhet och organisation.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet. ( _FFFS 2024:29_ )"
+    },
+    {
+      "id": "section-0044",
+      "title": "5 kap. 9 §",
+      "page": 6,
+      "text": "Ett företag ska i interna regler beskriva processen för godkännande enligt 8 §. De interna reglerna ska även ange\n\n1. vad företaget avser med nya eller väsentligt förändrade befintliga produkter, tjänster, marknader, processer, it-system och större förändringar i företagets verksamhet och organisation, samt\n\n2. vilka funktioner och enheter som ska delta i processen.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet när det tar fram de interna reglerna. _(FFFS 2025:11)_"
+    },
+    {
+      "id": "section-0045",
+      "title": "5 kap. 10 §",
+      "page": 6,
+      "text": "Ett företag ska se till att följande moment finns med i processen för godkännande enligt 8 §:\n\n1. kontroll av att gällande regler följs,\n\n2. analys av om företagets risknivåer kan öka eller om nya risker kan uppstå och om detta kan påverka företagets kapitalbehov,\n3. kontroll av att det finns tillräckligt med personal och tillgång till kompetens, interna regler, verktyg och processer i affärsenheter samt stöd- och kontrollfunktioner för att kunna förstå och övervaka riskerna, samt\n\n4. dokumentation av beslut om godkännande där de överväganden framgår som legat till grund för beslutet. _(FFFS 2025:11)_"
+    },
+    {
+      "id": "section-0046",
+      "title": "5 kap. 11 §",
+      "page": 7,
+      "text": "Om det inte anges i de interna reglerna enligt 9 § 1 att processen enligt 8 § ska tillämpas ska funktionen för riskkontroll avgöra detta. _(FFFS 2025:11)_"
+    },
+    {
+      "id": "section-0047",
+      "title": "5 kap. 12 §",
+      "page": 7,
+      "text": "När ett företag beslutar om en ny produkt, tjänst, marknad eller process ska det fastställa vilken person eller funktion som ska ansvara för att hantera risker som är förenade med dessa. ( _FFFS 2024:29_ )"
+    },
+    {
+      "id": "section-0048",
+      "title": "Kontinuitetshantering",
+      "page": 7,
+      "text": ""
+    },
+    {
+      "id": "section-0049",
+      "title": "5 kap. 13 §",
+      "page": 7,
+      "text": "Ett företag ska i interna regler för kontinuitetshantering ange\n\n1. de metoder och rutiner som företaget ska följa för att ha en väl fungerande kontinuitetshantering. Metoderna och rutinerna ska omfatta beredskapsplaner, kontinuitetsplaner och återställningsplaner,\n\n2. ansvariga (roller och befattningar) för att styra verksamheten och för att besluta om åtgärder vid ett avbrott eller en större verksamhetsstörning, samt\n\n3. principer för att hantera och besluta om åtgärder beroende på typen och omfattningen av avbrott eller en större verksamhetsstörning.\n\nFöretaget ska när det tillämpar första stycket ta hänsyn till verksamhetens art, omfattning och komplexitet.\n\nDen verkställande direktören ska besluta om de interna reglerna. ( _FFFS 2024:29_ )"
+    },
+    {
+      "id": "section-0050",
+      "title": "5 kap. 14 §",
+      "page": 7,
+      "text": "Ett företag ska för varje process enligt 1 § fastställa den längst tillåtna tiden för avbrott. ( _FFFS 2024:29_ )\n\n_Analys av konsekvenser och planering för återställning_"
+    },
+    {
+      "id": "section-0051",
+      "title": "5 kap. 15 §",
+      "page": 7,
+      "text": "Ett företag ska regelbundet analysera konsekvenserna av sådana avbrott eller större verksamhetsstörningar som kan inträffa i företagets verksamhet samt i den verksamhet som företaget har uppdragit åt någon annan. ( _FFFS 2024:29_ )"
+    },
+    {
+      "id": "section-0052",
+      "title": "5 kap. 16 §",
+      "page": 7,
+      "text": "Konsekvensanalysen enligt 15 § ska genomföras på alla affärsenheter och stödfunktioner och ta hänsyn till deras beroende av varandra. Ett företag ska använda analysen som underlag för att\n\n1. fastställa företagets prioriteringar och mål för att återgå till normal verksamhet efter ett avbrott eller en större verksamhetsstörning, samt\n\n2. ta fram beredskapsplaner, kontinuitetsplaner och återställningsplaner.\n\nPlanerna enligt 2 ska vara dokumenterade. ( _FFFS 2025:11_ )\n\n_Kommunikation och utbildning_"
+    },
+    {
+      "id": "section-0053",
+      "title": "5 kap. 17 §",
+      "page": 8,
+      "text": "Ett företag ska ha rutiner för att hantera sin interna och externa kommunikation i samband med ett avbrott eller en större verksamhetsstörning. Företaget ska när det planerar kommunikationen även ta hänsyn till om ett avbrott eller en störning kan få betydande konsekvenser för verksamheten hos dotterbolag eller filialer, eller på annat sätt kan påverka det finansiella systemet. ( _FFFS 2024:29_ )"
+    },
+    {
+      "id": "section-0054",
+      "title": "5 kap. 18 §",
+      "page": 8,
+      "text": "Ett företag ska regelbundet utbilda och informera sin personal om hur den ska använda beredskapsplaner, kontinuitetsplaner och återställningsplaner. ( _FFFS 2024:29_ )\n\n_Uppdatering och test av planer_"
+    },
+    {
+      "id": "section-0055",
+      "title": "5 kap. 19 §",
+      "page": 8,
+      "text": "Ett företag ska regelbundet uppdatera och testa sina beredskapsplaner, kontinuitetsplaner och återställningsplaner så att de är anpassade till verksamheten och prioriteringarna för att återgå till normal verksamhet enligt 16 §.\n\nFöretaget ska utse en ansvarig person eller funktion för uppdatering och test av varje sådan plan. _( FFFS 2025:11 )_"
+    },
+    {
+      "id": "section-0056",
+      "title": "5 kap. 20 §",
+      "page": 8,
+      "text": "Ett företag ska i de interna reglerna om kontinuitetshantering enligt 13 § fastställa\n\n1. vilka typer av tester det ska utföra enligt 19 §, och\n\n2. hur ofta testerna ska utföras.\n\nFöretaget ska minst årligen testa sina beredskapsplaner, kontinuitetsplaner och återställningsplaner för processer enligt 1 § och de it-system som stödjer dessa processer. _(FFFS 2025:11)_"
+    },
+    {
+      "id": "section-0057",
+      "title": "6 kap. Ytterligare krav på hantering av operativa risker inom värdepappersrörelse och valutahandel",
+      "page": 8,
+      "text": ""
+    },
+    {
+      "id": "section-0058",
+      "title": "6 kap. 1 §",
+      "page": 8,
+      "text": "Bestämmelserna i detta kapitel ska, utöver det som anges i 1–5 kap., tillämpas på företag som har tillstånd att tillhandahålla investeringstjänster och utföra investeringsverksamheter enligt 2 kap. 1 § 2–3 lagen (2007:528) om värdepappersmarknaden och av de företag som driver valutahandel enligt 7 kap. 1 § 12 lagen (2004:297) om bank- och finansieringsrörelse."
+    },
+    {
+      "id": "section-0059",
+      "title": "Åtskillnad av arbetsuppgifter",
+      "page": 8,
+      "text": ""
+    },
+    {
+      "id": "section-0060",
+      "title": "6 kap. 2 §",
+      "page": 8,
+      "text": "Ett företag ska se till att hålla arbetsuppgifterna åtskilda mellan personal som initierar och genomför affärstransaktioner och personal som arbetar med att stödja, verifiera och övervaka dessa."
+    },
+    {
+      "id": "section-0061",
+      "title": "Personal",
+      "page": 8,
+      "text": ""
+    },
+    {
+      "id": "section-0062",
+      "title": "6 kap. 3 §",
+      "page": 8,
+      "text": "Ett företag ska se till att personal som hanterar affärstransaktioner under minst tio arbetsdagar i följd under en tolvmånadersperiod inte har möjlighet att\n\n1. initiera och genomföra affärstransaktioner,\n\n2. godkänna eller bekräfta affärstransaktioner, eller\n\n3. hantera betalningar kopplade till affärstransaktioner."
+    },
+    {
+      "id": "section-0063",
+      "title": "Transaktionshantering",
+      "page": 9,
+      "text": ""
+    },
+    {
+      "id": "section-0064",
+      "title": "6 kap. 4 §",
+      "page": 9,
+      "text": "Ett företag ska se till att\n\n1. det finns en fullständig och dokumenterad verifieringskedja för varje transaktion och att verifieringskedjan säkerställer spårbarhet som gör uppföljning möjlig per handlare,\n\n2. det finns dokumenterade rutiner och kontroller i hela kedjan från öppnandet av en affärsrelation till avveckling av utförda transaktioner,\n\n3. villkor för transaktionen dokumenteras och bekräftas innan handel påbörjas,\n\n4. personal som initierar och genomför affärstransaktioner så snart som möjligt efter ett transaktionsavslut, lämnar nödvändig information och dokumentation till stödfunktionerna så att de kan stämma av, bekräfta, avveckla och följa upp transaktionen,\n\n5. det finns fastställda rutiner för att hantera och rapportera felaktigt utförda transaktioner,\n\n6. det dels finns fastställda rutiner för att hantera och rapportera obekräftade affärer, dels följa upp dessa dagligen, samt\n\n7. dagligen stämma av transaktioner, likvider och positioner.\n\nAvstämningen enligt 7 ska även omfatta ändringar och makuleringar."
+    },
+    {
+      "id": "section-0065",
+      "title": "Hantering av säkerheter",
+      "page": 9,
+      "text": ""
+    },
+    {
+      "id": "section-0066",
+      "title": "6 kap. 5 §",
+      "page": 9,
+      "text": "Ett företag ska ha rutiner för att hantera och kontrollera säkerheterna i samband med transaktioner och positioner."
+    },
+    {
+      "id": "section-0067",
+      "title": "6 kap. 6 §",
+      "page": 9,
+      "text": "Ett företag ska se till att det finns fastställda rutiner för kontroll av utrymme inom motpartslimiter innan dessa utnyttjas vid handel."
+    },
+    {
+      "id": "section-0068",
+      "title": "Övervakning och kontroll",
+      "page": 9,
+      "text": ""
+    },
+    {
+      "id": "section-0069",
+      "title": "6 kap. 7 §",
+      "page": 9,
+      "text": "Ett företag ska vid väsentliga avvikelser eller orimliga resultat vid handel analysera om dessa är orsakade av misstag, oegentligheter eller andra händelser i verksamheten."
+    },
+    {
+      "id": "section-0070",
+      "title": "6 kap. 8 §",
+      "page": 9,
+      "text": "Ett företag ska löpande granska och stämma av sina samtliga konton."
+    },
+    {
+      "id": "section-0071",
+      "title": "6 kap. 9 §",
+      "page": 9,
+      "text": "Ett företag ska kontrollera värdet på sina nettopositioner och de transaktioner som ger upphov till dessa."
+    },
+    {
+      "id": "section-0072",
+      "title": "6 kap. 10 §",
+      "page": 9,
+      "text": "Ett företag ska fastställa och regelbundet följa upp limiter för sina positioner. Företaget ska sätta limiterna så att det är möjligt att följa upp och kontrollera dem."
+    },
+    {
+      "id": "section-0073",
+      "title": "6 kap. 11 §",
+      "page": 9,
+      "text": "Ett företag ska minst en gång i kvartalet, kontrollera att behörigheter till de itsystem som används i verksamheten är begränsade till behov utifrån tilldelade arbetsuppgifter.\n_______________"
+    },
+    {
+      "id": "section-0074",
+      "title": "Ikraftträdande- och övergångsbestämmelser",
+      "page": 10,
+      "text": "FFFS 2014:4\n\nDessa föreskrifter och allmänna råd träder i kraft den 1 juni 2014.\n\nFFFS 2014:31\n\nDessa föreskrifter träder i kraft den 2 augusti 2014.\n\nFFFS 2017:9\n\nDessa föreskrifter träder i kraft den 3 januari 2018.\n\nFFFS 2018:1\n\nDessa föreskrifter träder i kraft den 1 mars 2018.\n\nFFFS 2020:31\n\nDessa föreskrifter träder i kraft 29 december 2020.\n\nFFFS 2021:22\n\nDessa föreskrifter träder i kraft den 7 juli 2021.\n\nFFFS 2023:4\n\nDessa föreskrifter träder i kraft den 8 mars 2023.\n\nFFFS 2024:10\n\nDessa föreskrifter träder i kraft den 1 juli 2024.\n\nFFFS 2024:29 Dessa föreskrifter träder i kraft den 17 januari 2025.\n\nFFFS 2025:11\n\nDessa föreskrifter träder i kraft den 1 juli 2025."
+    }
+  ],
+  "metadata": {
+    "id": "2014-04",
+    "number": "FFFS 2014:4",
+    "title": "Finansinspektionens föreskrifter och allmänna råd om hantering av operativa risker",
+    "year": 2014,
+    "status": "current",
+    "kind": "fi_consolidated",
+    "effectiveFrom": "2014-06-01",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/e9720562371742808d03dbae519473cf/fs1404.pdf",
+    "pdfUrl": "pdf/2014-04.pdf",
+    "markdownUrl": "documents/2014-04.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2014-04/",
+    "amendments": [
+      {
+        "number": "FFFS 2014:31",
+        "effectiveFrom": "2014-08-02",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/201431/",
+        "pdfUrl": "https://www.fi.se/contentassets/0718ce56c0af4803bbd1e5f94b0d3ab2/fs1431.pdf"
+      },
+      {
+        "number": "FFFS 2017:9",
+        "effectiveFrom": "2018-01-03",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/20179/",
+        "pdfUrl": "https://www.fi.se/contentassets/f3b26a16f460456d8060dcaf9f7ca38a/fs1709.pdf"
+      },
+      {
+        "number": "FFFS 2018:1",
+        "effectiveFrom": "2018-03-01",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/20181/",
+        "pdfUrl": "https://www.fi.se/contentassets/32119dbfd6b74062b7bc467a699e627b/fs1801.pdf"
+      },
+      {
+        "number": "FFFS 2020:31",
+        "effectiveFrom": "2020-12-29",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/202031/",
+        "pdfUrl": "https://www.fi.se/contentassets/7cad37ad279f43f7851fbb8f4c1be02c/fs2031.pdf"
+      },
+      {
+        "number": "FFFS 2021:22",
+        "effectiveFrom": "2021-07-07",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/202122/",
+        "pdfUrl": "https://www.fi.se/contentassets/4b11baf8eb254981aa24648f8fc9358d/fs2122.pdf"
+      },
+      {
+        "number": "FFFS 2023:4",
+        "effectiveFrom": "2023-03-08",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/20234/",
+        "pdfUrl": "https://www.fi.se/contentassets/11943972f6fc4540b376b71f46bdbb3f/fs2304.pdf"
+      },
+      {
+        "number": "FFFS 2024:10",
+        "effectiveFrom": "2024-07-01",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/202410/",
+        "pdfUrl": "https://www.fi.se/contentassets/c4d5f9665da94e7d8a5e81a3f3a2fcfc/fs2410.pdf"
+      },
+      {
+        "number": "FFFS 2024:29",
+        "effectiveFrom": "2025-01-17",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/202429/",
+        "pdfUrl": "https://www.fi.se/contentassets/8a5e3ddf0b414039ae060753a2647015/fs2429.pdf"
+      },
+      {
+        "number": "FFFS 2025:11",
+        "effectiveFrom": "2025-07-01",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/202511/",
+        "pdfUrl": "https://www.fi.se/contentassets/2d0e3ea14e69484ca2c8032dba8885f7/fs2511.pdf"
+      }
+    ],
+    "notes": [
+      "Registerstatus och identifierade statusavvikelser är granskade per 2026-10-09. Fullständig juridisk validering av samtliga övergångsregler återstår.",
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 10,
+    "categories": [
+      "Bank och kredit",
+      "Börs och clearing",
+      "Värdepappersinstitut",
+      "Företagsstyrning"
+    ],
+    "institutions": [
+      "Bankaktiebolag",
+      "Sparbanker",
+      "Medlemsbanker",
+      "Kreditmarknadsbolag",
+      "Kreditmarknadsföreningar",
+      "Värdepappersbolag",
+      "Kreditinstitut",
+      "Värdepappersinstitut"
+    ],
+    "applicability": {
+      "text": "1 kap. 1 §\nDessa föreskrifter innehåller bestämmelser om hur ett företag ska hantera sina operativa risker.\n\n1 kap. 2 §\nFöreskrifterna gäller för\n\n1. bankaktiebolag,\n\n2. sparbanker,\n\n3. medlemsbanker,\n\n4. kreditmarknadsbolag,\n\n5. kreditmarknadsföreningar, och\n\n6. värdepappersbolag som avses i 1 kap. 2 § första stycket 7 c–g lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag.\n\nFöreskrifterna ska, i enlighet med 3 kap. 4 § lagen om särskild tillsyn över kreditinstitut och värdepappersbolag, tillämpas på grupp- eller undergruppsnivå.\n\nBestämmelserna i dessa föreskrifter gäller inte för hantering av sådana IKT-risker som avses i Dora-förordningen. (FFFS 2024:29)\n\n1 kap. 3 §\nFör värdepappersbolag gäller inte 5 kap. 13–20 §§ och 6 kap. 4 § första stycket 1. (FFFS 2025:11)",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+      "note": "1 kap. 2 § undantar hantering av IKT-risker enligt DORA. Värdepappersbolagen är en särskilt avgränsad delgrupp; 1 kap. 3 § innehåller ytterligare undantag för dem. Institutionstaggarna är sökhjälp för den berörda delen av en grupp, inte ett besked om att varje företag i gruppen omfattas. Läs verksamhetsvillkor, undantag och övergångsregler; en filtrerad lista är inte uttömmande.",
+      "sectionId": "section-0006"
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2014:4.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Börs och clearing",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Börs och clearing innehåller registerposten FFFS 2014:4.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=96",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2014:4.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Företagsstyrning",
+        "type": "category",
+        "evidence": "Redaktionellt ämnesord grundat på rubriken: Finansinspektionens föreskrifter och allmänna råd om hantering av operativa risker",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "confidence": "editorial"
+      },
+      {
+        "tag": "Bankaktiebolag",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: bankaktiebolag,",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sectionId": "section-0007",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Sparbanker",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: sparbanker,",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sectionId": "section-0007",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Medlemsbanker",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: medlemsbanker,",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sectionId": "section-0007",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Kreditmarknadsbolag",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: kreditmarknadsbolag,",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sectionId": "section-0007",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Kreditmarknadsföreningar",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: kreditmarknadsföreningar, och",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sectionId": "section-0007",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersbolag",
+        "type": "institution",
+        "evidence": "1 kap. 2 §: värdepappersbolag som avses i 1 kap. 2 § första stycket 7 c–g lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sectionId": "section-0007",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Kreditinstitut",
+        "type": "institution",
+        "evidence": "Överordnad sökgrupp för de uttryckligen omfattade typerna Bankaktiebolag, Kreditmarknadsbolag, Kreditmarknadsföreningar, Medlemsbanker, Sparbanker. Sambandet följer av definitionerna i 1 kap. 5 § lagen (2004:297). Taggen utvidgar inte föreskriftens personkrets.",
+        "sourceUrl": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2004297-om-bank-och-finansieringsrorelse_sfs-2004-297/",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "institution",
+        "evidence": "Överordnad sökgrupp för den i FFFS-texten uttryckligen omfattade delen: Värdepappersbolag. Definitionen i lagen (2007:528) används som gruppkoppling, inte som utvidgning av personkretsen.",
+        "sourceUrl": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2007528-om-vardepappersmarknaden_sfs-2007-528/",
+        "confidence": "editorial",
+        "sectionId": "section-0006"
+      }
+    ],
+    "euRelations": [
+      {
+        "id": "32012R0648",
+        "celex": "32012R0648",
+        "title": "Förordning nr 648/2012",
+        "label": "EMIR",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32012R0648",
+        "evidence": "… : detsamma som i artikel 4.1 52 i Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012, 5. _process_ : en kedja av sammanhängande aktiviteter som utifrån en viss resursinsats producerar ett resultat, och 6. _återställningsplan_ : en plan som beskriver enligt vilka prioriteringar och rutiner ett företag ska återgå till normal verksamhet efter ett avbrott eller en större verksamhetsstörning. _(FFFS 2021:22)_",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2014-04.json",
+        "sourceSectionTitle": "Därutöver betyder",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0012",
+        "page": 2
+      },
+      {
+        "id": "32013R0575",
+        "celex": "32013R0575",
+        "title": "Förordning nr 575/2013",
+        "label": "CRR",
+        "relation": "references",
+        "url": "https://eur-lex.europa.eu/legal-content/SV/TXT/?uri=CELEX:32013R0575",
+        "evidence": "… ska upprätthållas i händelse av ett avbrott eller en större verksamhetsstörning, 4. _operativ risk_ : detsamma som i artikel 4.1 52 i Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012, 5. _process_ : en kedja av sammanhängande aktiviteter som utifrån en viss resursinsats producerar ett resultat, och 6. _återställningsplan_ : en plan som beskriver enligt vilka prioriteringar och rutiner ett företag ska återgå till normal verksamhet efter ett avbrott eller en större verksamhetsstörning. _(FFFS 2021:22)_",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2014/20144/",
+        "sourceTextPath": "_granskning_2026-10-09/webdata/data/documents/2014-04.json",
+        "sourceSectionTitle": "Därutöver betyder",
+        "evidenceType": "explicit_text_reference",
+        "sectionId": "section-0012",
+        "page": 2
+      }
+    ]
+  }
+}

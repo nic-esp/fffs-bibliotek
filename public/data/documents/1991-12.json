@@ -1,0 +1,62 @@
+{
+  "id": "1991-12",
+  "markdown": "# FFFS 1991:12 — Finansinspektionens föreskrifter angående upphävande av Bankinspektionens föreskrifter (BFFS 1986:16) angående fondkommissionsbolagens rapportering av kreditengagemang\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/1991-12.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/199112/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/3df8353f88744599b9c7456f6a5f7019/fffs9112.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING\n\n**FFFS 1991:12**\n\n**Finansinspektionens föreskrifter angående upphävande av bankinspektionens föreskrifter (BFFS 1986:16) angående fondkommissionsbolagens rapportering av kreditengagemang.**\n\nutfärdade den 18 december 1991.\n\nGenom dessa föreskrifter upphör bankinspektionens föreskrifter (BFFS 1986:16) angående fondkommissionsbolagens rapportering av kreditengagemang att gälla. När det gäller rapportering av stora engagemang, både för värdepappersbolag och fondkommissionsbolag, hänvisas till finansinspektionens allmänna råd (FFFS 1991:9) rörande kreditinstitutens rapportering av stora exponeringar.\n\nANDERS SAHLÉN\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "FINANSINSPEKTIONENS FÖRFATTNINGSSAMLING",
+      "page": 1,
+      "text": "**FFFS 1991:12**\n\n**Finansinspektionens föreskrifter angående upphävande av bankinspektionens föreskrifter (BFFS 1986:16) angående fondkommissionsbolagens rapportering av kreditengagemang.**\n\nutfärdade den 18 december 1991.\n\nGenom dessa föreskrifter upphör bankinspektionens föreskrifter (BFFS 1986:16) angående fondkommissionsbolagens rapportering av kreditengagemang att gälla. När det gäller rapportering av stora engagemang, både för värdepappersbolag och fondkommissionsbolag, hänvisas till finansinspektionens allmänna råd (FFFS 1991:9) rörande kreditinstitutens rapportering av stora exponeringar.\n\nANDERS SAHLÉN"
+    }
+  ],
+  "metadata": {
+    "id": "1991-12",
+    "number": "FFFS 1991:12",
+    "title": "Finansinspektionens föreskrifter angående upphävande av Bankinspektionens föreskrifter (BFFS 1986:16) angående fondkommissionsbolagens rapportering av kreditengagemang",
+    "year": 1991,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "1991-12-18",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/199112/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/3df8353f88744599b9c7456f6a5f7019/fffs9112.pdf",
+    "pdfUrl": "pdf/1991-12.pdf",
+    "markdownUrl": "documents/1991-12.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/1991-12/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Värdepappersinstitut",
+      "Rapportering"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/199112/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 1991:12.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Rapportering",
+        "type": "category",
+        "evidence": "Redaktionellt ämnesord grundat på rubriken: Finansinspektionens föreskrifter angående upphävande av Bankinspektionens föreskrifter (BFFS 1986:16) angående fondkommissionsbolagens rapportering av kreditengagemang",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/1991/199112/",
+        "confidence": "editorial"
+      }
+    ],
+    "euRelations": []
+  }
+}

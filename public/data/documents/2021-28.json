@@ -1,0 +1,62 @@
+{
+  "id": "2021-28",
+  "markdown": "# FFFS 2021:28 — Finansinspektionens föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2018:9) om rapportering av uppgifter om kapitalbaskrav för vissa värdepappersbolag\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2021-28.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2021/202128/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/c90fb1259d114271ad735da0ba42ad3a/fs2128.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Chefsjurist Eric Leijonram, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n**Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2018:9) om rapportering av uppgifter om kapitalbaskrav för vissa värdepappersbolag;**\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2021-28/FFFS_2021-28.pdf-0001-03.png)\n\n**FFFS 2021:28** Utkom från trycket den 30 juni 2021\n\nbeslutade den 22 juni 2021.\n\nFinansinspektionen föreskriver med stöd av 6 kap. 1 § 56 och 58 förordningen (2007:572) om värdepappersmarknaden att Finansinspektionens föreskrifter (FFFS 2018:9) om rapportering av uppgifter om kapitalbaskrav för vissa värdepappersbolag ska upphöra att gälla den 7 juli 2021.\n\nERIK THEDÉEN\n\nKristina Wollter\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Chefsjurist Eric Leijonram, Finansinspektionen, Sverige, www.fi.se ISSN 1102-7460\n\n**Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2018:9) om rapportering av uppgifter om kapitalbaskrav för vissa värdepappersbolag;**\n\n![](https://nic-esp.github.io/fffs-bibliotek/images/2021-28/FFFS_2021-28.pdf-0001-03.png)\n\n**FFFS 2021:28** Utkom från trycket den 30 juni 2021\n\nbeslutade den 22 juni 2021.\n\nFinansinspektionen föreskriver med stöd av 6 kap. 1 § 56 och 58 förordningen (2007:572) om värdepappersmarknaden att Finansinspektionens föreskrifter (FFFS 2018:9) om rapportering av uppgifter om kapitalbaskrav för vissa värdepappersbolag ska upphöra att gälla den 7 juli 2021.\n\nERIK THEDÉEN\n\nKristina Wollter"
+    }
+  ],
+  "metadata": {
+    "id": "2021-28",
+    "number": "FFFS 2021:28",
+    "title": "Finansinspektionens föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2018:9) om rapportering av uppgifter om kapitalbaskrav för vissa värdepappersbolag",
+    "year": 2021,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2021-07-07",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2021/202128/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/c90fb1259d114271ad735da0ba42ad3a/fs2128.pdf",
+    "pdfUrl": "pdf/2021-28.pdf",
+    "markdownUrl": "documents/2021-28.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2021-28/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Värdepappersinstitut",
+      "Rapportering"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2021/202128/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2021:28.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Rapportering",
+        "type": "category",
+        "evidence": "Redaktionellt ämnesord grundat på rubriken: Finansinspektionens föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 2018:9) om rapportering av uppgifter om kapitalbaskrav för vissa värdepappersbolag",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2021/202128/",
+        "confidence": "editorial"
+      }
+    ],
+    "euRelations": []
+  }
+}

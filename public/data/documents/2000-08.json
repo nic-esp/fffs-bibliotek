@@ -1,0 +1,62 @@
+{
+  "id": "2000-08",
+  "markdown": "# FFFS 2000:8 — Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1999:4) om vissa avgifter för kreditinstitut och värdepappersbolag\n\n> Maskinextraherad läsutgåva. Text, tabeller, formulär, bilder och formler kan innehålla konverteringsfel. Kontrollera layoutkritiska uppgifter i original-PDF:en.\n\n[Öppna samlingens PDF](https://nic-esp.github.io/fffs-bibliotek/pdf/2000-08.pdf) · [Källpost hos Finansinspektionen](https://www.fi.se/sv/vara-register/fffs/sok-fffs/2000/20008/) · [Grundförfattningens original-PDF](https://www.fi.se/contentassets/c0d38d20a63c4dd28be3cb6d305d9c34/fffs0008.pdf)\n\n---\n\n<!-- PDF page 1 -->\n\n<a id=\"section-0001\"></a>\n## Finansinspektionens författningssamling\n\nUtgivare: Hans Schedin, Finansinspektionen, Box 7831, 103 98 Stockholm. Beställningsadress: Fakta Info Direkt, Box 6430, 113 82 Stockholm. Tel. 08-587 671 00, Fax 08-587 671 71. ISSN 1102-7460\n\n**FFFS 2000:8**\n\n**Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1999:4) om vissa avgifter för kreditinstitut och värdepappersbolag;**\n\nbeslutade den 25 maj 2000.\n\nFinansinspektionen föreskriver<sup>1</sup> att Finansinspektionens föreskrifter (FFFS 1999:4) om vissa avgifter för kreditinstitut och värdepappersbolag skall upphöra att gälla vid utgången av juni 2000.\n\nCLAES NORGREN\n\nLars Widlund (Kreditmarknadsavdelningen)\n\n> 1 Föreskrifterna meddelas med stöd av 4 § andra stycket 11 förordningen (1994:2024) om kapitaltäckning och stora exponeringar för kreditinstitut och värdepappersbolag.\n",
+  "sections": [
+    {
+      "id": "section-0001",
+      "title": "Finansinspektionens författningssamling",
+      "page": 1,
+      "text": "Utgivare: Hans Schedin, Finansinspektionen, Box 7831, 103 98 Stockholm. Beställningsadress: Fakta Info Direkt, Box 6430, 113 82 Stockholm. Tel. 08-587 671 00, Fax 08-587 671 71. ISSN 1102-7460\n\n**FFFS 2000:8**\n\n**Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1999:4) om vissa avgifter för kreditinstitut och värdepappersbolag;**\n\nbeslutade den 25 maj 2000.\n\nFinansinspektionen föreskriver<sup>1</sup> att Finansinspektionens föreskrifter (FFFS 1999:4) om vissa avgifter för kreditinstitut och värdepappersbolag skall upphöra att gälla vid utgången av juni 2000.\n\nCLAES NORGREN\n\nLars Widlund (Kreditmarknadsavdelningen)\n\n> 1 Föreskrifterna meddelas med stöd av 4 § andra stycket 11 förordningen (1994:2024) om kapitaltäckning och stora exponeringar för kreditinstitut och värdepappersbolag."
+    }
+  ],
+  "metadata": {
+    "id": "2000-08",
+    "number": "FFFS 2000:8",
+    "title": "Föreskrifter om upphävande av Finansinspektionens föreskrifter (FFFS 1999:4) om vissa avgifter för kreditinstitut och värdepappersbolag",
+    "year": 2000,
+    "status": "repealing",
+    "kind": "original",
+    "effectiveFrom": "2000-06-30",
+    "repealedOn": null,
+    "asOf": "2026-10-09",
+    "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2000/20008/",
+    "originalPdfUrl": "https://www.fi.se/contentassets/c0d38d20a63c4dd28be3cb6d305d9c34/fffs0008.pdf",
+    "pdfUrl": "pdf/2000-08.pdf",
+    "markdownUrl": "documents/2000-08.md",
+    "canonicalUrl": "https://nic-esp.github.io/fffs-bibliotek/fffs/2000-08/",
+    "amendments": [],
+    "notes": [
+      "Lästexten är maskinextraherad från PDF. Kontrollera tabeller, formulär, bilder och formler i original-PDF:en.",
+      "Upphävningsakt som upphäver äldre författningar; inte en löpande konsoliderad sakreglering."
+    ],
+    "textQuality": "extracted",
+    "pageCount": 1,
+    "categories": [
+      "Bank och kredit",
+      "Värdepappersinstitut"
+    ],
+    "institutions": [],
+    "applicability": {
+      "text": "",
+      "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/2000/20008/",
+      "note": "Upphävningsakt. Kategorierna beskriver FI:s registerplacering; de anger inte ett nu gällande tillämpningsområde."
+    },
+    "tagsEvidence": [
+      {
+        "tag": "Bank och kredit",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Bank och kredit innehåller registerposten FFFS 2000:8.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=94",
+        "confidence": "explicit"
+      },
+      {
+        "tag": "Värdepappersinstitut",
+        "type": "category",
+        "evidence": "FI:s kategorifilter Värdepappersinstitut innehåller registerposten FFFS 2000:8.",
+        "sourceUrl": "https://www.fi.se/sv/vara-register/fffs/sok-fffs/?active=true&grundforfattning=true&andringsforfattning=true&categoryId=104",
+        "confidence": "explicit"
+      }
+    ],
+    "euRelations": []
+  }
+}
