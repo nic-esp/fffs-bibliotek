@@ -1,0 +1,508 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- fmx2xhtml # converter_version:9.16.0 # generated_on:20240716-1617 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32010R0584 — SV — 14.07.2024</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02010R0584 — SV — 14.07.2024 — 001.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32010R0584"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32010R0584">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-6fc813db-2a6a-4adc-9555-9849b1175a87">
+                        KOMMISSIONENS FÖRORDNING (EU) nr 584/2010</p>
+            <p class="title-doc-first" id="id-e7f888e6-489c-400b-9b81-90ce6f0ba91e">av den 1 juli 2010
+                     </p>
+            <p class="title-doc-first" id="id-b0dc9f05-e060-44c8-9502-bd7a720f40db">om genomförande av Europaparlamentets och rådets direktiv 2009/65/EG vad gäller den skriftliga anmälans och fondföretagsintygets form och innehåll, elektronisk kommunikation mellan behöriga myndigheter i samband med anmälan, förfaranden för kontroller på plats och utredningar samt informationsutbyte mellan behöriga myndigheter</p>
+            <p class="title-doc-last" id="id-1a011961-b8fc-413c-97d0-8e7e9257020f">
+               <a href="http://publications.europa.eu/resource/celex/32010R0584"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32010R0584">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-1e68efc7-65ab-473e-b10c-8dd900ef0320">(EGT L 176 10.7.2010, s. 16)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32024R0910"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32024R0910">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-67212551-e434-4561-971e-fd1f7dc8347f">
+               <a href="http://publications.europa.eu/resource/celex/32024R0910"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32024R0910">
+                              KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2024/910 av den 15 december 2023
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 910</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">25.3.2024</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <div class="eli-container">
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32010R0584"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32010R0584">▼B</a>
+      </p>
+      <div class="eli-main-title" id="tit_1">
+         <p class="title-doc-first" id="id-cd4ab316-da30-4cfc-b751-184451a7e504">
+               KOMMISSIONENS FÖRORDNING (EU) nr 584/2010</p>
+         <p class="title-doc-first" id="id-f217bb52-4f13-40ad-a926-70603f8ecc91">av den 1 juli 2010
+            </p>
+         <p class="title-doc-first" id="id-dc9ca988-2d40-4b71-9296-2b03e5d70d08">om genomförande av Europaparlamentets och rådets direktiv 2009/65/EG vad gäller den skriftliga anmälans och fondföretagsintygets form och innehåll, elektronisk kommunikation mellan behöriga myndigheter i samband med anmälan, förfaranden för kontroller på plats och utredningar samt informationsutbyte mellan behöriga myndigheter</p>
+         <p class="title-doc-last" id="id-ebf49449-a8c0-4222-be7f-edd2376b041c">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <p>
+            <br/>
+            <br/>
+         </p>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32024R0910"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32024R0910: DELETED">▼M1</a> —————</p>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32010R0584"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32010R0584">▼B</a>
+         </p>
+         <div id="cpt_II">
+            <p class="title-division-1" id="id-3e568119-b88c-4cbf-88a7-9784013c8574">KAPITEL II</p>
+            <p class="title-division-2" id="id-1cfc8101-99e0-4cd6-b1b1-f8419d86e863">TILLSYNSSAMARBETE</p>
+            <div id="cpt_II.sct_1">
+               <p class="title-division-1" id="id-27f0f909-0d26-478a-b453-5fd6aa07320a">AVSNITT 1</p>
+               <p class="title-division-2" id="id-c055a36b-cd07-47fc-a27e-09fa34984bfc">Förfarande för kontroller på plats och utredningar</p>
+               <div class="eli-subdivision" id="art_6">
+                  <p class="title-article-norm" id="id-22eabb12-d24b-44e9-8634-d006e0b6370d">Artikel 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="stitle-article-norm">Anmodan om bistånd vid kontroller på plats och utredningar</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">En behörig myndighet som avser att genomföra en kontroll på plats eller en utredning på en annan medlemsstats territorium (nedan kallad <span class="italics">anmodande myndighet</span>) ska överlämna en skriftlig anmodan till den behöriga myndigheten i den andra medlemsstaten (nedan kallad <span class="italics">anmodad myndighet</span>). Anmodan ska innehålla uppgifter om</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">anledningarna till anmodan, inklusive den lagstiftning inom den anmodande myndighetens jurisdiktion som anmodan är baserad på,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">omfattningen av kontrollen på plats eller utredningen,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">de åtgärder som den anmodande myndigheten redan har vidtagit,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">eventuella åtgärder som den anmodande myndigheten ska vidta,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">den föreslagna metoden för kontrollen på plats eller utredningen, och orsaken till varför den anmodande myndigheten väljer den.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Anmodan ska lämnas in i tillräckligt god tid före kontrollen på plats eller utredningen.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">När en anmodan om bistånd vid kontroll på plats eller utredning är brådskande, får den översändas per e-post och därefter bekräftas skriftligen.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Den anmodade myndigheten ska utan onödigt dröjsmål bekräfta att den mottagit anmodan.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Den anmodande myndigheten ska tillgängliggöra all information som den anmodade myndigheten begär, för att det ska bli möjligt för den anmodade myndigheten att tillhandahålla det bistånd som krävs.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Den anmodade myndigheten ska utan onödigt dröjsmål översända all information och alla dokument som den har tillgång till och som är relevanta eller användbara för den anmodande myndigheten, mot bakgrund av anledningarna till och omfattningen av kontrollen på plats eller utredningen.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">7.  </span>
+                     <div class="norm inline-element">Mot bakgrund av de dokument och den information som översänts i enlighet med punkt 5 eller 6 ska den anmodade myndigheten och den anmodande myndigheten göra en ny bedömning av om kontrollen på plats eller utredningen är nödvändig.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">8.  </span>
+                     <div class="norm inline-element">Den anmodade myndigheten ska besluta om kontrollen på plats eller utredningen ska genomföras av den själv, av den anmodande myndigheten, eller av revisorer eller andra experter.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">9.  </span>
+                     <div class="norm inline-element">De båda myndigheterna ska komma överens om fördelningen av kostnaderna i samband med kontrollen på plats eller utredningen.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p class="title-article-norm" id="id-a1731484-db44-4d71-bcc1-da3209967ab6">Artikel 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="stitle-article-norm">Kontroller på plats och utredningar som genomförs av den anmodade myndigheten</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">När den anmodade myndigheten beslutar sig för att själv genomföra en kontroll på plats eller utredning ska den genomföra denna i enlighet med det förfarande som föreskrivs i lagstiftningen för den medlemsstat på vars territorium kontrollen eller utredningen ska äga rum.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">När den anmodande myndigheten begär att dess egna tjänstemän ska åtfölja de tjänstemän från den anmodade myndigheten som genomför kontrollen eller utredningen i enlighet med artikel 101.5 i direktiv 2009/65/EG, ska de båda myndigheterna komma överens om de praktiska detaljerna för detta samarbete.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_8">
+                  <p class="title-article-norm" id="id-8e92b58f-bac2-4727-a0a6-871b71de7cb4">Artikel 8</p>
+                  <div class="eli-title" id="art_8.tit_1">
+                     <p class="stitle-article-norm">Kontroller på plats och utredningar som genomförs av den anmodande myndigheten</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">När den anmodade myndigheten beslutar sig för att den anmodande myndigheten ska få genomföra en kontroll på plats eller utredning, ska kontrollen eller utredningen genomföras i enlighet med det förfarande som föreskrivs i lagstiftningen för den medlemsstat på vars territorium kontrollen eller utredningen ska äga rum.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">När den anmodade myndigheten beslutar sig för att den anmodande myndigheten ska få genomföra en kontroll på plats eller utredning, ska den anmodade myndigheten tillhandahålla det bistånd som krävs för att underlätta kontrollen eller utredningen.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Om den anmodande myndigheten får tillgång till väsentlig information, som är av betydelse för den anmodade myndigheten när den utför sina åtaganden i samband med kontrollen på plats eller utredningen, ska den utan onödigt dröjsmål översända denna information till den anmodade myndigheten.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_9">
+                  <p class="title-article-norm" id="id-dd6748fb-0705-4ee7-94b5-40a75768ea80">Artikel 9</p>
+                  <div class="eli-title" id="art_9.tit_1">
+                     <p class="stitle-article-norm">Kontroller på plats och utredningar som genomförs av revisorer eller experter</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">När den anmodade myndigheten beslutar sig för att revisorer eller experter ska få genomföra en kontroll på plats eller utredning, ska kontrollen eller utredningen genomföras i enlighet med det förfarande som föreskrivs i lagstiftningen för den medlemsstat på vars territorium kontrollen eller utredningen ska äga rum.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">När den anmodade myndigheten beslutar sig för att revisorer eller experter ska få genomföra en kontroll på plats eller utredning, ska den anmodade myndigheten tillhandahålla det bistånd som krävs för att underlätta för revisorerna eller experterna i deras arbete.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">När den anmodande myndigheten föreslår att revisorer eller experter ska utnämnas, ska den översända all relevant information om revisorernas eller experternas identitet och yrkeserfarenhet till den anmodade myndigheten.</p>
+                        <p class="norm inline-element">Den anmodade myndigheten ska omgående meddela den anmodande myndigheten huruvida den godkänner den föreslagna utnämningen.</p>
+                        <p class="norm inline-element">Om den anmodade myndigheten inte godkänner den föreslagna utnämningen eller om den anmodande myndigheten inte föreslår vilka revisorer eller experter som ska utnämnas, ska den anmodade myndigheten ha rätt att föreslå revisorer eller experter.</p>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Om de båda myndigheterna inte är överens om utnämnandet av revisorer eller experter, ska den anmodade myndigheten besluta om den själv ska genomföra kontrollen på plats eller utredningen eller om den ska tillåta den anmodande myndigheten att genomföra kontrollen eller utredningen.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Den myndighet som har föreslagit de utnämnda revisorerna eller experterna ska stå för kostnaderna i fråga, såvida inte den anmodade myndigheten och den anmodande myndigheten har kommit överens om något annat.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Om revisorerna eller experterna när de genomför kontrollen på plats eller utredningen får tillgång till väsentlig information, som är av betydelse för den anmodade myndigheten när den utför sina åtaganden, ska de omedelbart översända denna information till den anmodade myndigheten.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_10">
+                  <p class="title-article-norm" id="id-e6a15100-649b-4fa5-a4de-e5017a422479">Artikel 10</p>
+                  <div class="eli-title" id="art_10.tit_1">
+                     <p class="stitle-article-norm">Anmodan om stöd vid intervjuer med personer i en annan medlemsstat</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">När den anmodande myndigheten anser att det är nödvändigt att intervjua personer som uppehåller sig i en annan medlemsstat, ska den myndigheten överlämna en skriftlig anmodan till de behöriga myndigheterna i medlemsstaten i fråga.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Anmodan ska innehålla uppgifter om</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">anledningarna till anmodan, inklusive den lagstiftning inom den anmodande myndighetens jurisdiktion som anmodan är baserad på,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">intervjuns omfattning,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">de åtgärder som den anmodande myndigheten redan har vidtagit,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">eventuella åtgärder som den anmodande myndigheten ska vidta,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">den metod som föreslås för intervjuerna, och varför den anmodande myndigheten har valt den.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Anmodan ska lämnas in i tillräckligt god tid före intervjuerna.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">När en anmodan om bistånd vid intervjuer med personer som uppehåller sig i en annan medlemsstat är brådskande, får den översändas per e-post och därefter bekräftas skriftligen.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Den anmodade myndigheten ska utan onödigt dröjsmål bekräfta att den mottagit anmodan.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Den anmodande myndigheten ska tillgängliggöra all information som den anmodade myndigheten begär, för att det ska bli möjligt för den anmodade myndigheten att tillhandahålla det bistånd som krävs.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">7.  </span>
+                     <div class="norm inline-element">Den anmodade myndigheten ska utan onödigt dröjsmål överlämna all information och alla dokument som den har tillgång till och som är relevanta eller användbara för den anmodande myndigheten, mot bakgrund av anledningarna till och omfattningen av intervjuerna.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">8.  </span>
+                     <div class="norm inline-element">Mot bakgrund av de dokument och den information som överlämnats i enlighet med punkt 6 eller 7 ska den anmodade myndigheten och den anmodande myndigheten göra en ny bedömning av om intervjuerna är nödvändiga.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">9.  </span>
+                     <div class="norm inline-element">Den anmodade myndigheten ska besluta om intervjuerna ska utföras av den själv eller av den anmodande myndigheten.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">10.  </span>
+                     <div class="norm inline-element">De båda myndigheterna ska komma överens om fördelningen av kostnaderna i samband med intervjuerna.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">11.  </span>
+                     <div class="norm inline-element">Den anmodande myndigheten får delta vid de intervjuer som anmodas i enlighet med punkt 1. Myndigheten får före och under intervjuerna lämna in frågor som ska ställas.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_11">
+                  <p class="title-article-norm" id="id-71706a3c-f865-4a9c-984d-8a229f1a9f29">Artikel 11</p>
+                  <div class="eli-title" id="art_11.tit_1">
+                     <p class="stitle-article-norm">Särskilda bestämmelser för kontroller på plats och utredningar</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat och de behöriga myndigheterna i fondföretagets hemmedlemsstat ska informera varandra om varje kontroll på plats och utredning som ska genomföras avseende det förvaltningsbolag eller fondföretag som omfattas av deras respektive tillsynsområde. När sådan information har lämnats, får den informerade behöriga myndigheten utan onödigt dröjsmål anmoda den informerande behöriga myndigheten att införliva de frågor som faller inom den informerade myndighetens tillsynsområde i kontrollen eller undersökningen.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat får anmoda de behöriga myndigheterna i fondföretagets hemmedlemsstat om bistånd i samband med kontroll på plats och utredning av fondföretagets förvaringsinstitut, när så är nödvändigt för att tillsynsuppgifterna avseende förvaltningsbolaget ska fullgöras.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna i fondföretagets hemmedlemsstat och de behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat ska komma överens om förfaranden för att utbyta information om resultaten av de kontroller på plats och utredningar som har genomförts avseende förvaltningsbolag och fondföretag som omfattas av deras respektive tillsynsområde.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Om det är nödvändigt ska de behöriga myndigheterna i fondföretagets hemmedlemsstat och de behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat komma överens om vilka ytterligare åtgärder som bör vidtas avseende kontroller på plats eller utredningar.</div>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_II.sct_2">
+               <p class="title-division-1" id="id-e26f4396-76cc-449e-a9dc-39e33736891d">AVSNITT 2</p>
+               <p class="title-division-2" id="id-c7c55590-5455-42b0-8b2d-82c579d10e31">Informationsutbyte</p>
+               <div class="eli-subdivision" id="art_12">
+                  <p class="title-article-norm" id="id-2d9c1303-0ff8-42a9-b52d-9ad9edd5869e">Artikel 12</p>
+                  <div class="eli-title" id="art_12.tit_1">
+                     <p class="stitle-article-norm">Rutinmässigt informationsutbyte</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">De behöriga myndigheterna i fondföretagets hemmedlemsstat ska omedelbart informera de behöriga myndigheterna i fondföretagets värdmedlemsstat och, såvida fondföretaget förvaltas av ett förvaltningsbolag med säte i en annan medlemsstat än fondföretagets hemmedlemsstat, de behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat om</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">eventuella beslut att återkalla auktorisationen för ett fondföretag,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">eventuella beslut om att ett fondföretag ska ställa in emission, återköp eller inlösen av sina andelar,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">eventuella andra allvarliga åtgärder som vidtagits mot ett fondföretag.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">När ett fondföretag förvaltas av ett förvaltningsbolag med säte i en annan medlemsstat än fondföretagets hemmedlemsstat, ska de behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat omedelbart underrätta de behöriga myndigheterna i fondföretagets hemmedlemsstat, om förvaltningsbolagets förmåga att korrekt utföra sina åtaganden i förhållande till de fondföretag det förvaltar kan vara betydligt påverkad, eller om förvaltningsbolaget inte uppfyller kraven i kapitel III i direktiv 2009/65/EG.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">När ett fondföretag förvaltas av ett förvaltningsbolag med säte i en annan medlemsstat än fondföretagets hemmedlemsstat, ska de behöriga myndigheterna i fondföretagets hemmedlemsstat respektive förvaltningsbolagets hemmedlemsstat underlätta det informationsutbyte som krävs för att de ska kunna utföra sina åtaganden enligt direktiv 2009/65/EG, däribland inrättandet av ett lämpligt informationsflöde. Här ingår det informationsutbyte som är nödvändigt vid</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">förfarandena för auktorisering av förvaltningsbolag att bedriva verksamhet på en annan medlemsstats territorium i enlighet med artiklarna 17 och 18 i direktiv 2009/65/EG,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">förfarandena för auktorisering av förvaltningsbolag att förvalta fondföretag som är auktoriserade i en annan medlemsstat än förvaltningsbolagets hemmedlemsstat, i enlighet med artikel 20 i direktiv 2009/65/EG,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">den löpande tillsynen av förvaltningsbolag och fondföretag.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_13">
+                  <p class="title-article-norm" id="id-fbd7c0e1-086b-4007-8954-53459c9790b3">Artikel 13</p>
+                  <div class="eli-title" id="art_13.tit_1">
+                     <p class="stitle-article-norm">Informationsutbyte utan föregående begäran</p>
+                  </div>
+                  <p class="norm">De behöriga myndigheterna ska utan föregående begäran och onödigt dröjsmål sända all relevant information, som kan väntas vara av väsentligt intresse när åtagandena enligt direktiv 2009/65/EG utförs, till andra behöriga myndigheter.</p>
+               </div>
+            </div>
+         </div>
+         <div id="cpt_III">
+            <p class="title-division-1" id="id-d1af2b58-406c-435a-be5f-8d1e21a79ac4">KAPITEL III</p>
+            <p class="title-division-2" id="id-7438858b-4f8c-4ff5-9d8a-3410804ba755">SLUTBESTÄMMELSER</p>
+            <div class="eli-subdivision" id="art_14">
+               <p class="title-article-norm" id="id-f8f4f822-3e95-4fa9-a8cc-83ce570c9fd5">Artikel 14</p>
+               <div class="eli-title" id="art_14.tit_1">
+                  <p class="stitle-article-norm">Ikraftträdande</p>
+               </div>
+               <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+               <p class="norm">Den ska tillämpas från och med den 1 juli 2011.</p>
+            </div>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32024R0910"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32024R0910: DELETED">▼M1</a> —————</p>
+   </div>
+</body>
+</html>

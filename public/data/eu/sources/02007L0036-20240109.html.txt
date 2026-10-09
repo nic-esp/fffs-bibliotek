@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- fmx2xhtml # converter_version:9.15.0 # generated_on:20240222-1813 --><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <title>Konsoliderad TEXT: 32007L0036 — SV — 09.01.2024</title>
+      <link type="text/css" rel="stylesheet"
+            href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+   </head>
+   <body>
+      <p class="reference">02007L0036 — SV — 09.01.2024 — 004.001</p>
+      <hr class="separator"/>
+      <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+      <table width="100%" border="0" cellspacing="5" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32007L0036"
+                     >►B</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-doc-first" id="id-9fb05beb-026d-43c1-9530-f3a40246bb3c">
+                        EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2007/36/EG</p>
+               <p class="title-doc-first" id="id-9cf75674-3d34-4440-ab8e-a41883f821dd">av den 11 juli 2007
+                     </p>
+               <p class="title-doc-last" id="id-dc7695a5-42f1-4f98-ad44-5b272d14a6df">
+                  <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32007L0036"
+                     >om utnyttjande av vissa av aktieägares rättigheter i börsnoterade företag</a>
+               </p>
+               <p class="title-doc-oj-reference" id="id-5cf4ddb2-8c61-45a4-8bdf-551197d262a2">(EGT L 184 14.7.2007, s. 17)</p>
+            </td>
+         </tr>
+      </table>
+      <p class="hd-modifiers">Ändrat genom:</p>
+      <table width="100%" border="0" cellspacing="5" cellpadding="0">
+         <col width="10%"/>
+         <col width="55%"/>
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="15%"/>
+         <tr>
+            <td valign="top" rowspan="2" >
+               <p class="norm"> </p>
+            </td>
+            <td valign="top" rowspan="2" >
+               <p class="norm"> </p>
+            </td>
+            <td valign="top" colspan="3" >
+               <p class="hd-toc-1">Officiella tidningen</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="hd-toc-2">  nr</p>
+            </td>
+            <td valign="top"  >
+               <p class="hd-toc-3">sida</p>
+            </td>
+            <td valign="top"  >
+               <p class="hd-toc-3">datum</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32014L0059"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32014L0059"
+                     >►M1</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-fam-member-star" id="id-e5c2e1b2-706b-456f-a4e5-c347d877940b">
+                  <a href="http://publications.europa.eu/resource/celex/32014L0059"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32014L0059"
+                     >
+                              EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2014/59/EU av den 15 maj 2014
+                           </a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-1">  L 173</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">190</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">12.6.2014</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0828"
+                     >►M2</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-fam-member-star" id="id-80adcf46-5be3-4978-8614-c1cbc2d4019b">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0828"
+                     >
+                              EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV (EU) 2017/828 av den 17 maj 2017
+                           </a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-1">  L 132</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">1</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">20.5.2017</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32021R0023"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021R0023"
+                     >►M3</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-fam-member-star" id="id-ea21872f-f9f0-4e04-ac6a-ab5a5ea78043">
+                  <a href="http://publications.europa.eu/resource/celex/32021R0023"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021R0023"
+                     >
+                              EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2021/23 av den 16 december 2020
+                           </a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-1">  L 22</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">1</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">22.1.2021</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32023L2864"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32023L2864"
+                     >►M4</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-fam-member-star" id="id-ca08be53-20ff-4c40-81ec-c5a146ec4ff0">
+                  <a href="http://publications.europa.eu/resource/celex/32023L2864"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32023L2864"
+                     >
+                              EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV (EU) 2023/2864 av den 13 december 2023
+                           </a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-1">  L </p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">1</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">20.12.2023</p>
+            </td>
+         </tr>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <hr class="separator"/>
+      <div class="eli-container">
+         <p>
+            <br/>
+         </p>
+         <p class="arrow">
+            <a href="http://publications.europa.eu/resource/celex/32007L0036"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32007L0036"
+               >▼B</a>
+         </p>
+         <div class="eli-main-title" id="tit_1">
+            <p class="title-doc-first" id="id-9b454adf-c6bb-41ac-9d38-6d05911dc6d8">
+               EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2007/36/EG</p>
+            <p class="title-doc-first" id="id-0b55952a-3f35-445d-9311-5c7772b1631c">av den 11 juli 2007
+            </p>
+            <p class="title-doc-last" id="id-fd1b5629-f797-4fb9-baf0-207ce1a9fd08">om utnyttjande av vissa av aktieägares rättigheter i börsnoterade företag</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <p>
+               <br/>
+               <br/>
+            </p>
+            <div id="cpt_I">
+               <p class="title-division-1" id="id-e32eed45-7b57-49f1-bd2d-41096cf8c042">KAPITEL I</p>
+               <p class="title-division-2" id="id-d29696d1-4d28-418d-8cdd-8930b8a70870">ALLMÄNNA BESTÄMMELSER</p>
+               <div class="eli-subdivision" id="art_1">
+                  <p class="title-article-norm" id="id-22b9ee1d-a285-438a-b5be-8697d9d9531b">Artikel 1</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="stitle-article-norm">Syfte och räckvidd</p>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32017L0828: REPLACED"
+                        >▼M2</a>
+                  </p>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">I detta direktiv fastställs krav med avseende på utnyttjande av vissa aktieägarrättigheter som är kopplade till aktier med rösträtt vid bolagsstämmor i bolag som har sitt säte i en medlemsstat och vilkas aktier är upptagna till handel på en reglerad marknad belägen i eller med verksamhet inom en medlemsstat. I direktivet fastställs också särskilda krav för att uppmuntra aktieägarnas engagemang, särskilt på lång sikt. Dessa särskilda krav tillämpas i samband med identifiering av aktieägare, överföring av information, underlättande av utövandet av aktieägarrättigheter, transparens för institutionella investerare, kapitalförvaltare och röstningsrådgivare, ersättning till ledande befattningshavare samt transaktioner med närstående parter.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Den medlemsstat som är behörig att reglera frågor som omfattas av detta direktiv ska vara den medlemsstat i vilken bolaget har sitt säte och hänvisningar till tillämplig lagstiftning utgör hänvisningar till denna medlemsstats lagstiftning.</div>
+                  </div>
+                  <p class="norm inline-element">Vid tillämpningen av kapitel Ib ska den behöriga medlemsstaten definieras på följande sätt:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För institutionella investerare och kapitalförvaltare: den hemmedlemsstat som definieras i en tillämplig sektorsspecifik unionslagstiftningsakt.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För röstningsrådgivare: den medlemsstat där röstningsrådgivaren har sitt säte eller, om röstningsrådgivaren inte har sitt säte i en medlemsstat, den medlemsstat där röstningsrådgivaren har sitt huvudkontor eller, om röstningsrådgivaren inte har vare sig sitt säte eller sitt huvudkontor i en medlemsstat, den medlemsstat där röstningsrådgivaren har ett verksamhetsställe.</p>
+                     </div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32007L0036"
+                        >▼B</a>
+                  </p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna får från detta direktiv undanta följande typer av bolag:</p>
+                        <p class="modref">
+                           <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                              onclick="window.open(this.href,'_blank'); return false;"
+                              title="32017L0828: REPLACED"
+                              >▼M2</a>
+                        </p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) i den mening som avses i artikel 1.2 Europaparlamentets och rådets direktiv 2009/65/EG (<a href="#E0001" id="src.E0001" >
+                                    <span class="superscript">1</span>
+                                 </a>),</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Företag för kollektiva investeringar i den mening som avses i artikel 4.1 a i Europaparlamentets och rådets direktiv 2011/61/EU (<a href="#E0002" id="src.E0002" >
+                                    <span class="superscript">2</span>
+                                 </a>),</p>
+                           </div>
+                        </div>
+                        <p class="modref">
+                           <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                              onclick="window.open(this.href,'_blank'); return false;"
+                              title="32007L0036"
+                              >▼B</a>
+                        </p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Kooperativa sammanslutningar.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32017L0828: INSERTED"
+                        >▼M2</a>
+                  </p>
+                  <div class="norm">
+                     <span class="no-parag">3a.  </span>
+                     <div class="norm inline-element">De bolag som avses i punkt 3 ska inte undantas från bestämmelserna i kapitel Ib.</div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32021R0023"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32021R0023: REPLACED"
+                        >▼M3</a>
+                  </p>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att detta direktiv inte är tillämpligt om resolutionsverktyg, resolutionsbefogenheter och resolutionsmekanismer som fastställs i avdelning IV i Europaparlamentets och rådets direktiv 2014/59/EU (<a href="#E0003" id="src.E0003" >
+                           <span class="superscript">3</span>
+                        </a>) eller i avdelning V i Europaparlamentets och rådets förordning (EU) 2021/23 (<a href="#E0004" id="src.E0004" >
+                           <span class="superscript">4</span>
+                        </a>) tillämpas.</div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32017L0828: INSERTED"
+                        >▼M2</a>
+                  </p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Kapitel Ia ska tillämpas på intermediärer i den mån de tillhandahåller tjänster åt aktieägare eller andra intermediärer när det gäller aktier i bolag som har sitt säte i en medlemsstat och vilkas aktier är upptagna till handel på en reglerad marknad belägen i eller med verksamhet inom en medlemsstat.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Kapitel Ib ska tillämpas på</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">institutionella investerare i den mån de direkt eller genom en kapitalförvaltare investerar i aktier som är föremål för handel på en reglerad marknad,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">kapitalförvaltare i den mån de investerar i sådana aktier för investerares räkning, och</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">röstningsrådgivare i den mån de tillhandahåller aktieägare tjänster när det gäller aktier i bolag som har sitt säte i en medlemsstat och vilkas aktier är upptagna till handel på en reglerad marknad belägen i eller med verksamhet inom en medlemsstat.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">7.  </span>
+                     <div class="norm inline-element">Bestämmelserna i detta direktiv påverkar inte bestämmelser som föreskrivs i någon sektorsspecifik unionslagstiftningsakt som reglerar specifika typer av bolag eller specifika typer av enheter. Om detta direktiv fastställer närmare bestämmelser eller lägger till krav i förhållande till de bestämmelser som anges i någon sektorsspecifik unionslagstiftningsakt, ska de bestämmelserna tillämpas tillsammans med bestämmelserna i detta direktiv.</div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32007L0036"
+                        >▼B</a>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p class="title-article-norm" id="id-862ce5cc-2f20-430c-a6c4-ce7b31bdc674">Artikel 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="stitle-article-norm">Definitioner</p>
+                  </div>
+                  <p class="norm">I detta direktiv avses med</p>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32017L0828: REPLACED"
+                        >▼M2</a>
+                  </p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">reglerad marknad : en reglerad marknad enligt definitionen i artikel 4.1.21 i Europaparlamentets och rådets direktiv 2014/65/EU (<a href="#E0005" id="src.E0005" >
+                                 <span class="superscript">5</span>
+                              </a>),</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32007L0036"
+                        >▼B</a>
+                  </p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">aktieägare : en fysisk eller juridisk person som erkänns som aktieägare enligt tillämplig lag,</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">fullmakt : en aktieägares bemyndigande av en fysisk eller juridisk person att utnyttja vissa eller alla av denne aktieägares rättigheter vid bolagsstämman i aktieägarens namn,</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32017L0828: INSERTED"
+                        >▼M2</a>
+                  </p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">d)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">
+                              <span class="italics">intermediär</span> : en person, såsom ett värdepappersföretag enligt definitionen i artikel 4.1.1 i direktiv 2014/65/EU, ett kreditinstitut enligt definitionen i artikel 4.1.1 i Europaparlamentets och rådets förordning (EU) nr 575/2013 (<a href="#E0006" id="src.E0006" >
+                                 <span class="superscript">6</span>
+                              </a>) och en värdepapperscentral enligt definitionen i artikel 2.1.1 i Europaparlamentets och rådets förordning (EU) nr 909/2014 (<a href="#E0007" id="src.E0007" >
+                                 <span class="superscript">7</span>
+                              </a>), som för aktieägares eller andra personers räkning tillhandahåller tjänster som avser förvar av aktier, administration av aktier eller förvaltning av värdepapper,</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">e)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">
+                              <span class="italics">institutionell investerare</span> : <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>i) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">ett företag som erbjuder livförsäkringar i den mening som avses i artikel 2.3 a, b och c i Europaparlamentets och rådets direktiv 2009/138/EG (<a href="#E0008" id="src.E0008" >
+                                          <span class="superscript">8</span>
+                                       </a>) och återförsäkring enligt definitionen i artikel 13.7 i det direktivet, förutsatt att denna verksamhet täcker livförsäkringskrav och inte är utesluten enligt det direktivet,</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>ii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">tjänstepensionsinstitut som omfattas av Europaparlamentets och rådets direktiv (EU) 2016/2341 (<a href="#E0009" id="src.E0009" >
+                                          <span class="superscript">9</span>
+                                       </a>) i enlighet med dess artikel 2, om inte en medlemsstat har valt att helt eller delvis underlåta att tillämpa det direktivet på det institutet i enlighet med artikel 5 i det direktivet,</p>
+                                 </div>
+                              </div>
+                           </p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">f)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">
+                              <span class="italics">kapitalförvaltare</span> : ett värdepappersföretag enligt punkt 1 i artikel 4.1 i Europaparlamentets och rådets direktiv 2014/65/EU som tillhandahåller portföljförvaltningstjänster åt investerare, en AIF-förvaltare (förvaltare av alternativa investeringsfonder) enligt definitionen i artikel 4.1 b i direktiv 2011/61/EU som inte uppfyller villkoren för undantag enligt artikel 3 i det direktivet, ett förvaltningsbolag enligt definitionen i artikel 2.1 b i direktiv 2009/65/EG eller ett investeringsbolag som är auktoriserat enligt direktiv 2009/65/EG, under förutsättning att det inte utsett ett förvaltningsbolag som auktoriserats enligt det direktivet som ansvarigt för förvaltningen,</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">g)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">
+                              <span class="italics">röstningsrådgivare</span> : en juridisk person som på yrkesmässig och kommersiell basis analyserar bolagens redovisningar och, i förekommande fall, annan information om börsnoterade bolag i syfte att informera investerarna inför deras omröstningsbeslut genom att tillhandahålla undersökningar, råd eller röstningsrekommendationer som relaterar till utövandet av rösträtten,</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">h)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">
+                              <span class="italics">närstående part</span> : termen ska ha samma betydelse som i de internationella redovisningsstandarder som antagits i enlighet med Europaparlamentets och rådets förordning (EG) nr 1606/2002 (<a href="#E0010" id="src.E0010" >
+                                 <span class="superscript">10</span>
+                              </a>),</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">i)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">
+                              <span class="italics">ledande befattningshavare</span> : <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>i) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">en medlem av ett företags förvaltnings-, lednings- eller kontrollorgan,</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>ii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">den verkställande direktören och, om en sådan befattning finns i bolaget, den vice verkställande direktören, även när de inte är medlemmar av bolagets förvaltnings-, lednings- eller kontrollorgan,</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>iii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">om en medlemsstat föreskriver detta, andra personer som utför arbetsuppgifter som liknar dem som utförs inom ramen för leden i eller ii,</p>
+                                 </div>
+                              </div>
+                           </p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="5%"/>
+                     <col width="95%"/>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="dlist-term">j)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="dlist-definition">
+                              <span class="italics">information om aktieägares identitet</span> : information som gör det möjligt att fastställa identiteten på en aktieägare, inklusive åtminstone följande information:<div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>i) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">namnet på aktieägaren och dennes kontaktuppgifter (inklusive fullständig adress och, om en sådan finns, e-postadress) samt, om det handlar om en juridisk person, registreringsnummer eller, om ett registreringsnummer inte finns att tillgå, unik identifieringskod, såsom en identifieringskod för juridiska personer,</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>ii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">det antal aktier som aktieägaren innehar, och</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>iii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">dock endast i den mån de begärs av bolaget, en eller flera av följande uppgifter: aktiekategori eller aktieslag eller det datum från och med vilket aktierna innehas.</p>
+                                 </div>
+                              </div>
+                           </p>
+                        </td>
+                     </tr>
+                  </table>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32007L0036"
+                        >▼B</a>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p class="title-article-norm" id="id-42d6bcd3-16b9-4440-b19a-6fcf3939b659">Artikel 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="stitle-article-norm">Ytterligare nationella åtgärder</p>
+                  </div>
+                  <p class="norm">Detta direktiv skall inte hindra medlemsstaterna från att införa ytterligare förpliktelser för bolag eller på annat sätt vidta åtgärder för att göra det lättare för aktieägare att utnyttja de rättigheter som avses i detta direktiv.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017L0828: INSERTED"
+                  >▼M2</a>
+            </p>
+            <div id="cpt_IA">
+               <p class="title-division-1" id="id-1d5207c0-09b5-4768-9534-152c01494cca">KAPITEL Ia</p>
+               <p class="title-division-2" id="id-6db0f516-e547-4d72-af15-35e175c1becf">IDENTIFIERING AV AKTIEÄGARE, ÖVERFÖRING AV INFORMATION OCH UNDERLÄTTANDE AV UTÖVANDE AV AKTIEÄGARRÄTTIGHETER</p>
+               <div class="eli-subdivision" id="art_3a">
+                  <p class="title-article-norm" id="id-7e5fe771-ca9e-4a7d-b32d-2c9c360dbbb3">Artikel 3a</p>
+                  <div class="eli-title" id="art_3a.tit_1">
+                     <p class="stitle-article-norm">Identifiering av aktieägare</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att bolag har rätt att identifiera sina aktieägare. Medlemsstaterna får föreskriva att bolag som har sitt säte på deras territorium ska få begära identifiering endast av aktieägare som innehar mer än en viss andel av aktierna eller rösträtterna. Denna andel får inte överstiga 0,5 %.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att intermediärerna på begäran av bolaget eller en tredje part utsedd av bolaget utan fördröjning meddelar bolaget informationen om aktieägares identitet.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Om det finns fler än en intermediär i en kedja av intermediärer ska medlemsstaterna säkerställa att begäran från bolaget eller från en tredje part utsedd av bolaget utan dröjsmål överförs mellan intermediärerna och att informationen om aktieägares identitet utan dröjsmål överförs direkt till bolaget eller till en tredje part utsedd av bolaget av den intermediär som innehar den efterfrågade informationen. Medlemsstaterna ska säkerställa att bolaget kan få information om aktieägares identitet från en intermediär i kedjan som innehar informationen.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får föreskriva att bolaget får anmoda värdepapperscentralen eller en annan intermediär eller tjänsteleverantör att samla in informationen om aktieägares identitet, även från intermediärerna i kedjan av intermediärer, och att överföra informationen till bolaget.</p>
+                  <p class="norm">Medlemsstaterna får dessutom föreskriva att intermediären, på begäran av bolaget eller en tredje part utsedd av bolaget, utan dröjsmål ska meddela bolaget kontaktuppgifterna till nästa intermediär i kedjan av intermediärer.</p>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Aktieägarnas personuppgifter behandlas i enlighet med denna artikel för att göra det möjligt för bolaget att identifiera sina aktuella aktieägare i syfte att kommunicera med dem direkt och därigenom göra det lättare för dem att utöva sina aktieägarrättigheter och att engagera sig i bolaget.</div>
+                  </div>
+                  <p class="norm">Utan att det påverkar tillämpningen av eventuella längre lagringsperioder som fastställs genom en sektorsspecifik unionslagstiftningsakt ska medlemsstaterna säkerställa att bolagen och intermediärerna inte lagrar aktieägares personuppgifter, som har överförts till dem i enlighet med denna artikel för det syfte som anges i denna artikel, under längre tid än tolv månader efter det att de får kunskap om att den berörda personen har upphört att vara aktieägare.</p>
+                  <p class="norm">Medlemsstaterna får i nationell rätt föreskriva om behandling av aktieägares personuppgifter för andra ändamål.</p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att juridiska personer har rätt till rättelse av ofullständig eller felaktig information om sin identitet som aktieägare.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att en intermediär som redovisar information om aktieägares identitet i enlighet med reglerna i denna artikel inte ska anses bryta mot några restriktioner för röjande av information i avtal eller i lagar, förordningar eller administrativa bestämmelser.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">7.  </span>
+                     <div class="norm inline-element">Senast den 10 juni 2019 ska medlemsstaterna meddela den europeiska tillsynsmyndigheten (Europeiska värdepappers- och marknadsmyndigheten) (Esma), inrättad genom Europaparlamentets och rådets förordning (EU) nr 1095/2010 (<a href="#E0011" id="src.E0011" >
+                           <span class="superscript">11</span>
+                        </a>) huruvida de har begränsat identifieringen av aktieägare till aktieägare som innehar mer än en viss andel av aktierna eller rösträtterna i enlighet med punkt 1 och, om så är fallet, den andel som tillämpas. Esma ska offentliggöra dessa uppgifter på sin webbplats.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">8.  </span>
+                     <div class="norm inline-element">Kommissionen ges befogenhet att anta genomförandeakter för att ange minimikraven för överföring av den information som anges i punkt 2 när det gäller formatet för den information som ska överföras och formatet för begäran, inklusive deras säkerhet och kompatibilitet, samt de tidsfrister som ska hållas. Dessa genomförandeakter ska antas senast den 10 september 2018 i enlighet med det granskningsförfarande som avses i artikel 14a.2.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3b">
+                  <p class="title-article-norm" id="id-accfc856-658f-466e-9b43-dc370b636678">Artikel 3b</p>
+                  <div class="eli-title" id="art_3b.tit_1">
+                     <p class="stitle-article-norm">Överföring av information</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna ska säkerställa att intermediärerna är skyldiga att överföra följande information utan dröjsmål, från bolaget till aktieägarna eller till en tredje part som utsetts av aktieägaren:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">den information som bolaget måste tillhandahålla aktieägaren, så att aktieägaren kan utöva de rättigheter som följer av aktieinnehavet och som gäller alla som äger aktier i den klassen, eller</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">om den information som avses i led a är tillgänglig för aktieägarna på bolagets webbplats, ett meddelande om var på webbplatsen denna information kan hittas.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska kräva att bolagen tillhandahåller intermediärerna den information som avses i punkt 1 a eller det meddelande som avses i punkt 1 b i standardiserad form och i god tid.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Medlemsstaterna får dock inte kräva att den information som avses i punkt 1 a eller det meddelande som avses i punkt 1 b ska överföras eller tillhandahållas i enlighet med punkterna 1 och 2 om bolagen skickar den informationen eller det meddelandet direkt till samtliga sina aktieägare eller till en tredje part som utsetts av aktieägaren.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska ålägga intermediärerna att utan dröjsmål och i enlighet med de anvisningar som lämnas av aktieägarna till bolaget överföra den information som de tar emot från aktieägarna avseende utövandet av de rättigheter som följer av aktieinnehavet.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Om det finns fler än en intermediär i en kedja av intermediärer ska den information som avses i punkterna 1 och 4 utan dröjsmål överföras mellan intermediärerna, såvida inte informationen direkt kan överföras av intermediären till bolaget eller till aktieägaren eller till en tredje part som utsetts av aktieägaren.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Kommissionen ges befogenhet att anta genomförandeakter för att ange minimikraven för överföring av den information som anges i punkterna 1–5 i denna artikel när det gäller typerna av och formaten för den information som ska överföras, inklusive deras säkerhet och kompatibilitet, samt de tidsfrister som ska hållas. Dessa genomförandeakter ska antas senast den 10 september 2018 i enlighet med det granskningsförfarande som avses i artikel 14a.2.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3c">
+                  <p class="title-article-norm" id="id-07a3be6a-44d9-4cd6-9a36-443f4ee0b326">Artikel 3c</p>
+                  <div class="eli-title" id="art_3c.tit_1">
+                     <p class="stitle-article-norm">Underlättande av utövandet av aktieägarrättigheter</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna ska se till att intermediärerna vidtar åtgärder för att underlätta för aktieägarna att utöva sina rättigheter, inklusive rätten att delta i och rösta vid bolagsstämmor, som ska omfatta åtminstone ett av följande:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Intermediären gör det som krävs för att aktieägaren eller en tredje part som utsetts av aktieägaren ska kunna utöva rättigheterna på egen hand.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Intermediären utövar de rättigheter som följer av aktieinnehavet efter uttryckligt tillstånd och anvisningar från aktieägaren och i aktieägarens intresse.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att en elektronisk bekräftelse av att rösterna tagits emot skickas till den person som avgav rösten när omröstningen sker elektroniskt.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna ska säkerställa att aktieägaren eller en tredje part som utsetts av aktieägaren efter bolagsstämman kan få, åtminstone på begäran, bekräftelse av att deras röster på giltigt sätt har registrerats och räknats av bolaget, såvida inte denna information redan finns att tillgå för dem. Medlemsstaterna får fastställa en tidsfrist för att begära en sådan bekräftelse. Denna tidsfrist får inte vara längre än tre månader från den dag då omröstningen ägde rum.</p>
+                  <p class="norm">När intermediären får den bekräftelse som avses i första eller andra stycket ska den utan dröjsmål skicka den till aktieägaren eller en tredje part som utsetts av aktieägaren. Om det finns fler än en intermediär i kedjan av intermediärer ska bekräftelsen utan dröjsmål överföras mellan intermediärerna, såvida inte bekräftelsen direkt kan skickas till aktieägaren eller en tredje part som utsetts av aktieägaren.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Kommissionen ges befogenhet att anta genomförandeakter för att ange minimikraven för det underlättande av utövandet av aktieägarrättigheter som anges i punkterna 1 och 2 i denna artikel när det gäller typerna av underlättande åtgärder, formatet på den elektroniska bekräftelsen av att rösterna tagits emot, formatet för överföring av bekräftelsen av att rösterna på giltigt sätt har registrerats och räknats genom kedjan av intermediärer, inklusive deras säkerhet och kompatibilitet, samt de tidsfrister som ska hållas. Dessa genomförandeakter ska antas senast den 10 september 2018 i enlighet med det granskningsförfarande som avses i artikel 14a.2.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3d">
+                  <p class="title-article-norm" id="id-f377190d-4b4b-4575-ab1b-5446e4dec2a5">Artikel 3d</p>
+                  <div class="eli-title" id="art_3d.tit_1">
+                     <p class="stitle-article-norm">Icke-diskriminering, proportionalitet och transparens i fråga om kostnader</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska kräva att intermediärerna offentligt redovisar alla tillämpliga avgifter för tjänster som tillhandahålls inom ramen för detta kapitel, separat för varje tjänst.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att alla avgifter som en intermediär tar ut av aktieägare, bolag eller andra intermediärer är icke-diskriminerande och står i proportion till de faktiska kostnaderna för att tillhandahålla tjänsterna. Eventuella skillnader mellan avgifterna för inhemskt respektive gränsöverskridande utövande av rättigheter ska vara tillåtna endast om de är motiverade och återspeglar skillnader mellan de faktiska kostnaderna för att tillhandahålla tjänsterna.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Medlemsstaterna får förbjuda intermediärer att ta ut avgifter för de tjänster som tillhandahålls inom ramen för detta kapitel.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3e">
+                  <p class="title-article-norm" id="id-58e48cb2-65c0-457f-9c2d-b3ebccc67772">Artikel 3e</p>
+                  <div class="eli-title" id="art_3e.tit_1">
+                     <p class="stitle-article-norm">Intermediärer från tredjeland</p>
+                  </div>
+                  <p class="norm">Detta kapitel ska även tillämpas på intermediärer som varken har sitt säte eller sitt huvudkontor i unionen när de tillhandahåller tjänster som avses i artikel 1.5.</p>
+               </div>
+               <div class="eli-subdivision" id="art_3f">
+                  <p class="title-article-norm" id="id-b5e30845-2822-4743-905e-0241418bfdc8">Artikel 3f</p>
+                  <div class="eli-title" id="art_3f.tit_1">
+                     <p class="stitle-article-norm">Information om genomförande</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna ska underrätta kommissionen om betydande praktiska svårigheter vid genomförandet av bestämmelserna i detta kapitel eller bristande efterlevnad av bestämmelserna i detta kapitel av unionsintermediärer eller intermediärer från ett tredjeland.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Kommissionen ska i nära samarbete med Esma och den europeiska tillsynsmyndigheten (Europeiska bankmyndigheten), inrättad genom Europaparlamentets och rådets förordning (EU) nr 1093/2010 (<a href="#E0012" id="src.E0012" >
+                           <span class="superscript">12</span>
+                        </a>), överlämna en rapport till Europaparlamentet och rådet om genomförandet av detta kapitel, inbegripet dess ändamålsenlighet, svårigheter vid den praktiska tillämpningen och verkställigheten, samtidigt som man tar hänsyn till den relevanta marknadsutvecklingen på unionsnivå och internationell nivå. I rapporten ska också tas upp huruvida tillämpningsområdet för detta kapitel är lämpligt med avseende på intermediärer från tredjeländer. Kommissionen ska offentliggöra rapporten senast den 10 juni 2023.</div>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_IB">
+               <p class="title-division-1" id="id-a0153df9-81a9-4a95-b700-98cc2f5f44bd">KAPITEL Ib</p>
+               <p class="title-division-2" id="id-58d997aa-368c-43e7-9045-cd5d9b7b6fb8">TRANSPARENS I FRÅGA OM INSTITUTIONELLA INVESTERARES, KAPITALFÖRVALTARES OCH RÖSTNINGSRÅDGIVARES VERKSAMHET</p>
+               <div class="eli-subdivision" id="art_3g">
+                  <p class="title-article-norm" id="id-cc8bb14e-ad45-4e98-9446-306f9283805d">Artikel 3g</p>
+                  <div class="eli-title" id="art_3g.tit_1">
+                     <p class="stitle-article-norm">Policy för aktieägarengagemang</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att institutionella investerare och kapitalförvaltare antingen följer de krav som anges i leden a och b eller offentligt redovisar en tydlig och motiverad förklaring om varför de har valt att inte följa ett eller flera av dessa krav.</div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Institutionella investerare och kapitalförvaltare ska utarbeta och offentligt redovisa en policy för aktieägarengagemang som beskriver hur de integrerar aktieägarengagemang i sin investeringsstrategi. Policyn ska beskriva hur de övervakar investeringsobjekt i relevanta frågor, bland annat strategi, finansiella och icke-finansiella resultat och risker, kapitalstruktur, social och miljömässig påverkan samt bolagsstyrning, för dialoger med investeringsobjekten, utövar rösträtter och andra rättigheter knutna till aktier, samarbetar med andra aktieägare, kommunicerar med relevanta intressenter i investeringsobjekten och hanterar faktiska och potentiella intressekonflikter i samband med sitt engagemang.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Institutionella investerare och kapitalförvaltare ska en gång per år offentligt redovisa hur denna policy för aktieägarengagemang har genomförts, med en allmän beskrivning av röstningsbeteende, en förklaring av de viktigaste omröstningarna och deras användning av röstningsrådgivares tjänster. De ska offentligt redovisa hur de har röstat under bolagsstämmor i bolag som de innehar aktier i. Denna redovisning får utelämna omröstningar som är oviktiga på grund av ämnet för omröstningen eller storleken på innehavet i bolaget.</p>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Den information som avses i punkt 1 ska kostnadsfritt vara tillgänglig på den institutionella investerarens eller kapitalförvaltarens webbplats. Medlemsstaterna får kräva att informationen ska offentliggöras kostnadsfritt på andra lättillgängliga sätt på internet.</div>
+                  </div>
+                  <p class="norm">När en kapitalförvaltare genomför policyn för aktieägarengagemang, även vad gäller omröstningar, för en institutionell investerares räkning ska den institutionella investeraren ange var kapitalförvaltaren har offentliggjort informationen om omröstningarna.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Regler om intressekonflikter tillämpliga på institutionella investerare och kapitalförvaltare, inbegripet artikel 14 i direktiv 2011/61/EU, artikel 12.1 b och artikel 14.1 d i direktiv 2009/65/EG och de berörda genomförandebestämmelserna samt artikel 23 i direktiv 2014/65/EU, ska vara tillämpliga också i fråga om aktieägarengagemang.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3h">
+                  <p class="title-article-norm" id="id-c9f0afa9-f8a6-4544-874c-84dc47431694">Artikel 3h</p>
+                  <div class="eli-title" id="art_3h.tit_1">
+                     <p class="stitle-article-norm">Institutionella investerares investeringsstrategi och överenskommelser med kapitalförvaltare</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att de institutionella investerarna offentligt redovisar hur de viktigaste inslagen i deras kapitalinvesteringsstrategi stämmer överens med deras ansvarsförbindelsers profil och löptid, i synnerhet för långfristiga ansvarsförbindelser, och hur de bidrar till tillgångarnas utveckling på medellång till lång sikt.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Om en kapitalförvaltare investerar för en institutionell investerare, antingen på grundval av ett diskretionärt arrangemang med varje enskild kund eller genom ett företag för kollektiva investeringar, ska medlemsstaterna se till att den institutionella investeraren offentligt redovisar följande information om sin överenskommelse med kapitalförvaltaren:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Hur överenskommelsen med kapitalförvaltaren uppmuntrar denne att anpassa sin investeringsstrategi och sina investeringsbeslut efter profilen och löptiden för den institutionella investerarens ansvarsförbindelser, i synnerhet långfristiga ansvarsförbindelser.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Hur den överenskommelsen uppmuntrar kapitalförvaltaren att fatta investeringsbeslut som grundas på bedömningar av investeringsobjektets finansiella och icke-finansiella resultat på medellång till lång sikt och att engagera sig i investeringsobjekten i syfte att förbättra deras resultat på medellång till lång sikt.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Hur metoden och tidshorisonten för utvärdering av kapitalförvaltarens prestationer och ersättningen för kapitalförvaltningstjänsterna stämmer överens med profilen och löptiden för den institutionella investerarens ansvarsförbindelser, i synnerhet långfristiga ansvarsförbindelser, samt beaktar det absoluta långsiktiga resultatet.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Hur den institutionella investeraren bevakar kapitalförvaltarens kostnader för portföljens omsättning och hur den definierar och bevakar portföljens avsedda omsättningshastighet eller hastighetsintervall.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Varaktigheten för överenskommelsen med kapitalförvaltaren.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm">Om överenskommelsen med kapitalförvaltaren inte innehåller ett eller flera sådana inslag ska den institutionella investeraren lämna en tydlig och motiverad förklaring till varför det förhåller sig så.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Den information som avses i punkterna 1 och 2 i denna artikel ska vara tillgänglig kostnadsfritt på den institutionella investerarens webbplats och uppdateras årligen; om ingen väsentlig förändring har skett behöver dock ingen uppdatering göras. Medlemsstaterna får föreskriva att denna information ska vara tillgänglig kostnadsfritt på andra lättillgängliga sätt på internet.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna ska se till att institutionella investerare som regleras genom direktiv 2009/138/EG får ta med denna information i sin rapport om solvens och finansiell ställning enligt artikel 51 i det direktivet.</p>
+               </div>
+               <div class="eli-subdivision" id="art_3i">
+                  <p class="title-article-norm" id="id-a302d3d9-c3d8-439f-a6df-4fddda2fda21">Artikel 3i</p>
+                  <div class="eli-title" id="art_3i.tit_1">
+                     <p class="stitle-article-norm">Transparens för kapitalförvaltare</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att kapitalförvaltare en gång per år redovisar för den institutionella investerare med vilken de har ingått de överenskommelser som avses i artikel 3h, hur deras investeringsstrategi och genomförandet av den överensstämmer med den överenskommelsen och bidrar till utvecklingen av den institutionella investerarens eller fondens tillgångar på medellång till lång sikt. Denna redovisning ska inbegripa rapportering om de mest betydande riskerna på medellång till lång sikt som investeringarna är förenade med, portföljens sammansättning, omsättning och omsättningskostnader, anlitande av röstningsrådgivare för engagemang i bolaget samt deras policy för utlåning av värdepapper och hur denna tillämpas för att fullfölja engagemanget i tillämpliga fall, särskilt vid investeringsobjektens bolagsstämmor. Denna redovisning ska även inbegripa information om huruvida, och i så fall hur, de fattar investeringsbeslut på grundval av en bedömning av investeringsobjektets resultat på medellång till lång sikt, inklusive dess icke-finansiella resultat, och om huruvida, och i så fall vilka, intressekonflikter som har uppkommit i samband med engagemanget och hur kapitalförvaltarna har hanterat dem.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna får föreskriva att informationen enligt punkt 1 ska redovisas tillsammans med den årsrapport som avses i artikel 68 i direktiv 2009/65/EG eller artikel 22 i direktiv 2011/61/EU, alternativt de regelbundna meddelanden som avses i artikel 25.6 i direktiv 2014/65/EU.</div>
+                  </div>
+                  <p class="norm">Om den information som redovisas i enlighet med punkt 1 redan är tillgänglig för allmänheten är kapitalförvaltaren inte skyldig att lämna informationen direkt till den institutionella investeraren.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Om kapitalförvaltaren inte förvaltar tillgångarna diskretionärt för varje enskild kund, får medlemsstaterna kräva att information som redovisas i enlighet med punkt 1 också ska tillhandahållas andra investerare i samma fond, åtminstone på begäran.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3j">
+                  <p class="title-article-norm" id="id-5abe6b20-2f66-4d44-8ae9-782b0b71a939">Artikel 3j</p>
+                  <div class="eli-title" id="art_3j.tit_1">
+                     <p class="stitle-article-norm">Transparens för röstningsrådgivare</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att röstningsrådgivare offentligt hänvisar till en uppförandekod som de tillämpar samt redovisar hur de har tillämpat denna uppförandekod.</div>
+                  </div>
+                  <p class="norm">Om röstningsrådgivare inte tillämpar en uppförandekod ska de lämna en tydlig och motiverad förklaring till varför det förhåller sig så. Om röstningsrådgivare tillämpar en uppförandekod men avviker från någon av rekommendationerna i den ska de ange vilka delar de avviker från, lämna en förklaring till detta och i förekommande fall ange vilka alternativa åtgärder som vidtagits.</p>
+                  <p class="norm">Den information som avses i denna punkt ska kostnadsfritt göras tillgänglig för allmänheten på röstningsrådgivarnas webbplatser och uppdateras årligen.</p>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna ska säkerställa att röstningsrådgivarna – för att på ett tillfredsställande sätt informera sina kunder om riktigheten och tillförlitligheten i sin verksamhet – årligen offentligt redovisar minst all följande information kring utarbetandet av sina undersökningar, råd och röstningsrekommendationer:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Huvuddragen i de metoder och modeller de tillämpar.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Vilka informationskällor de huvudsakligen använder.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Vilka förfaranden de infört för att säkra kvaliteten på sina undersökningar, råd och röstningsrekommendationer och kvalifikationerna för berörd personal.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Om, och i så fall hur, de beaktar nationella marknadsvillkor, rättsliga villkor, regleringsvillkor och bolagsspecifika villkor.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Huvuddragen i de röstningspolicyer de tillämpar för varje marknad.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>f) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Om de för dialoger med de bolag som är föremål för deras undersökningar, råd eller röstningsrekommendationer samt med bolagens intressenter och, om så är fallet, dialogernas omfattning och natur.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>g) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Policyn för förebyggande och hantering av potentiella intressekonflikter.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm">Den information som avses i denna punkt ska göras tillgänglig för allmänheten på röstningsrådgivarnas webbplatser och förbli tillgänglig kostnadsfritt under minst tre år från publiceringsdatum. Informationen behöver inte redovisas separat om den är tillgänglig som en del av det som redovisas i enlighet med punkt 1.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att röstningsrådgivare identifierar och för sina kunder utan dröjsmål redovisar alla faktiska eller potentiella intressekonflikter eller affärsförbindelser som kan påverka utarbetandet av deras undersökningar, råd eller röstningsrekommendationer samt de åtgärder de har vidtagit för att undanröja, begränsa eller hantera de faktiska eller potentiella intressekonflikterna.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Denna artikel ska tillämpas även på röstningsrådgivare som varken har sitt säte eller sitt huvudkontor i unionen men som bedriver sin verksamhet genom ett verksamhetsställe i unionen.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3k">
+                  <p class="title-article-norm" id="id-d5e7be41-870d-48cc-98f6-8ee3af7ae32e">Artikel 3k</p>
+                  <div class="eli-title" id="art_3k.tit_1">
+                     <p class="stitle-article-norm">Översyn</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Kommissionen ska lägga fram en rapport för Europaparlamentet och rådet om genomförandet av artiklarna 3g, 3h och 3i, inbegripet en bedömning av behovet att kräva att kapitalförvaltarna offentligt redovisar viss information enligt artikel 3i, med beaktande av den relevanta marknadsutvecklingen på unionsnivå och internationell nivå. Rapporten ska offentliggöras senast den 10 juni 2022 och ska om lämpligt åtföljas av lagstiftningsförslag.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Kommissionen ska i nära samarbete med Esma lägga fram en rapport för Europaparlamentet och rådet om genomförandet av artikel 3j, inbegripet dess tillämpningsområdes lämplighet och dess ändamålsenlighet samt en bedömning av behovet av regleringskrav för röstningsrådgivare, med beaktande av den relevanta marknadsutvecklingen på unionsnivå och internationell nivå. Rapporten ska offentliggöras senast den 10 juni 2023 och ska om lämpligt åtföljas av lagstiftningsförslag.</div>
+                  </div>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32007L0036"
+                  >▼B</a>
+            </p>
+            <div id="cpt_II">
+               <p class="title-division-1" id="id-13393731-95b4-4599-8609-4d5ddb921791">KAPITEL II</p>
+               <p class="title-division-2" id="id-95e5dc1d-7da0-4a54-bab2-a9a59339bfea">BOLAGSSTÄMMOR</p>
+               <div class="eli-subdivision" id="art_4">
+                  <p class="title-article-norm" id="id-068bfdc0-e029-4a96-825a-c87560b30162">Artikel 4</p>
+                  <div class="eli-title" id="art_4.tit_1">
+                     <p class="stitle-article-norm">Lika behandling av aktieägare</p>
+                  </div>
+                  <p class="norm">Bolaget skall säkerställa lika behandling av alla aktieägare som är i samma ställning med avseende på deltagande och utnyttjande av rösträtt vid bolagsstämman.</p>
+               </div>
+               <div class="eli-subdivision" id="art_5">
+                  <p class="title-article-norm" id="id-3b8812d3-2139-4d0d-bd63-b16294007c80">Artikel 5</p>
+                  <div class="eli-title" id="art_5.tit_1">
+                     <p class="stitle-article-norm">Information före bolagsstämman</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Utan att det påverkar tillämpningen av artiklarna 9.4 och 11.4 i Europaparlamentets och rådets direktiv 2004/25/EG av den 21 april 2004 om uppköpserbjudanden (<a href="#E0013" id="src.E0013" >
+                           <span class="superscript">13</span>
+                        </a>) skall medlemsstaterna se till att bolaget utfärdar kallelsen till bolagsstämman på ett av de sätt som anges i punkt 2 i denna artikel senast den tjugoförsta dagen före dagen för stämman.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får föreskriva att bolagsstämman, om bolaget erbjuder aktieägarna möjlighet att rösta på elektronisk väg som är tillgänglig för alla aktieägare, får besluta att bolaget skall utfärda kallelsen till en bolagsstämma som inte är en årlig bolagsstämma på ett av de sätt som anges i punkt 2 i denna artikel senast den fjortonde dagen före dagen för stämman. Detta beslut skall fattas av en majoritet av minst två tredjedelar av de röster som är knutna till aktierna eller det tecknade kapital som dessa representerar och beslutet skall gälla längst till nästa årliga bolagsstämma.</p>
+                  <p class="norm">Medlemsstaterna behöver inte tillämpa de minimitider som avses i första och andra stycket för den andra eller därpå följande kallelsen till bolagsstämman, när denna utfärdas på grund av brist på beslutmässigt antal aktieägare för den bolagsstämma som inkallas genom den första kallelsen, under förutsättning att denna artikel har följts för den första kallelsen och ingen ny punkt har förts upp på dagordningen samt att minst tio dagar förflyter mellan den slutliga kallelsen och dagen för bolagsstämman.</p>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Utan att det påverkar tillämpningen av de ytterligare krav på kallelse eller offentliggörande som fastställs av den enligt artikel 1.2 behöriga medlemsstaten, skall bolaget vara skyldigt att utfärda den kallelse som avses i punkt 1 i denna artikel på ett sätt som gör att den snabbt blir tillgänglig på ett icke-diskriminerande sätt. Medlemsstaten skall kräva att bolaget använder sådana medier som rimligen kan bedömas vara tillförlitliga för spridning av information till allmänheten inom gemenskapen. Medlemsstaten får inte kräva att endast medier vilkas operatörer är etablerade på det egna territoriet skall få användas.</div>
+                  </div>
+                  <p class="norm">Medlemsstaten behöver inte tillämpa första stycket på de bolag vilkas aktieägares namn och adress framgår av ett löpande register över aktieägare, förutsatt att bolaget är skyldigt att sända kallelsen till var och en av sina registrerade aktieägare.</p>
+                  <p class="norm">Under inga omständigheter får bolaget ta ut någon särskild avgift för utfärdandet av kallelsen på det föreskrivna sättet.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Den kallelse som avses i punkt 1 skall minst</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">innehålla en exakt angivelse av när och var bolagsstämman skall äga rum och vilken dagordning som föreslås för bolagsstämman,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">innehålla en klar och noggrann beskrivning av de förfaranden som aktieägarna måste följa för att kunna delta i och rösta vid bolagsstämman. Denna skall innehålla information om</p>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>i) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">aktieägarnas rättigheter enligt artikel 6, i den mån som dessa rättigheter kan utnyttjas efter kallelsens utfärdande, och enligt artikel 9 samt de datum till och med vilka dessa rättigheter får utnyttjas; kallelsen får begränsas till att ange endast de datum till och med vilka dessa rättigheter får utnyttjas, om den samtidigt hänvisar till att närmare uppgifter om dessa rättigheter finns att tillgå på bolagets webbplats,</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>ii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">förfarandet för röstning med fullmakt, särskilt vilka blanketter som skall användas för röstning med fullmakt och under vilka omständigheter bolaget kan godta elektroniska underrättelser om de personer som erhållit fullmakt, och</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>iii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">i tillämpliga fall förfarandena för röstning per brev eller på elektronisk väg,</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">i tillämpliga fall ange registreringsdag i enlighet med definitionen i artikel 7.2 och upplysa om att endast de som är aktieägare den dagen skall ha rätt att delta och rösta vid bolagsstämman,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">ange var och hur de handlingar och förslag till beslut som avses i punkt 4 c och 4 d kan erhållas i sin fullständiga, oavkortade lydelse,</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">ange på vilken webbadress den information som avses i punkt 4 kommer att göras tillgänglig.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna skall se till att bolaget under en kontinuerlig period, som skall inledas senast den tjugoförsta dagen före bolagsstämman och löpa fram till och med dagen för stämman, ger sina aktieägare tillgång till minst följande information på sin webbplats:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Den kallelse som avses i punkt 1.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Antalet aktier och rösträtter totalt på dagen för kallelsen (inbegripet särredovisning av det totala antalet för varje kategori av aktier, om bolagets kapital är uppdelat på två aktiekategorier eller mer).</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">De handlingar som skall läggas fram på bolagsstämman.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Ett förslag till beslut eller, om inga beslut föreslås för antagande, ett yttrande från ett enligt tillämplig lag utsett behörigt organ inom bolaget för varje punkt på den föreslagna dagordningen för bolagsstämman; dessutom skall förslag till beslut som läggs fram av aktieägare läggas till på webbplatsen så snart som det är praktiskt möjligt efter det att de har tagits emot av bolaget.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">I tillämpliga fall de formulär som skall användas vid röstning med fullmakt och för röstning per brev, såvida inte dessa formulär sänds direkt till varje aktieägare.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm">Om de formulär som avses i led e av tekniska skäl inte kan göras tillgängliga på Internet, skall bolaget på sin webbplats ange hur formulären kan erhållas i pappersform. Bolaget skall i så fall vara skyldigt att per post och utan kostnad skicka formulären till alla aktieägare som så begär.</p>
+                  <p class="norm">Om kallelsen till bolagsstämman enligt artiklarna 9.4 eller 11.4 i direktiv 2004/25/EG eller enligt punkt 1 andra stycket i denna artikel utfärdas senare än den tjugoförsta dagen före stämman, skall den period som anges i denna punkt förkortas i motsvarande mån.</p>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32021R0023"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32021R0023: REPLACED"
+                        >▼M3</a>
+                  </p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska för tillämpningen av direktiv 2014/59/EU och förordning (EU) 2021/23 se till att bolagsstämman, med en majoritet av två tredjedelar av de avlagda giltiga rösterna, får besluta eller ändra bolagsordningen för att föreskriva att en kallelse till bolagsstämma för att fatta beslut om en kapitalökning ska utfärdas med kortare varsel än vad som föreskrivs i punkt 1 i den här artikeln, förutsatt att stämman inte äger rum inom tio kalenderdagar från kallelsen och att villkoren i artikel 27 eller 29 i direktiv 2014/59/EU eller artikel 18 i förordning (EU) 2021/23 uppfylls samt att kapitalökningen är nödvändig för att undvika de villkor för resolution som föreskrivs i artiklarna 32 och 33 i direktiv 2014/59/EU eller i artikel 22 i förordning (EU) 2021/23.</div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32014L0059"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32014L0059: INSERTED"
+                        >▼M1</a>
+                  </p>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Vid tillämpningen av punkt 5 ska skyldigheten för varje medlemsstat att fastställa en enda tidpunkt enligt artikel 6.3, skyldigheten att se till att en reviderad dagordning enligt artikel 6.4 finns tillgänglig i tid och skyldigheten för varje medlemsstat att fastställa en bestämd avstämningsdag enligt artikel 7.3 inte tillämpas.</div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32007L0036"
+                        >▼B</a>
+                  </p>
+               </div>
+               <div class="eli-subdivision" id="art_6">
+                  <p class="title-article-norm" id="id-50c8d459-0aed-419d-9065-34e31cccd97f">Artikel 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="stitle-article-norm">Rätt att föra upp ärenden på dagordningen för bolagsstämman och att lägga fram förslag till beslut</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna skall se till att aktieägare, enskilt eller tillsammans</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">har rätt att föra upp punkter på dagordningen för bolagsstämman, förutsatt att varje sådan punkt åtföljs av en motivering eller ett förslag till beslut av bolagsstämman, och</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">har rätt att lägga fram förslag till beslut om punkter som har förts eller skall föras upp på dagordningen för en bolagsstämma.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får fastställa att rätten enligt led a endast får utnyttjas i samband med den årliga bolagsstämman, förutsatt att aktieägare, enskilt eller tillsammans, har rätt att sammankalla eller kräva att bolaget sammankallar en bolagsstämma, som inte är en årlig bolagsstämma, med en dagordning som upptar åtminstone alla de punkter som dessa aktieägare begär.</p>
+                  <p class="norm">Medlemsstaterna får fastställa att dessa rättigheter skall utnyttjas skriftligen (och sändas per post eller på elektronisk väg).</p>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Om någon av de rättigheter som anges i punkt 1 är beroende av villkoret att den berörda aktieägaren eller de berörda aktieägarna innehar en minimiandel av bolagets aktiekapital, får denna minimiandel inte överstiga 5 % av aktiekapitalet.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Varje medlemsstat skall fastställa en enda tidpunkt i form av ett bestämt antal dagar före bolagsstämman eller kallelsen fram till vilken aktieägare får utnyttja sina rättigheter enligt punkt 1 a. På samma sätt får varje medlemsstat fastställa en tidpunkt för utnyttjandet av rätten enligt punkt 1 b.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Medlemsstaterna skall se till att bolaget, om utnyttjandet av rätten enligt punkt 1 a innebär ändring av den dagordning för en bolagsstämma som redan meddelats aktieägarna, tillhandahåller en reviderad dagordning på samma sätt som den förra dagordningen i god tid före tillämplig avstämningsdag i enlighet med definitionen i artikel 7.2 eller, om ingen avstämningsdag tillämpas, i så god tid före bolagsstämman att aktieägarna kan förse en person med fullmakt eller i tillämpliga fall rösta per brev.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p class="title-article-norm" id="id-de7a2d1e-bb14-45ec-baf5-eca9ac9bcfdb">Artikel 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="stitle-article-norm">Krav för deltagande och röstning vid bolagsstämman</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna skall se till att</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">en aktieägares rätt att delta vid en bolagsstämma och rätt att rösta för sina aktier inte omfattas av något krav på att dennes aktier skall deponeras hos eller överföras till någon annan fysisk eller juridisk person eller registreras i denna persons namn före bolagsstämman, och</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">en aktieägares rätt att sälja eller på annat sätt överföra sina aktier under perioden mellan registreringsdagen, såsom den definieras i punkt 2, och den bolagsstämma som denna avser inte omfattas av några andra restriktioner än vad som annars gäller.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna skall föreskriva att en aktieägares rätt att delta i en bolagsstämma och rösta för sina aktier skall fastställas i förhållande till de aktier som aktieägaren innehar vid en viss fastställd tidpunkt före bolagsstämman (”avstämningsdagen”).</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna behöver inte tillämpa första stycket på de bolag vilkas aktieägares namn och adress på dagen för bolagsstämman framgår av ett löpande register över aktieägare.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Varje medlemsstat skall se till att en bestämd avstämningsdag gäller för alla bolag. En medlemsstat får emellertid fastställa en avstämningsdag för bolag som har emitterat innehavaraktier och en annan avstämningsdag för bolag som har emitterat namnaktier, förutsatt att en bestämd avstämningsdag gäller för varje bolag som har emitterat båda typer av aktier. Avstämningsdagen får inte infalla mer än 30 dagar före den bolagsstämma som avses. Vid tillämpningen av denna bestämmelse och artikel 5.1 skall varje medlemsstat se till att minst åtta dagar förflyter mellan sista tillåtna dag för kallelsen till bolagsstämman och avstämningsdagen. Dessa båda dagar får inte ingå när antalet dagar beräknas. I de fall som avses i artikel 5.1 tredje stycket får dock en medlemsstat kräva att minst sex dagar förflyter mellan sista tillåtna dag för den andra eller därpå följande kallelsen till bolagsstämman och avstämningsdagen. Dessa båda dagar får inte ingå när antalet dagar beräknas.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Bevis för att någon skall erkännas som aktieägare får endast underställas de krav som är nödvändiga för att säkerställa identifieringen av aktieägare och detta bara i den mån de står i proportion till detta syfte.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_8">
+                  <p class="title-article-norm" id="id-a9a4f696-8d34-4158-94e2-f40814d5c28f">Artikel 8</p>
+                  <div class="eli-title" id="art_8.tit_1">
+                     <p class="stitle-article-norm">Deltagande i bolagsstämmor via elektroniska hjälpmedel</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna skall tillåta bolag att erbjuda sina aktieägare någon form av deltagande i bolagsstämman via elektroniska hjälpmedel, däribland någon eller alla av följande former av deltagande:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Utsändning i realtid av bolagsstämman.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">En tvåvägskommunikation i realtid som gör det möjligt för aktieägare att göra inlägg vid bolagsstämman från en annan plats.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">En mekanism för att avge röster, antingen före eller under bolagsstämman, utan att behöva utse en fullmaktsinnehavare som är fysiskt närvarande vid bolagsstämman.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Användning av elektroniska hjälpmedel för att möjliggöra aktieägares deltagande vid bolagsstämman får endast underställas de krav och begränsningar som är nödvändiga för att säkerställa identifieringen av aktieägare och den elektroniska kommunikationens säkerhet och detta bara i den mån de står i proportion till dessa syften.</div>
+                  </div>
+                  <p class="norm">Detta skall inte påverka tillämpningen av sådana rättsliga bestämmelser som medlemsstaterna har antagit eller kan komma att anta angående beslutsprocessen inom bolaget i samband med införande eller genomförande av någon form av deltagande på elektronisk väg.</p>
+               </div>
+               <div class="eli-subdivision" id="art_9">
+                  <p class="title-article-norm" id="id-1f1c5a85-482e-48cf-94f6-0147e4d63e52">Artikel 9</p>
+                  <div class="eli-title" id="art_9.tit_1">
+                     <p class="stitle-article-norm">Rätt att ställa frågor</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Varje aktieägare skall ha rätt att ställa frågor om punkter på dagordningen för bolagsstämman. Bolaget skall besvara aktieägarnas frågor.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Rätten att ställa frågor och skyldigheten att besvara dem gäller med förbehåll för de åtgärder som medlemsstaterna får vidta, eller tillåta bolagen att vidta, för att säkerställa identifiering av aktieägare, avhållande och förberedelse av bolagsstämmor i god ordning samt skydd av bolagens konfidentiella information och affärsintressen. Medlemsstaterna får tillåta bolagen att lämna ett samlat svar på frågor med samma innehåll.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får föreskriva att ett svar skall anses vara avgivet om den berörda informationen finns tillgänglig på bolagets webbplats i form av fråga och svar.</p>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0828: INSERTED"
+                     >▼M2</a>
+               </p>
+               <div class="eli-subdivision" id="art_9a">
+                  <p class="title-article-norm" id="id-1897fce5-e4a7-4bf5-aef4-7e2dfde7c121">Artikel 9a</p>
+                  <div class="eli-title" id="art_9a.tit_1">
+                     <p class="stitle-article-norm">Rätten att rösta om ersättningspolicyn</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att bolagen upprättar en ersättningspolicy för ledande befattningshavare och att aktieägarna har rätt att rösta om ersättningspolicyn på bolagsstämman.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att aktieägarnas omröstning om ersättningspolicyn på bolagsstämman är bindande. Bolagen får endast betala ersättning till sina ledande befattningshavare enligt en ersättningspolicy som har godkänts av bolagsstämman.</div>
+                  </div>
+                  <p class="norm">Om någon ersättningspolicy inte har godkänts och bolagsstämman inte godkänner den föreslagna policyn får bolaget fortsätta att betala ersättning till sina ledande befattningshavare i enlighet med sin befintliga praxis och ska lägga fram en reviderad policy för godkännande på nästa bolagsstämma.</p>
+                  <p class="norm">Om det finns en godkänd ersättningspolicy och bolagsstämman inte godkänner den föreslagna nya policyn ska bolaget fortsätta att betala ersättning till sina ledande befattningshavare i enlighet med den befintliga godkända policyn och ska lägga fram en reviderad policy för godkännande på nästa bolagsstämma.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Medlemsstaterna får dock föreskriva att omröstningen om ersättningspolicyn på bolagsstämman ska vara rådgivande. I det fallet ska bolagen betala ersättning till sina ledande befattningshavare enbart i enlighet med en ersättningspolicy som har lagts fram för en sådan omröstning på bolagsstämman. Om bolagsstämman förkastar den föreslagna ersättningspolicyn ska bolaget lägga fram en reviderad policy för omröstning på nästa bolagsstämma.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Medlemsstaterna får tillåta bolagen att under exceptionella omständigheter tillfälligt göra undantag från ersättningspolicyn, förutsatt att policyn anger de förfaranderegler som gäller för tillämpningen av undantaget och vilka delar av policyn som det är möjligt att göra undantag från.</div>
+                  </div>
+                  <p class="norm">De exceptionella omständigheter som avses i första stycket ska endast omfatta situationer där undantaget från ersättningspolicyn är nödvändigt för att tillgodose hela bolagets långsiktiga intressen och hållbarhet eller att säkerställa dess bärkraft.</p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att bolagen lägger fram ersättningspolicyn för omröstning av bolagsstämman vid varje väsentlig förändring, dock minst vart fjärde år.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Ersättningspolicyn ska bidra till bolagets affärsstrategi och långsiktiga intressen och hållbarhet och ska innehålla en förklaring av hur den gör det. Den ska vara tydlig och begriplig, med en beskrivning av de olika komponenterna av fasta och rörliga ersättningar, inklusive alla bonusar och övriga förmåner oavsett form, som kan delas ut till ledande befattningshavare, med angivande av deras relativa andelar.</div>
+                  </div>
+                  <p class="norm">I ersättningspolicyn ska förklaras hur lönen och anställningsvillkoren för bolagets anställda beaktades när ersättningspolicyn fastställdes.</p>
+                  <p class="norm">Om ett bolag delar ut rörlig ersättning ska ersättningspolicyn innehålla tydliga, uttömmande och varierade kriterier för utdelning av den rörliga ersättningen. Den ska ange de finansiella och icke-finansiella resultatkriterierna, inbegripet, när det är lämpligt, kriterier som rör bolagens sociala ansvar, med en förklaring av hur de bidrar till de mål som fastställs i första stycket, liksom de metoder som ska tillämpas för att fastställa i vilken utsträckning resultatkriterierna har uppfyllts. Den ska innehålla uppgifter om eventuella uppskovsperioder och om bolagets möjlighet att återkräva rörlig ersättning.</p>
+                  <p class="norm">Om bolaget delar ut aktiebaserade ersättningar ska policyn innehålla uppgifter om förvärvandeperioder och i tillämpliga fall behållande av aktier efter förvärv, med en förklaring av hur den aktiebaserade ersättningen bidrar till de mål som anges i första stycket.</p>
+                  <p class="norm">I ersättningspolicyn ska anges varaktigheten för avtal eller överenskommelser med ledande befattningshavare och de tillämpliga uppsägningsperioderna, huvuddragen för systemen för tilläggspension eller förtidspensionering samt villkoren för uppsägning och betalningar kopplade till uppsägning.</p>
+                  <p class="norm">Ersättningspolicyn ska innehålla en förklaring av den beslutsprocess som tillämpas för att fastställa, se över och genomföra den, inbegripet åtgärder för att undvika eller hantera intressekonflikter och, i förekommande fall, rollen för ersättningskommittén eller andra berörda kommittéer. Om det sker en översyn av policyn ska policyn innehålla en beskrivning och förklaring av alla betydande förändringar och på vilket sätt den beaktar aktieägarnas röster och synpunkter på policyn samt rapporterna sedan den senaste omröstningen om ersättningspolicyn av bolagsstämman.</p>
+                  <div class="norm">
+                     <span class="no-parag">7.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att ersättningspolicyn, tillsammans med dagen för och resultatet av bolagsstämmans omröstning, offentliggörs utan dröjsmål efter omröstningen på bolagets webbplats och förblir tillgänglig för allmänheten utan kostnad, åtminstone så länge som policyn gäller.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_9b">
+                  <p class="title-article-norm" id="id-c1636e28-8973-42b6-938e-674da4336c13">Artikel 9b</p>
+                  <div class="eli-title" id="art_9b.tit_1">
+                     <p class="stitle-article-norm">Information som ska uppges i ersättningsrapporten och rätten att rösta om ersättningsrapporten</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att bolaget utarbetar en tydlig och lättbegriplig ersättningsrapport som ger en heltäckande översikt över ersättningen, inklusive alla förmåner oavsett form, utbetalade eller innestående under det senaste räkenskapsåret till enskilda ledande befattningshavare, inklusive nyrekryterade och tidigare ledande befattningshavare, i enlighet med den ersättningspolicy som avses i artikel 9a.</div>
+                  </div>
+                  <p class="norm inline-element">I förekommande fall ska ersättningsrapporten innehålla följande uppgifter om varje enskild ledande befattningshavares ersättning:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Den totala ersättningen uppdelad per komponent, den relativa andelen fast och rörlig ersättning, en förklaring av hur den totala ersättningen följer den antagna ersättningspolicyn, däribland hur den bidrar till bolagets långsiktiga resultat, samt information om hur resultatkriterierna tillämpats.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Den årliga förändringen av ersättningen, av bolagets resultat och av den genomsnittliga ersättningen i heltidsekvivalenter för bolagets andra anställda än ledande befattningshavare under åtminstone de fem senaste räkenskapsåren, presenterat tillsammans på ett sätt som medger jämförelse.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Ersättning från ett annat företag inom samma koncern enligt definitionen i artikel 2.11 i Europaparlamentets och rådets direktiv 2013/34/EU (<a href="#E0014" id="src.E0014" >
+                              <span class="superscript">14</span>
+                           </a>).</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Antalet aktier och aktieoptioner som tilldelats eller erbjudits och de huvudsakliga villkoren för att lösa in optionerna, inklusive lösenpris och lösendatum och eventuella ändringar av dessa.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>e) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Information om möjligheten att kräva tillbaka rörlig ersättning.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>f) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Information om eventuella avvikelser från det förfarande för genomförande av ersättningspolicyn som avses i artikel 9a.6 och om eventuella undantag som tillämpas i enlighet med artikel 9a.4, inbegripet förklaringen av arten av exceptionella omständigheter och uppgifterna om de specifika delar från vilka undantag gjorts.</p>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att bolagen i ersättningsrapporten inte tar med särskilda kategorier av enskilda ledande befattningshavares personuppgifter i den mening som avses i artikel 9.1 i Europaparlamentets och rådets förordning (EU) 2016/679 (<a href="#E0015" id="src.E0015" >
+                           <span class="superscript">15</span>
+                        </a>) eller personuppgifter som avser enskilda ledande befattningshavares familjesituation.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Bolagen ska behandla ledande befattningshavares personuppgifter i ersättningsrapporten i enlighet med denna artikel i syfte att öka transparensen i fråga om ersättningen till ledande befattningshavare och på så sätt göra det lättare att utkräva ansvar av ledande befattningshavare och stärka aktieägartillsynen över deras ersättning.</div>
+                  </div>
+                  <p class="norm">Utan att det påverkar tillämpningen av eventuella längre perioder som fastställs genom en sektorsspecifik unionslagstiftningsakt ska medlemsstaterna se till att bolagen inte håller ledande befattningshavares personuppgifter som i enlighet med denna artikel tas med i ersättningsrapporten tillgängliga för allmänheten i enlighet med punkt 5 i denna artikel längre än tio år efter offentliggörandet av ersättningsrapporten.</p>
+                  <p class="norm">Medlemsstaterna får i nationell rätt föreskriva om behandling av ledande befattningshavares personuppgifter för andra ändamål.</p>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att den årliga bolagsstämman har rätt att hålla en rådgivande omröstning om ersättningsrapporten för det senaste räkenskapsåret. Företaget ska i nästa ersättningsrapport förklara hur resultatet av omröstningen på bolagsstämman har beaktats.</div>
+                  </div>
+                  <p class="norm">När det gäller små och medelstora bolag enligt definitionen i artikel 3.2 respektive3.3 i direktiv 2013/34/EU får dock medlemsstaterna, som ett alternativ till en omröstning, föreskriva att ersättningsrapporten från det senaste räkenskapsåret ska läggas fram för diskussion på den årliga bolagsstämman som en separat punkt på dagordningen. Bolaget ska i nästa ersättningsrapport förklara hur diskussionen på bolagsstämman har beaktats.</p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Utan att det påverkar tillämpningen av artikel 5.4 ska bolagen efter bolagsstämman göra ersättningsrapporten tillgänglig för allmänheten utan kostnad på sina webbplatser under en period på tio år, och får välja att hålla den tillgänglig längre, under förutsättning att den inte längre innehåller ledande befattningshavares personuppgifter. Den revisor eller det revisionsföretag som stadgas enligt lag ska kontrollera att den information som krävs enligt denna artikel har lämnats.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna ska se till att bolagets ledande befattningshavare, inom ramen för den behörighet som nationell rätt ger dem, har kollektivt ansvar för att se till att ersättningsrapporten utarbetas och offentliggörs i enlighet med kraven i detta direktiv. Medlemsstaterna ska säkerställa att deras lagar och andra författningar om ansvar, åtminstone gentemot bolaget, tillämpas på bolagets ledande befattningshavare vid åsidosättande av de skyldigheter som avses i denna punkt.</p>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">Kommissionen ska, i syfte att säkerställa en harmonisering i fråga om denna artikel, anta riktlinjer för att fastställa den standardiserade redovisningen av den information som anges i punkt 1.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_9c">
+                  <p class="title-article-norm" id="id-8ee73c7e-a168-4762-8faa-46b670803355">Artikel 9c</p>
+                  <div class="eli-title" id="art_9c.tit_1">
+                     <p class="stitle-article-norm">Transparens i fråga om och godkännande av transaktioner med närstående parter</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna ska fastställa en definition av väsentliga transaktioner för tillämpningen av denna artikel med beaktande av</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">det inflytande som information om transaktionen kan ha på de ekonomiska beslut som bolagets aktieägare fattar, och</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">de risker som transaktionen skapar för bolaget och dess aktieägare som inte är närstående parter, däribland minoritetsaktieägare.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm">När medlemsstaterna definierar väsentliga transaktioner ska de fastställa en eller flera kvantitativa faktorer baserade på transaktionens påverkan på bolagets finansiella ställning, intäkter, tillgångar, kapitalisering, inbegripet eget kapital, eller omsättning eller ta hänsyn till transaktionens art och den närstående partens ställning.</p>
+                  <p class="norm">Medlemsstaterna får anta andra definitioner av väsentlighet för tillämpningen av punkt 4 än de för tillämpningen av punkterna 2 och 3, och får differentiera definitionerna efter bolagets storlek.</p>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att bolagen offentligt tillkännager väsentliga transaktioner med närstående parter senast vid den tidpunkt då transaktionen slutförs. Tillkännagivandet ska innehålla information om åtminstone arten av relation till den närstående parten, namnet på den närstående parten, transaktionens datum och värde samt övrig information som är nödvändig för att bedöma huruvida transaktionen är skälig och rimlig för bolaget och för aktieägare som inte är en närstående part, däribland minoritetsaktieägare.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Medlemsstaterna får föreskriva att det offentliga tillkännagivande som avses i punkt 2 ska åtföljas av en rapport med en bedömning av huruvida transaktionen är skälig och rimlig för bolaget och för aktieägare som inte är en närstående part, däribland minoritetsaktieägare, och en förklaring av de antaganden den bygger på, tillsammans med de metoder som använts.</div>
+                  </div>
+                  <p class="norm inline-element">Denna rapport ska framställas av</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en oberoende tredje part, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">bolagets förvaltningsorgan eller kontrollorgan, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">revisionskommittén eller en kommitté där majoriteten består av oberoende ledande befattningshavare.</p>
+                     </div>
+                  </div>
+                  <p class="norm">Medlemsstaterna ska säkerställa att de närstående parterna inte deltar i utarbetandet av rapporten.</p>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska säkerställa att väsentliga transaktioner med närstående parter godkänns av bolagsstämman eller av bolagets förvaltnings- eller kontrollorgan i enlighet med förfaranden som hindrar den närstående parten från att utnyttja sin ställning och ger tillräckligt skydd för intressena för bolaget och för de aktieägare som inte är en närstående part, däribland minoritetsaktieägare.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får föreskriva att aktieägarna på bolagsstämman har rätt att rösta om väsentliga transaktioner med närstående parter som godkänts av bolagets förvaltnings- eller kontrollorgan.</p>
+                  <p class="norm">Om transaktionen med den närstående parten inbegriper en ledande befattningshavare eller en aktieägare ska denna ledande befattningshavare eller aktieägare inte delta i godkännandet eller omröstningen.</p>
+                  <p class="norm">Medlemsstaterna får tillåta att en aktieägare som är en närstående part deltar i omröstningen under förutsättning att det i nationell rätt föreskrivs lämpliga skyddsåtgärder som gäller före eller under omröstningen för att skydda intressena för bolaget och för de aktieägare som inte är en närstående part, däribland minoritetsaktieägare, genom att hindra närstående parter från att godkänna transaktionen om majoriteten av de aktieägare som inte är en närstående part eller majoriteten av de oberoende ledande befattningshavarna är av motsatt åsikt.</p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Punkterna 2, 3 och 4 ska inte tillämpas på transaktioner som är en del av den löpande verksamheten och genomförs på normala marknadsvillkor. För sådana transaktioner ska bolagets förvaltnings- eller kontrollorgan inrätta ett internt förfarande för att regelbundet bedöma huruvida dessa villkor är uppfyllda. De närstående parterna får inte delta i denna bedömning.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får dock föreskriva att bolagen ska tillämpa kraven i punkterna 2, 3 eller 4 på transaktioner som är en del av den löpande verksamheten och genomförs på normala marknadsvillkor.</p>
+                  <div class="norm">
+                     <span class="no-parag">6.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Medlemsstaterna får utesluta eller tillåta bolagen att utesluta följande transaktioner från kraven i punkterna 2, 3 och 4:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Transaktioner mellan ett bolag och dess dotterbolag under förutsättning att dessa är helägda eller att inga andra närstående parter till bolaget har ett intresse i dotterbolaget eller att det i nationell rätt föreskrivs tillräckligt skydd för intressena för bolaget, dotterbolaget och deras aktieägare som inte är en närstående part, däribland minoritetsaktieägare, i sådana transaktioner.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Tydligt definierade typer av transaktioner för vilka det i nationell rätt föreskrivs bolagsstämmans godkännande, förutsatt att en rättvis behandling av alla aktieägare och intressena för bolaget och för de aktieägare som inte är en närstående part, däribland minoritetsaktieägare, specifikt tas upp och är föremål för tillräckligt skydd genom bestämmelser i nationell rätt.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Transaktioner som rör ersättningen till ledande befattningshavare, eller vissa delar av ersättningen till ledande befattningshavare, utbetalad eller innestående, i enlighet med artikel 9a.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Transaktioner som ingåtts av kreditinstitut på grundval av åtgärder som syftar till att skydda deras stabilitet och som antagits av den behöriga myndighet som ansvarar för tillsyn i den mening som avses i unionsrätten.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Transaktioner som erbjuds alla aktieägare på samma villkor, om likabehandling av alla aktieägare och skydd av bolagets intressen säkerställs.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">7.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att bolagen offentligt tillkännager väsentliga transaktioner mellan bolagets närstående parter och bolagets dotterbolag. Medlemsstaterna får också föreskriva att tillkännagivandet ska åtföljas av en rapport med en bedömning av huruvida transaktionen är skälig och rimlig för bolaget och för de aktieägare som inte är en närstående part, däribland minoritetsaktieägare, och en förklaring av de antaganden den bygger på, tillsammans med de metoder som använts. De undantag som anges i punkterna 5 och 6 ska tillämpas även på de transaktioner som anges i denna punkt.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">8.  </span>
+                     <div class="norm inline-element">Medlemsstaterna ska se till att transaktioner med samma närstående part som slutförts under valfri tolvmånadersperiod eller under samma räkenskapsår och som inte omfattas av de skyldigheter som anges i punkterna 2, 3 eller 4 räknas ihop för tillämpningen av de punkterna.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">9.  </span>
+                     <div class="norm inline-element">Denna artikel ska inte påverka bestämmelserna om offentliggörande av insiderinformation som avses i artikel 17 i Europaparlamentets och rådets förordning (EU) nr 596/2014 (<a href="#E0016" id="src.E0016" >
+                           <span class="superscript">16</span>
+                        </a>).</div>
+                  </div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32007L0036"
+                     >▼B</a>
+               </p>
+               <div class="eli-subdivision" id="art_10">
+                  <p class="title-article-norm" id="id-e5f57d5e-cf7c-439f-8fd8-5e2ff3b383c8">Artikel 10</p>
+                  <div class="eli-title" id="art_10.tit_1">
+                     <p class="stitle-article-norm">Röstning med fullmakt</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Alla aktieägare skall ha rätt att utse vilken fysisk eller juridisk person som helst till fullmaktsinnehavare, så att denne person kan närvara och rösta vid en bolagsstämma på aktieägarens vägnar. Fullmaktsinnehavaren skall ha samma rättigheter att yttra sig och ställa frågor vid bolagsstämman som den företrädda aktieägaren skulle ha.</div>
+                  </div>
+                  <p class="norm">Bortsett från kravet att fullmaktsinnehavaren skall ha rättskapacitet skall medlemsstaterna upphäva alla rättsliga bestämmelser som begränsar eller tillåter bolag att begränsa personers rätt att utses till fullmaktsinnehavare.</p>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna får begränsa en fullmaktsinnehavares fullmakt till att gälla en enda stämma eller de stämmor som hålls under en viss period.</div>
+                  </div>
+                  <p class="norm">Utan att det påverkar tillämpningen av artikel 13.5 får medlemsstaterna begränsa det antal personer som en aktieägare får utse till fullmaktsinnehavare i samband med en viss bolagsstämma. Om en aktieägare innehar aktier i ett bolag på mer än ett värdepapperskonto, skall denna begränsning dock inte hindra aktieägaren från att utse en separat fullmaktsinnehavare för aktierna på varje värdepapperskonto i samband med en viss bolagsstämma. Detta påverkar inte bestämmelser i tillämplig lag om förbud mot att rösta olika för aktier som innehas av en och samma aktieägare.</p>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Bortsett från de begränsningar som uttryckligen tillåts i första och andra stycket, skall medlemsstaterna inte begränsa eller tillåta bolagen att begränsa aktieägarnas utnyttjande av sina rättigheter genom fullmaktsinnehavare av andra skäl än för att hantera potentiella intressekonflikter mellan fullmaktsinnehavaren och den aktieägare i vars intresse fullmaktsinnehavaren skall agera, varvid medlemsstaterna inte skall föreskriva några andra krav än följande:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Medlemsstaterna får föreskriva att fullmaktsinnehavaren skall offentliggöra vissa specifika sakförhållanden som kan vara relevanta för aktieägarnas bedömning av risken för att fullmaktsinnehavaren skulle kunna tillvarata några andra intressen än aktieägarens.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Medlemsstaterna får begränsa eller utesluta utövandet av aktieägarrättigheter via fullmaktsinnehavare utan särskilda röstningsinstruktioner för varje beslut i vilket fullmaktsinnehavaren skall rösta på aktieägarens vägnar.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Medlemsstaterna får begränsa eller utesluta överföring av fullmakten till en annan person, men detta skall inte hindra fullmaktsinnehavare som är juridiska personer från att utöva de befogenheter som har erhållits genom någon medlem av dess förvaltnings- eller ledningsorgan eller någon av dess anställda.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm inline-element">En intressekonflikt enligt denna punkt kan särskilt föreligga, om fullmaktsinnehavaren</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>i) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">är majoritetsaktieägare i bolaget eller utgörs av en annan enhet som kontrolleras av en sådan aktieägare,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>ii) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">är medlem av ett förvaltnings-, lednings- eller tillsynsorgan som tillhör bolaget, en majoritetsaktieägare eller en sådan kontrollerad enhet som avses i led i,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>iii) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">är anställd eller revisor i bolaget eller i en majoritetsaktieägare eller i en sådan kontrollerad enhet som avses i led i,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>iv) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">har en familjerelation till någon av de fysiska personer som avses i leden i–iii.</p>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Fullmaktsinnehavaren skall rösta i enlighet med instruktionerna från den aktieägare som har utsett honom.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får begära att fullmaktsinnehavare bevarar röstningsinstruktionerna under en fastställd minimitid och på begäran bekräftar att röstningsinstruktionerna följts.</p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">En person som agerar som fullmaktsinnehavare får ha fullmakt från fler än en aktieägare utan begränsningar av det antal aktieägare som han eller hon företräder. Om en fullmaktshavare har fullmakt från flera aktieägare skall tillämplig lag göra det möjligt för honom att avge olika röster för olika aktieägare.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_11">
+                  <p class="title-article-norm" id="id-293428eb-8495-4fcc-9878-ba201fff29e0">Artikel 11</p>
+                  <div class="eli-title" id="art_11.tit_1">
+                     <p class="stitle-article-norm">Formella krav för utseende av fullmaktsinnehavare och underrättelse</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Medlemsstaterna skall tillåta aktieägare att utse fullmaktsinnehavare på elektronisk väg. Medlemsstaterna skall dessutom tillåta bolag att godta underrättelse på elektronisk väg om vem som utsetts och se till att varje bolag erbjuder sina aktieägare minst en effektiv metod att lämna underrättelsen på elektronisk väg.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Medlemsstaterna skall se till att fullmaktsinnehavare endast får utses, och bolagen underrättas om detta, skriftligen. Utöver detta grundläggande formella krav får utseende av fullmaktsinnehavare, underrättelse om detta till bolaget och utfärdande av eventuella röstningsinstruktioner till fullmaktsinnehavaren endast underställas de formella krav som är nödvändiga för att säkerställa identifieringen av aktieägaren och fullmaktsinnehavaren eller för att säkerställa möjligheten att kontrollera innehållet i röstningsinstruktionerna, och detta bara i den mån de står i proportion till dessa syften.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Bestämmelserna i denna artikel skall i tillämpliga delar även tillämpas på återkallelse av utseende av en fullmaktsinnehavare.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_12">
+                  <p class="title-article-norm" id="id-44e14510-16db-4801-8b35-9fcb579a0ecd">Artikel 12</p>
+                  <div class="eli-title" id="art_12.tit_1">
+                     <p class="stitle-article-norm">Röstning per brev</p>
+                  </div>
+                  <p class="norm">Medlemsstaterna skall tillåta bolag att erbjuda sina aktieägare möjlighet att rösta per brev före bolagsstämman. Röstning per brev får underställas enbart de krav och begränsningar som är nödvändiga för att säkerställa identifiering av aktieägarna och enbart om de står i proportion till detta syfte.</p>
+               </div>
+               <div class="eli-subdivision" id="art_13">
+                  <p class="title-article-norm" id="id-52fda077-cf6e-4b4e-ae22-44e1fbefdc4b">Artikel 13</p>
+                  <div class="eli-title" id="art_13.tit_1">
+                     <p class="stitle-article-norm">Undanröjande av vissa hinder för faktiskt utnyttjande av rösträtt</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Denna artikel är tillämplig när en fysisk eller juridisk person som är erkänd som aktieägare enligt tillämplig lag handlar på någon annan fysisk eller juridisk persons vägnar (”klienten”) i ett ärende.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Om det enligt tillämplig lag föreskrivs krav på offentlighet som en förutsättning för att en sådan aktieägare som avses i punkt 1 skall kunna utöva sin rösträtt, får dessa krav inte omfatta mer än en förteckning som upplyser bolaget om varje klients identitet och det antal aktier för vilka röstning sker på dennes vägnar.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Om det i tillämplig lag fastställs formella krav för bemyndigande av en sådan aktieägare som avses i punkt 1 att utnyttja rösträtter eller för röstningsinstruktioner, får dessa formella krav inte gå utöver vad som är nödvändigt för att säkerställa identifieringen av klienten eller möjligheten att kontrollera innehållet i röstningsinstruktionerna och vad som står i proportion till dessa syften.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">Sådana aktieägare som avses i punkt 1 skall för vissa aktier få rösta annorlunda än för de övriga aktierna.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Om det enligt tillämplig lag finns en gräns för hur många personer en aktieägare får utse till fullmaktsinnehavare enligt artikel 10.2, får denna begränsning inte hindra en sådan aktieägare som avses i punkt 1 i denna artikel från att ge en fullmakt till var och en av sina klienter eller till en tredje part som utses av en klient.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_14">
+                  <p class="title-article-norm" id="id-e270a01e-735f-44bc-9720-52a2ea8c273f">Artikel 14</p>
+                  <div class="eli-title" id="art_14.tit_1">
+                     <p class="stitle-article-norm">Röstningsresultat</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">För varje beslut skall bolaget åtminstone fastställa det antal aktier för vilka giltiga röster har avlagts, den andel av aktiekapitalet som dessa röster utgör, det totala antalet avlagda giltiga röster samt antalet röster för och emot varje beslut och i förekommande fall antalet nedlagda röster.</div>
+                  </div>
+                  <p class="norm">Medlemsstaterna får dock föreskriva eller tillåta företagen att bestämma att det, om ingen aktieägare begär fullständig redovisning av röstningen, skall vara tillräckligt att fastställa röstningsresultatet endast i den omfattning som behövs för att säkerställa att erforderlig majoritet nås för varje beslut.</p>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Inom en tidsperiod som skall fastställas i tillämplig lagstiftning och som inte får överstiga 15 dagar efter bolagsstämman skall bolaget på sin webbplats offentliggöra röstningsresultaten, fastställda i enlighet med punkt 1.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Denna artikel skall inte påverka tillämpningen av rättsliga bestämmelser som medlemsstaterna har antagit eller kan anta avseende de formaliteter som krävs för att ett beslut skall bli giltigt eller avseende möjligheten att i efterhand på rättslig väg invända mot röstningsresultaten.</div>
+                  </div>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32017L0828"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017L0828: INSERTED"
+                  >▼M2</a>
+            </p>
+            <div id="cpt_IIA">
+               <p class="title-division-1" id="id-ce79d4fe-6c39-43ca-9093-c2c4c2da62ef">KAPITEL IIa</p>
+               <p class="title-division-2" id="id-f52eda45-d630-4789-b2cc-aa379e78cdd8">GENOMFÖRANDEAKTER OCH SANKTIONER</p>
+               <div class="eli-subdivision" id="art_14a">
+                  <p class="title-article-norm" id="id-6b28add5-fc46-4de2-ba63-729ac3a4489e">Artikel 14a</p>
+                  <div class="eli-title" id="art_14a.tit_1">
+                     <p class="stitle-article-norm">Kommittéförfarande</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Kommissionen ska biträdas av Europeiska värdepapperskommittén, som inrättats genom kommissionens beslut 2001/528/EG (<a href="#E0017" id="src.E0017" >
+                           <span class="superscript">17</span>
+                        </a>). Denna kommitté ska vara en kommitté i den mening som avses i Europaparlamentets och rådets förordning (EU) nr 182/2011 (<a href="#E0018" id="src.E0018" >
+                           <span class="superscript">18</span>
+                        </a>).</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">När det hänvisas till denna punkt ska artikel 5 i förordning (EU) nr 182/2011 tillämpas.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_14b">
+                  <p class="title-article-norm" id="id-b0a465d0-0329-48c6-9c74-d1c996c89cfa">Artikel 14b</p>
+                  <div class="eli-title" id="art_14b.tit_1">
+                     <p class="stitle-article-norm">Åtgärder och sanktioner</p>
+                  </div>
+                  <p class="norm">Medlemsstaterna ska fastställa regler om åtgärder och sanktioner för överträdelse av nationella bestämmelser som antas enligt detta direktiv och vidta alla nödvändiga åtgärder för att säkerställa att de tillämpas.</p>
+                  <p class="norm">Åtgärderna och sanktionerna ska vara effektiva, proportionella och avskräckande. Medlemsstaterna ska till kommissionen anmäla dessa regler och genomförandeåtgärder senast den 10 juni 2019 samt utan dröjsmål eventuella ändringar som berör dem.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32023L2864"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32023L2864: INSERTED"
+                  >▼M4</a>
+            </p>
+            <div id="cpt_IIB">
+               <p class="title-division-1" id="id-672cebf4-9c44-476b-9081-103553900d17">KAPITEL IIb</p>
+               <p class="title-division-2" id="id-3e5c4124-1c98-4ba5-a15c-c10257f4d1af">EN EUROPEISK GEMENSAM ÅTKOMSTPUNKT</p>
+               <div class="eli-subdivision" id="art_14c">
+                  <p class="title-article-norm" id="id-07879b2b-fe1f-45c6-878c-4ef3ad8cc2e8">Artikel 14c</p>
+                  <div class="eli-title" id="art_14c.tit_1">
+                     <p class="stitle-article-norm">Tillgång till information i den europeiska gemensamma åtkomstpunkten</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Från och med den 10 januari 2030 ska medlemsstaterna säkerställa att institutionella investerare, kapitalförvaltare, röstningsrådgivare och bolag som offentliggör sådan information som avses i artiklarna 3g.1, 3h.1, 3h.2, 3j.1, 3j.2, 9a.7, 9b.5, 9c.2, 9c.7 och 14.2 i detta direktiv samtidigt lämnar in den informationen till det insamlingsorgan som avses i punkt 3 i den här artikeln i syfte att göra den tillgänglig i den europeiska gemensamma åtkomstpunkten (Esap), som inrättats genom Europaparlamentets och rådets förordning (EU) 2023/2859 (<a href="#E0019" id="src.E0019" >
+                           <span class="superscript">19</span>
+                        </a>).</div>
+                  </div>
+                  <p class="norm inline-element">Medlemsstaterna ska säkerställa att informationen uppfyller följande krav:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Informationen ska lämnas in i ett format som data kan extraheras från, enligt definitionen i artikel 2.3 i förordning (EU) 2023/2859 eller, om så krävs enligt unionsrätten, i ett maskinläsbart format enligt definitionen i artikel 2.4 i den förordningen.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Följande metadata ska medfölja informationen:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>i) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Alla namn på den institutionella investerare, kapitalförvaltare, röstningsrådgivare eller det bolag som den inlämnade informationen avser.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>ii) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Den institutionella investerarens, kapitalförvaltarens, röstningsrådgivarens eller bolagets identifieringskod för juridiska personer som specificerats enligt artikel 7.4 b i förordning (EU) 2023/2859.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>iii) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Den institutionella investerarens, kapitalförvaltarens, röstningsrådgivarens eller bolagets storlekskategori som specificerats enligt artikel 7.4 d i den förordningen.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>iv) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">De branschsektorer inom vilka bolaget bedriver sin ekonomiska verksamhet, enligt den specifikation som tagits fram i enlighet med artikel 7.4 e i den förordningen.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>v) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Typen av information, klassificerad enligt artikel 7.4 c i den förordningen.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>vi) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Uppgift om huruvida informationen innehåller personuppgifter.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Med avseende på tillämpningen av punkt 1 b ii ska medlemsstaterna kräva att institutionella investerare, kapitalförvaltare, röstningsrådgivare och bolag skaffar en identifieringskod för juridiska personer.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Senast den 9 januari 2030 ska medlemsstaterna, i syfte att göra den information som avses i punkt 1 i denna artikel tillgänglig i Esap, utse minst ett insamlingsorgan, enligt definitionen i artikel 2.2 i förordning (EU) 2023/2859, och underrätta Esma om detta.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">4.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">För att säkerställa effektiv insamling och förvaltning av den information som lämnas in i enlighet med punkt 1 ska Esma utarbeta förslag till tekniska standarder för genomförande för att specificera följande:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Eventuella andra metadata som ska medfölja informationen.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Hur uppgifterna i informationen ska vara strukturerade.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">För vilken information som maskinläsbart format krävs och i så fall vilket maskinläsbart format som ska användas.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm">Med avseende på tillämpningen av led c ska Esma bedöma för- och nackdelar med olika maskinläsbara format och genomföra lämpliga fältstudier.</p>
+                  <p class="norm">Esma ska överlämna dessa förslag till tekniska standarder för genomförande till kommissionen.</p>
+                  <p class="norm">Kommissionen ges befogenhet att anta de tekniska standarder för genomförande som avses i första stycket i denna punkt i enlighet med artikel 15 förordning (EU) nr 1095/2010.</p>
+                  <div class="norm">
+                     <span class="no-parag">5.  </span>
+                     <div class="norm inline-element">Vid behov ska Esma anta riktlinjer för att säkerställa att de metadata som lämnats in i enlighet med punkt 4 första stycket a är korrekta.</div>
+                  </div>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32007L0036"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32007L0036"
+                  >▼B</a>
+            </p>
+            <div id="cpt_III">
+               <p class="title-division-1" id="id-d75ff4ae-8d40-47d9-a9ba-31e7d351de73">KAPITEL III</p>
+               <p class="title-division-2" id="id-dd05db9c-2578-40d6-85e3-fe40050eb4bb">SLUTBESTÄMMELSER</p>
+               <div class="eli-subdivision" id="art_15">
+                  <p class="title-article-norm" id="id-881a9bd6-c412-4701-888c-6e1f87ae46fb">Artikel 15</p>
+                  <div class="eli-title" id="art_15.tit_1">
+                     <p class="stitle-article-norm">Införlivande</p>
+                  </div>
+                  <p class="norm">Medlemsstaterna skall sätta i kraft de lagar och andra författningar som är nödvändiga för att följa detta direktiv senast den 3 augusti 2009. De skall genast överlämna texten till dessa bestämmelser till kommissionen.</p>
+                  <p class="norm">Trots vad som sägs i första stycket, skall de medlemsstater i vilka det den 1 juli 2006 fanns gällande nationella bestämmelser som begränsar eller förbjuder att en fullmaktshavare utses i det fall som avses i artikel 10.3 andra stycket led ii sätta i kraft de lagar och andra författningar som är nödvändiga för att följa artikel 10.3 vad gäller en sådan begränsning eller ett sådant förbud senast den 3 augusti 2012.</p>
+                  <p class="norm">Medlemsstaterna skall genast meddela kommissionen det antal dagar som fastställs i enlighet med artiklarna 6.3 och 7.3 samt eventuella senare ändringar av detta antal, och kommissionen skall offentliggöra denna information i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+                  <p class="norm">När en medlemsstat antar de bestämmelser som avses i första stycket skall de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen skall göras skall varje medlemsstat själv utfärda.</p>
+               </div>
+               <div class="eli-subdivision" id="art_16">
+                  <p class="title-article-norm" id="id-4b42d950-dafa-4256-b822-89e829c7b7a3">Artikel 16</p>
+                  <div class="eli-title" id="art_16.tit_1">
+                     <p class="stitle-article-norm">Ikraftträdande</p>
+                  </div>
+                  <p class="norm">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+               </div>
+               <div class="eli-subdivision" id="art_17">
+                  <p class="title-article-norm" id="id-1f265598-05ba-49ae-8d6c-735ef09e19f0">Artikel 17</p>
+                  <div class="eli-title" id="art_17.tit_1">
+                     <p class="stitle-article-norm">Adressater</p>
+                  </div>
+                  <p class="norm">Detta direktiv riktar sig till medlemsstaterna.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <p>
+         <br/>
+      </p>
+      <hr class="separator-short"/>
+      <p class="footnote">(<a href="#src.E0001" id="E0001" >
+            <span class="superscript">1</span>
+         </a>) Europaparlamentets och rådets direktiv 2009/65/EG av den 13 juli 2009 om samordning av lagar och andra författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) (EUT L 302, 17.11.2009, s. 32).</p>
+      <p class="footnote">(<a href="#src.E0002" id="E0002" >
+            <span class="superscript">2</span>
+         </a>) Europaparlamentets och rådets direktiv 2011/61/EU av den 8 juni 2011 om förvaltare av alternativa investeringsfonder samt om ändring av direktiv 2003/41/EG och 2009/65/EG och förordningarna (EG) nr 1060/2009 och (EU) nr 1095/2010 (EUT L 174, 1.7.2011, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0003" id="E0003" >
+            <span class="superscript">3</span>
+         </a>) Europaparlamentets och rådets direktiv 2014/59/EU av den 15 maj 2014 om inrättande av en ram för återhämtning och resolution av kreditinstitut och värdepappersföretag och om ändring av rådets direktiv 82/891/EEG och Europaparlamentets och rådets direktiv 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU och 2013/36/EU samt Europaparlamentets och rådets förordningar (EU) nr 1093/2010 och (EU) nr 648/2012 (EUT L 173, 12.6.2014, s. 190).</p>
+      <p class="footnote">(<a href="#src.E0004" id="E0004" >
+            <span class="superscript">4</span>
+         </a>) Europaparlamentets och rådets förordning (EU) 2021/23 av den 16 december 2020 om en ram för återhämtning och resolution av centrala motparter och om ändring av förordningarna (EU) nr 1095/2010, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 806/2014 och (EU) 2015/2365 samt direktiven 2002/47/EG, 2004/25/EG, 2007/36/EG, 2014/59/EU och (EU) 2017/1132 (EUT L 022, 22.1.2021, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0005" id="E0005" >
+            <span class="superscript">5</span>
+         </a>) Europaparlamentets och rådets direktiv 2014/65/EU av den 15 maj 2014 om marknader för finansiella instrument och om ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU (EUT L 173, 12.6.2014, s. 349).</p>
+      <p class="footnote">(<a href="#src.E0006" id="E0006" >
+            <span class="superscript">6</span>
+         </a>) Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och värdepappersföretag och om ändring av förordning (EU) nr 648/2012 (EUT L 176, 27.6.2013, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0007" id="E0007" >
+            <span class="superscript">7</span>
+         </a>) Europaparlamentets och rådets förordning (EU) nr 909/2014 av den 23 juli 2014 om förbättrad värdepappersavveckling i Europeiska unionen och om värdepapperscentraler samt ändring av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 236/2012 (EUT L 257, 28.8.2014, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0008" id="E0008" >
+            <span class="superscript">8</span>
+         </a>) Europaparlamentets och rådets direktiv 2009/138/EG av den 25 november 2009 om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II) (EUT L 335, 17.12.2009, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0009" id="E0009" >
+            <span class="superscript">9</span>
+         </a>) Europaparlamentets och rådets direktiv (EU) 2016/2341/EG av den 14 december 2016 om verksamhet i och tillsyn över tjänstepensionsinstitut (EUT L 354, 23.12.2016, s. 37).</p>
+      <p class="footnote">(<a href="#src.E0010" id="E0010" >
+            <span class="superscript">10</span>
+         </a>) Europaparlamentets och rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om tillämpning av internationella redovisningsstandarder (EGT L 243, 11.9.2002, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0011" id="E0011" >
+            <span class="superscript">11</span>
+         </a>) Europaparlamentets och rådets förordning (EU) nr 1095/2010 av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska värdepappers- och marknadsmyndigheten), om ändring av beslut nr 716/2009/EG och om upphävande av kommissionens beslut 2009/77/EG (EUT L 331, 15.12.2010, s. 84).</p>
+      <p class="footnote">(<a href="#src.E0012" id="E0012" >
+            <span class="superscript">12</span>
+         </a>) Europaparlamentets och rådets förordning (EU) nr 1093/2010 av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska bankmyndigheten), om ändring av beslut nr 716/2009/EG och om upphävande av kommissionens beslut 2009/78/EG (EUT L 331, 15.12.2010, s. 12).</p>
+      <p class="footnote">(<a href="#src.E0013" id="E0013" >
+            <span class="superscript">13</span>
+         </a>) 
+                           EGT L 142, 30.4.2004, s. 12.</p>
+      <p class="footnote">(<a href="#src.E0014" id="E0014" >
+            <span class="superscript">14</span>
+         </a>) Europaparlamentets och rådets direktiv 2013/34/EU av den 26 juni 2013 om årsbokslut, koncernredovisning och rapporter i vissa typer av företag, om ändring av Europaparlamentets och rådets direktiv 2006/43/EG och om upphävande av rådets direktiv 78/660/EEG och 83/349/EEG (EUT L 182, 29.6.2013, s. 19).</p>
+      <p class="footnote">(<a href="#src.E0015" id="E0015" >
+            <span class="superscript">15</span>
+         </a>) Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning) (EUT L 119, 4.5.2016, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0016" id="E0016" >
+            <span class="superscript">16</span>
+         </a>) Europaparlamentets och rådets förordning (EU) nr 596/2014 av den 16 april 2014 om marknadsmissbruk (marknadsmissbruksförordning) och om upphävande av Europaparlamentets och rådets direktiv 2003/6/EG och kommissionens direktiv 2003/124/EG, 2003/125/EG och 2004/72/EG (EUT L 173, 12.6.2014, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0017" id="E0017" >
+            <span class="superscript">17</span>
+         </a>) Kommissionens beslut 2001/528/EG av den 6 juni 2001 om inrättande av en europeisk värdepapperskommitté (EGT L 191, 13.7.2001, s. 45).</p>
+      <p class="footnote">(<a href="#src.E0018" id="E0018" >
+            <span class="superscript">18</span>
+         </a>) Europaparlamentets och rådets förordning (EU) nr 182/2011 av den 16 februari 2011 om fastställande av allmänna regler och principer för medlemsstaternas kontroll av kommissionens utövande av sina genomförandebefogenheter (EUT L 55, 28.2.2011, s. 13).</p>
+      <p class="footnote">(<a href="#src.E0019" id="E0019" >
+            <span class="superscript">19</span>
+         </a>) Europaparlamentets och rådets förordning (EU) 2023/2859 av den 13 december 2023 om inrättande av en europeisk gemensam åtkomstpunkt som ger centraliserad tillgång till allmänt tillgänglig information som är relevant för finansiella tjänster, kapitalmarknader och hållbarhet (EUT L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).</p>
+   </body>
+</html>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20240917-2211 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2021277SV.01013701.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">2.8.2021   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">SV</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 277/137</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-137-1">
+            KOMMISSIONENS DELEGERADE DIREKTIV (EU) 2021/1269</p>
+            <p class="oj-doc-ti">av den 21 april 2021
+         </p>
+            <p class="oj-doc-ti">om ändring av delegerat direktiv (EU) 2017/593 vad gäller integrering av hållbarhetsfaktorer i produktstyrningskrav</p>
+            <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DENNA FÖRORDNING</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">med beaktande av Europaparlamentets och rådets direktiv 2014/65/EU av den 15 maj 2014 om marknader för finansiella instrument och om ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU <a id="ntc1-L_2021277SV.01013701-E0001" href="#ntr1-L_2021277SV.01013701-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artiklarna 16.12 och 24.13, och</p>
+            </div>
+            <p class="oj-normal">av följande skäl:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Omställningen till en koldioxidsnål, mer hållbar, resurseffektiv och cirkulär ekonomi i linje med målen för hållbar utveckling är avgörande för att säkerställa att unionens ekonomi är konkurrenskraftig på lång sikt. År 2016 ingick unionen Parisavtalet <a id="ntc2-L_2021277SV.01013701-E0002" href="#ntr2-L_2021277SV.01013701-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>. I artikel 2.1 c i Parisavtalet fastställs målet om ökade insatser mot klimatförändringar, bland annat genom att finansiella flöden ska bli förenliga med en utveckling mot låga växthusgasutsläpp och klimatresiliens.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Medveten om storleken på denna utmaning lade kommissionen i december 2019 fram den europeiska gröna given <a id="ntc3-L_2021277SV.01013701-E0003" href="#ntr3-L_2021277SV.01013701-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>. Den europeiska gröna given är en ny tillväxtstrategi som syftar till att ställa om EU till ett rättvist och välmående samhälle med en modern, resurseffektiv och konkurrenskraftig ekonomi där det 2050 inte längre förekommer några nettoutsläpp av växthusgaser och där den ekonomiska tillväxten har frikopplats från resursförbrukningen. Detta mål förutsätter att investerare får tydliga signaler om sina investeringar för att undvika strandade tillgångar och mobilisera hållbar finansiering.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I mars 2018 offentliggjorde kommissionen en handlingsplan för finansiering av hållbar tillväxt <a id="ntc4-L_2021277SV.01013701-E0004" href="#ntr4-L_2021277SV.01013701-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> som innehöll en ambitiös och heltäckande strategi för hållbar finansiering. Ett av målen i handlingsplanen är att styra kapitalflöden till hållbara investeringar för att uppnå hållbar tillväxt för alla.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Ett korrekt genomförande av handlingsplanen skulle uppmuntra investerarnas efterfrågan på hållbara investeringar. Det är därför nödvändigt att klargöra att hållbarhetsfaktorer och hållbarhetsrelaterade mål bör beaktas i de produktstyrningskrav som anges i kommissionens delegerade direktiv (EU) 2017/593 <a id="ntc5-L_2021277SV.01013701-E0005" href="#ntr5-L_2021277SV.01013701-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Värdepappersföretag som konstruerar och distribuerar finansiella instrument bör beakta hållbarhetsfaktorer i produktgodkännandeprocessen för varje finansiellt instrument och i andra produktstyrnings- och tillsynsarrangemang för varje finansiellt instrument som är avsett att distribueras till kunder som önskar finansiella instrument med hållbarhetsprofil.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Med tanke på att målmarknaden bör anges på tillräckligt detaljerad nivå bör en allmän förklaring om att ett finansiellt instrument har en hållbarhetsprofil inte vara tillräcklig. Värdepappersföretag som konstruerar och distribuerar finansiella instrument bör i stället ange till vilden kundgrupp med särskilda hållbarhetsrelaterade mål som det finansiella instrumentet är avsett att distribueras.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att säkerställa att finansiella instrument med hållbarhetsfaktorer även är lätt tillgängliga för kunder som inte har några hållbarhetspreferenser bör värdepappersföretag inte behöva identifiera kundgrupper som det finansiella instrumentet inte är avsett för med tanke på dessa kundgruppers behov, egenskaper och mål.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Ett finansiellt instruments hållbarhetsfaktorer bör presenteras på ett transparent sätt så att distributörer kan lämna relevant information till sina kunder eller presumtiva kunder.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Delegerat direktiv (EU) 2017/593 bör därför ändras i enlighet med detta.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e159-137-1" class="oj-ti-art">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Ändringar av delegerat direktiv (EU) 2017/593</p>
+               </div>
+               <p class="oj-normal">Delegerat direktiv (EU) 2017/593 ska ändras på följande sätt:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 1 ska följande punkt läggas till som punkt 5:</p>
+                           <div id="001.005">
+                              <p class="oj-normal">”5.   <span class="oj-italic">hållbarhetsfaktorer</span>: hållbarhetsfaktorer enligt definitionen i artikel 2.24 i Europaparlamentets och rådets förordning (EU) 2019/2088<a id="ntc*1-L_2021277SV.01013701-E0006" href="#ntr*1-L_2021277SV.01013701-E0006"
+                                    > (<span class="oj-super oj-note-tag">*1</span>)</a>.</p>
+                           </div>
+                           <p class="oj-note">
+                              <a id="ntr*1-L_2021277SV.01013701-E0006" href="#ntc*1-L_2021277SV.01013701-E0006"
+                                 class="oj-quotation"
+                                 >(<span class="oj-super">*1</span>)</a>  Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019 om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn (<a href="http://publications.europa.eu/resource/oj/JOL_2019_317_R_TOC"
+                                 >EUT L 317, 9.12.2019, s. 1</a>).”."
+                        </p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Artikel 9 ska ändras på följande sätt:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Punkt 9 första stycket ska ersättas med följande:</p>
+                                       <div id="009.009">
+                                          <p class="oj-normal">”9.   Medlemsstaterna ska kräva att värdepappersföretagen på en tillräckligt detaljerad nivå anger den potentiella målmarknaden för varje finansiellt instrument och vilken av kund det är avsett för med tanke på kundens behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål. Som ett led i denna process ska företaget identifiera alla kundgrupper som det finansiella instrumentet inte är avsett för med tanke på kundgruppens behov, egenskaper och mål, med undantag för om det finansiella instrumentet beaktar hållbarhetsfaktorer. I det fall värdepappersföretag samarbetar vid konstruktionen av ett finansiellt instrument behöver endast en målmarknad anges.”.</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Punkt 11 ska ersättas med följande:</p>
+                                       <div id="009.011">
+                                          <p class="oj-normal">”11.   Medlemsstaterna ska kräva att värdepappersföretagen avgör huruvida det finansiella instrumentet uppfyller de behov, egenskaper och mål som identifierats för målmarknaden, bland annat genom att undersöka följande faktorer:</p>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">a)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">Om det finansiella instrumentets risk-/avkastningsprofil passar in på målmarknaden.</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">b)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">I förekommande fall, om det finansiella instrumentets hållbarhetsfaktorer passar in på målmarknaden.</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                             <col width="4%"/>
+                                             <col width="96%"/>
+                                             <tbody>
+                                                <tr>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">c)</p>
+                                                   </td>
+                                                   <td valign="top"  >
+                                                      <p class="oj-normal">Om det finansiella instrumentet har en utformning som gynnar kunden och inte vilar på en affärsmodell som förutsätter ett dåligt resultat för kunden för att vara lönsam.”.</p>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">c)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">I punkt 13 ska följande andra stycke läggas till:</p>
+                                       <p class="oj-normal">
+                                          ”Det finansiella instrumentets hållbarhetsfaktorer ska presenteras på ett transparent sätt och förse distributörer med den information som är relevant för att de ska kunna ta vederbörlig hänsyn till en kunds eller presumtiv kunds eventuella hållbarhetsrelaterade mål.”.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">d)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Punkt 14 ska ersättas med följande:</p>
+                                       <div id="009.014">
+                                          <p class="oj-normal">”14.   Medlemsstaterna ska kräva att värdepappersföretagen regelbundet ser över de finansiella instrument de konstruerar, varvid de ska ta hänsyn till alla händelser som påtagligt skulle kunna inverka på den potentiella risken för den angivna målmarknaden. Värdepappersföretagen ska undersöka om det finansiella instrumentet fortfarande är förenligt med målmarknadens behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål, och om det distribueras till målmarknaden eller når kunder som det inte är avsett för med tanke på dessa kunders behov, egenskaper och mål.”.</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">3.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Artikel 10 ska ändras på följande sätt:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">a)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Punkt 2 första stycket ska ersättas med följande:</p>
+                                       <div id="010.002">
+                                          <p class="oj-normal">”2.   Medlemsstaterna ska kräva att värdepappersföretagen har lämpliga produktstyrningsarrangemang som garanterar att de produkter och tjänster de avser att erbjuda eller rekommendera är förenliga med en angiven målmarknads behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål, samt att den avsedda distributionsstrategin är förenlig med den angivna målmarknaden. Värdepappersföretagen ska identifiera och bedöma förutsättningar och behov för de kunder de avser att inrikta sig på i syfte att se till att kundernas intressen inte äventyras till följd av ett kommersiellt eller finansieringsmässigt tryck. Som ett led i denna process ska värdepappersföretag identifiera alla kundgrupper som det finansiella instrumentet inte är avsett för med tanke på kundgruppens behov, egenskaper och mål, med undantag för om det finansiella instrumentet beaktar hållbarhetsfaktorer”.</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">b)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Punkt 5 ska ersättas med följande:</p>
+                                       <div id="010.005">
+                                          <p class="oj-normal">”5.   Medlemsstaterna ska kräva att värdepappersföretagen regelbundet ser över de investeringsprodukter de erbjuder eller rekommenderar och de tjänster de regelbundet tillhandahåller, varvid de ska ta hänsyn till alla händelser som påtagligt skulle kunna inverka på den potentiella risken för den angivna målmarknaden. Företagen ska som minst bedöma om produkten eller tjänsten fortfarande är förenlig med den angivna målmarknadens behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål, och om distributionsstrategin fortfarande är lämplig. Företagen ska ompröva målmarknaden och/eller uppdatera produktstyrningsarrangemangen om de blir medvetna om att de har felbedömt målmarknaden för en viss produkt eller tjänst eller att produkten eller tjänsten inte längre uppfyller förutsättningarna för att tillhandahållas på den angivna målmarknaden, till exempel om produkten blivit illikvid eller mycket volatil till följd av att marknaden förändrats.”.</p>
+                                       </div>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e325-137-1" class="oj-ti-art">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Införlivande</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   Medlemsstaterna ska senast den 21 augusti 2022 anta och offentliggöra de lagar och andra författningar som är nödvändiga för att följa detta direktiv. De ska till kommissionen genast överlämna texten till dessa bestämmelser.</p>
+                  <p class="oj-normal">De ska tillämpa dessa bestämmelser från och med den 22 november 2022.</p>
+                  <p class="oj-normal">När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.</p>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e350-137-1" class="oj-ti-art">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Ikraftträdande</p>
+               </div>
+               <p class="oj-normal">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e360-137-1" class="oj-ti-art">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Adressater</p>
+               </div>
+               <p class="oj-normal">Detta direktiv riktar sig till medlemsstaterna.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Utfärdat i Bryssel den 21 april 2021.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På kommissionens vägnar</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Ordförande</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2021277SV.01013701-E0001" href="#ntc1-L_2021277SV.01013701-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >EUT L 173, 12.6.2014, s. 349</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2021277SV.01013701-E0002" href="#ntc2-L_2021277SV.01013701-E0002"
+               >(<span class="oj-super">2</span>)</a>  Rådets beslut (EU) 2016/1841 av den 5 oktober 2016 om ingående, på Europeiska unionens vägnar, av Parisavtalet som antagits inom ramen för Förenta nationernas ramkonvention om klimatförändring (<a href="http://publications.europa.eu/resource/oj/JOL_2016_282_R_TOC"
+               >EUT L 282, 19.10.2016, s. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2021277SV.01013701-E0003" href="#ntc3-L_2021277SV.01013701-E0003"
+               >(<span class="oj-super">3</span>)</a>  COM(2019) 640 final.</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2021277SV.01013701-E0004" href="#ntc4-L_2021277SV.01013701-E0004"
+               >(<span class="oj-super">4</span>)</a>  COM(2018) 97 final.</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2021277SV.01013701-E0005" href="#ntc5-L_2021277SV.01013701-E0005"
+               >(<span class="oj-super">5</span>)</a>  Kommissionens delegerade direktiv (EU) 2017/593 av den 7 april 2016 om komplettering av Europaparlamentets och rådets direktiv 2014/65/EU i fråga om skydd av finansiella instrument och medel som tillhör kunder, produktstyrningskrav och regler för tillhandahållande eller mottagande av avgifter, provisioner eller andra monetära eller icke-monetära förmåner (<a href="http://publications.europa.eu/resource/oj/JOL_2017_087_R_TOC"
+               >EUT L 87, 31.3.2017, s. 500</a>).</p>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

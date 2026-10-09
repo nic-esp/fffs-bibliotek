@@ -1,0 +1,3270 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.16.1 # generated_on:20240912-1948 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32016R1800 — SV — 22.07.2024</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02016R1800 — SV — 22.07.2024 — 004.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32016R1800"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32016R1800">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-233ce1de-ee06-47bd-a895-18041edb3e69">
+                        KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2016/1800</p>
+            <p class="title-doc-first" id="id-3f8e1817-d312-4191-9ee6-a3eed4976b0c">av den 11 oktober 2016
+                     </p>
+            <p class="title-doc-first" id="id-e6ee5f34-6c8a-4bfd-93a0-4320c8c51ac8">om fastställande av tekniska genomförandestandarder för placeringen av externa ratinginstituts kreditvärderingar på en objektiv kreditkvalitetsskala för kreditkvalitetssteg i enlighet med Europaparlamentets och rådets direktiv 2009/138/EG</p>
+            <p class="title-doc-last" id="id-12b4b94b-cd72-44b7-b90a-105d58bded99">
+               <a href="http://publications.europa.eu/resource/celex/32016R1800"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32016R1800">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-b8d61faa-dfb3-4483-99e2-ebc8c5b3f4b3">(EGT L 275 12.10.2016, s. 19)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32018R0633"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32018R0633"> M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-1038040c-2a5f-4437-9b3d-51087cd020d2">
+               <a href="http://publications.europa.eu/resource/celex/32018R0633"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32018R0633">
+                              KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2018/633 av den 24 april 2018
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 105</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">6</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">25.4.2018</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32020R0744"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0744"> M2</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-988fadb8-d516-4b18-843c-2929a3f280f0">
+               <a href="http://publications.europa.eu/resource/celex/32020R0744"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0744">
+                              KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2020/744 av den 4 juni 2020
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 176</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">4</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">5.6.2020</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32021R2006"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021R2006"> M3</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-9cc4f1ee-7e38-4834-b5eb-af91bae6006b">
+               <a href="http://publications.europa.eu/resource/celex/32021R2006"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021R2006">
+                              KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2021/2006 av den 16 november 2021
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 407</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">18</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">17.11.2021</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32024R1820"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32024R1820">►M4</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-469fbb5e-00f5-4440-8434-3ea6a94e81f1">
+               <a href="http://publications.europa.eu/resource/celex/32024R1820"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32024R1820">
+                              KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2024/1820 av den 1 juli 2024
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 1820</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">2.7.2024</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <div class="eli-container">
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32016R1800"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32016R1800">▼B</a>
+      </p>
+      <div class="eli-main-title" id="tit_1">
+         <p class="title-doc-first" id="id-f8ddc8d4-c934-41a9-92c2-db543965c372">
+               KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2016/1800</p>
+         <p class="title-doc-first" id="id-8299257a-8529-4e72-8a8f-9bc758024a13">av den 11 oktober 2016
+            </p>
+         <p class="title-doc-first" id="id-cc6a7b3e-1611-4b41-94b5-162fdaaa56f5">om fastställande av tekniska genomförandestandarder för placeringen av externa ratinginstituts kreditvärderingar på en objektiv kreditkvalitetsskala för kreditkvalitetssteg i enlighet med Europaparlamentets och rådets direktiv 2009/138/EG</p>
+         <p class="title-doc-last" id="id-f61ec047-afa9-4fdb-845b-ad2bd1bb9f59">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <p>
+            <br/>
+            <br/>
+         </p>
+         <div class="eli-subdivision" id="art_1">
+            <p class="title-article-norm" id="id-74dd2d4e-75c8-4a4a-a536-27ba5bb57697">Artikel 1</p>
+            <p class="norm">Externa ratinginstituts kreditvärderingar ska placeras på en objektiv kreditkvalitetsskala på det sätt som anges i bilagan.</p>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p class="title-article-norm" id="id-169ce7b3-a3ac-40f3-b878-f92d0247d2ad">Artikel 2</p>
+            <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32024R1820"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32024R1820: REPLACED">▼M4</a>
+      </p>
+      <div id="anx_1">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-e866b44b-3437-4b9f-984d-dcd21fd1e13d">BILAGA</p>
+         <p class="title-annex-2" id="id-f61397d9-5053-41d1-9da0-a1ec8719dd54">Placering av externa ratinginstituts kreditvärderingar på en objektiv kreditkvalitetsskala</p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="240" border="1" cellpadding="2" cellspacing="0">
+               <col width="58%"/>
+               <col width="2%"/>
+               <col width="4%"/>
+               <col width="4%"/>
+               <col width="6%"/>
+               <col width="9%"/>
+               <col width="6%"/>
+               <col width="9%"/>
+               <tbody>
+                  <tr>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">Kreditkvalitetssteg</span>
+                        </p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">0</span>
+                        </p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">1</span>
+                        </p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">2</span>
+                        </p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">3</span>
+                        </p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">4</span>
+                        </p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">5</span>
+                        </p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="hd-column">
+                           <span class="boldface">6</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">A.M. Best (EU) Rating Services B.V.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">aaa</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">aa, aa-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">a+, a, a-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">bbb+, bbb, bbb-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">bb+, bb, bb-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">b+, b, b-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">ccc+, ccc, ccc-, cc, c, d, e, f, s</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">aaa</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">aa, aa-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">a+, a, a-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">bbb+, bbb, bbb-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">bb+, bb, bb-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">b+, b, b-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">ccc+, ccc, ccc-, cc, c, d, s</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för finansiell styrka</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A++</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A, A-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B++, B+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, B-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C++, C+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C, C-, D, E, F, S</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB-1-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB-2,</p>
+                        <p class="tbl-norm">AMB-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB- 4, d, e, f, s</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB-1-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB-2,</p>
+                        <p class="tbl-norm">AMB-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AMB- 4, d, s</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">ARC Ratings S.A.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för medelfristiga och långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för medelfristiga och långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kriterier för finansiell styrka, försäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2, A-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2, A-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">ASSEKURATA Assekuranz Rating-Agentur GmbH</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC/C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, företag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A++</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Banque de France</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala (ANACOT) för långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">1, 1-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">2+, 2, 2–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">3+, 3, 3-, 4+, 4, 4-, 5+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">5, 5-, 6+, 6, 6-</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">7, 8, P</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">BCRA – Credit Rating Agency AD</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2, A-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, pensionsförsäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, pensionsförsäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2, A-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, pensionsfonder (pf)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA pf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA pf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A pf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB pf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB pf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B pf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C pf</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Capital Intelligence Ratings Ltd</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Internationell skala för långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C, RS, SD, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Internationell skala för långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Internationell skala för långfristiga kreditbetyg – finansiell styrka, försäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C, RS, SD, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Internationell skala för kortfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A2, A3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, RS, SD, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Internationell skala för kortfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A2, A3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Internationell skala för kortfristiga kreditbetyg – finansiell styrka, försäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A2, A3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, RS, SD, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Cerved Rating Agency S.p.A.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, företag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1.2, A1.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A2.1, A2.2, A3.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B1.1, B1.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B2.1, B2.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C1.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C1.2, C2.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, företag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">S-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">S-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">S-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">V-1, R-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Creditreform Rating AG</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C, SD, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">L1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">L2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">L3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">NEL, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">CRIF Ratings S.r.l.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D1S, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, DS</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg för små och medelstora företag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SME1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SME2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SME3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SME4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SME5, SME6</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SME7, SME8</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">IG-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">IG-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SIG-1, SIG-2, SIG-3, SIG-4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">IG-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">IG-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SIG-1, SIG-2, SIG-3, SIG-4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">DBRS Ratings GmbH</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg, långsiktiga åtaganden</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg, företagscertifikat och kortfristiga räntebärande värdepapper</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">R-1 H, R-1 M</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">R-1 L</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">R-2, R-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">R-4, R-5, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg – finansiell styrka</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, R</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Kreditbetygsskala avseende förväntad förlust (el)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA(el)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA(el)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A(el)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB(el)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB(el)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B(el)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC(el), CC(el), C(el)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Egan-Jones Ratings Co.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-3, B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">EthiFinance S.L. (f.d. Axesor Risk Management S.L.)</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">EF1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">EF1, EF2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">EF3, EF4 EF5</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">EuroRating Sp. z o.o.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Fitch Ratings Ireland Limited</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg – fallissemang, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, RD, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, förmåga att fullgöra företagsfinansieringsåtaganden</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Internationell skala för långfristiga kreditbetyg – finansiell styrka, försäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg, derivatmotparter (dcr)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA dcr</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA dcr</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A dcr</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB dcr</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB dcr</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B dcr</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC dcr, CC dcr, C dcr, RD dcr, R dcr</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">F1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">F1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">F2, F3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, RD, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga IFS-kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">F1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">F1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">F2, F3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">GBB-Rating Gesellschaft für Bonitätsbeurteilung GmbH</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">HR Ratings de México, S.A. de C.V.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR AAA(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR AA(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR A(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR BBB(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR BB(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR B(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR C(G)/HR D(G)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR+1(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR1(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR2(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR3(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HR4(G), HR5(G), HR D(G)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">ICAP CRIF S.A. (tidigare ICAP S.A.)</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, CCC</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, CCC</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">INBONIS SA</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Japan Credit Rating Agency Ltd</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, LD, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-3, NJ, LD, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">J-3, NJ, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Kroll Bond Rating Agency Europe</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">K1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">K1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">K2, K3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg – finansiell styrka, försäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">modeFinance S.r.l.</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">C1, C2, C3, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Moody’s Investors Service</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Aaa</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Aa</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Baa</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Ba</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Caa, Ca, C</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Global skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">P-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">P-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">P-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">NP</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Nordic Credit Rating AS</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D, SD</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">N1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">N2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">N3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">N4, N5, N6</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">Scope Ratings GmbH</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D/SD</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">S-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">S-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">S-2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">S-3, S-4, D/SD</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="italics">S&amp;P Global Ratings Europe Limited</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, R, SD/D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för långfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, C, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg – finansiell styrka, försäkringsbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, SD/D, R</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Långfristiga kreditbetyg avseende finansiella instituts motparter vid resolution</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AAA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">AA</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BBB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">BB</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">CCC, CC, SD, D</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kreditbetyg, utvärdering av företag på mellanmarknaden</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">MM1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">MM2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">MM3, MM4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">MM5, MM6</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">MM7, MM8, MMD</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emittenter</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2, A-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, R, SD/D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Skala för kortfristiga kreditbetyg, emissioner</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2, A-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Kortfristiga kreditbetyg avseende finansiella instituts motparter vid resolution</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1+</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">A-2, A-3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">B, C, SD/D</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </div>
+</body>
+</html>

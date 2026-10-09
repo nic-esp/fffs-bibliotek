@@ -23,3 +23,4 @@ tests
 .vercelignore
 **/node_modules/**
 **/.env*
+docs

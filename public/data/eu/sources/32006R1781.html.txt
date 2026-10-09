@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.17.0 # generated_on:20250614-1748 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2006345SV.01000101.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">8.12.2006   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">SV</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 345/1</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-1-1">
+            EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EG) nr 1781/2006</p>
+            <p class="oj-doc-ti">av den 15 november 2006
+         </p>
+            <p class="oj-doc-ti">om information om betalaren som skall åtfölja överföringar av medel</p>
+            <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DENNA FÖRORDNING</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">med beaktande av fördraget om upprättandet av Europeiska gemenskapen, särskilt artikel 95,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">med beaktande av kommissionens förslag,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_3">
+               <p class="oj-normal">med beaktande av Europeiska centralbankens yttrande <a id="ntc1-L_2006345SV.01000101-E0001" href="#ntr1-L_2006345SV.01000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_4">
+               <p class="oj-normal">i enlighet med förfarandet i artikel 251 i fördraget <a id="ntc2-L_2006345SV.01000101-E0002" href="#ntr2-L_2006345SV.01000101-E0002"
+                     >(<span class="oj-super oj-note-tag">2</span>)</a>, och</p>
+            </div>
+            <p class="oj-normal">av följande skäl:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Flöden av svarta pengar som skapas genom överföring av medel kan skada stabiliteten inom den finansiella sektorn och dess rykte och utgöra ett hot mot den inre marknaden. Terrorismen skakar grundvalarna i vårt samhälle. Den sundhet, integritet och stabilitet som präglar systemet för överföring av medel och tilltron till det finansiella systemet i dess helhet skulle kunna allvarligt sättas på spel genom brottslingars och deras medhjälpares ansträngningar att antingen dölja ursprunget till vinningar från brott eller överföra medel för terroriständamål.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att underlätta sin brottsliga verksamhet skulle personer som tvättar pengar och sådana som finansierar terrorism kunna försöka dra fördel av den fria kapitalrörelse som det integrerade finansområdet medför, om inte vissa samordnade åtgärder vidtas på gemenskapsnivå. Gemenskapens insatser bör dock, i kraft av sin omfattning, säkerställa att den särskilda rekommendationen nr VII om överföringar på elektronisk väg (SR VII), som utarbetats av det internationella organet för finansiella åtgärder (Financial Action Task Force, FATF) som bildades vid G7-mötet i Paris 1989, genomförs på ett enhetligt sätt i hela Europeiska unionen och i synnerhet se till att ingen åtskillnad görs mellan betalningar inom en medlemsstat och gränsöverskridande betalningar mellan medlemsstater. Icke samordnade åtgärder från enskilda medlemsstater, som avser gränsöverskridande överföringar, skulle väsentligt kunna inverka på huruvida betalningssystemet fungerar friktionsfritt på EU-nivå och därigenom skada den inre marknaden för finansiella tjänster.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Efter terroristattackerna i USA den 11 september 2001 slog Europeiska rådet vid sitt extra möte den 21 september 2001 åter fast att kampen mot terrorism är ett av Europeiska unionens viktigaste mål. Rådet godkände en handlingsplan för att förstärka det polisiära och rättsliga samarbetet, utveckla internationella rättsliga instrument mot terrorism, förhindra finansiering av terrorism, förbättra luftfartssäkerheten och förbättra samordningen mellan alla relevanta politikområden. Denna handlingsplan reviderades av Europeiska rådet efter terroristattackerna den 11 mars 2004 i Madrid och är nu specifikt inriktad på behovet av att se till att den lagstiftningsram som skapades av gemenskapen i syfte att bekämpa terrorism och att förbättra det rättsliga samarbetet anpassas till de särskilda rekommendationer mot finansiering av terrorism som antagits av FATF.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att förebygga finansiering av terrorism har åtgärder som skall spärra medel och ekonomiska resurser för vissa personer, grupper och enheter vidtagits, däribland rådets förordning (EG) nr 2580/2001 <a id="ntc3-L_2006345SV.01000101-E0003" href="#ntr3-L_2006345SV.01000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> och rådets förordning (EG) nr 881/2002 <a id="ntc4-L_2006345SV.01000101-E0004" href="#ntr4-L_2006345SV.01000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>. Av samma skäl har åtgärder vidtagits som syftar till att skydda det finansiella systemet mot att medel och ekonomiska resurser överförs till terroriständamål. Europaparlamentets och rådets direktiv 2005/60/EG <a id="ntc5-L_2006345SV.01000101-E0005" href="#ntr5-L_2006345SV.01000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a> innehåller ett antal bestämmelser som syftar till att bekämpa missbruk av det finansiella systemet för penningtvätt och finansiering av terrorism. Dessa åtgärder kan dock inte hindra terrorister och andra brottslingar helt från att skaffa sig tillgång till betalningssystemen för att föra över medel.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att främja ett enhetligt tillvägagångssätt i internationella sammanhang i kampen mot penningtvätt och finansiering av terrorism bör gemenskapen i sina vidare åtgärder ta hänsyn till utvecklingen på internationell nivå, däribland de nio särskilda rekommendationer mot finansiering av terrorism som antagits av FATF och i synnerhet SR VII och det reviderade tolkningsmeddelandet gällande dess genomförande.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Fullständig spårbarhet av penningöverföringar kan vara ett särskilt viktigt och värdefullt verktyg när det gäller att förebygga, undersöka och upptäcka penningtvätt eller finansiering av terrorism. För att säkerställa att information om betalaren vidarebefordras genom hela betalningskedjan är det därför lämpligt att införa en skyldighet för betalningsleverantörerna att se till att överföringar åtföljs av riktig och användbar information om betalaren.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Tillämpningen av denna förordning skall inte påverka Europaparlamentets och rådets direktiv 95/46/EG <a id="ntc6-L_2006345SV.01000101-E0006" href="#ntr6-L_2006345SV.01000101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a>. Till exempel bör information som samlas in och förvaras i enlighet med denna förordning inte användas för kommersiella ändamål.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Personer som endast omvandlar pappersdokument till elektronisk data på grundval av ett kontrakt med en betalningsleverantör omfattas inte av denna förordnings tillämpningsområde; detta gäller även fysiska eller juridiska personer som enbart tillhandahåller betalningsleverantörer meddelanden om överföring av tillgångar eller andra former av stödsystem för detta ändamål eller clearing- och avvecklingssystem.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Överföringar av medel där risken för penningtvätt eller finansiering av terrorism är liten bör lämpligen inte omfattas av denna förordning. Dessa undantag bör inkludera kredit- och bankkort, uttag från uttagsautomater, direkt betalning, trunkerade checkar, betalning av skatter, böter eller avgifter och överföringar av medel när både betalaren och betalningsmottagaren är betalningsleverantörer som agerar för egen räkning. För att återspegla de nationella betalningssystemens särskilda egenskaper bör medlemsstaterna ha rätt att bevilja undantag för elektroniska girobetalningar på villkor att det alltid är möjligt att spåra överföringen av medel tillbaka till betalaren. När medlemsstaterna har tillämpat undantaget för elektroniska pengar enligt direktiv 2005/60/EG bör det tillämpas enligt denna förordning förutsatt att det överförda beloppet inte överstiger 1 000 EUR.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Undantaget för elektroniska pengar enligt Europaparlamentets och rådets direktiv 2000/46/EG <a id="ntc7-L_2006345SV.01000101-E0007" href="#ntr7-L_2006345SV.01000101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a> omfattar sådana pengar oavsett om utgivaren av elektroniska pengar åtnjuter undantag enligt artikel 8 i det direktivet eller inte.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att inte inverka på betalningssystemens effektivitet bör man göra åtskillnad mellan kontrollkraven för överföringar av medel från ett konto och överföringar av medel som inte görs från ett konto. För att skapa en rimlig avvägning mellan risken för att transaktioner kommer att ske utanför det officiella systemet om man tillämpar alltför strikta identifieringskrav och det potentiella terroristhot som små överföringar av medel innebär, ifall överföringarna inte görs från ett konto, bör skyldigheten att kontrollera att informationen om betalaren är riktig endast tillämpas på enskilda överföringar som överstiger 1 000 EUR, utan att detta påverkar skyldigheterna enligt direktiv 2005/60/EG. När det gäller överföringar av medel från ett konto bör betalningsleverantören inte behöva kontrollera informationen om betalaren vid varje överföring om skyldigheterna i direktiv 2005/60/EG uppfylls.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Mot bakgrund av Europaparlamentets och rådets förordning (EG) nr 2560/2001 <a id="ntc8-L_2006345SV.01000101-E0008" href="#ntr8-L_2006345SV.01000101-E0008"
+                                 >(<span class="oj-super oj-note-tag">8</span>)</a> och kommissionens meddelande om en ”ny rättslig ram för betalningar på den inre marknaden”, är det tillräckligt att införa bestämmelser om att förenklad information om betalaren skall åtfölja överföringar av medel inom gemenskapen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att möjliggöra för myndigheter med ansvar för att bekämpa penningtvätt eller finansiering av terrorism i länder utanför EU att spåra källan till medel för dessa syften bör överföringar av medel från gemenskapen till länder utanför gemenskapen åtföljas av fullständig information om betalaren. Dessa myndigheter bör ges tillgång till fullständig information om betalaren endast för att förebygga, undersöka och upptäcka penningtvätt eller finansiering av terrorism.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Vid överföringar av medel från enstaka betalare till flera betalningsmottagare i billigare batchfiler som innehåller enskilda överföringar av medel från gemenskapen till mottagare utanför gemenskapen bör det vara tillräckligt att de enskilda överföringarna endast åtföljs av betalarens kontonummer eller en unik identifikationskod, under förutsättning att batchfilen innehåller full information om betalaren.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att kunna kontrollera om erforderlig information om betalaren åtföljer överföringarna och för att bidra till att möjliggöra upptäckt av misstänkta transaktioner bör betalningsmottagarens betalningsleverantör använda sig av effektiva metoder som leder till upptäckt av fall där information om betalaren saknas.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">På grund av risken för att anonyma överföringar kan vara avsedda för finansiering av terrorism bör betalningsmottagarens betalningsleverantör ha möjlighet att undvika eller korrigera den uppkomna situationen när han blir varse att informationen om betalaren saknas eller är ofullständig. På basis av en riskbedömning bör härvidlag viss flexibilitet tillåtas vad gäller omfattningen av informationen om betalaren. Dessutom bör betalarens betalningsleverantör fortsatt vara ansvarig för att informationen om betalaren är riktig och fullständig. I fall där betalarens betalningsleverantör är etablerad utanför gemenskapens territorium bör skärpta krav på kundkännedom tillämpas i enlighet med direktiv 2005/60/EG när det gäller gränsöverskridande korrespondentbankförbindelser med en dylik betalningsleverantör.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I de fall där behöriga nationella myndigheter utarbetat riktlinjer i fråga om skyldigheterna att antingen avvisa samtliga överföringar från en betalningsleverantör som regelbundet underlåter att lämna erforderlig information om betalaren, eller att ta ställning till om affärsrelationen med betalningsleverantören skall begränsas eller avslutas, bör dessa riktlinjer bland annat grunda sig på gemensam bästa praxis och även ta hänsyn till att enligt det reviderade tolkningsmeddelandet till SR VII får tredjeländer fastställa ett gränsvärde på 1 000 EUR respektive 1 000 USD för skyldigheten att översända information om betalaren, utan att detta påverkar målsättningen att effektivt bekämpa penningtvätt och finansiering av terrorism.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Under alla omständigheter bör betalningsmottagarens betalningsleverantör iaktta särskild vaksamhet och göra en riskbedömning när han blir varse att informationen om betalaren saknas eller är ofullständig och han bör rapportera misstänkta transaktioner till de behöriga myndigheterna i enlighet med de rapporteringsskyldigheter som fastställs i direktiv 2005/60/EG och nationella genomförandeåtgärder.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_19">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(19)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Bestämmelserna om överföringar av medel då information om betalaren saknas eller är ofullständig gäller utan att påverka betalningsleverantörernas skyldigheter att inställa och/eller avvisa överföringar av medel som bryter mot civil-, förvaltnings- eller straffrättsliga bestämmelser.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_20">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(20)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Till dess att man avlägsnat sådana tekniska begränsningar som kan hindra förmedlande betalningsleverantörer från att uppfylla sin skyldighet att vidarebefordra all mottagen information om betalaren bör dessa förmedlande betalningsleverantörer bevara den aktuella informationen. Dessa tekniska begränsningar bör undanröjas så snart som betalningssystemen uppgraderas.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_21">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(21)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Eftersom det i brottsutredningar inte alltid är möjligt att identifiera de uppgifter som behövs eller de personer som varit inblandade förrän flera månader eller till och med år efter den ursprungliga överföringen bör betalningsleverantörerna bevara informationen om betalaren så att den kan användas för att förebygga, undersöka och upptäcka penningtvätt eller finansiering av terrorism. Denna period bör vara begränsad.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_22">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(22)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att möjliggöra att åtgärder för bekämpning av terrorism kan vidtas snabbt bör betalningsleverantörerna skyndsamt besvara en begäran om information om betalaren som kommer från myndigheter med ansvar för att bekämpa penningtvätt eller finansiering av terrorism i den medlemsstat där de är etablerade.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_23">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(23)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Antalet arbetsdagar i den medlemsstat där betalarens betalningsleverantör finnsavgör tidsfristen för att besvara en begäran om information om betalaren.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_24">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(24)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Mot bakgrund av hur viktig kampen mot penningtvätt och finansiering av terrorism är bör medlemsstaterna fastställa effektiva, proportionella och avskräckande sanktioner i sin nationella lagstiftning för att kunna vidta åtgärder mot den som underlåter att efterleva denna förordning.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_25">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(25)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">De åtgärder som är nödvändiga för att genomföra denna förordning bör antas i enlighet med rådets beslut 1999/468/EG av den 28 juni 1999 om de förfaranden som skall tillämpas vid utövandet av kommissionens genomförandebefogenheter <a id="ntc9-L_2006345SV.01000101-E0009" href="#ntr9-L_2006345SV.01000101-E0009"
+                                 >(<span class="oj-super oj-note-tag">9</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_26">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(26)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Ett antal länder och territorier som inte utgör en del av gemenskapens territorium ingår i en monetär union med en medlemsstat eller utgör en del av en medlemsstats valutaområde. Andra har undertecknat ett monetärt avtal med Europeiska gemenskapen företrädd av en medlemsstat, och har betalningsleverantörer som deltar direkt eller indirekt i den medlemsstatens betalnings- och avvecklingssystem. För att undvika större negativa effekter på ekonomierna i dessa länder eller territorier, som skulle kunna uppstå vid en tillämpning av denna förordning på överföringar mellan berörda medlemsstater och dessa länder eller territorier, bör man lämpligen göra det möjligt att behandla sådana överföringar som överföringar av medel inom den berörda medlemsstaten.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_27">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(27)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att inte avskräcka någon från att donera pengar till välgörande ändamål bör medlemsstaterna ha rätt att undanta betalningsleverantörer som är etablerade inom deras territorium från skyldigheten att samla in, kontrollera, bevara eller sända information om betalaren vid överföringar av medel på upp till högst 150 EUR som utförts inom den medlemsstatens territorium. Denna möjlighet bör även förenas med vissa villkor som skall uppfyllas av ideella organisationer så att medlemsstaterna kan se till att detta undantag inte missbrukas av terrorister som en täckmantel för finansiering av deras aktiviteter eller som ett sätt att underlätta detta.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_28">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(28)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Eftersom målen för denna förordning inte i tillräcklig utsträckning kan uppnås av medlemsstaterna och de därför, på grund av åtgärdens omfattning eller verkningar, bättre kan uppnås på gemenskapsnivå, kan gemenskapen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget. I enlighet med proportionalitetsprincipen i samma artikel går denna förordning inte utöver vad som är nödvändigt för att uppnå dessa mål.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_29">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(29)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att tillvägagångssättet skall vara enhetligt i kampen mot penningtvätt och finansiering av terrorism bör de huvudsakliga bestämmelserna i denna förordning tillämpas från och med samma datum som de relevanta bestämmelser som antas på internationell nivå.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div id="cpt_I">
+               <p id="d1e347-1-1" class="oj-ti-section-1">KAPITEL I</p>
+               <div class="eli-title" id="cpt_I.tit_1">
+                  <p id="L_2006345SV.01000101-d-001" class="oj-ti-section-2">SYFTE, DEFINITIONER OCH TILLÄMPNINGSOMRÅDE</p>
+               </div>
+               <div class="eli-subdivision" id="art_1">
+                  <p id="d1e354-1-1" class="oj-ti-art">Artikel 1</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="oj-sti-art">Syfte</p>
+                  </div>
+                  <p class="oj-normal">I denna förordning fastställs regler för den information om betalaren som skall åtfölja överföringar av medel i syfte att förebygga, undersöka och upptäcka penningtvätt och finansiering av terrorism.</p>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p id="d1e361-1-1" class="oj-ti-art">Artikel 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="oj-sti-art">Definitioner</p>
+                  </div>
+                  <p class="oj-normal">I denna förordning gäller följande definitioner:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">1.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">finansiering av terrorism</span>: tillhandahållande eller insamling av medel i den mening som avses i artikel 1.4 i direktiv 2005/60/EG.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">2.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">penningtvätt</span>: alla handlingar som när de begås uppsåtligen skall anses som penningtvätt i enlighet med artikel 1.2 eller 1.3 i direktiv 2005/60/EG.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">3.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">betalare</span>: antingen en fysisk eller juridisk person som är kontoinnehavare och som tillåter en överföring av medel från det kontot eller, om det inte finns något konto, en fysik eller juridisk person som begär överföring av medel.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">4.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">betalningsmottagare</span>: en fysisk eller juridisk person som är den avsedda slutliga mottagaren av de överförda medlen.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">5.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">betalningsleverantör</span>: en fysisk eller juridisk person vars affärsverksamhet omfattar tillhandahållande av tjänster för överföring av medel.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">6.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">förmedlande betalningsleverantör</span>: en betalningsleverantör som varken är betalarens eller betalningsmottagarens betalningsleverantör och som medverkar i genomförandet av en överföring.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">7.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">överföring av medel</span>: samtliga transaktioner som utförs elektroniskt på en betalares vägnar via en betalningsleverantör för att göra medel tillgängliga för en betalningsmottagare hos en betalningsleverantör, oavsett om betalaren och betalningsmottagaren är samma person.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">8.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">batchöverföring</span>: flera enskilda överföringar av medel som sammanförts för vidarebefordran.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">9.</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">
+                                 <span class="oj-italic">unik identifikationskod</span>: en kombination av bokstäver, siffror eller symboler som fastställts av betalningsleverantören i enlighet med protokollen för det betalnings- och avvecklingssystem eller system för meddelanden som används för att verkställa överföringen av medel.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p id="d1e442-1-1" class="oj-ti-art">Artikel 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="oj-sti-art">Tillämpningsområde</p>
+                  </div>
+                  <div id="003.001">
+                     <p class="oj-normal">1.   Denna förordning skall tillämpas på överföringar av medel i samtliga valutor som sänds eller mottas av betalningsleverantörer som är etablerade inom gemenskapen.</p>
+                  </div>
+                  <div id="003.002">
+                     <p class="oj-normal">2.   Denna förordning skall inte tillämpas på överföringar av medel som utförs med hjälp av kredit- eller bankkort, under förutsättning att</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">betalningsmottagaren har ett avtal med betalningsleverantören som möjliggör betalning för tillhandahållande av varor och tjänster,</p>
+                                 <p class="oj-normal">och</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">en unik identifikationskod som gör det möjligt att spåra transaktionen tillbaka till betalaren åtföljer överföringar av sådana medel.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="003.003">
+                     <p class="oj-normal">3.   Om en medlemsstat beslutar att tillämpa det undantag som anges i artikel 11.5 d i direktiv 2005/60/EG skall denna förordning inte tillämpas på överföringar av medel genom elektroniska pengar som omfattas av detta undantag utom när det överförda beloppet överstiger 1 000 EUR.</p>
+                  </div>
+                  <div id="003.004">
+                     <p class="oj-normal">4.   Utan att det påverkar tillämpningen av artikel 3 skall denna förordning inte tillämpas på överföringar av medel via mobiltelefoner eller annan digital eller informationsteknisk utrustning, om dessa överföringar är förbetalda och inte överstiger 150 EUR.</p>
+                  </div>
+                  <div id="003.005">
+                     <p class="oj-normal">5.   Denna förordning skall inte tillämpas på överföringar av medel med hjälp av mobiltelefoner eller annan digital eller informationsteknisk utrustning, om dessa överföringar betalas i efterhand och samtliga följande villkor är uppfyllda:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Betalningsmottagaren har ett avtal med betalningsleverantören som möjliggör betalning för tillhandahållande av varor och tjänster.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">En unik identifikationskod som gör det möjligt att spåra transaktionen tillbaka till betalaren åtföljer överföringen av medel.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Betalningsleverantören omfattas av skyldigheterna i direktiv 2005/60/EG.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="003.006">
+                     <p class="oj-normal">6.   Medlemsstaterna kan besluta att denna förordning inte skall tillämpas på överföringar av medel inom medlemsstaten till ett konto som möjliggör betalning för tillhandahållande av varor eller tjänster om</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">betalningsmottagarens betalningsleverantör omfattas av skyldigheterna i direktiv 2005/60/EG,</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">betalningsmottagarens betalningsleverantör har möjlighet att med hjälp av ett särskilt referensnummer via betalningsmottagaren spåra överföringar av medel från en fysisk eller juridisk person som har ingått ett avtal med betalningsmottagaren för tillhandahållande av varor eller tjänster,</p>
+                                 <p class="oj-normal">och</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">det överförda beloppet är 1 000 EUR eller mindre.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <p class="oj-normal">Medlemsstater som tillämpar detta undantag skall meddela kommissionen detta.</p>
+                  </div>
+                  <div id="003.007">
+                     <p class="oj-normal">7.   Denna förordning skall inte gälla för överföringar av medel</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">om betalaren tar ut pengar från sitt eget konto,</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">om det finns en behörighet mellan två parter för betalningsöverföringar som medger betalningar mellan dem via konton, förutsatt att en unik identifikationskod åtföljer överföringen av medel så att den fysiska eller juridiska personen skall kunna spåras,</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">om trunkerade checkar används,</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">för betalning inom en medlemsstat av skatter, böter och andra avgifter till myndigheter,</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">e)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">om både betalaren och betalningsmottagaren är betalningsleverantörer som agerar för egen räkning.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_II">
+               <p id="d1e581-1-1" class="oj-ti-section-1">KAPITEL II</p>
+               <div class="eli-title" id="cpt_II.tit_1">
+                  <p id="L_2006345SV.01000101-d-002" class="oj-ti-section-2">SKYLDIGHETER SOM GÄLLER FÖR BETALARENS BETALNINGSLEVERANTÖR</p>
+               </div>
+               <div class="eli-subdivision" id="art_4">
+                  <p id="d1e588-1-1" class="oj-ti-art">Artikel 4</p>
+                  <div class="eli-title" id="art_4.tit_1">
+                     <p class="oj-sti-art">Fullständig information om betalaren</p>
+                  </div>
+                  <div id="004.001">
+                     <p class="oj-normal">1.   Fullständig information om betalaren skall innehålla information om betalarens namn, adress och kontonummer.</p>
+                  </div>
+                  <div id="004.002">
+                     <p class="oj-normal">2.   Adressen kan ersättas med betalarens födelsedatum och födelseort, kundnummer eller nationella identitetsnummer.</p>
+                  </div>
+                  <div id="004.003">
+                     <p class="oj-normal">3.   Om betalaren inte har något kontonummer skall betalarens betalningsleverantör ersätta det med en unik identifikationskod som gör att transaktionen kan spåras tillbaka till betalaren.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_5">
+                  <p id="d1e608-1-1" class="oj-ti-art">Artikel 5</p>
+                  <div class="eli-title" id="art_5.tit_1">
+                     <p class="oj-sti-art">Information som skall åtfölja överföringar av medel samt bevarande av uppgifter</p>
+                  </div>
+                  <div id="005.001">
+                     <p class="oj-normal">1.   Betalningsleverantörerna skall se till att överföringar av medel åtföljs av fullständig information om betalaren.</p>
+                  </div>
+                  <div id="005.002">
+                     <p class="oj-normal">2.   Betalarens betalningsleverantör skall, innan han överför medlen, kontrollera den fullständiga informationen om betalaren med hjälp av handlingar, uppgifter eller information som införskaffats från en tillförlitlig och oberoende källa.</p>
+                  </div>
+                  <div id="005.003">
+                     <p class="oj-normal">3.   Vid överföringar av medel från ett konto kan kontrollen anses ha ägt rum om</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">betalarens identitet har kontrollerats i samband med att kontot öppnades och uppgifterna från denna kontroll har lagrats i enlighet med skyldigheterna i artiklarna 8.2 och 30 a i direktiv 2005/60/EG,</p>
+                                 <p class="oj-normal">eller</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">betalaren omfattas av artikel 9.6 i direktiv 2005/60/EG.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="005.004">
+                     <p class="oj-normal">4.   Vid överföringar av medel som inte görs från ett konto skall betalarens betalningsleverantör emellertid, utan att detta påverkar artikel 7 c i direktiv 2005/60/EG, kontrollera informationen om betalaren endast om beloppet överstiger 1 000 EUR, såvida inte överföringen görs genom flera överföringar som förefaller ha ett samband och som tillsammans överstiger 1 000 EUR.</p>
+                  </div>
+                  <div id="005.005">
+                     <p class="oj-normal">5.   Betalarens betalningsleverantör skall under fem års tid bevara den fullständiga information om betalaren som åtföljer överföringar av medel.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_6">
+                  <p id="d1e660-1-1" class="oj-ti-art">Artikel 6</p>
+                  <div class="eli-title" id="art_6.tit_1">
+                     <p class="oj-sti-art">Överföringar av medel inom gemenskapen</p>
+                  </div>
+                  <div id="006.001">
+                     <p class="oj-normal">1.   Med avvikelse från artikel 5.1, då både betalarens betalningsleverantör och betalningsmottagares betalningsleverantör är etablerade inom gemenskapen, skall överföringar av medel endast behöva åtföljas av betalarens kontonummer eller en unik identifikationskod som gör det möjligt att spåra transaktionen tillbaka till betalaren.</p>
+                  </div>
+                  <div id="006.002">
+                     <p class="oj-normal">2.   Om betalningsmottagarens betalningsleverantör så begär skall dock betalarens betalningsleverantör ge betalningsmottagarens betalningsleverantör tillgång till fullständig information om betalaren inom tre arbetsdagar efter mottagandet av en sådan begäran.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_7">
+                  <p id="d1e675-1-1" class="oj-ti-art">Artikel 7</p>
+                  <div class="eli-title" id="art_7.tit_1">
+                     <p class="oj-sti-art">Överföringar av medel från gemenskapen till mottagare utanför gemenskapen</p>
+                  </div>
+                  <div id="007.001">
+                     <p class="oj-normal">1.   Överföringar av medel där betalningsmottagarens betalningsleverantör är etablerad utanför gemenskapen skall åtföljas av fullständig information om betalaren.</p>
+                  </div>
+                  <div id="007.002">
+                     <p class="oj-normal">2.   Vid batchöverföringar från en enstaka betalare där betalningsmottagarnas betalningsleverantörer är etablerade utanför gemenskapen skall punkt 1 inte tillämpas på enskilda överföringar som sammanförs i en batch, under förutsättning att batchfilen innehåller denna information och att de enskilda överföringarna åtföljs av betalarens kontonummer eller en unik identifikationskod.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_III">
+               <p id="d1e691-1-1" class="oj-ti-section-1">KAPITEL III</p>
+               <div class="eli-title" id="cpt_III.tit_1">
+                  <p id="L_2006345SV.01000101-d-003" class="oj-ti-section-2">SKYLDIGHETER SOM GÄLLER FÖR BETALNINGSMOTTAGARENS BETALNINGSLEVERANTÖR</p>
+               </div>
+               <div class="eli-subdivision" id="art_8">
+                  <p id="d1e698-1-1" class="oj-ti-art">Artikel 8</p>
+                  <div class="eli-title" id="art_8.tit_1">
+                     <p class="oj-sti-art">Undersökning av om information om betalaren saknas</p>
+                  </div>
+                  <p class="oj-normal">Betalningsmottagarens betalningsleverantör är skyldig att försäkra sig om att fälten för information om betalaren inom det system för meddelanden eller betalnings- och avvecklingssystem som används för att verkställa överföringen av medel har fyllts i med hjälp av de vedertagna tecken eller inmatningsdata som är tillåtna inom detta system för meddelanden eller betalnings- och avvecklingssystem. Betalningsleverantören skall införa effektiva metoder för att kunna upptäcka om följande information om betalaren saknas:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Vid överföringar där betalarens betalningsleverantör är etablerad inom gemenskapen: den information som anges i artikel 6.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Vid överföringar där betalarens betalningsleverantör är etablerad utanför gemenskapen: fullständig information om betalaren enligt artikel 4 eller i tillämpliga fall den information som anges i artikel 13.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">När det gäller batchöverföringar där betalarens betalningsleverantör är etablerad utanför gemenskapen: fullständig information om betalaren i enlighet med artikel 4 endast i batchöverföringen, men inte för enskilda överföringar som sammanförs i en batch.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="eli-subdivision" id="art_9">
+                  <p id="d1e725-1-1" class="oj-ti-art">Artikel 9</p>
+                  <div class="eli-title" id="art_9.tit_1">
+                     <p class="oj-sti-art">Överföringar av medel då information om betalaren saknas eller är ofullständig</p>
+                  </div>
+                  <div id="009.001">
+                     <p class="oj-normal">1.   Om betalningsmottagarens betalningsleverantör vid mottagandet av överföringen av medel upptäcker att den information om betalaren som krävs enligt denna förordning saknas eller är ofullständig skall han antingen avvisa överföringen eller begära kompletterande information om betalaren. I samtliga fall skall betalningsmottagarens betalningsleverantör följa all tillämplig lagstiftning om penningtvätt och finansiering av terrorism, däribland förordningarna (EG) nr 2580/2001 och (EG) nr 881/2002, direktiv 2005/60/EG och alla nationella genomförandebestämmelser.</p>
+                  </div>
+                  <div id="009.002">
+                     <p class="oj-normal">2.   Om en betalningsleverantör regelbundet underlåter att lämna erforderlig information om betalaren skall betalningsmottagarens betalningsleverantör vidta åtgärder som inledningsvis kan bestå i att utfärda varningar och fastställa tidsfrister, innan betalningsmottagarens betalningsleverantör antingen avvisar alla framtida överföringar från denna betalningsleverantör eller fattar beslut om att begränsa eller avsluta affärsrelationen med denna betalningsleverantör.</p>
+                     <p class="oj-normal">Betalningsmottagarens betalningsleverantör skall meddela detta till de myndigheter som har ansvar för att bekämpa penningtvätt eller finansiering av terrorism.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_10">
+                  <p id="d1e743-1-1" class="oj-ti-art">Artikel 10</p>
+                  <div class="eli-title" id="art_10.tit_1">
+                     <p class="oj-sti-art">Riskbedömning</p>
+                  </div>
+                  <p class="oj-normal">Betalningsmottagarens betalningsleverantör skall betrakta ofullständig information eller avsaknad av information om betalaren som en faktor vid sin bedömning av om en överföring, eller därmed relaterade transaktioner, är misstänkt och om denna överföring, i enlighet med skyldigheterna i kapitel III i direktiv 2005/60/EG, skall rapporteras till de myndigheter som ansvarar för att bekämpa penningtvätt eller finansiering av terrorism.</p>
+               </div>
+               <div class="eli-subdivision" id="art_11">
+                  <p id="d1e750-1-1" class="oj-ti-art">Artikel 11</p>
+                  <div class="eli-title" id="art_11.tit_1">
+                     <p class="oj-sti-art">Bevarande av uppgifter</p>
+                  </div>
+                  <p class="oj-normal">Betalningsmottagarens betalningsleverantör skall under fem års tid bevara all information som mottagits om betalaren.</p>
+               </div>
+            </div>
+            <div id="cpt_IV">
+               <p id="d1e758-1-1" class="oj-ti-section-1">KAPITEL IV</p>
+               <div class="eli-title" id="cpt_IV.tit_1">
+                  <p id="L_2006345SV.01000101-d-004" class="oj-ti-section-2">SKYLDIGHETER SOM GÄLLER FÖR FÖRMEDLANDE BETALNINGSLEVERANTÖRER</p>
+               </div>
+               <div class="eli-subdivision" id="art_12">
+                  <p id="d1e765-1-1" class="oj-ti-art">Artikel 12</p>
+                  <div class="eli-title" id="art_12.tit_1">
+                     <p class="oj-sti-art">Bevarande av information om betalaren vid överföring</p>
+                  </div>
+                  <p class="oj-normal">Förmedlande betalningsleverantörer skall se till att all mottagen information om betalaren som åtföljer en överföring av medel följer med vid den fortsatta överföringen.</p>
+               </div>
+               <div class="eli-subdivision" id="art_13">
+                  <p id="d1e772-1-1" class="oj-ti-art">Artikel 13</p>
+                  <div class="eli-title" id="art_13.tit_1">
+                     <p class="oj-sti-art">Tekniska begränsningar</p>
+                  </div>
+                  <div id="013.001">
+                     <p class="oj-normal">1.   Denna artikel skall tillämpas när betalarens betalningsleverantör är etablerad utanför gemenskapen och den förmedlande betalningsleverantören är etablerad inom gemenskapen.</p>
+                  </div>
+                  <div id="013.002">
+                     <p class="oj-normal">2.   Förutom i de fall där den förmedlande betalningsleverantören vid mottagandet av överföringen av medel upptäcker att den information om betalaren som krävs enligt denna förordning saknas eller är ofullständig, kan denne använda ett betalningssystem med tekniska begränsningar som inte gör det möjligt att informationen om betalaren åtföljer överföringen för att göra överföringarna till betalningsmottagarens betalningsleverantör.</p>
+                  </div>
+                  <div id="013.003">
+                     <p class="oj-normal">3.   När den förmedlande betalningsleverantören vid mottagandet av överföringen av medel upptäcker att den information om betalaren som krävs enligt denna förordning saknas eller är ofullständig skall denne använda ett betalningssystem med tekniska begränsningar endast om det är möjligt att informera betalningsmottagarens betalningsleverantör om detta, antingen genom ett system för meddelanden eller ett betalningssystem som gör det möjligt att översända denna information eller genom något annat förfarande, under förutsättning att båda betalningsleverantörerna accepterar eller kommer överens om kommunikationssättet.</p>
+                  </div>
+                  <div id="013.004">
+                     <p class="oj-normal">4.   Om den förmedlande betalningsleverantören använder ett betalningssystem med tekniska begränsningar skall denne, på begäran från betalningsmottagarens betalningsleverantör, inom tre arbetsdagar från det att begäran erhållits, förse betalningsleverantören med all den information om betalaren, som den har mottagit, oavsett om informationen är fullständig eller ej.</p>
+                  </div>
+                  <div id="013.005">
+                     <p class="oj-normal">5.   I de fall som avses i punkterna 2 och 3 skall den förmedlande betalningsmottagaren under fem års tid bevara all information som mottagits.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_V">
+               <p id="d1e803-1-1" class="oj-ti-section-1">KAPITEL V</p>
+               <div class="eli-title" id="cpt_V.tit_1">
+                  <p id="L_2006345SV.01000101-d-005" class="oj-ti-section-2">ALLMÄNNA SKYLDIGHETER OCH GENOMFÖRANDEBEFOGENHETER</p>
+               </div>
+               <div class="eli-subdivision" id="art_14">
+                  <p id="d1e810-1-1" class="oj-ti-art">Artikel 14</p>
+                  <div class="eli-title" id="art_14.tit_1">
+                     <p class="oj-sti-art">Samarbetsskyldigheter</p>
+                  </div>
+                  <p class="oj-normal">Betalningsleverantörerna skall till fullo och utan dröjsmål, med iakttagande av alla formkrav som gäller enligt nationell lagstiftning i den berörda medlemsstaten, besvara förfrågningar från myndigheter, som ansvarar för bekämpning av penningtvätt eller finansiering av terrorism i den medlemsstat där de är etablerade, gällande den information om betalaren som åtföljer överföringar och motsvarande bevarade uppgifter.</p>
+                  <p class="oj-normal">Utan att det påverkar den nationella straffrätten och skyddet för de grundläggande rättigheterna får dessa myndigheter endast använda informationen för att förebygga, undersöka eller upptäcka penningtvätt eller finansiering av terrorism.</p>
+               </div>
+               <div class="eli-subdivision" id="art_15">
+                  <p id="d1e820-1-1" class="oj-ti-art">Artikel 15</p>
+                  <div class="eli-title" id="art_15.tit_1">
+                     <p class="oj-sti-art">Sanktioner och övervakning</p>
+                  </div>
+                  <div id="015.001">
+                     <p class="oj-normal">1.   Medlemsstaterna skall fastställa regler om sanktioner vid överträdelser av bestämmelserna i denna förordning och vidta alla nödvändiga åtgärder för att se till att de tillämpas. Sanktionerna skall vara effektiva, proportionella och avskräckande. De skall gälla från den 15 december 2007.</p>
+                  </div>
+                  <div id="015.002">
+                     <p class="oj-normal">2.   Medlemsstaterna skall senast den 14 december 2007 till kommissionen anmäla de regler som avses i punkt 1, tillsammans med de myndigheter som ansvarar för deras tillämpning, och även utan dröjsmål senare ändringar som påverkar dem.</p>
+                  </div>
+                  <div id="015.003">
+                     <p class="oj-normal">3.   Medlemsstaterna skall kräva att de behöriga myndigheterna effektivt övervakar och vidtar nödvändiga åtgärder för att säkerställa att kraven i denna förordning uppfylls.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_16">
+                  <p id="d1e846-1-1" class="oj-ti-art">Artikel 16</p>
+                  <div class="eli-title" id="art_16.tit_1">
+                     <p class="oj-sti-art">Kommittéförfarande</p>
+                  </div>
+                  <div id="016.001">
+                     <p class="oj-normal">1.   Kommissionen skall biträdas av den kommitté för förebyggande av penningtvätt och finansiering av terrorism som inrättats genom direktiv 2005/60/EG, nedan kallad ”kommittén”.</p>
+                  </div>
+                  <div id="016.002">
+                     <p class="oj-normal">2.   När hänvisning sker till denna punkt skall artiklarna 5 och 7 i beslut 1999/468/EG tillämpas, med beaktande av bestämmelserna i artikel 8 i det beslutet och förutsatt att de genomförandeåtgärder som antagits i enlighet med detta förfarande inte ändrar de grundläggande bestämmelserna i denna förordning.</p>
+                     <p class="oj-normal">Den tid som avses i artikel 5.6 i beslut 1999/468/EG skall vara tre månader.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_VI">
+               <p id="d1e869-1-1" class="oj-ti-section-1">KAPITEL VI</p>
+               <div class="eli-title" id="cpt_VI.tit_1">
+                  <p id="L_2006345SV.01000101-d-006" class="oj-ti-section-2">UNDANTAG</p>
+               </div>
+               <div class="eli-subdivision" id="art_17">
+                  <p id="d1e876-1-1" class="oj-ti-art">Artikel 17</p>
+                  <div class="eli-title" id="art_17.tit_1">
+                     <p class="oj-sti-art">Överenskommelser med territorier eller länder som inte är en del av gemenskapens territorium</p>
+                  </div>
+                  <div id="017.001">
+                     <p class="oj-normal">1.   Kommissionen kan bemyndiga en medlemsstat att ingå överenskommelser enligt nationella arrangemang med ett land eller territorium, vilket inte utgör en del av gemenskapens territorium enligt artikel 299 i fördraget, som innehåller undantag från denna förordning och som medför att överföringar av medel mellan detta land eller territorium och den berörda medlemsstaten behandlas som överföringar inom denna medlemsstat.</p>
+                     <p class="oj-normal">Sådana överenskommelser får bemyndigas endast om:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Det berörda landet eller territoriet ingår i en monetär union med den berörda medlemsstaten eller utgör en del av den medlemsstatens valutaområde eller har undertecknat ett monetärt avtal med Europeiska gemenskapen företrädd av en medlemsstat.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Betalningsleverantörer i det berörda landet eller territoriet deltar direkt eller indirekt i den medlemsstatens betalnings- och avvecklingssystem.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Det berörda landet eller territoriet kräver att betalningsleverantörer som verkar inom dess jurisdiktion skall tillämpa samma regler som de som fastställs i denna förordning.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="017.002">
+                     <p class="oj-normal">2.   En medlemsstat som önskar ingå en sådan överenskommelse som avses i punkt 1 skall lämna in en ansökan till kommissionen och tillhandahålla all erforderlig information.</p>
+                     <p class="oj-normal">När kommissionen mottagit en ansökan från en medlemsstat skall överföringar mellan denna medlemsstat och det berörda landet eller territoriet provisoriskt behandlas som överföringar inom den medlemsstaten fram till dess att ett beslut har fattats i enlighet med förfarandet i denna artikel.</p>
+                     <p class="oj-normal">Om kommissionen anser att den inte har all erforderlig information skall den kontakta den berörda medlemsstaten inom två månader efter mottagandet av ansökan och specificera den ytterligare information som behövs.</p>
+                     <p class="oj-normal">När kommissionen väl har all information som den anser vara erforderlig för att bedöma denna begäran skall den inom en månad underrätta den ansökande medlemsstaten om detta och vidarebefordra begäran till övriga medlemsstater.</p>
+                  </div>
+                  <div id="017.003">
+                     <p class="oj-normal">3.   Inom tre månader efter den underrättelse som anges i fjärde stycket i punkt 2 skall kommissionen, i enlighet med förfarandet i artikel 16(2), besluta huruvida den skall bemyndiga den berörda medlemsstaten att ingå den typ av överenskommelse som anges i punkt 1 i denna artikel.</p>
+                     <p class="oj-normal">Det beslut som nämns i första stycket skall under alla omständigheter fattas inom 18 månader efter det att kommissionen mottagit ansökan.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_18">
+                  <p id="d1e928-1-1" class="oj-ti-art">Artikel 18</p>
+                  <div class="eli-title" id="art_18.tit_1">
+                     <p class="oj-sti-art">Överföringar av medel till ideella organisationer inom en medlemsstat</p>
+                  </div>
+                  <div id="018.001">
+                     <p class="oj-normal">1.   Medlemsstaterna får undanta betalningsleverantörer som är etablerade inom deras territorium från skyldigheterna i artikel 5 vid överföringar av medel till organisationer som på ideell grund bedriver verksamheter för välgörande, religiösa, kulturella, utbildningsfrämjande, sociala, vetenskapliga eller föreningsinriktade ändamål, under förutsättning att dessa organisationer är underkastade redovisningskrav och externa revisionskrav eller tillsyn av en myndighet eller ett självreglerande organ som är erkänt i nationell lagstiftning och att överföringarna är begränsade till högst 150 EUR per överföring och att de uteslutande äger rum inom den berörda medlemsstatens territorium.</p>
+                  </div>
+                  <div id="018.002">
+                     <p class="oj-normal">2.   Medlemsstater som åberopar denna artikel skall meddela kommissionen vilka åtgärder som de har vidtagit för att tillämpa den möjlighet som anges i första stycket med en förteckning över organisationer som omfattas av detta undantag, namnen på de fysiska personer som ytterst kontrollerar organisationen och en redogörelse för hur förteckningen kommer att uppdateras. Denna information skall även tillhandahållas de myndigheter som har ansvar för att bekämpa penningtvätt och finansiering av terrorism.</p>
+                  </div>
+                  <div id="018.003">
+                     <p class="oj-normal">3.   En aktuell förteckning över de organisationer som omfattas av detta undantag skall översändas av den berörda medlemsstaten till de betalningsleverantörer som är verksamma i denna medlemsstat.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_19">
+                  <p id="d1e948-1-1" class="oj-ti-art">Artikel 19</p>
+                  <div class="eli-title" id="art_19.tit_1">
+                     <p class="oj-sti-art">Översynsklausul</p>
+                  </div>
+                  <div id="019.001">
+                     <p class="oj-normal">1.   Senast den 28 december 2011 skall kommissionen lägga fram en rapport för Europaparlamentet och rådet med en fullständig ekonomisk och rättslig utvärdering av förordningens tillämpning, vid behov åtföljd av ett förslag om ändring eller upphävande av förordningen.</p>
+                  </div>
+                  <div id="019.002">
+                     <p class="oj-normal">2.   Rapporten skall i synnerhet se över följande:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Tillämpningen av artikel 3 med beaktande av nya erfarenheter beträffande eventuella missbruk av elektroniska pengar i enlighet med artikel 1.3 i direktiv 2000/46/EG, och andra nyutvecklade betalningsmetoder, som används i samband med penningtvätt och finansiering av terrorism. Om det finns risk för missbruk avseende penningtvätt eller finansiering av terrorism skall kommissionen lägga fram ett förslag om ändring av denna förordning.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Tillämpningen av artikel 13 beträffande de tekniska begränsningar som kan göra det omöjligt att överföra fullständig information om betalaren till betalningsmottagarens betalningsleverantör. Om den senaste utvecklingen inom betalningssektorn gör det möjligt att åtgärda sådana tekniska begränsningar, och om det är möjligt med hänsyn till kostnaderna för betalningsleverantörerna, skall kommissionen lägga fram ett förslag om ändring av denna förordning.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_VII">
+               <p id="d1e981-1-1" class="oj-ti-section-1">KAPITEL VII</p>
+               <div class="eli-title" id="cpt_VII.tit_1">
+                  <p id="L_2006345SV.01000101-d-007" class="oj-ti-section-2">SLUTBESTÄMMELSER</p>
+               </div>
+               <div class="eli-subdivision" id="art_20">
+                  <p id="d1e988-1-1" class="oj-ti-art">Artikel 20</p>
+                  <div class="eli-title" id="art_20.tit_1">
+                     <p class="oj-sti-art">Ikraftträdande</p>
+                  </div>
+                  <p class="oj-normal">Denna förordning träder i kraft den tjugonde dagen efter det att den offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>, dock tidigast den 1 januari 2007.</p>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+               <p class="oj-normal">Utfärdad i Strasbourg den 15 november 2006.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På Europaparlamentets vägnar</span>
+                  </p>
+                  <p class="oj-signatory">J. BORRELL FONTELLES
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Ordförande</span>
+                  </p>
+               </div>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På rådets vägnar</span>
+                  </p>
+                  <p class="oj-signatory">P. LEHTOMÄKI
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Ordförande</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2006345SV.01000101-E0001" href="#ntc1-L_2006345SV.01000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOC_2005_336_R_TOC"
+               >EUT C 336, 31.12.2005, s. 109</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2006345SV.01000101-E0002" href="#ntc2-L_2006345SV.01000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Europaparlamentets yttrande avgivet den 6 juli 2006 (ännu ej offentliggjort i EUT) och rådets beslut av den 7 november 2006.</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2006345SV.01000101-E0003" href="#ntc3-L_2006345SV.01000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2001_344_R_TOC"
+               >EGT L 344, 28.12.2001, s. 70</a>. Förordningen senast ändrad genom kommissionens förordning (EG) nr 1461/2006 (<a href="http://publications.europa.eu/resource/oj/JOL_2006_272_R_TOC"
+               >EUT L 272, 3.10.2006, s. 11</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2006345SV.01000101-E0004" href="#ntc4-L_2006345SV.01000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2002_139_R_TOC"
+               >EGT L 139, 29.5.2002, s. 9</a>. Förordningen senast ändrad genom kommissionens förordning (EG) nr 1508/2006 (<a href="http://publications.europa.eu/resource/oj/JOL_2006_280_R_TOC"
+               >EUT L 280, 12.10. 2006, s. 12</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2006345SV.01000101-E0005" href="#ntc5-L_2006345SV.01000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2005_309_R_TOC"
+               >EUT L 309, 25.11.2005, s. 15</a>.</p>
+         <p class="oj-note">
+            <a id="ntr6-L_2006345SV.01000101-E0006" href="#ntc6-L_2006345SV.01000101-E0006"
+               >(<span class="oj-super">6</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC"
+               >EGT L 281, 23.11.1995, s. 31</a>. Direktivet ändrat genom förordning (EG) nr 1882/2003 (<a href="http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC"
+               >EUT L 284, 31.10.2003, s. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_2006345SV.01000101-E0007" href="#ntc7-L_2006345SV.01000101-E0007"
+               >(<span class="oj-super">7</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2000_275_R_TOC"
+               >EGT L 275, 27.10.2000, s. 39</a>.</p>
+         <p class="oj-note">
+            <a id="ntr8-L_2006345SV.01000101-E0008" href="#ntc8-L_2006345SV.01000101-E0008"
+               >(<span class="oj-super">8</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2001_344_R_TOC"
+               >EGT L 344, 28.12.2001, s. 13</a>.</p>
+         <p class="oj-note">
+            <a id="ntr9-L_2006345SV.01000101-E0009" href="#ntc9-L_2006345SV.01000101-E0009"
+               >(<span class="oj-super">9</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC"
+               >EGT L 184, 17.7.1999, s. 23</a>. Beslutet senast ändrat genom beslut 2006/512/EG (<a href="http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC"
+               >EUT L 200, 22.7.2006, s. 11</a>).</p>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

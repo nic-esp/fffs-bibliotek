@@ -1,0 +1,1232 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- fmx2xhtml # converter_version:9.2.0 # generated_on:20200403-1841 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32015R0847 — SV — 01.01.2020</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02015R0847 — SV — 01.01.2020 — 001.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32015R0847"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32015R0847">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-45495f4c-89d0-48ff-af03-d0b586b9b3d3">EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2015/847</p>
+            <p class="title-doc-first" id="id-7bb4ce57-6c9c-4c6e-bcff-e614ada5d972">av den 20 maj 2015</p>
+            <p class="title-doc-first" id="id-4f4c8bd1-47e4-48fb-9acd-1114f671a9f1">om uppgifter som ska åtfölja överföringar av medel och om upphävande av förordning (EG) nr 1781/2006</p>
+            <p class="title-doc-last" id="id-2f9be4bb-6fe1-4e7c-b8cb-ce3871e37ca7">
+               <a href="http://publications.europa.eu/resource/celex/32015R0847" onclick="_blanc"
+                  title="32015R0847">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-09be8f99-16d4-46be-8206-23d03eaaea47">(EGT L 141 5.6.2015, s. 1)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32019R2175"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32019R2175">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-9150974e-90a1-4c3f-a9b9-45a492aa9d4f">
+               <a href="http://publications.europa.eu/resource/celex/32019R2175"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32019R2175">EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2019/2175 av den 18 december 2019</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 334</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">27.12.2019</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <p>
+      <br/>
+   </p>
+   <p class="arrow">
+      <a href="http://publications.europa.eu/resource/celex/32015R0847"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32015R0847">▼B</a>
+   </p>
+   <p class="title-doc-first" id="id-8a6dc461-26db-47b0-be59-9f78271f0b83">EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2015/847</p>
+   <p class="title-doc-first" id="id-2649c93e-98fb-4a1f-975e-9c3a7a94a179">av den 20 maj 2015</p>
+   <p class="title-doc-first" id="id-bfca0825-19a3-4c89-ba22-092aa3a28dcb">om uppgifter som ska åtfölja överföringar av medel och om upphävande av förordning (EG) nr 1781/2006</p>
+   <p class="title-doc-last" id="id-e8405247-b959-4111-9ce2-c4c3c9c63842">(Text av betydelse för EES)</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-b71c4699-9aee-4100-9ded-76f1cb6b783f">KAPITEL I</p>
+   <p class="title-division-2" id="id-b78ac2d7-e1ff-45eb-b821-b3386852a9b6">
+      <span class="boldface">SYFTE, TILLÄMPNINGSOMRÅDE OCH DEFINITIONER</span>
+   </p>
+   <p class="title-article-norm" id="id-70c024b9-43d2-413e-bc01-f72116653e5f">Artikel 1</p>
+   <p class="stitle-article-norm">Syfte</p>
+   <p class="norm">I denna förordning fastställs bestämmelser om de uppgifter om betalare och betalningsmottagare som ska åtfölja överföringar av medel, i alla valutor, i syfte att förebygga, upptäcka och utreda penningtvätt och finansiering av terrorism, när minst en av de betaltjänstleverantörer som är involverade i överföringen av medel är etablerad inom unionen.</p>
+   <p class="title-article-norm" id="id-7fdba074-25a3-4bc2-93dd-a5268320325d">Artikel 2</p>
+   <p class="stitle-article-norm">Tillämpningsområde</p>
+   <p class="norm">1.  Denna förordning ska tillämpas på överföringar av medel, i alla valutor, som sänds eller tas emot av en betaltjänstleverantör eller en förmedlande betaltjänstleverantör som är etablerad inom unionen.</p>
+   <p class="norm">2.  Denna förordning ska inte tillämpas på de tjänster som förtecknas i artikel 3 a–m och o i direktiv 2007/64/EG.</p>
+   <p class="norm">3.  Denna förordning ska inte tillämpas på överföringar av medel som utförs med hjälp av ett betalkort, ett instrument för elektroniska pengar, en mobiltelefon eller annan förbetald eller efterhandsbetald digital utrustning eller it-utrustning med liknande egenskaper, om följande villkor är uppfyllda:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Det kortet, det instrumentet eller den utrustningen används uteslutande för att betala för varor eller tjänster.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Alla överföringar i samband med transaktionen åtföljs av numret på det kortet, det instrumentet eller den utrustningen.</p>
+      </div>
+   </div>
+   <p class="norm">Denna förordning ska dock gälla när ett betalkort, ett instrument för elektroniska pengar, en mobiltelefon eller annan förbetald eller efterhandsbetald digital utrustning eller it-utrustning med liknande egenskaper används för att verkställa en överföring av medel från person till person.</p>
+   <p class="norm">4.  Denna förordning ska inte tillämpas på personer som inte har någon annan verksamhet än att omvandla pappersdokument till elektroniska uppgifter och som gör detta i enlighet med ett avtal med en betaltjänstleverantör eller personer som inte har någon annan verksamhet än att tillhandahålla betaltjänstleverantörer meddelandesystem eller andra stödsystem för överföring av medel eller system för clearing och avveckling.</p>
+   <p class="norm">Denna förordning ska inte gälla för överföringar av medel</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">som involverar att betalaren tar ut kontanter från betalarens eget betalkonto,</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">som överför medel till en offentlig myndighet som betalning för skatter, böter eller andra avgifter inom en medlemsstat,</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">där både betalaren och betalningsmottagaren är betaltjänstleverantörer som agerar för egen räkning,</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>d) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">som görs genom checkavbildningar, inklusive trunkerade checkar.</p>
+      </div>
+   </div>
+   <p class="norm">5.  En medlemsstat kan besluta att inte tillämpa denna förordning på överföringar av medel inom dess territorium till en betalningsmottagares betalkonto som uteslutande möjliggör betalning för tillhandahållande av varor eller tjänster när samtliga följande villkor är uppfyllda:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betalningsmottagarens betaltjänstleverantör omfattas av direktiv (EU) 2015/849.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betalningsmottagarens betaltjänstleverantör har möjlighet att med hjälp av en unik transaktionsidentifierare via betalningsmottagaren spåra överföringar av medel från den person som har ingått ett avtal med betalningsmottagaren om tillhandahållande av varor eller tjänster.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Överföringen av medel överskrider inte 1 000  EUR.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-bb35ddfd-5bde-4a9f-8091-097e5163e141">Artikel 3</p>
+   <p class="stitle-article-norm">Definitioner</p>
+   <p class="norm">I denna förordning gäller följande definitioner:</p>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">1.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">finansiering av terrorism</span> : finansiering av terrorism i enlighet med definitionen i artikel 1.5 i direktiv (EU) 2015/849.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">2.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">penningtvätt</span> : penningtvätt i enlighet med artikel 1.3 och 1.4 i direktiv (EU) 2015/849.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">3.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">betalare</span> : en person som är betalkontoinnehavare och som godkänner en överföring av medel från detta betalkonto eller, om det inte finns något betalkonto, som lämnar en order om överföring av medel.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">4.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">betalningsmottagare</span> : en person som är den avsedda mottagaren av överföringen av medel.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">5.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">betaltjänstleverantör</span> : de kategorier av betalningstjänstleverantörer som avses i artikel 1.1 i direktiv 2007/64/EG, fysiska eller juridiska personer som omfattas av ett undantag enligt artikel 26 i direktivet och juridiska personer som omfattas av ett undantag enligt artikel 9 i Europaparlamentets och rådets direktiv 2009/110/EG (<a href="#E0001" id="src.E0001">
+                  <span class="superscript">1</span>
+               </a>), vilka tillhandahåller tjänster för överföring av medel.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">6.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">förmedlande betaltjänstleverantör</span> : en betaltjänstleverantör som inte är betalarens eller betalningsmottagarens betaltjänstleverantör och som tar emot och verkställer en överföring av medel på uppdrag av betalarens eller betalningsmottagarens betaltjänstleverantör eller en annan förmedlande betaltjänstleverantör.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">7.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">betalkonto</span> : ett betalkonto enligt definitionen i artikel 4.14 i direktiv 2007/64/EG.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">8.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">medel</span> : medel enligt definitionen i artikel 4.15 i direktiv 2007/64/EG.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">9.</p>
+         </td>
+         <td valign="top">
+            <span class="italics">överföring av medel</span>
+            <p class="normal"> : </p>
+            <p class="norm">alla transaktioner som för en betalares räkning åtminstone delvis utförs på elektronisk väg genom en betaltjänstleverantör för att göra tillgångar tillgängliga för en betalningsmottagare genom en betaltjänstleverantör, oavsett om betalaren och betalningsmottagaren är en och samma person och oavsett om betalarens och betalningsmottagarens betaltjänstleverantör är en och samma person, inbegripet</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">en betalning enligt definitionen i artikel 2.1 i förordning (EU) nr 260/2012,</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">en autogirering enligt definitionen i artikel 2.2 i förordning (EU) nr 260/2012,</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>c) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">en penningöverföring enligt definitionen i artikel 4.13 i direktiv 2007/64/EG, oavsett om den är nationell eller gränsöverskridande,</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>d) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">en överföring som genomförts med ett betalkort, ett instrument för elektroniska pengar, en mobiltelefon eller någon annan förbetald eller efterhandsbetald digital utrustning eller it-utrustning med liknande egenskaper.</p>
+               </div>
+            </div>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">10.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">batchöverföring</span> : ett paket av flera enskilda överföringar av medel som sammanförts för vidarebefordran.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">11.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">unik transaktionsidentifierare</span> : en kombination av bokstäver, siffror eller symboler som betaltjänstleverantören fastställt i enlighet med protokollen för det betalnings- och avvecklingssystem eller meddelandesystem som används för överföringen av medel och som gör det möjligt att spåra transaktionen tillbaka till betalaren och betalningsmottagaren.</p>
+         </td>
+      </tr>
+   </table>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="dlist-term">12.</p>
+         </td>
+         <td valign="top">
+            <p class="dlist-definition">
+               <span class="italics">överföring av medel från person till person</span> : en transaktion mellan fysiska personer som agerar i egenskap av konsumenter för andra ändamål än sin handelsverksamhet, affärsverksamhet eller sitt yrke.</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-eefcc09e-b162-4c18-908c-6c00da014c12">KAPITEL II</p>
+   <p class="title-division-2" id="id-7ac471b1-37f8-4418-b125-c14e3daa0eac">
+      <span class="boldface">SKYLDIGHETER FÖR BETALTJÄNSTLEVERANTÖRER</span>
+   </p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-c9d8b43d-6fa4-47ac-83cc-ac42f878a3f6">
+      <span class="italics">AVSNITT 1</span>
+   </p>
+   <p class="title-division-2" id="id-b1b149b1-65de-44a8-8ab0-491eed2ed5d8">
+      <span class="boldface">
+         <span class="italics">Skyldigheter för betalarens betaltjänstleverantör</span>
+      </span>
+   </p>
+   <p class="title-article-norm" id="id-1fc35669-3ea6-4a0f-8b17-25a13ac6345e">Artikel 4</p>
+   <p class="stitle-article-norm">Uppgifter som ska åtfölja överföringar av medel</p>
+   <p class="norm">1.  Betalarens betaltjänstleverantör ska se till att överföringar av medel åtföljs av följande uppgifter om betalaren:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betalarens namn.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betalarens betalkontonummer.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betalarens adress, officiella personliga dokumentnummer, kundnummer eller födelseort och födelsedatum.</p>
+      </div>
+   </div>
+   <p class="norm">2.  Betalarens betaltjänstleverantör ska se till att överföringar av medel åtföljs av följande uppgifter om betalningsmottagaren:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betalningsmottagarens namn.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betalningsmottagarens betalkontonummer.</p>
+      </div>
+   </div>
+   <p class="norm">3.  Genom undantag från punkterna 1 b och 2 b, i fall där en överföring inte görs från eller till ett betalkonto, ska betalarens betaltjänstleverantör se till att överföringen av medel åtföljs av en unik transaktionsidentifierare i stället för betalkontonummer.</p>
+   <p class="norm">4.  Innan betalarens betaltjänstleverantör överför medel ska denne kontrollera riktigheten i de uppgifter som avses i punkt 1, på grundval av handlingar, uppgifter eller upplysningar från en tillförlitlig och oberoende källa.</p>
+   <p class="norm">5.  Den kontroll som avses i punkt 4 ska anses ha ägt rum när</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">betalarens identitet har kontrollerats i enlighet med artikel 13 i direktiv (EU) 2015/849 och uppgifterna från kontrollen har sparats i enlighet med artikel 40 i det direktivet, eller</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">betalaren omfattas av artikel 14.5 i direktiv (EU) 2015/849.</p>
+      </div>
+   </div>
+   <p class="norm">6.  Utan att det påverkar de undantag som anges i artiklarna 5 och 6 ska betalarens betaltjänstleverantör inte verkställa en överföring av medel fram till dess att kraven i den här artikeln har fullgjorts i sin helhet.</p>
+   <p class="title-article-norm" id="id-6cae5920-7a85-4e67-b3e7-4ca76d9db247">Artikel 5</p>
+   <p class="stitle-article-norm">Överföringar av medel inom unionen</p>
+   <p class="norm">1.  Om alla betaltjänstleverantörer i betalningskedjan är etablerade inom unionen ska överföringar av medel, genom undantag från artikel 4.1 och 4.2, åtminstone åtföljas av både betalarens och betalningsmottagarens betalkontonummer eller, där artikel 4.3 är tillämplig, av den unika transaktionsidentifieraren, utan att detta i tillämpliga fall påverkar informationskraven i förordning (EU) nr 260/2012.</p>
+   <p class="norm">2.  Utan hinder av punkt 1 ska betalarens betaltjänstleverantör, inom tre arbetsdagar efter att ha mottagit en begäran om information från betalningsmottagarens betaltjänstleverantör eller den förmedlande betaltjänstleverantören, lämna följande:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">För överföringar av medel som överstiger 1 000  EUR, oavsett om dessa överföringar utförs i en enda transaktion eller i flera transaktioner som förefaller vara kopplade, de uppgifter om betalaren eller betalningsmottagaren som avses i artikel 4.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">För överföringar av medel som uppgår till högst 1 000  EUR som inte förefaller vara kopplade till andra överföringar av medel som tillsammans med överföringen i fråga överstiger 1 000  EUR, åtminstone</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>i) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">betalarens och betalningsmottagarens namn, och</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>ii) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">betalarens och betalningsmottagarens betalkontonummer eller, där artikel 4.3 är tillämplig, den unika transaktionsidentifieraren.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p class="norm">3.  Genom undantag från artikel 4.4 ska betalarens betaltjänstleverantör, vid överföringar av medel som avses i punkt 2 b i den här artikeln, inte vara skyldig att kontrollera uppgifterna om betalaren, såvida inte betalarens betaltjänstleverantör</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">har tagit emot de medel som ska överföras i kontanter eller i anonyma elektroniska pengar, eller</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">har rimliga skäl att misstänka penningtvätt eller finansiering av terrorism.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-a5e0baad-0ed3-4f23-93ad-d018f549f72e">Artikel 6</p>
+   <p class="stitle-article-norm">Överföringar av medel från unionen till tredjeländer</p>
+   <p class="norm">1.  Vid en batchöverföring från en enskild betalare där betalningsmottagarnas betaltjänstleverantörer är etablerade utanför unionen ska artikel 4.1 inte tillämpas på enskilda överföringar som sammanförts i batchöverföringen, under förutsättning att batchfilen innehåller de uppgifter som avses i artikel 4.1, 4.2 och 4.3 och att dessa uppgifter har kontrollerats i enlighet med artikel 4.4 och 4.5, och att de enskilda överföringarna åtföljs av betalarens betalkontonummer eller, där artikel 4.3 är tillämplig, den unika transaktionsidentifieraren.</p>
+   <p class="norm">2.  Genom undantag från artikel 4.1 och, i tillämpliga fall, utan att det påverkar de uppgifter som krävs enligt förordning (EU) nr 260/2012, ska, om betalningsmottagarens betaltjänstleverantör är etablerad utanför unionen, överföringar av medel som inte överstiger 1 000  EUR och som inte förefaller vara kopplade till andra överföringar av medel som tillsammans med överföringen i fråga överstiger 1 000  EUR, åtföljas av åtminstone</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">betalarens och betalningsmottagarens namn, och</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">betalarens och betalningsmottagarens kontonummer eller, där artikel 4.3 är tillämplig, den unika transaktionsidentifieraren.</p>
+      </div>
+   </div>
+   <p class="norm">Genom undantag från artikel 4.4 ska betalarens betaltjänstleverantör inte vara skyldig att kontrollera de uppgifter om betalaren som avses i denna punkt, såvida inte betalarens betaltjänstleverantör</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">har tagit emot de medel som ska överföras i kontanter eller i anonyma elektroniska pengar, eller</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">har rimliga skäl att misstänka penningtvätt eller finansiering av terrorism.</p>
+      </div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-89769e89-2fdf-4434-837b-06fe77849d07">
+      <span class="italics">AVSNITT 2</span>
+   </p>
+   <p class="title-division-2" id="id-b117fb2e-2bca-4a01-aa50-8490643c66a4">
+      <span class="boldface">
+         <span class="italics">Skyldigheter för betalningsmottagarens betaltjänstleverantör</span>
+      </span>
+   </p>
+   <p class="title-article-norm" id="id-3cfb439b-8a84-4902-80a6-871096742bf1">Artikel 7</p>
+   <p class="stitle-article-norm">Upptäckt av saknade uppgifter om betalaren eller betalningsmottagaren</p>
+   <p class="norm">1.  Betalningsmottagarens betaltjänstleverantör ska genomföra effektiva förfaranden för fastställande av huruvida fälten för uppgifter om betalaren och betalningsmottagaren inom det meddelande- eller betalnings- och avvecklingssystem som används för att verkställa överföringen av medel har fyllts i med hjälp av de vedertagna tecken eller inmatningsdata som är tillåtna i enlighet med det systemet.</p>
+   <p class="norm">2.  Betalningsmottagarens betaltjänstleverantör ska genomföra effektiva förfaranden, inbegripet, om så är lämpligt, efterhandsövervakning eller övervakning i realtid, för fastställande av huruvida följande uppgifter om betalaren eller betalningsmottagaren saknas:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Vid överföringar av medel där betalarens betaltjänstleverantör är etablerad inom unionen: de uppgifter som avses i artikel 5.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Vid överföringar av medel där betalarens betaltjänstleverantör är etablerad utanför unionen: de uppgifter som avses i artikel 4.1 och 4.2.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Vid batchöverföringar där betalarens betaltjänstleverantör är etablerad utanför unionen: de uppgifter som avses i artikel 4.1 och 4.2 med avseende på den batchöverföringen.</p>
+      </div>
+   </div>
+   <p class="norm">3.  Vid överföringar av medel som överstiger 1 000  EUR, oavsett om dessa överföringar utförs i en enda transaktion eller flera transaktioner som förefaller vara sammankopplade, ska betalningsmottagarens betaltjänstleverantör, innan denne krediterar betalningsmottagarens betalkonto eller gör medlen tillgängliga för betalningsmottagaren, kontrollera att de uppgifter om betalningsmottagaren som avses i punkt 2 i den här artikeln är riktiga, på grundval av handlingar, uppgifter eller upplysningar från en tillförlitlig och oberoende källa, utan att detta påverkar kraven i artiklarna 69 och 70 i direktiv 2007/64/EG.</p>
+   <p class="norm">4.  Vid överföringar av medel som uppgår till högst 1 000  EUR och som inte förefaller vara sammankopplade till andra överföringar av medel som tillsammans med överföringen i fråga överstiger 1 000  EUR, ska betalningsmottagarens betaltjänstleverantör inte vara skyldig att kontrollera riktigheten i uppgifterna om betalningsmottagaren, såvida inte betalningsmottagarens betaltjänstleverantör</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">utbetalar medlen i kontanter eller i anonyma elektroniska pengar, eller</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">har rimliga skäl att misstänka penningtvätt eller finansiering av terrorism.</p>
+      </div>
+   </div>
+   <p class="norm">5.  Den kontroll som avses i punkterna 3 och 4 ska anses ha ägt rum när</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">betalningsmottagarens identitet har kontrollerats i enlighet med artikel 13 i direktiv (EU) 2015/849 och uppgifterna från den kontrollen har lagrats i enlighet med artikel 40 i det direktivet, eller</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">betalningsmottagaren omfattas av artikel 14.5 i direktiv (EU) 2015/849.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-6c3be2b5-7843-423f-a87e-b6d638b265e9">Artikel 8</p>
+   <p class="stitle-article-norm">Överföringar av medel där uppgifter om betalaren eller betalningsmottagaren saknas eller är ofullständiga</p>
+   <p class="norm">1.  Betalningsmottagarens betaltjänstleverantör ska genomföra effektiva riskbaserade förfaranden, bland annat förfaranden som grundar sig på den riskbedömning som avses i artikel 13 i direktiv (EU) 2015/849, för att avgöra om en överföring av medel som saknar erforderliga fullständiga uppgifter om betalaren och betalningsmottagaren ska verkställas, avvisas eller avbrytas samt för vidtagandet av lämpliga uppföljningsåtgärder.</p>
+   <p class="norm">Om betalningsmottagarens betaltjänstleverantör vid mottagandet av överföringen av medel får kännedom om att de uppgifter som avses i artikel 4.1 eller 4.2, artiklarna 5.1 eller 6 saknas eller är ofullständiga eller inte har fyllts i med hjälp av de vedertagna tecken eller inmatningsdata som är tillåtna enligt det meddelandesystem eller betalnings- och avvecklingssystem som avses i artikel 7.1, ska betalningsmottagarens betaltjänstleverantör avvisa överföringen eller begära de uppgifter som krävs om betalaren och betalningsmottagaren före eller efter krediteringen av betalningsmottagarens betalkonto eller tillgängliggörandet av tillgångar för betalningsmottagaren, på grundval av en riskbedömning.</p>
+   <p class="norm">2.  Om en betaltjänstleverantör upprepade gånger underlåter att tillhandahålla de erforderliga uppgifterna om en betalare eller en betalningsmottagare ska betalningsmottagarens betaltjänstleverantör vidta åtgärder, som inledningsvis kan bestå i att utfärda varningar och fastställa tidsfrister, innan denne antingen avvisar alla framtida överföringar av medel från den betaltjänstleverantören eller begränsar eller avslutar sin affärsrelation med den betaltjänstleverantören.</p>
+   <p class="norm">Betalningsmottagarens betaltjänstleverantör ska meddela den underlåtenheten och de åtgärder som vidtagits till den behöriga myndighet som ansvarar för att övervaka efterlevnaden av bestämmelser som rör bekämpning av penningtvätt och finansiering av terrorism.</p>
+   <p class="title-article-norm" id="id-9fc8df3a-fe01-4e4a-96dc-f2aca01793ab">Artikel 9</p>
+   <p class="stitle-article-norm">Bedömning och rapportering</p>
+   <p class="norm">Betalningsmottagarens betaltjänstleverantör ska beakta saknade eller ofullständiga uppgifter om betalaren eller betalningsmottagaren som en faktor när den bedömer om överföringen av medel, eller därmed relaterade transaktioner, är misstänkt och om den ska rapporteras till finansunderrättelseenheten (nedan kallad <span class="italics">FIU</span>) i enlighet med direktiv (EU) 2015/849.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-3bea3311-1c57-44a1-a76f-3cf451d7fca9">
+      <span class="italics">AVSNITT 3</span>
+   </p>
+   <p class="title-division-2" id="id-65c59fc3-6fbb-4067-ad3a-37e23feb838e">
+      <span class="boldface">
+         <span class="italics">Skyldigheter för förmedlande betaltjänstleverantörer</span>
+      </span>
+   </p>
+   <p class="title-article-norm" id="id-8d5456c8-3c24-4f15-916f-d5ec14e96127">Artikel 10</p>
+   <p class="stitle-article-norm">Lagring av uppgifter om betalaren och betalningsmottagaren som åtföljer överföringen</p>
+   <p class="norm">Förmedlande betaltjänstleverantörer ska se till att alla mottagna uppgifter om betalaren och betalningsmottagaren som åtföljer en överföring av medel lagras med överföringen.</p>
+   <p class="title-article-norm" id="id-c5aac70f-822b-49ee-aa95-8b20af310cde">Artikel 11</p>
+   <p class="stitle-article-norm">Upptäckt av saknade uppgifter om betalaren eller betalningsmottagaren</p>
+   <p class="norm">1.  Den förmedlande betaltjänstleverantören ska genomföra effektiva förfaranden för att fastställa om fälten för uppgifter om betalaren och betalningsmottagaren inom det meddelande- eller betalnings- och avvecklingssystem som används för att verkställa överföringen av medel har fyllts i med hjälp av de vedertagna tecken eller inmatningsdata som är tillåtna enligt detta system.</p>
+   <p class="norm">2.  Den förmedlande betaltjänstleverantören ska genomföra effektiva förfaranden, inbegripet, om så är lämpligt, efterhandsövervakning eller övervakning i realtid, för fastställande av huruvida följande uppgifter om betalaren eller betalningsmottagaren saknas:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Vid överföringar av medel där betalarens och betalningsmottagarens betaltjänstleverantörer är etablerade inom unionen: de uppgifter som avses i artikel 5.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Vid överföringar av medel där betalarens eller betalningsmottagarens betaltjänstleverantör är etablerad utanför unionen: de uppgifter som avses i artikel 4.1 och 4.2.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Vid batchöverföringar där betalarens eller betalningsmottagarens betaltjänstleverantör är etablerad utanför unionen: de uppgifter som avses i artikel 4.1 och 4.2 med avseende på den batchöverföringen.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-50c0b426-b08d-41e4-8612-5a05f4a3c680">Artikel 12</p>
+   <p class="stitle-article-norm">Överföringar av medel där uppgifter om betalaren eller betalningsmottagaren saknas</p>
+   <p class="norm">1.  Den förmedlande betaltjänstleverantören ska inrätta effektiva riskbaserade förfaranden för att avgöra om en överföring av medel som saknar erforderliga uppgifter om betalaren och betalningsmottagaren ska verkställas, avvisas eller avbrytas samt för att vidta lämpliga uppföljningsåtgärder.</p>
+   <p class="norm">Om den förmedlande betaltjänstleverantören vid mottagandet av överföringen av medel får kännedom om att de uppgifter som avses i artikel 4.1 eller 4.2, artiklarna 5.1 eller 6 saknas eller inte har fyllts i med hjälp av de vedertagna tecken eller inmatningsdata som är tillåtna enligt meddelandesystemet eller betalnings- och avvecklingssystemet, som avses i artikel 7.1, ska denne avvisa överföringen eller begära uppgifter som krävs om betalaren och betalningsmottagaren före eller efter det att överföringen av medel gjorts, på grundval av en riskbedömning.</p>
+   <p class="norm">2.  Om en betaltjänstleverantör upprepade gånger underlåter att tillhandahålla erforderliga uppgifter om betalaren eller betalningsmottagaren ska den förmedlande betaltjänstleverantören vidta åtgärder som inledningsvis kan bestå i att utfärda varningar och fastställa tidsfrister, innan denne antingen avvisar alla framtida överföringar av medel från den betaltjänstleverantören eller begränsar eller avslutar sin affärsrelation med den betaltjänstleverantören.</p>
+   <p class="norm">Den förmedlande betaltjänstleverantören ska meddela den underlåtenheten och de åtgärder som vidtagits till den behöriga myndighet som ansvarar för att övervaka efterlevnaden av bestämmelser som rör bekämpning av penningtvätt och finansiering av terrorism.</p>
+   <p class="title-article-norm" id="id-52984659-1037-4154-a004-3fce7d9456cb">Artikel 13</p>
+   <p class="stitle-article-norm">Bedömning och rapportering</p>
+   <p class="norm">Den förmedlande betaltjänstleverantören ska beakta saknade uppgifter om betalaren eller betalningsmottagaren som en faktor när den bedömer om en överföring av medel, eller därmed relaterade transaktioner, är misstänkt och om den ska rapporteras till FIU i enlighet med direktiv (EU) 2015/849.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-3138db7b-08f7-4814-804f-5cc8ccccca94">KAPITEL III</p>
+   <p class="title-division-2" id="id-e105f150-3309-4432-bdab-6522b3d4f243">
+      <span class="boldface">UPPGIFTER, UPPGIFTSSKYDD OCH LAGRING</span>
+   </p>
+   <p class="title-article-norm" id="id-c027cbf4-746e-4652-9f09-c91b5b10fd3f">Artikel 14</p>
+   <p class="stitle-article-norm">Tillhandahållande av uppgifter</p>
+   <p class="norm">Betaltjänstleverantörer ska till fullo och utan dröjsmål, inbegripet genom en central kontaktpunkt i enlighet med artikel 45.9 i direktiv (EU) 2015/849, om en sådan kontaktpunkt har inrättats, och i enlighet med formella krav som anges i nationell rätt i den medlemsstat där de är etablerade, besvara förfrågningar angående de uppgifter som krävs enligt denna förordning uteslutande från de myndigheter som ansvarar för bekämpning av penningtvätt eller finansiering av terrorism i den medlemsstaten.</p>
+   <p class="title-article-norm" id="id-92f41487-f340-492c-afcc-56bfaa62270c">Artikel 15</p>
+   <p class="stitle-article-norm">Uppgiftsskydd</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32019R2175"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32019R2175: REPLACED">▼M1</a>
+   </p>
+   <p class="norm">1.  Behandling av personuppgifter enligt denna förordning omfattas av Europaparlamentets och rådets förordning (EU) 2016/679 (<a href="#E0002" id="src.E0002">
+         <span class="superscript">2</span>
+      </a>). Personuppgifter som behandlas enligt den här förordningen av kommissionen eller av EBA omfattas av Europaparlamentets och rådets förordning (EU) 2018/1725 (<a href="#E0003" id="src.E0003">
+         <span class="superscript">3</span>
+      </a>).</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32015R0847"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32015R0847">▼B</a>
+   </p>
+   <p class="norm">2.  Personuppgifter ska behandlas av betaltjänstleverantörer på grundval av denna förordning endast i syfte att förebygga penningtvätt och finansiering av terrorism och får inte senare behandlas på ett sätt som är oförenligt med dessa syften. Behandling av personuppgifter på grundval av denna förordning för kommersiella ändamål ska vara förbjuden.</p>
+   <p class="norm">3.  Betaltjänstleverantörer ska tillhandahålla nya kunder den information som krävs enligt artikel 10 i direktiv 95/46/EG innan en affärsrelation ingås eller en enstaka transaktion genomförs. Denna information ska särskilt innehålla allmän information om betaltjänstleverantörernas rättsliga förpliktelser enligt denna förordning när personuppgifter behandlas i syfte att förebygga penningtvätt och finansiering av terrorism.</p>
+   <p class="norm">4.  Betaltjänstleverantörerna ska säkerställa konfidentialiteten för de uppgifter som behandlas.</p>
+   <p class="title-article-norm" id="id-fd7da20a-5a23-4636-841e-7b2a178300ec">Artikel 16</p>
+   <p class="stitle-article-norm">Lagring av uppgifter</p>
+   <p class="norm">1.  Uppgifter om betalaren och betalningsmottagaren ska inte lagras längre än vad som är absolut nödvändigt. Betalarens och betalningsmottagarens betaltjänstleverantörer ska lagra de uppgifter som avses i artiklarna 4–7 under en period på fem år.</p>
+   <p class="norm">2.  Vid utgången av den lagringsperiod som avses i punkt 1 ska betaltjänstleverantörer se till att personuppgifterna raderas om annat inte föreskrivs i nationell rätt, vilken ska avgöra under vilka omständigheter betaltjänstleverantörer får eller ska fortsätta att lagra uppgifterna. Medlemsstaterna får tillåta eller kräva fortsatt lagring endast sedan de har genomfört en grundlig bedömning av nödvändigheten och proportionaliteten av en sådan lagring och när de anser det vara motiverat därför att det är nödvändigt för att förebygga, upptäcka eller utreda penningtvätt eller finansiering av terrorism. Den förlängda lagringsperioden får inte överstiga fem år.</p>
+   <p class="norm">3.  Om det den 25 juni 2015 pågår rättsliga förfaranden som rör förebyggande, upptäckt, utredning eller lagföring av misstänkt penningtvätt eller finansiering av terrorism i en medlemsstat, och en betaltjänstleverantör innehar information eller handlingar som rör dessa pågående förfaranden, får betaltjänstleverantören lagra de uppgifterna eller dessa handlingar i enlighet med nationell rätt i fem år från och med den 25 juni 2015. Medlemsstaterna får, utan att det påverkar nationell straffrätt om bevis som är tillämpliga på pågående brottsutredningar och rättsliga förfaranden, tillåta eller kräva ett fortsatt bevarande av sådana uppgifter eller sådana handlingar för en period på ytterligare fem år om nödvändigheten och proportionaliteten av en sådan förlängd lagringsperiod för att förebygga, upptäcka eller utreda penningtvätt och finansiering av terrorism har fastställts.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-c94951f1-6cc0-4111-9d5b-7ce007d83eae">KAPITEL IV</p>
+   <p class="title-division-2" id="id-fdc55c8d-517f-4825-9158-0a4fe6fe53af">
+      <span class="boldface">SANKTIONER OCH ÖVERVAKNING</span>
+   </p>
+   <p class="title-article-norm" id="id-8f268c6c-bae2-4056-8bda-3d7385442495">Artikel 17</p>
+   <p class="stitle-article-norm">Administrativa sanktioner och åtgärder</p>
+   <p class="norm">1.  Medlemsstaterna ska, utan att det påverkar rätten att föreskriva och påföra straffrättsliga påföljder, fastställa regler för administrativa sanktioner och åtgärder vid överträdelser av bestämmelserna i denna förordning och vidta alla nödvändiga åtgärder för att se till att de tillämpas. Sanktionerna och åtgärderna ska vara effektiva, proportionella och avskräckande och ska vara förenliga med dem som fastställs i enlighet med kapitel VI avsnitt 4 i direktiv (EU) 2015/849.</p>
+   <p class="norm">Medlemsstaterna får besluta att inte fastställa regler för administrativa sanktioner eller åtgärder vid överträdelser av de bestämmelser i denna förordning som omfattas av straffrättsliga påföljder i deras nationella rätt. I det fallet ska medlemsstaterna informera kommissionen om de relevanta straffrättsliga bestämmelserna.</p>
+   <p class="norm">2.  Då betaltjänstleverantörer omfattas av skyldigheter ska medlemsstaterna, vid överträdelse av bestämmelserna i denna förordning och om ingenting annat föreskrivs i nationell rätt, se till att sanktioner eller åtgärder kan tillämpas på styrelseledamöterna och på alla andra fysiska personer som enligt nationell rätt bär ansvar för överträdelsen.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32019R2175"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32019R2175: REPLACED">▼M1</a>
+   </p>
+   <p class="norm">3.  Senast den 26 juni 2017 ska medlemsstaterna anmäla de regler som avses i punkt 1 till kommissionen och till de europeiska tillsynsmyndigheternas gemensamma kommitté. Medlemsstaterna ska utan onödigt dröjsmål anmäla till kommissionen och EBA alla eventuella senare ändringar av dem.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32015R0847"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32015R0847">▼B</a>
+   </p>
+   <p class="norm">4.  I enlighet med artikel 58.4 i direktiv (EU) 2015/849 ska de behöriga myndigheterna ges alla de tillsyns- och undersökningsbefogenheter som de behöver för att utföra sina uppgifter. När de behöriga myndigheterna utövar sina befogenheter att påföra administrativa sanktioner och åtgärder ska de i nära samarbete se till att dessa administrativa sanktioner eller åtgärder får önskad effekt och samordna sina åtgärder när de hanterar gränsöverskridande fall.</p>
+   <p class="norm">5.  Medlemsstaterna ska se till att juridiska personer kan ställas till ansvar för de överträdelser som avses i artikel 18 som begås till förmån för dem av en person som agerar antingen enskilt eller som en del av den juridiska personens organisation och har en ledande ställning inom den juridiska personen, på grundval av någon av följande befogenheter:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Befogenhet att företräda den juridiska personen.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Befogenhet att fatta beslut på den juridiska personens vägnar.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Befogenhet att utöva kontroll inom den juridiska personen.</p>
+      </div>
+   </div>
+   <p class="norm">6.  Medlemsstaterna ska också se till att juridiska personer kan ställas till ansvar när brister i den övervakning eller kontroll som utförs av en person som avses i punkt 5 i den här artikeln har gjort det möjligt att begå någon av de överträdelser som avses i artikel 18 till förmån för den juridiska personen av en person under dess ledning.</p>
+   <p class="norm">7.  De behöriga myndigheterna ska utöva sina befogenheter att påföra administrativa sanktioner och åtgärder i enlighet med denna förordning på något av följande sätt:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Direkt.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">I samarbete med andra myndigheter.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">På eget ansvar genom delegering till sådana andra myndigheter.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>d) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Genom hänvändelse till de behöriga rättsliga myndigheterna.</p>
+      </div>
+   </div>
+   <p class="norm">När de behöriga myndigheterna utövar sina befogenheter att påföra administrativa sanktioner och åtgärder, ska detta ske i ett nära samarbete för att se till att dessa administrativa sanktioner eller åtgärder får önskad effekt och samordna sina åtgärder när de hanterar gränsöverskridande fall.</p>
+   <p class="title-article-norm" id="id-2f5a2ff0-eb35-441a-96e6-5279d5c3f0df">Artikel 18</p>
+   <p class="stitle-article-norm">Särskilda bestämmelser</p>
+   <p class="norm">Medlemsstaterna ska se till att deras administrativa sanktioner och åtgärder åtminstone omfattar de som fastställs i artikel 59.2 och 59.3 i direktiv (EU) 2015/849 vid följande överträdelser av denna förordning:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Upprepad eller systematisk underlåtenhet från en betaltjänstleverantörs sida att inkludera erforderliga uppgifter om betalare eller betalningsmottagare, i strid med artikel 4, 5 eller 6.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Upprepad, systematisk eller allvarlig underlåtenhet från en betaltjänstleverantörs sida att lagra uppgifter i strid mot artikel 16.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Underlåtenhet från en betaltjänstleverantörs sida att genomföra effektiva riskbaserade förfaranden i strid mot artiklarna 8 eller 12.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>d) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Allvarligt åsidosättande av artikel 11 eller 12 från en förmedlande betaltjänstleverantörs sida.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-b473de2a-ba96-4275-84d9-7b1c5f93cfbe">Artikel 19</p>
+   <p class="stitle-article-norm">Offentliggörande av sanktioner och åtgärder</p>
+   <p class="norm">I enlighet med artikel 60.1, 60.2 och 60.3 i direktiv (EU) 2015/849 ska de behöriga myndigheterna offentliggöra administrativa sanktioner och åtgärder som påförts i de fall som avses i artiklarna 17 och 18 i denna förordning utan onödigt dröjsmål, inklusive uppgifter om överträdelsens art och slag samt identiteten på de personer som är ansvariga för överträdelsen, om nödvändigt och proportionellt efter en bedömning i det enskilda fallet.</p>
+   <p class="title-article-norm" id="id-ea3f3731-4e85-4803-bfc2-2939493f20d7">Artikel 20</p>
+   <p class="stitle-article-norm">De behöriga myndigheternas tillämpning av sanktioner och åtgärder</p>
+   <p class="norm">1.  När de behöriga myndigheterna ska fastställa vilken typ av administrativa sanktioner eller åtgärder som ska tillämpas, och storleken på sanktionsavgifterna, ska de beakta alla relevanta omständigheter, inklusive dem som förtecknas i artikel 60.4 i direktiv (EU) 2015/849.</p>
+   <p class="norm">2.  Artikel 62 i direktiv (EU) 2015/849 ska tillämpas vad gäller administrativa sanktioner och åtgärder som åläggs i enlighet med denna förordning.</p>
+   <p class="title-article-norm" id="id-b99c0ffe-5a45-44cc-9c0a-e426bd31d9e3">Artikel 21</p>
+   <p class="stitle-article-norm">Rapportering av överträdelser</p>
+   <p class="norm">1.  Medlemsstaterna ska inrätta effektiva mekanismer som uppmuntrar rapportering till de behöriga myndigheterna av överträdelser av denna förordning.</p>
+   <p class="norm">De mekanismerna ska åtminstone omfatta de som avses i artikel 61.2 i direktiv (EU) 2015/849.</p>
+   <p class="norm">2.  Betaltjänstleverantörerna ska i samarbete med behöriga myndigheter fastställa lämpliga interna rutiner för att deras anställda, eller personer i jämförbar ställning, internt ska kunna rapportera om överträdelser genom en säker, oberoende, särskild och anonym kanal, som står i proportion till den berörda betaltjänstleverantörens typ och storlek.</p>
+   <p class="title-article-norm" id="id-d1836e25-f922-46ed-be9f-9a0020a4f0d8">Artikel 22</p>
+   <p class="stitle-article-norm">Övervakning</p>
+   <p class="norm">1.  Medlemsstaterna ska kräva att de behöriga myndigheterna effektivt övervakar och vidtar de åtgärder som krävs för att säkerställa att kraven i denna förordning uppfylls, och för att, genom effektiva mekanismer, uppmuntra rapportering till de behöriga myndigheterna av överträdelser av bestämmelserna i denna förordning.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32019R2175"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32019R2175: REPLACED">▼M1</a>
+   </p>
+   <p class="norm">2.  Efter den anmälan som gjorts i enlighet med artikel 17.3 ska kommissionen överlämna en rapport till Europaparlamentet och rådet om tillämpningen av kapitel IV, med särskild hänsyn till gränsöverskridande fall.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32015R0847"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32015R0847">▼B</a>
+   </p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-6ad5b22a-e4ff-4b44-833e-36f070dc9437">KAPITEL V</p>
+   <p class="title-division-2" id="id-733a8623-ea07-4d69-ab30-2c89ec22e1bb">
+      <span class="boldface">GENOMFÖRANDEBEFOGENHETER</span>
+   </p>
+   <p class="title-article-norm" id="id-6a662d1c-17db-4449-acc9-4790c486e1e6">Artikel 23</p>
+   <p class="stitle-article-norm">Kommittéförfarande</p>
+   <p class="norm">1.  Kommissionen ska biträdas av kommittén för förebyggande av penningtvätt och finansiering av terrorism (nedan kallad <span class="italics">kommittén</span>). Denna kommitté ska vara en kommitté i den mening som avses i förordning (EU) nr 182/2011.</p>
+   <p class="norm">2.  När det hänvisas till denna punkt ska artikel 5 i förordning (EU) nr 182/2011 tillämpas.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-11623f01-27ba-4c2a-9d78-03458ed46672">KAPITEL VI</p>
+   <p class="title-division-2" id="id-a5efdc69-73c9-4d4c-a856-18a930e63c63">
+      <span class="boldface">UNDANTAG</span>
+   </p>
+   <p class="title-article-norm" id="id-49f1c293-3d12-45be-a26a-4f205ce81f37">Artikel 24</p>
+   <p class="stitle-article-norm">Överenskommelser med länder och territorier som inte utgör en del av unionens territorium</p>
+   <p class="norm">1.  Kommissionen kan bemyndiga en medlemsstat att ingå överenskommelser med ett tredjeland eller med ett territorium utanför det territoriella tillämpningsområdet för EU-fördraget eller EUF-fördraget enligt artikel 355 i EUF-fördraget (nedan kallat <span class="italics">det berörda landet eller territoriet</span>), som innehåller undantag från denna förordning, varigenom det blir möjligt att behandla överföringar av medel mellan det landet eller territoriet och den berörda medlemsstaten som överföringar av medel inom den medlemsstaten.</p>
+   <p class="norm">Sådana överenskommelser får bemyndigas endast när samtliga följande villkor är uppfyllda:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Det berörda landet eller territoriet ingår i en monetär union med den berörda medlemsstaten eller utgör en del av den medlemsstatens valutaområde eller har undertecknat ett monetärt avtal med unionen företrädd av en medlemsstat.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Betaltjänstleverantörer i det berörda landet eller territoriet deltar direkt eller indirekt i den medlemsstatens betalnings- och avvecklingssystem.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Det berörda landet eller territoriet kräver att betaltjänstleverantörer som verkar inom dess jurisdiktion ska tillämpa samma bestämmelser som de som fastställs i denna förordning.</p>
+      </div>
+   </div>
+   <p class="norm">2.  En medlemsstat som önskar ingå en sådan överenskommelse som avses i punkt 1 ska lämna in en begäran till kommissionen och tillhandahålla den alla uppgifter som krävs för att bedöma begäran.</p>
+   <p class="norm">3.  När kommissionen tagit emot en sådan begäran ska överföringar av medel mellan denna medlemsstat och det berörda landet eller territoriet provisoriskt behandlas som överföringar av medel inom den medlemsstaten fram till dess att ett beslut har fattats i enlighet med denna artikel.</p>
+   <p class="norm">4.  Om kommissionen inom två månader efter mottagandet av begäran inte anser sig ha alla uppgifter som krävs för att bedöma begäran, ska den kontakta den berörda medlemsstaten och specificera vilka ytterligare uppgifter som krävs.</p>
+   <p class="norm">5.  Inom en månad efter det att den har mottagit alla uppgifter som den anser krävs för att bedöma begäran, ska kommissionen underrätta den ansökande medlemsstaten om detta och vidarebefordra kopior av begäran till de övriga medlemsstaterna.</p>
+   <p class="norm">6.  Inom tre månader efter den underrättelse som avses i punkt 5 i den här artikeln ska kommissionen, i enlighet med artikel 23.2, besluta om den ska bemyndiga den berörda medlemsstaten att ingå det avtal som är föremål för begäran.</p>
+   <p class="norm">Kommissionen ska i alla händelser anta ett beslut enligt första stycket inom 18 månader efter att ha tagit emot begäran.</p>
+   <p class="norm">7.  Medlemsstater som har bemyndigats att ingå överenskommelser med ett land eller territorium som berörs enligt kommissionens genomförandebeslut 2012/43/EU (<a href="#E0004" id="src.E0004">
+         <span class="superscript">4</span>
+      </a>), kommissionens beslut 2010/259/EU (<a href="#E0005" id="src.E0005">
+         <span class="superscript">5</span>
+      </a>), 2009/853/EG (<a href="#E0006" id="src.E0006">
+         <span class="superscript">6</span>
+      </a>) eller 2008/982/EG (<a href="#E0007" id="src.E0007">
+         <span class="superscript">7</span>
+      </a>) ska förse kommissionen med alla de uppdaterade uppgifter som är nödvändiga för en bedömning enligt punkt 1 andra stycket c senast den 26 mars 2017.</p>
+   <p class="norm">Inom tre månader från mottagandet av sådana uppgifter ska kommissionen granska de tillhandahållna uppgifterna för att säkerställa att det berörda landet eller territoriet kräver att betaltjänstleverantörer som verkar inom dess jurisdiktion ska tillämpa samma bestämmelser som de som fastställs i denna förordning. Om kommissionen efter en sådan granskning anser att villkoret i punkt 1 andra stycket c inte längre är uppfyllt, ska den upphäva det relevanta kommissionsbeslutet eller kommissionsgenomförandebeslutet.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32019R2175"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32019R2175: REPLACED">▼M1</a>
+   </p>
+   <p class="title-article-norm" id="id-8777eeb5-101f-4c39-88b4-894c0a404594">Artikel 25</p>
+   <p class="stitle-article-norm">Riktlinjer</p>
+   <p class="norm">Senast den 26 juni 2017 ska de europeiska tillsynsmyndigheterna utfärda riktlinjer till de behöriga myndigheterna och betaltjänstleverantörerna i enlighet med artikel 16 i förordning (EU) nr 1093/2010 om åtgärder som ska vidtas i enlighet med den här förordningen, särskilt när det gäller genomförandet av artiklarna 7, 8, 11 och 12 i den här förordningen. Från och med den 1 januari 2020 ska EBA, om så är lämpligt, utfärda riktlinjer.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32015R0847"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32015R0847">▼B</a>
+   </p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-a319e19d-3e7f-4980-87c5-01a5d8359316">KAPITEL VII</p>
+   <p class="title-division-2" id="id-9177d67e-3fa3-4a88-a931-e52427ad3dcb">
+      <span class="boldface">SLUTBESTÄMMELSER</span>
+   </p>
+   <p class="title-article-norm" id="id-2cb0f39c-813c-47b2-ab7a-76ef9692a746">Artikel 26</p>
+   <p class="stitle-article-norm">Upphävande av förordning (EG) nr 1781/2006</p>
+   <p class="norm">Förordning (EG) nr 1781/2006 ska upphöra att gälla.</p>
+   <p class="norm">Hänvisningar till den upphävda förordningen ska anses som hänvisningar till den här förordningen och ska läsas i enlighet med jämförelsetabellen i bilagan.</p>
+   <p class="title-article-norm" id="id-9983b703-878a-4e3c-8d61-11b7ca308a89">Artikel 27</p>
+   <p class="stitle-article-norm">Ikraftträdande</p>
+   <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+   <p class="norm">Den ska tillämpas från och med den 26 juni 2017.</p>
+   <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-annex"/>
+   <p>
+      <br/>
+   </p>
+   <p class="title-annex-1" id="id-9fa6702c-5b34-4e74-b9ba-ae52b40996df">BILAGA</p>
+   <p>
+      <br/>
+   </p>
+   <div class="centered">
+      <p>
+         <br/>
+      </p>
+      <p class="title-table" id="id-807c919f-1e16-47bf-8bf3-4cf475e9fc68">
+         <span class="boldface">JÄMFÖRELSETABELL</span>
+      </p>
+      <table width="240" border="1" cellpadding="2" cellspacing="0">
+         <col width="62%"/>
+         <col width="38%"/>
+         <tbody>
+            <tr>
+               <td style="font-weight: bold" valign="top">
+                  <p class="tbl-norm">Förordning (EG) nr 1781/2006</p>
+               </td>
+               <td style="font-weight: bold" valign="top">
+                  <p class="tbl-norm">Den här förordningen</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 1</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 1</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 2</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 3</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 3</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 2</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 4</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 4.1</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 5</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 4</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 6</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 5</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 7</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 7</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 8</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 7</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 9</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 8</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 10</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 9</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 11</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 16</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 12</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 10</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">—</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 11</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">—</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 12</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">—</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 13</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 13</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">—</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 14</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 15</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 15</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artiklarna 17–22</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 16</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 23</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 17</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 24</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 18</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">—</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 19</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">—</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">—</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 26</p>
+               </td>
+            </tr>
+            <tr>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 20</p>
+               </td>
+               <td valign="top">
+                  <p class="tbl-norm">Artikel 27</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+   </div>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) Europaparlamentets och rådets direktiv 2009/110/EG av den 16 september 2009 om rätten att starta och driva affärsverksamhet i institut för elektroniska pengar samt om tillsyn av sådan verksamhet, om ändring av direktiven 2005/60/EG och 2006/48/EG och om upphävande av direktiv 2000/46/EG (EUT L 267, 10.10.2009, s. 7).</p>
+   <p class="footnote">(<a href="#src.E0002" id="E0002">
+         <span class="superscript">2</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning) (EUT L 119, 4.5.2016, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0003" id="E0003">
+         <span class="superscript">3</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2018/1725 av den 23 oktober 2018 om skydd för fysiska personer med avseende på behandling av personuppgifter som utförs av unionens institutioner, organ och byråer och om det fria flödet av sådana uppgifter samt om upphävande av förordning (EG) nr 45/2001 och beslut nr 1247/2002/EG (EUT L 295, 21.11.2018, s. 39).</p>
+   <p class="footnote">(<a href="#src.E0004" id="E0004">
+         <span class="superscript">4</span>
+      </a>) Kommissionens genomförandebeslut 2012/43/EU av den 25 januari 2012 om bemyndigande för Konungariket Danmark att sluta avtal med Grönland och Färöarna om att överföringar av medel mellan Danmark och dessa båda territorier ska behandlas som överföringar inom Danmark i enlighet med Europaparlamentets och rådets förordning (EG) nr 1781/2006 (EUT L 24, 27.1.2012, s. 12).</p>
+   <p class="footnote">(<a href="#src.E0005" id="E0005">
+         <span class="superscript">5</span>
+      </a>) Kommissionens beslut 2010/259/EU av den 4 maj 2010 om bemyndigande för Republiken Frankrike att ingå överenskommelse med Furstendömet Monaco om att överföringar av medel mellan Republiken Frankrike och Furstendömet Monaco ska behandlas som överföringar inom Republiken Frankrike, i enlighet med Europaparlamentets och rådets förordning (EG) nr 1781/2006 (EUT L 112, 5.5.2010, s. 23).</p>
+   <p class="footnote">(<a href="#src.E0006" id="E0006">
+         <span class="superscript">6</span>
+      </a>) Kommissionens beslut 2009/853/EG av den 26 november 2009 om bemyndigande för Frankrike att ingå ett avtal med Saint-Pierre och Miquelon, Mayotte, Nya Kaledonien, Franska Polynesien, Wallis och Futuna om överföring av medel mellan Frankrike och vart och ett av dessa områden, som ska behandlas som överföringar av medel inom Frankrike, i enlighet med Europaparlamentets och rådets förordning (EG) nr 1781/2006 (EUT L 312, 27.11.2009, s. 71).</p>
+   <p class="footnote">(<a href="#src.E0007" id="E0007">
+         <span class="superscript">7</span>
+      </a>) Kommissionens beslut 2008/982/EG av den 8 december 2008 om bemyndigande för Förenade kungariket att ingå en överenskommelse med förvaltningsområdena Bailiwick of Jersey, Bailiwick of Guernsey och Isle of Man om att överföringar av medel mellan Förenade kungariket och vart och ett av dessa områden ska behandlas som överföringar inom Förenade kungariket i enlighet med Europaparlamentets och rådets förordning (EG) nr 1781/2006 (EUT L 352, 31.12.2008, s. 34).</p>
+</body>
+</html>

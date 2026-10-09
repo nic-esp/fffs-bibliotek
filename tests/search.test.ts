@@ -70,3 +70,11 @@ test('UI can request all 130 rows while MCP independently bounds responses',()=>
   const docs = Array.from({length:130},(_,i)=>({...catalog.documents[0],id:`2014-${i+1}`}));
   assert.equal(searchDocuments({...catalog,documents:docs},corpus,{limit:200}).results.length,130);
 });
+
+
+test('DORA acronym does not match tillgodoräkna while compounds retain ordinary substring search', async () => {
+  const { matchesSearchTerm, normalize } = await import('../lib/search.js');
+  assert.equal(matchesSearchTerm(normalize('Institutet får tillgodoräkna sig beloppet'), 'dora'),false);
+  assert.equal(matchesSearchTerm(normalize('Enligt Dora-förordningen'), 'dora'),true);
+  assert.equal(matchesSearchTerm(normalize('kreditriskhantering'), 'risk'),true);
+});

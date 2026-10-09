@@ -1,12 +1,28 @@
-# FFFS-bibliotek
+# Regelverktyg · FFFS och EU
 
-Ett fristående, öppet läs- och sökbibliotek för Finansinspektionens föreskrifter och allmänna råd.
+En öppen verktygslåda för svenska föreskrifter, EU-regler, källbelagda samband och lokala granskningsunderlag. FFFS-bibliotekets befintliga adresser är bevarade.
 
-- **Webbplats:** https://nic-esp.github.io/fffs-bibliotek/
+- **Översikt:** https://nic-esp.github.io/fffs-bibliotek/verktyg/
+- **EU-bibliotek:** https://nic-esp.github.io/fffs-bibliotek/eu/
+- **FFFS-bibliotek:** https://nic-esp.github.io/fffs-bibliotek/
 - **Publik MCP:** https://fffs-public-mcp.vercel.app/mcp
 - **Maskinläsbart register:** https://nic-esp.github.io/fffs-bibliotek/data/catalog.json
 
 Varje författning har en statisk HTML-sida, Markdown, JSON och PDF. Listan kan filtreras på institutionstyp, kategori, status, år och utgåva. Fulltextsökningen och den publika MCP-servern använder samma korpus. Inloggning krävs inte; MCP har enbart läsverktyg.
+
+## Vad toolbox-utgåvan gör
+
+- Gemensam sökning i FFFS och importerade svenska EU-texter.
+- EU-lässidor med artikelankare, grundakt/konsolideringsdatum, källans SHA-256, hämtningstid och kopplingar tillbaka till svenska föreskrifter.
+- EU-listan filtreras på institution i länkade FFFS, utgåva och källans status. Kopplingarna är inte en automatiserad tillämpningsbedömning.
+- ”Mitt underlag” sparar valda källor och egna bedömningar i webbläsarens localStorage efter en uttrycklig sparåtgärd. Export/import sker med Markdown/JSON. Det finns ingen central ärendeserver, kontosynk eller tillgång till privata underlag via MCP. Exportera för att behålla en separat kopia.
+- Aktörskontroll öppnar OpenSanctions webbsökning och IOSCO I-SCAN-portalen. Ingen automatisk screening är aktiverad. OpenSanctions kräver egen API-åtkomst och I-SCAN ett avtal/credentials. Se [åtkomstunderlaget](docs/provider-access.md).
+
+## EU-import
+
+`public/data/eu/index.json` redovisar exakt täckning, utgåvor, saknade rättsakter och importfel. Det är ett urval utifrån FFFS-kopplingarna, inte hela EUR-Lex. `data/eu/search.json` och enskilda dokument har samma text. Original-HTML bevaras med SHA-256 och svenska originalkällor. Importeraren frågar officiella CELLAR-metadata efter senaste daterade konsolidering vid snapshotdatum. Om denna inte kan läsas visas grundakt endast med uttrycklig reservationsnotering; den presenteras aldrig som säker aktuell lydelse.
+
+Befintlig lösning granskad: [cyanheads/eur-lex-mcp-server v0.18.2](https://github.com/cyanheads/eur-lex-mcp-server/releases/tag/v0.18.2), Apache-2.0. Den erbjuder ett bredare EU-gränssnitt men dess vanliga titelsökning ersätter inte lokal svensk fulltextsökning. Denna utgåva använder dokumenterade offentliga CELLAR-adresser och befintliga `htmlparser2` för daterade, återgivningsbara texter. Den är inte beroende av en extern community-MCP-instans. Inga konton eller betalningar behövs för läsbiblioteket.
 
 ## Underlag och kvalitet
 
@@ -15,6 +31,8 @@ Utgåvan är daterad **2026-10-09**. Den innehåller 130 författningsakter: 75 
 Detta är inte en officiell författningssamling eller ett intyg om juridisk fullständighet. Lästexter som extraherats från PDF kan innehålla konverteringsfel. Kontrollera tabeller, formler och rättsligt avgörande detaljer i källorna. Vissa konsolideringar innehåller både nuvarande och uttryckligen daterade framtida lydelser. Institutionstaggar är sökhjälp med källbelägg och avgränsningar, inte ett automatiskt besked om tillämplighet. EU-relationerna skiljer genomförande, komplettering och hänvisningar; tom lista innebär ingen kartlagd relation.
 
 Granskningsrapporter finns i `provenance/`. Rapporterna hänvisar ibland till lokalt arbetsmaterial och bilder som inte ingår i detta repo. `public/data/provenance.json` ger SHA-256 för de publicerade PDF- och Markdownfilerna och deras originalkällor. Ursprungliga rapporter före rättningar bevaras som revisionsspår; läs dem tillsammans med rättningsrapporten.
+
+Importeraren körs manuellt med `npx tsx scripts/import-eurlex.ts --as-of 2026-10-09 --refresh`. Granska importresultat, versionsnoteringar och validering innan datum eller publicering ändras.
 
 ## Köra och bygga
 
@@ -47,7 +65,7 @@ ALLOWED_ORIGINS=*
 
 Wildcard-CORS är ett uttryckligt val för denna publika server utan sessionskakor. Utan det används en strikt ursprungslista. Datakällan är låst till HTTPS på GitHub Pages; klienter kan inte välja godtyckliga hämtningsadresser.
 
-Verktyg: `search_fffs`, `list_fffs`, `get_fffs`, `get_section`, `get_amendments`, `get_library_status`. Resurser: `fffs://catalog` och `fffs://{id}`. Dokument-ID använder `YYYY-NN`. Standardfiltret är `current`; välj `status=all` för hela samlingen. Fortsätt med `nextCursor` tills den är `null` för långa dokument. Responsen innehåller källor, datum och metadata.
+FFFS-verktyg: `search_fffs`, `list_fffs`, `get_fffs`, `get_section`, `get_amendments`, `get_library_status`. EU/toolbox: `search_eu`, `get_eu_document`, `get_eu_article`, `get_regulatory_links`, `get_toolbox_status`. CELEX-grundid väljer indexets uttryckligt redovisade utgåva; daterat konsoliderings-id kräver exakt den utgåvan. Resurser: `fffs://catalog` och `fffs://{id}`. Dokument-ID använder `YYYY-NN`. Standardfiltret är `current`; välj `status=all` för hela samlingen. Fortsätt med `nextCursor` tills den är `null` för långa dokument. Responsen innehåller källor, datum och metadata.
 
 ```sh
 npx tsx scripts/smoke-mcp.ts https://fffs-public-mcp.vercel.app/mcp

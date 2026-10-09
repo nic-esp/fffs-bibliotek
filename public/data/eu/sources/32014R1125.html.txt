@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.17.0 # generated_on:20250119-2226 # ELI version:0.2 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+   <title>L_2014305SV.01000101.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="oj-hd-date">24.10.2014   </p>
+            </td>
+            <td>
+               <p class="oj-hd-lg">SV</p>
+            </td>
+            <td>
+               <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+            </td>
+            <td>
+               <p class="oj-hd-oj">L 305/1</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="oj-separator"/>
+   <div class="eli-container">
+      <div class="eli-main-title" id="tit_1">
+         <p class="oj-doc-ti" id="d1e40-1-1">
+            KOMMISSIONENS DELEGERADE FÖRORDNING (EU) nr 1125/2014</p>
+         <p class="oj-doc-ti">av den 19 september 2014
+         </p>
+         <p class="oj-doc-ti">om komplettering av Europaparlamentets och rådets direktiv 2014/17/EU vad avser tekniska standarder för tillsyn i fråga om minimibelopp för kreditförmedlares yrkesmässiga ansvarsförsäkring eller jämförbara garanti</p>
+         <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="pbl_1">
+         <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DENNA FÖRORDNING</p>
+         <div class="eli-subdivision" id="cit_1">
+            <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+         </div>
+         <div class="eli-subdivision" id="cit_2">
+            <p class="oj-normal">med beaktande av Europaparlamentets och rådets direktiv 2014/17/ЕU av den 4 februari 2014 om konsumentkreditavtal som avser bostadsfastighet och om ändring av direktiven 2008/48/EG och 2013/36/EU och förordning (EU) nr 1093/2010 <a id="ntc1-L_2014305SV.01000101-E0001" href="#ntr1-L_2014305SV.01000101-E0001">(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artikel 29.2 a andra stycket, och</p>
+         </div>
+         <p class="oj-normal">av följande skäl:</p>
+         <div class="eli-subdivision" id="rct_1">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Enligt artikel 29.2 a i direktiv 2014/17/EU ska kreditförmedlare ha en yrkesmässig ansvarsförsäkring för det geografiska område där de tillhandahåller tjänster eller annan jämförbar garanti mot skadeståndsansvar på grund av fel eller försumlighet i verksamheten.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Även om kravet på kreditförmedlare i hypoteksbranschen att ha yrkesmässig ansvarsförsäkring eller jämförbar garanti är ett nytt tillsynskrav på unionsnivå, finns detta krav redan på nationell nivå i vissa medlemsstater. Det är just jurisdiktioner med erfarenhet av krav på yrkesmässig ansvarsförsäkring som har de största marknadsandelarna av förmedlad hypoteksförsäljning i hela unionen, kreditförmedlarna har där sedan länge penetrerat marknaden och i dessa jurisdiktioner går man följaktligen också mer specifikt till väga för att reglera denna sektor. Unionens regler om minimibelopp för yrkesmässig ansvarsförsäkring eller jämförbar garanti bör därför bygga på erfarenheterna från dessa jurisdiktioner när det gäller att fastställa lämpligaste sätt att beräkna nämnda minimibelopp.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Detta tillvägagångssätt vore lämpligt för unionen som helhet, även i jurisdiktioner med mindre hypotekslånemarknader. Orsaken till detta är att skadeståndskrav gentemot kreditförmedlare inte korrelerar till det bakomliggande hypotekslånebeloppet, som kan variera kraftigt inom unionen, utan grundas på fel eller försumlighet i verksamheten, vars menliga inverkan varierar mycket mindre.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_4">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Enligt artikel 29.2 a tredje stycket i direktiv 2014/17/EU ska minimibeloppet för den yrkesmässiga ansvarsförsäkring eller jämförbar garanti regelbundet ses över. Följaktligen kan möjligen andra alternativ eller metoder i framtiden lämpa sig mer för att fastställa nivån på dessa skyldigheter för kreditförmedlare, främst när mer data samlats in och mer erfarenhet vunnits genom tillsynen av hur den yrkesmässiga ansvarsförsäkringen fungerar.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_5">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">För att tydligt stipulera minimibeloppet för den yrkesmässiga ansvarsförsäkringen eller jämförbara garantin och se till att tillvägagångssättet blir mer harmoniserat i hela unionen bör detta minimibelopp lämpligen specificeras per skadeståndskrav och per år. I Europaparlamentets och rådets direktiv 2002/92/EG <a id="ntc2-L_2014305SV.01000101-E0002" href="#ntr2-L_2014305SV.01000101-E0002">(<span class="oj-super oj-note-tag">2</span>)</a> fastställs ett krav på ett minimibelopp per år och per skada för den yrkesmässiga ansvarsförsäkringen eller jämförbara garantin. De flesta förmedlare av försäkringar är liksom sina försäkringsgivare väl förtrogna med det tillvägagångsättet varför ett liknande system lämpligen för inrättas för kreditförmedlare. Vidare går flertalet medlemsstater vars nationella lagstiftning kräver att kreditförmedlare har ansvarsförsäkring också till väga på det sättet. Reglerna om yrkesmässig ansvarsförsäkring för kreditförmedlare bör därför också innehålla en sådan åtskillnad mellan per år och per skada.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_6">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Denna förordning grundar sig på det förslag till tekniska tillsynsstandarder som Europeiska bankmyndigheten har lagt fram för kommissionen.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_7">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">EBA har genomfört ett öppet offentligt samråd om de förslag till tekniska standarder för tillsyn som denna förordning grundar sig på, analyserat de möjliga kostnaderna och fördelarna och begärt ett yttrande från den bankintressentgrupp som inrättats i enlighet med artikel 37 i Europaparlamentets och rådets förordning (EU) nr 1093/2010 <a id="ntc3-L_2014305SV.01000101-E0003" href="#ntr3-L_2014305SV.01000101-E0003">(<span class="oj-super oj-note-tag">3</span>)</a>.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <div class="eli-subdivision" id="art_1">
+            <p id="d1e139-1-1" class="oj-ti-art">Artikel 1</p>
+            <p class="oj-normal">Minimibelopp avseende den för kreditförmedlare obligatoriska yrkesmässiga ansvarsförsäkring eller jämförbara garanti som avses i artikel 29.2 a första stycket i direktiv 2014/17/EU ska vara:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">a)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">460 000 euro för varje enskild skada,</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">b)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">totalt 750 000 euro per kalenderår för alla skador.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p id="d1e163-1-1" class="oj-ti-art">Artikel 2</p>
+            <p class="oj-normal">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <div class="oj-final">
+            <p class="oj-normal">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+            <p class="oj-normal">Utfärdad i Bryssel den 19 september 2014.</p>
+            <div class="oj-signatory">
+               <p class="oj-signatory">
+                  <span class="oj-italic">På kommissionens vägnar</span>
+               </p>
+               <p class="oj-signatory">José Manuel BARROSO
+            </p>
+               <p class="oj-signatory">
+                  <span class="oj-italic">Ordförande</span>
+               </p>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-note"/>
+      <p class="oj-note">
+         <a id="ntr1-L_2014305SV.01000101-E0001" href="#ntc1-L_2014305SV.01000101-E0001">(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_060_R_TOC">EUT L 60, 28.2.2014, s. 34</a>.</p>
+      <p class="oj-note">
+         <a id="ntr2-L_2014305SV.01000101-E0002" href="#ntc2-L_2014305SV.01000101-E0002">(<span class="oj-super">2</span>)</a>  Europaparlamentets och rådets direktiv 2002/92/EG av den 9 december 2002 om försäkringsförmedling (<a href="http://publications.europa.eu/resource/oj/JOL_2003_009_R_TOC">EGT L 9, 15.1.2003, s. 3</a>).</p>
+      <p class="oj-note">
+         <a id="ntr3-L_2014305SV.01000101-E0003" href="#ntc3-L_2014305SV.01000101-E0003">(<span class="oj-super">3</span>)</a>  Europaparlamentets och rådets förordning (EU) nr 1093/2010 av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska bankmyndigheten), om ändring av beslut nr 716/2009/EG och om upphävande av kommissionens beslut 2009/78/EG (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC">EUT L 331, 15.12.2010, s. 12</a>).</p>
+   </div>
+   <hr class="oj-doc-end"/>
+</body>
+</html>

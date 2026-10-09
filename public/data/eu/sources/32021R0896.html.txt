@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.16.1 # generated_on:20240819-1454 # ELI version:0.2 -->
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+   <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+   <title>L_2021197SV.01000501.xml</title>
+</head>
+<body>
+   <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="60%"/>
+      <col width="20%"/>
+      <tbody>
+         <tr>
+            <td>
+               <p class="oj-hd-date">4.6.2021   </p>
+            </td>
+            <td>
+               <p class="oj-hd-lg">SV</p>
+            </td>
+            <td>
+               <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+            </td>
+            <td>
+               <p class="oj-hd-oj">L 197/5</p>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr class="oj-separator"/>
+   <div class="eli-container">
+      <div class="eli-main-title" id="tit_1">
+         <p class="oj-doc-ti" id="d1e40-5-1">
+            KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2021/896</p>
+         <p class="oj-doc-ti">av den 24 februari 2021
+         </p>
+         <p class="oj-doc-ti">om komplettering av Europaparlamentets och rådets förordning (EU) 2019/1238 vad gäller ytterligare information som ska lämnas i syfte att uppnå konvergens i tillsynsrapporteringen</p>
+         <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="pbl_1">
+         <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DENNA FÖRORDNING</p>
+         <div class="eli-subdivision" id="cit_1">
+            <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+         </div>
+         <div class="eli-subdivision" id="cit_2">
+            <p class="oj-normal">med beaktande av Europaparlamentets och rådets förordning (EU) 2019/1238 av den 20 juni 2019 om en paneuropeisk privat pensionsprodukt (PEPP-produkt) <a id="ntc1-L_2021197SV.01000501-E0001" href="#ntr1-L_2021197SV.01000501-E0001">(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artikel 40.9 första stycket, och</p>
+         </div>
+         <p class="oj-normal">av följande skäl:</p>
+         <div class="eli-subdivision" id="rct_1">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">PEPP-sparinstitut omfattas av sektorslagstiftning på EU-nivå och på nationell nivå som rör finansiella tjänster och av därtill hörande krav på sektorsspecifik rapportering till sina behöriga myndigheter, inbegripet de europeiska tillsynsmyndigheterna. Det är nödvändigt att ha en standardiserad metod när det gäller den information som krävs för tillsynsändamål utöver den information som lämnas enligt relevant sektorslagstiftning för att minska risken för skillnader mellan innehållet i nationella krav på ytterligare rapportering. Kommissionen uppmanade Europeiska försäkrings- och tjänstepensionsmyndigheten att lämna teknisk rådgivning.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="rct_2">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">(2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">En standardiserad uppsättning uppgifter behövs för att öka jämförbarhet och effektivitet och undvika dubbelrapportering på grund av sektorsspecifika informationskrav.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <div class="eli-subdivision" id="art_1">
+            <p id="d1e89-5-1" class="oj-ti-art">Artikel 1</p>
+            <p class="oj-normal">Den ytterligare information som avses i artikel 40.1–40.5 i förordning (EU) 2019/1238 ska omfatta följande information:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">a)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">En beskrivning av PEPP-sparinstitutets riskhanteringssystem, inbegripet dess bolagsstyrning, för hantering av risker som kan härledas till PEPP-produkter.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">b)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">En beskrivning av PEPP-sparinstitutets verksamhet inom den sektor där det är verksamt, inbegripen typen av investeringar som görs och deras förvaltning, om investeringarna är aktiva eller passiva, om det erbjuds garantier eller inte, tillämpning av riskreduceringstekniker, storlek i fråga om inbetalningar och tillgångsvärden, samt en förteckning som anger PEPP-sparinstitutets hemmedlemsstat och dess eventuella värdmedlemsstater.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">c)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Information om vilka skriftliga policyer PEPP-sparinstitut måste ha om hanteringen av relevanta risker.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">d)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Information om de värderingsprinciper som i förekommande fall tillämpas för solvensändamål.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">e)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">En sammanfattning av relevanta risker som rör eller har samband med tillhandahållandet av PEPP-produkten och hur PEPP-sparinstitutet planerar hantera dessa risker, inbegripet, men inte begränsat till, finansiell risk, likviditetsrisk, marknadsrisk, kreditrisk, ryktesrisk och risker knutna till miljö-, samhällsansvars- och bolagsstyrningsfaktorer (ESG-faktorer).</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">f)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Information vad gäller PEPP-sparinstitutets kapitalstruktur, inbegripet kapitalkvot och hävstångseffekter.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="oj-normal">g)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="oj-normal">Information om PEPP-sparinstitutets kontrakt, eller om kontrakt som ingåtts med tredje parter, inbegripet skyldigheter gentemot PEPP-sparare under utbetalningsfasen, eller för tillhandahållandet av PEPP-underkonton.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p id="d1e138-5-1" class="oj-ti-art">Artikel 2</p>
+            <p class="oj-normal">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <div class="oj-final">
+            <p class="oj-normal">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+            <p class="oj-normal">Utfärdad i Bryssel den 24 februari 2021.</p>
+            <div class="oj-signatory">
+               <p class="oj-signatory">
+                  <span class="oj-italic">På kommissionens vägnar</span>
+               </p>
+               <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+               <p class="oj-signatory">
+                  <span class="oj-italic">Ordförande</span>
+               </p>
+            </div>
+         </div>
+      </div>
+      <hr class="oj-note"/>
+      <p class="oj-note">
+         <a id="ntr1-L_2021197SV.01000501-E0001" href="#ntc1-L_2021197SV.01000501-E0001">(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2019_198_R_TOC">EUT L 198, 25.7.2019, s. 1</a>.</p>
+   </div>
+   <hr class="oj-doc-end"/>
+</body>
+</html>

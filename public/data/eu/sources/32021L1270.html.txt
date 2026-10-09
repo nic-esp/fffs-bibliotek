@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20240917-2211 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2021277SV.01014101.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">2.8.2021   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">SV</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 277/141</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-141-1">
+            KOMMISSIONENS DELEGERADE DIREKTIV (EU) 2021/1270</p>
+            <p class="oj-doc-ti">av den 21 april 2021
+         </p>
+            <p class="oj-doc-ti">om ändring av direktiv 2010/43/EU vad gäller hållbarhetsrisker och hållbarhetsfaktorer som ska beaktas för företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag)</p>
+            <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DETTA DIREKTIV</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">med beaktande av Europaparlamentets och rådets direktiv 2009/65/EG av den 13 juli 2009 om samordning av lagar och andra författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) <a id="ntc1-L_2021277SV.01014101-E0001" href="#ntr1-L_2021277SV.01014101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artiklarna 12.3, 14.2 och 51.4, och</p>
+            </div>
+            <p class="oj-normal">av följande skäl:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Omställningen till en koldioxidsnål, mer hållbar, resurseffektiv och cirkulär ekonomi i linje med målen för hållbar utveckling är avgörande för att säkerställa att unionens ekonomi är konkurrenskraftig på lång sikt. År 2016 ingick unionen Parisavtalet <a id="ntc2-L_2021277SV.01014101-E0002" href="#ntr2-L_2021277SV.01014101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>. I artikel 2.1 c i Parisavtalet fastställs målet om ökade insatser mot klimatförändringar, bland annat genom att finansiella flöden ska bli förenliga med en utveckling mot låga växthusgasutsläpp och klimatresiliens.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Medveten om storleken på denna utmaning lade kommissionen i december 2019 fram den europeiska gröna given <a id="ntc3-L_2021277SV.01014101-E0003" href="#ntr3-L_2021277SV.01014101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>. Den europeiska gröna given är en ny tillväxtstrategi som syftar till att ställa om EU till ett rättvist och välmående samhälle med en modern, resurseffektiv och konkurrenskraftig ekonomi där det 2050 inte längre förekommer några nettoutsläpp av växthusgaser och där den ekonomiska tillväxten har frikopplats från resursförbrukningen. Detta mål förutsätter att investerare får tydliga signaler om sina investeringar för att undvika strandade tillgångar och mobilisera hållbar finansiering.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I mars 2018 offentliggjorde kommissionen en handlingsplan för finansiering av hållbar tillväxt <a id="ntc4-L_2021277SV.01014101-E0004" href="#ntr4-L_2021277SV.01014101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a> som innehöll en ambitiös och heltäckande strategi för hållbar finansiering. Ett av målen i handlingsplanen är att styra kapitalflöden till hållbara investeringar för att uppnå hållbar tillväxt för alla. Konsekvensbedömningen av de efterföljande lagstiftningsinitiativen offentliggjordes i maj 2018 <a id="ntc5-L_2021277SV.01014101-E0005" href="#ntr5-L_2021277SV.01014101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a> och visade att det är nödvändigt att klargöra att det bör ingå i förvaltningsbolags uppdrag gentemot sina kunder att beakta hållbarhetsfaktorer. Förvaltningsbolag bör därför fortlöpande bedöma inte bara alla relevanta finansiella risker utan även alla relevanta hållbarhetsrisker som avses i Europaparlamentets och rådets förordning (EU) 2019/2088 <a id="ntc6-L_2021277SV.01014101-E0006" href="#ntr6-L_2021277SV.01014101-E0006"
+                                 >(<span class="oj-super oj-note-tag">6</span>)</a> och som, om de skulle inträffa, kan ha en faktisk eller potentiell betydande negativ inverkan på investeringens värde. Hållbarhetsrisker nämns inte uttryckligen i kommissionens direktiv 2010/43/EU <a id="ntc7-L_2021277SV.01014101-E0007" href="#ntr7-L_2021277SV.01014101-E0007"
+                                 >(<span class="oj-super oj-note-tag">7</span>)</a>. Av det skälet, och för att säkerställa att interna förfaranden och organisatoriska arrangemang verkligen införs och följs, är det nödvändigt att klargöra att förvaltningsbolags processer, system och interna kontroller måste ta hänsyn till hållbarhetsrisker och att det krävs teknisk kapacitet och kunskap för att analysera dessa risker.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att undvika olika konkurrensvillkor för förvaltningsbolag och investeringsbolag som inte har utsett ett förvaltningsbolag, samt den fragmentering och brist på enhetlighet och förutsägbarhet på den inre marknaden som detta kan leda till, bör reglerna om integrering av hållbarhetsrisker även tillämpas på investeringsbolagen med hänsyn till proportionalitetsprincipen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att ha ett starkt investerarskydd bör förvaltningsbolag, när de identifierar vilka typer av intressekonflikter som kan skada ett fondföretags intressen, inkludera de typer av intressekonflikter som kan uppstå till följd av att hållbarhetsrisker integreras i deras processer, system och interna kontroller. Det kan handla om konflikter som beror på ersättningar till anställda, anställdas privata transaktioner, intressekonflikter som kan leda till grönmålning, vilseledande försäljning eller vilseledande information om investeringsstrategier och intressekonflikter mellan olika fondföretag som förvaltas av samma förvaltningsbolag.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Enligt förordning (EU) 2019/2088 ska förvaltningsbolag eller investeringsbolag som är skyldiga att beakta investeringsbesluts huvudsakliga negativa konsekvenser för hållbarhetsfaktorer, eller som frivilligt beaktar sådana huvudsakliga negativa konsekvenser, lämna upplysningar om hur dessa huvudsakliga negativa konsekvenser beaktas i deras riktlinjer om vederbörlig aktsamhet. För att säkerställa överensstämmelse mellan förordning (EU) 2019/2088 och direktiv 2010/43/EU bör denna skyldighet framgå av direktiv 2010/43/EU.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Direktiv 2010/43/EU bör därför ändras i enlighet med detta.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e161-141-1" class="oj-ti-art">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Ändringar av direktiv 2010/43/EU</p>
+               </div>
+               <p class="oj-normal">Direktiv 2010/43/EU ska ändras på följande sätt:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">1.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 3 ska följande punkter läggas till som punkterna 11 och 12:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">”11.</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">
+                                          <span class="oj-italic">hållbarhetsrisk</span>: hållbarhetsrisk enligt definitionen i artikel 2.22 i Europaparlamentets och rådets förordning (EU) 2019/2088<a id="ntc*1-L_2021277SV.01014101-E0008" href="#ntr*1-L_2021277SV.01014101-E0008"
+                                             > (<span class="oj-super oj-note-tag">*1</span>)</a>.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">12.</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">
+                                          <span class="oj-italic">hållbarhetsfaktorer</span>: hållbarhetsfaktorer enligt definitionen i artikel 2.24 i förordning (EU) 2019/2088.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <p class="oj-note">
+                              <a id="ntr*1-L_2021277SV.01014101-E0008" href="#ntc*1-L_2021277SV.01014101-E0008"
+                                 class="oj-quotation"
+                                 >(<span class="oj-super">*1</span>)</a>  Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019 om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn (<a href="http://publications.europa.eu/resource/oj/JOL_2019_317_R_TOC"
+                                 >EUT L 317, 9.12.2019, s. 1</a>).”."
+                        </p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">2.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 4.1 ska följande stycke läggas till:</p>
+                           <p class="oj-normal">
+                              ”Medlemsstaterna ska säkerställa att förvaltningsbolagen beaktar hållbarhetsrisker i sin efterlevnad av kraven i första stycket.”.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">3.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 5 ska följande punkt läggas till som punkt 5:</p>
+                           <div id="005.005">
+                              <p class="oj-normal">”5.   Medlemsstaterna ska säkerställa att förvaltningsbolagen vid tillämpning av punkterna 1, 2 och 3 har de resurser och den sakkunskap som de behöver för att faktiskt integrera hållbarhetsrisker.”.</p>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">4.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Följande artikel ska införas som artikel 5a:</p>
+                           <div id="005A">
+                              <p id="d1e245-141-1" class="oj-ti-art">”Artikel 5a</p>
+                              <p class="oj-sti-art">Skyldighet för investeringsbolag att integrera hållbarhetsrisker i förvaltningen av fondföretag</p>
+                              <p class="oj-normal">Medlemsstaterna ska säkerställa att investeringsbolagen integrerar hållbarhetsrisker i förvaltningen av fondföretag med beaktande av arten och omfattningen av och komplexiteten hos investeringsbolagens verksamhet.”.</p>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">5.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 9.2 ska följande led läggas till som led g:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">”g)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">har ansvaret för att hållbarhetsrisker integreras i de uppgifter som avses i leden a–f.”.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">6.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 17 ska följande punkt läggas till som punkt 3:</p>
+                           <div id="017.003">
+                              <p class="oj-normal">”3.   Medlemsstaterna ska säkerställa att förvaltningsbolagen, när de identifierar de olika typerna av intressekonflikter som kan skada ett fondföretags intressen, inkluderar de typer av intressekonflikter som kan uppstå till följd av att hållbarhetsrisker integreras i deras processer, system och interna kontroller.”.</p>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">7.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 23 ska följande punkter läggas till som punkterna 5 och 6:</p>
+                           <div id="023.005">
+                              <p class="oj-normal">”5.   Medlemsstaterna ska säkerställa att förvaltningsbolagen beaktar hållbarhetsrisker i sin efterlevnad av kraven i punkterna 1–4.</p>
+                           </div>
+                           <div id="023.006">
+                              <p class="oj-normal">6.   Medlemsstaterna ska säkerställa att förvaltningsbolag eller, i tillämpliga fall, investeringsbolag, om de beaktar investeringsbesluts huvudsakliga negativa konsekvenser för hållbarhetsfaktorer i enlighet med artikel 4.1 a i förordning (EU) 2019/2088 eller enligt kraven i artikel 4.3 eller 4.4. i den förordningen, även beaktar sådana huvudsakliga negativa konsekvenser i sin efterlevnad av kraven i punkterna 1–4 i den här artikeln.”.</p>
+                           </div>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">8.</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 38.1 ska andra stycket ersättas med följande:</p>
+                           <p class="oj-normal">
+                              ”Riktlinjerna för riskhantering ska omfatta de förfaranden som är nödvändiga för att göra förvaltningsbolaget i stånd till att för varje förvaltat fondföretag värdera exponeringen för marknads-, likviditets-, hållbarhets- och motpartsrisker samt företagets exponering för alla andra risker, däribland operativa risker, som kan vara av avgörande betydelse för det enskilda förvaltade fondföretaget.”.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e323-141-1" class="oj-ti-art">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Införlivande</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   Medlemsstaterna ska senast den 31 juli 2022 anta och offentliggöra de lagar och andra författningar som är nödvändiga för att följa detta direktiv. De ska till kommissionen genast överlämna texten till dessa bestämmelser.</p>
+                  <p class="oj-normal">De ska tillämpa dessa bestämmelser från och med den 1 augusti 2022.</p>
+                  <p class="oj-normal">När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.</p>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e348-141-1" class="oj-ti-art">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Ikraftträdande</p>
+               </div>
+               <p class="oj-normal">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e358-141-1" class="oj-ti-art">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Adressater</p>
+               </div>
+               <p class="oj-normal">Detta direktiv riktar sig till medlemsstaterna.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Utfärdat i Bryssel den 21 april 2021.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På kommissionens vägnar</span>
+                  </p>
+                  <p class="oj-signatory">Ursula VON DER LEYEN
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Ordförande</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2021277SV.01014101-E0001" href="#ntc1-L_2021277SV.01014101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2009_302_R_TOC"
+               >EUT L 302, 17.11.2009, s. 32</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2021277SV.01014101-E0002" href="#ntc2-L_2021277SV.01014101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Rådets beslut (EU) 2016/1841 av den 5 oktober 2016 om ingående, på Europeiska unionens vägnar, av Parisavtalet som antagits inom ramen för Förenta nationernas ramkonvention om klimatförändring (<a href="http://publications.europa.eu/resource/oj/JOL_2016_282_R_TOC"
+               >EUT L 282, 19.10.2016, s. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2021277SV.01014101-E0003" href="#ntc3-L_2021277SV.01014101-E0003"
+               >(<span class="oj-super">3</span>)</a>  COM(2019) 640 final.</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2021277SV.01014101-E0004" href="#ntc4-L_2021277SV.01014101-E0004"
+               >(<span class="oj-super">4</span>)</a>  COM(2018) 97 final.</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2021277SV.01014101-E0005" href="#ntc5-L_2021277SV.01014101-E0005"
+               >(<span class="oj-super">5</span>)</a>  SWD(2018) 264 final.</p>
+         <p class="oj-note">
+            <a id="ntr6-L_2021277SV.01014101-E0006" href="#ntc6-L_2021277SV.01014101-E0006"
+               >(<span class="oj-super">6</span>)</a>  Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019 om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn (<a href="http://publications.europa.eu/resource/oj/JOL_2019_317_R_TOC"
+               >EUT L 317, 9.12.2019, s. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr7-L_2021277SV.01014101-E0007" href="#ntc7-L_2021277SV.01014101-E0007"
+               >(<span class="oj-super">7</span>)</a>  Kommissionens direktiv 2010/43/EU av den 1 juli 2010 om genomförande av Europaparlamentets och rådets direktiv 2009/65/EG när det gäller organisatoriska krav, intressekonflikter, uppföranderegler, riskhantering och innehållet i avtalet mellan ett förvaringsinstitut och ett förvaltningsbolag (<a href="http://publications.europa.eu/resource/oj/JOL_2010_176_R_TOC"
+               >EUT L 176, 10.7.2010, s. 42</a>).</p>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

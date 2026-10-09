@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.17.0 # generated_on:20250509-0800 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2015079SV.01000801.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">25.3.2015   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">SV</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 79/8</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-8-1">
+            KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2015/498</p>
+            <p class="oj-doc-ti">av den 24 mars 2015
+         </p>
+            <p class="oj-doc-ti">om fastställande av tekniska standarder för genomförande avseende tillsynsmyndigheternas godkännandeförfarande för att använda företagsspecifika parametrar enligt Europaparlamentets och rådets direktiv 2009/138/EG</p>
+            <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DENNA FÖRORDNING</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">med beaktande av Europaparlamentets och rådets direktiv 2009/138/EG av den 25 november 2009 om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II) <a id="ntc1-L_2015079SV.01000801-E0001" href="#ntr1-L_2015079SV.01000801-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artikel 111.2, och</p>
+            </div>
+            <p class="oj-normal">av följande skäl:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Försäkrings- och återförsäkringsföretags ansökningar om att använda företagsspecifika parametrar bör utarbetas utifrån en aktsam och realistisk grund och bör innehålla alla relevanta faktauppgifter som krävs för en bedömning av tillsynsmyndigheterna. Den bör inbegripa en bedömning av hur kriterierna för använda datas fullständighet, riktighet och lämplighet kommer att uppfyllas.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Den information som ska inkluderas i ett försäkrings- eller återförsäkringsföretags ansökan bör specificeras för att säkerställa en enhetlig grund för tillsynsmyndigheternas beslut.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Ansökan om användning av företagsspecifika parametrar är ett strategiskt beslut för riskhanterings- och kapitalplaneringsändamål. På grundval av förvaltnings-, lednings- eller tillsynsorganets slutliga ansvar för överensstämmelse enligt vad som anges i artikel 40 i direktiv 2009/138/EG, bör dess medverkan i beslutsfattandet om ansökan övervägas noga.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Bestämmelser bör fastställas för att tillsynsorganen ska kunna anta lämpliga förfaranden. Närmare bestämmelser om tillsynsmyndigheternas bedömning och godkännande av ansökningarna bör fastställas. De bör anpassas i proportion till ansökningarnas komplexitet för att hantera godkännandeförfarandet. Godkännandeförfarandet kan ta mindre än sex månader om det står i proportion till komplexiteten.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Beslutet om att ansöka om användning av företagsspecifika parametrar bör inte dikteras endast av en sänkning av kapitalkravet. Användningen av företagsspecifika parametrar bör dock inte hindra ett företag från att återgå till standardparametrarna, om de företagsspecifika parametrarna inte längre motsvarar dess riskprofil, i vilket fall företaget bör underrätta tillsynsmyndigheten om skälen till att dessa parametrar inte längre är lämpliga.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Förfarandena för godkännande förutsätter kontinuerlig kommunikation mellan tillsynsmyndigheterna och försäkrings- och återförsäkringsföretagen. Detta inbegriper kommunikation innan en formell ansökan lämnas till tillsynsmyndigheterna och, efter det att en ansökan har godkänts, genom tillsynens granskningsprocess. Denna kontinuerliga kommunikation är nödvändig för att säkerställa att tillsynsmyndigheternas bedömningar grundar sig på relevant och aktuell information.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Som en del av godkännandeprocessen bör tillsynsmyndigheterna bland annat bedöma de data som använts för att beräkna de företagsspecifika parametrarna och de bör kontrollera om de data som använts uppfyller de kvalitetskriterier som anges i artikel 219 i kommissionens delegerade förordning (EU) 2015/35 <a id="ntc2-L_2015079SV.01000801-E0002" href="#ntr2-L_2015079SV.01000801-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>. För att uppfylla kravet på att data ska vara fullständiga i enlighet med artikel 219 i den förordningen, bör företaget använda de företagsspecifika parametervärden som erhållits genom användning av den godkända metoden med senaste relevanta data.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Försäkrings- och återförsäkringsföretag får bara ersätta en undergrupp av standardparametrar inom försäkringsriskmodulerna i företagsspecifika parametrar. Detta innebär att en del av de indata som använts för att beräkna dessa parametrar kommer att vara likvärdiga eller identiska med de indata som använts för att beräkna de försäkringstekniska avsättningarna.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">På grund av det ömsesidiga beroendet mellan olika ansökningar om godkännande enligt direktiv 2009/138/EG bör försäkrings- eller återförsäkringsföretaget när det ansöker om godkännande av företagsspecifika parametrar underrätta tillsynsmyndigheten om andra ansökningar som rör de poster som avses i artikel 308a.1 i direktiv 2009/138/EG, som för närvarande pågår eller planeras inom kommande sex månader. Dessa krav är nödvändiga för att säkerställa att tillsynsbedömningarna grundar sig på transparent och opartisk information.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Denna förordning grundar sig på de förslag till tekniska standarder för genomförande som Europeiska försäkrings- och tjänstepensionsmyndigheten har lämnat till kommissionen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Europeiska försäkrings- och tjänstepensionsmyndigheten har anordnat öppna offentliga samråd om det förslag till tekniska standarder för genomförande som denna förordning bygger på, analyserat de potentiella kostnaderna och fördelarna därav och begärt ett yttrande från den intressentgrupp för försäkring och återförsäkring som inrättats i enlighet med artikel 37 i Europaparlamentets och rådets förordning (EU) nr 1094/2010 <a id="ntc3-L_2015079SV.01000801-E0003" href="#ntr3-L_2015079SV.01000801-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att öka rättssäkerheten i fråga om tillsynsordningen under den infasningsperiod som avses i artikel 308a i direktiv 2009/138/EG, som kommer att inledas den 1 april 2015, är det viktigt att se till att denna förordning träder i kraft så snart som möjligt, dagen efter det att den har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e176-8-1" class="oj-ti-art">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Ansökan om godkännande av användningen av försäkringsspecifika parametrar</p>
+               </div>
+               <div id="001.001">
+                  <p class="oj-normal">1.   Försäkrings- eller återförsäkringsföretaget ska till tillsynsmyndigheten lämna in en skriftlig ansökan om godkännande av användningen av företagsspecifika parametrar för att ersätta en undergrupp av parametrar i standardformeln.</p>
+               </div>
+               <div id="001.002">
+                  <p class="oj-normal">2.   Ansökan ska lämnas in på ett av de officiella språken i den medlemsstat där försäkrings- eller återförsäkringsföretaget har sitt huvudkontor, eller på ett språk som avtalats med tillsynsmyndigheten.</p>
+               </div>
+               <div id="001.003">
+                  <p class="oj-normal">3.   Försäkrings- eller återförsäkringsföretagets ansökan ska innehålla följande:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Handlingar som styrker försäkrings- eller återförsäkringsföretagets interna beslutsprocess avseende ansökan.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Ett särskilt startdatum från vilket användningen av de företagsspecifika parametrarna begärs.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Den undergrupp av standardparametrar man begär ska ersättas av företagsspecifika parametrar.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">För varje segment den standardiserade metod som används och det försäkrings- eller återförsäkringsföretagsspecifika parametervärde som erhålls med hjälp av denna metod.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Beräkningen av den företagsspecifika parameter som försäkrings- eller återförsäkringsföretaget ansöker om att få använda och information om att beräkningen är adekvat.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Belägg för att de data som används för att beräkna de företagsspecifika parametrarna är fullständiga, tillförlitliga och lämpliga och att de uppfyller kraven i artikel 219 i delegerad förordning (EU) 2015/35.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">g)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">En motivering av att var och en de standardiserade metoderna för att beräkna den företagsspecifika parametern för ett enda segment ger det mest korrekta resultatet vad gäller uppfyllandet av kraven i artikel 101 i direktiv 2009/138/EG.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="001.004">
+                  <p class="oj-normal">4.   Utöver det uppgiftsmaterial som anges i punkt 3 ska ansökan också omfatta en förteckning över alla andra ansökningar som lämnats in av försäkrings- eller återförsäkringsföretaget, eller som för närvarande planeras inom de kommande sex månaderna, för godkännande av någon av de poster som förtecknas i artikel 308a.1 i direktiv 2009/138/EG, tillsammans med motsvarande tillämpningsdatum.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e245-8-1" class="oj-ti-art">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Resultatens tillförlitlighet</p>
+               </div>
+               <p class="oj-normal">När resultatens tillförlitlighet påvisas ska försäkrings- och återförsäkringsföretag bedöma huruvida den standardiserade metoden är lämplig för företagets data, om deras antaganden är uppfyllda och om dessa data är relevanta för företagets riskprofil.</p>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e252-8-1" class="oj-ti-art">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Tillsynsmyndighetens bedömning av valet av parametrar och metoden för beräkning av parametrar</p>
+               </div>
+               <div id="003.001">
+                  <p class="oj-normal">1.   Tillsynsmyndigheten ska bedöma försäkrings- eller återförsäkringsföretagets val av följande:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De parametrar som ska ersättas genom att man kontrollerar om användningen av företagsspecifika parametrar bättre återspeglar företagets försäkringsriskprofil.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De segment för vilka parametrar har beräknats med hänsyn till huruvida användningen av företagsspecifika parametrar bättre återspeglar företagets försäkringsriskprofil.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="003.002">
+                  <p class="oj-normal">2.   Tillsynsmyndigheterna ska bedöma företagets motivering av valet av den standardiserade metoden för att beräkna företagsspecifika parametrar. Tillsynsmyndigheterna ska, när de gör denna bedömning, överväga om antagandena om standardiserade metoder är uppfyllda och huruvida data är relevanta för företagets riskprofil.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e281-8-1" class="oj-ti-art">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Bedömning av ansökan</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   Tillsynsmyndigheten ska bekräfta att den har tagit emot försäkrings- eller återförsäkringsföretagets ansökan.</p>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   Tillsynsmyndigheten ska bekräfta huruvida ansökan är fullständig inom 30 dagar från det att den tagit emot ansökan. En ansökan om godkännande av användningen av företagsspecifika parametrar ska anses ha slutförts av tillsynsmyndigheten om den omfattar alla uppgifter och verifikationshandlingar som avses i artikel 1.3 och 1.4. Om tillsynsmyndigheten fastställer att ansökan inte är fullständig, ska den omedelbart informera försäkrings- eller återförsäkringsföretaget om att godkännandeperioden inte har påbörjats och ange varför ansökan inte anses vara fullständig.</p>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   Om tillsynsmyndigheten har bekräftat att ansökan är fullständig, ska detta inte hindra tillsynsmyndigheten från att begära ytterligare upplysningar som krävs för att genomföra bedömningen. I begäran ska det anges vilka ytterligare upplysningar som krävs och skälen för begäran.</p>
+               </div>
+               <div id="004.004">
+                  <p class="oj-normal">4.   Bedömningen av ansökan får innehålla krav på justeringar från tillsynsmyndigheterna i hur företaget avser att tillämpa företagsspecifika parametrar. Om tillsynsmyndigheten fastställer att det skulle kunna vara möjligt att godkänna ansökan om en företagsspecifik parameter som är föremål för de justeringar som görs, ska den, utan dröjsmål, skriftligen underrätta försäkrings- eller återförsäkringsföretaget om de justeringar som krävs.</p>
+               </div>
+               <div id="004.005">
+                  <p class="oj-normal">5.   Dagarna mellan det datum då tillsynsmyndigheten begär sådana upplysningar eller justeringar och den dag då tillsynsmyndigheten tar emot sådana upplysningar ska inte inbegripas i den sexmånadersperiod som anges i punkt 7.</p>
+               </div>
+               <div id="004.006">
+                  <p class="oj-normal">6.   Försäkrings- eller återförsäkringsföretaget ska underrätta tillsynsmyndigheten om eventuella förändringar av de specifika uppgifterna i dess ansökan. Om ett försäkrings- eller återförsäkringsföretag underrättar tillsynsmyndigheten om en förändring av dess ansökan ska detta behandlas som en ny ansökan, såvida inte</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">förändringen beror på en begäran från tillsynsmyndigheten om ytterligare upplysningar eller justeringar, eller</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">tillsynsmyndigheten är övertygad om att förändringen inte avsevärt påverkar dess bedömning av ansökan.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.007">
+                  <p class="oj-normal">7.   Tillsynsmyndigheterna ska fatta beslut om ansökan inom sex månader från det att den tagit emot en fullständig ansökan.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e335-8-1" class="oj-ti-art">Artikel 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Beslut om ansökan</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   Om tillsynsmyndigheten beslutar att avslå ansökan ska den ange de skäl som beslutet grundas på. Tillsynsmyndigheten ska endast godkänna ansökan om den är tillfredsställd med motiveringen om att ersätta en undergrupp av parametrar i standardformeln.</p>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   När tillsynsmyndigheten har fattat ett beslut om ansökan ska den, utan dröjsmål, skriftligen underrätta försäkrings- eller återförsäkringsföretaget om detta på samma språk som i ansökan.</p>
+               </div>
+               <div id="005.003">
+                  <p class="oj-normal">3.   Tillsynsmyndigheten får besluta att godkänna ansökan för vissa men inte alla segment eller parametrar som ingår i ansökan.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e355-8-1" class="oj-ti-art">Artikel 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Återkallande av tillsynsmyndighetens godkännande</p>
+               </div>
+               <p class="oj-normal">Tillsynsmyndigheten får återkalla det godkännande som beviljats ett försäkrings- eller återförsäkringsföretag om att använda metoden för beräkning av företagsspecifika parametrar, när följande gäller:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Ett företag som har beviljats godkännande att använda företagsspecifika parametrar har upphört att uppfylla villkoren i artikel 101 i direktiv 2009/138/EG och artiklarna 218, 219 och 220 i delegerad förordning (EU) 2015/35.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Ett försäkrings- eller återförsäkringsföretag, i vederbörligen motiverade fall, vill återgå till standardparametrar, genom att skicka en begäran till tillsynsmyndigheten, med angivande av skälen till det olämpliga i att använda företagsspecifika parametrar och tillhandahålla handlingar som styrker detta.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e376-8-1" class="oj-ti-art">Artikel 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">Ikraftträdande</p>
+               </div>
+               <p class="oj-normal">Denna förordning träder i kraft dagen efter det att den har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+               <p class="oj-normal">Utfärdad i Bryssel den 24 mars 2015.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På kommissionens vägnar</span>
+                  </p>
+                  <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Ordförande</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2015079SV.01000801-E0001" href="#ntc1-L_2015079SV.01000801-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2009_335_R_TOC"
+               >EUT L 335, 17.12.2009, s. 1</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2015079SV.01000801-E0002" href="#ntc2-L_2015079SV.01000801-E0002"
+               >(<span class="oj-super">2</span>)</a>  Kommissionens delegerade förordning (EU) 2015/35 av den 10 oktober 2014 om komplettering av Europaparlamentets och rådets direktiv 2009/138/EG om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II) (<a href="http://publications.europa.eu/resource/oj/JOL_2015_012_R_TOC"
+               >EUT L 12, 17.1.2015, s. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2015079SV.01000801-E0003" href="#ntc3-L_2015079SV.01000801-E0003"
+               >(<span class="oj-super">3</span>)</a>  Europaparlamentets och rådets förordning (EU) nr 1094/2010 av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska försäkrings- och tjänstepensionsmyndigheten), om ändring av beslut nr 716/2009/EG och om upphävande av kommissionens beslut 2009/79/EG (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >EUT L 331, 15.12.2010, s. 48</a>).</p>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

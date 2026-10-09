@@ -5,13 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
-    "build": "vite build && tsx scripts/prerender.ts && tsx scripts/validate-build.ts",
+    "build": "vite build && tsx scripts/prerender.ts && tsx scripts/validate-build.ts && tsx scripts/validate-toolbox.ts",
     "preview": "vite preview --host 127.0.0.1",
     "test": "tsx --test tests/*.test.ts",
     "build:mcp": "node scripts/build-mcp.mjs",
     "check": "tsc --noEmit",
     "validate": "tsx scripts/validate-build.ts",
-    "build:vercel": "node scripts/build-vercel.mjs"
+    "build:vercel": "node scripts/build-vercel.mjs",
+    "validate:toolbox": "tsx scripts/validate-toolbox.ts"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.32.1",

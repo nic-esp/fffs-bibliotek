@@ -1,0 +1,470 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- fmx2xhtml # converter_version:5.4 # generated_on:20140910-0100 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32002R1606 — SV — 10.04.2008</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">2002R1606 — SV — 10.04.2008 — 001.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Detta dokument är endast avsett som dokumentationshjälpmedel och institutionerna ansvarar inte för innehållet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32002R1606"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32002R1606">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first">EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EG) nr 1606/2002</p>
+            <p class="title-doc-first">av den 19 juli 2002</p>
+            <p class="title-doc-last">
+               <a href="http://publications.europa.eu/resource/celex/32002R1606" onclick="_blanc"
+                  title="32002R1606">om tillämpning av internationella redovisningsstandarder</a>
+            </p>
+            <p class="title-doc-oj-reference">(EGT L 243, 11.9.2002, p.1)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  No</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">page</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">date</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32008R0297"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32008R0297">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star">
+               <a href="http://publications.europa.eu/resource/celex/32008R0297"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32008R0297">EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EG) nr 297/2008 av den 11 mars 2008</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 97</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">62</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">9.4.2008</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <p>
+      <br/>
+   </p>
+   <p class="arrow">
+      <a href="http://publications.europa.eu/resource/celex/32002R1606"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32002R1606">▼B</a>
+   </p>
+   <p class="title-doc-first">EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EG) nr 1606/2002</p>
+   <p class="title-doc-first">av den 19 juli 2002</p>
+   <p class="title-doc-last">om tillämpning av internationella redovisningsstandarder</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <div class="preamble">
+      <p class="norm">EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DENNA FÖRORDNING</p>
+      <p class="norm">med beaktande av Fördraget om upprättandet av Europeiska gemenskapen, särskilt artikel 95.1 i detta,</p>
+      <p class="norm">med beaktande av kommissionens förslag (<a href="#E0001" id="src.E0001">
+            <span class="superscript">1</span>
+         </a>),</p>
+      <p class="norm">med beaktande av Ekonomiska och sociala kommitténs yttrande (<a href="#E0002" id="src.E0002">
+            <span class="superscript">2</span>
+         </a>),</p>
+      <p class="norm">i enlighet med förfarandet i artikel 251 i fördraget (<a href="#E0003" id="src.E0003">
+            <span class="superscript">3</span>
+         </a>), och</p>av följande skäl:<table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Europeiska rådet underströk vid sitt möte i Lissabon den 23–24 mars 2000 behovet av att påskynda fullbordandet av den inre marknaden för finansiella tjänster och angav år 2005 som slutdatum för genomförandet av kommissionens handlingsplan för finansiella tjänster samt framhöll att åtgärder skulle vidtas så att redovisningar som offentliggörs av noterade företag blir lättare att jämföra.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att förbättra den inre marknadens funktion måste det krävas att de noterade företagen inom EU tillämpar en enda uppsättning av internationella redovisningsstandarder av hög kvalitet när de utarbetar sin koncernredovisning. Det är dessutom viktigt att de företag inom gemenskapen som deltar på finansmarknaderna tillämpar redovisningsstandarder som är internationellt accepterade och verkligen globala. Detta förutsätter att man i större utsträckning samordnar de redovisningsstandarder som används internationellt så att man i slutändan kan uppnå en enda uppsättning av globala redovisningsstandarder.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Rådets direktiv 78/660/EEG av den 25 juli 1978 om årsbokslut i vissa typer av bolag (<a href="#E0004" id="src.E0004">
+                     <span class="superscript">4</span>
+                  </a>), rådets direktiv 83/349/EEG av den 13 juni 1983 om sammanställd redovisning (<a href="#E0005" id="src.E0005">
+                     <span class="superscript">5</span>
+                  </a>), rådets direktiv 86/635/EEG av den 8 december 1986 om årsbokslut och sammanställd redovisning för banker och andra finansinstitut (<a href="#E0006" id="src.E0006">
+                     <span class="superscript">6</span>
+                  </a>) och rådets direktiv 91/674/EEG av den 19 december 1991 om årsbokslut och sammanställd redovisning för försäkringsbolag (<a href="#E0007" id="src.E0007">
+                     <span class="superscript">7</span>
+                  </a>) riktar sig även mot noterade företag i gemenskapen. Den redovisningsplikt som fastställs i dessa direktiv kan inte garantera en hög grad av insyn i redovisningarna för alla noterade företag i gemenskapen och att dessa redovisningar i hög grad blir jämförbara, vilket är en förutsättning för att man skall kunna upprätta en integrerad kapitalmarknad som är effektiv, smidig och ändamålsenlig. Det är därför nödvändigt att komplettera det regelverk som tillämpas på noterade företag.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Denna förordnings syfte är att bidra till att skapa en ändamålsenlig och kostnadseffektiv fungerande kapitalmarknad. Skydd av investerare och ett bibehållet förtroende för de finansiella marknaderna utgör också en viktig aspekt för att den inre marknaden på detta område skall kunna fullbordas. Förordningen förstärker den fria rörligheten för kapital på den inre marknaden och skapar förutsättningar för företag i gemenskapen att konkurrera på lika villkor om de tillgängliga finansiella resurserna på såväl gemenskapens kapitalmarknader som de globala kapitalmarknaderna.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att gemenskapens kapitalmarknader skall kunna vara konkurrenskraftiga är det av vikt att de standarder som tillämpas i Europa vid upprättandet av redovisningar närmas till internationella redovisningsstandarder som kan användas globalt, när det gäller gränsöverskridande transaktioner och börsintroduktioner överallt i världen.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Kommissionen offentliggjorde den 13 juni 2000 ett meddelande med titeln ”EU:s strategi för finansiell rapportering: den fortsatta inriktningen” där det föreslås att alla noterade företag i gemenskapen senast från och med 2005 utarbetar sin koncernredovisning i enlighet med en enda uppsättning redovisningsstandarder, nämligen de internationella redovisningsstandarderna International Accounting Standards (IAS).</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">De internationella redovisningsstandarderna IAS utvecklas av den internationella organisationen International Accounting Standards Committee (IASC), vars ändamål är att utveckla en enda uppsättning globala redovisningsstandarder. I samband med omstruktureringen av IASC beslutade den nya styrelsen den 1 april 2001, i ett av sina första beslut, att döpa om IASC till IASB (International Accounting Standards Board) samt att, när det gäller internationella redovisningsstandarder, döpa om IAS till IFRS (International Financial Reporting Standards). Dessa standarder bör när så är möjligt, och under förutsättning att de säkerställer såväl att en hög grad av insyn i den finansiella rapporteringen i gemenskapen kan ske som att denna rapportering i hög grad kan jämföras, obligatoriskt tillämpas för alla noterade företag inom gemenskapen.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">De åtgärder som krävs för att genomföra denna förordning bör antas i enlighet med rådets beslut 1999/468/EG av den 28 juni 1999 om de förfaranden som skall tillämpas vid utövandet av kommissionens genomförandebefogenheter (<a href="#E0008" id="src.E0008">
+                     <span class="superscript">8</span>
+                  </a>). Samtidigt bör vederbörlig hänsyn tas till kommissionens uttalande i Europaparlamentet den 5 februari 2002 om genomförandet av lagstiftning om finansiella tjänster.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att det skall vara möjligt att anta internationella redovisningsstandarder för tillämpning i gemenskapen är det först och främst nödvändigt att de uppfyller grundkraven i rådets ovannämnda direktiv, det vill säga att tillämpningen av dem leder till en sann och rättvisande bild av ett företags finansiella ställning och resultat. Denna princip bör betraktas mot bakgrund av rådets ovannämnda direktiv, utan att det för den skull krävs en exakt överensstämmelse med var och en av bestämmelserna i dessa direktiv. Det är även nödvändigt att redovisningsstandarderna i enlighet med slutsatserna från rådets möte den 17 juli 2000 bidrar till det europeiska gemensamma bästa. Dessutom måste de uppfylla grundläggande villkor när det gäller kvaliteten på den information som krävs för att redovisningarna skall vara till nytta för användarna.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">En redovisningsteknisk kommitté kommer att bistå kommissionen med stöd och expertkunskaper vid bedömningen av de internationella redovisningsstandarderna.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Genom godkännandemekanismen bör de föreslagna internationella redovisningsstandarderna kunna behandlas snabbt och den bör även vara ett hjälpmedel för att överväga, analysera och utbyta information beträffande internationella redovisningsstandarder mellan de huvudsakliga berörda parterna, i synnerhet nationella organ för utformning av redovisningsstandarder, organ som utövar tillsyn över värdepappers-, bank och försäkringsområdet samt centralbanker, Europeiska centralbanken inbegripen, redovisningsbranschen, och användare respektive utgivare av redovisningar. Mekanismen bör vara ett hjälpmedel för att främja en gemensam tolkning av antagna internationella redovisningsstandarder inom gemenskapen.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I enlighet med proportionalitetsprincipen är de åtgärder som föreskrivs i denna förordning, och som avser krav på att en enda uppsättning internationella redovisningsstandarder skall tillämpas på noterade företag, nödvändiga för att man skall kunna uppnå målet att skapa verksamma och kostnadseffektiva kapitalmarknader i gemenskapen och därigenom fullborda den inre marknaden.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(13)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I enlighet med samma princip är det nödvändigt, när det gäller årsredovisningar, att ge medlemsstaterna möjlighet att tillåta eller kräva att noterade företag skall utarbeta dessa redovisningar i enlighet med de internationella redovisningsstandarder som antagits enligt förfarandet i denna förordning. Medlemsstaterna får även besluta att utsträcka detta tillstånd eller krav till att omfatta andra företag när det gäller utarbetandet av deras koncernredovisning och/eller årsredovisning.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(14)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att underlätta diskussion och göra det möjligt för medlemsstaterna att samordna sina ståndpunkter bör kommissionen regelbundet informera den föreskrivande kommittén för redovisningsfrågor om pågående projekt, diskussionsunderlag, punktredogörelser och utkast på redovisningsstandarder utfärdade av IASB samt om det därav följande arbetet för den redovisningstekniska kommittén. Det är också viktigt att den föreskrivande kommittén för redovisningsfrågor i ett tidigt skede underrättas om kommissionen har för avsikt att föreslå att en internationell redovisningsstandard inte skall antas.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(15)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I samband med överläggningarna om och utarbetande av ställningstaganden till handlingar utfärdade av IASB i arbetet för att utveckla internationella redovisningsstandarder (IFRS och SIC/IFRIC) bör kommissionen beakta vikten av att konkurrensnackdelar för europeiska företag som verkar på världsmarknaden undviks, och i största möjliga utsträckning även beakta synpunkter framförda av delegationerna i den föreskrivande kommittén för redovisningsfrågor. Kommissionen kommer att vara företrädd i IASB:s konstituerande organ.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(16)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Ett korrekt och rigoröst system för tillsyn är av avgörande betydelse för investerarnas tilltro till finansmarknaderna. Medlemsstaterna är i enlighet med artikel 10 i föredraget förpliktade att vidta de åtgärder som krävs för att garantera efterlevnad av internationella redovisningsstandarder. Kommissionen avser att tillsammans med medlemsstaterna, i synnerhet genom Europeiska värdepapperstillsynskommittén (CESR), utveckla en gemensam strategi för tillsynen.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(17)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Vidare är det nödvändigt att ge medlemsstaterna möjlighet att inte förrän 2007 tillämpa vissa bestämmelser på företag som är noterade både i gemenskapen och på en reglerad marknad utanför gemenskapen, och som redan tillämpar andra internationellt godkända standarder som grundval för sin koncernredovisning, samt på företag som endast har skuldebrev noterade. Det är dock av avgörande betydelse att en enda uppsättning av världsomspännande internationella redovisningsstandarder, IAS, tillämpas senast 2007 på alla noterade gemenskapsföretag som finns på en marknad reglerad av gemenskapen.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(18)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att ge medlemsstaterna och företagen möjlighet att genomföra de anpassningar som krävs för att möjliggöra en tillämpning av internationella redovisningsstandarder måste tillämpningen av vissa bestämmelser anstå till år 2005. Som en följd av att denna förordning träder i kraft, bör det införas lämpliga bestämmelser om hur företagen skall tillämpa IAS för första gången. Bestämmelserna bör utformas på internationell nivå så att det skapas garantier för att antagna åtgärder får internationellt erkännande.</p>
+            </td>
+         </tr>
+      </table>
+      <p class="norm">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-article-norm">Artikel 1</p>
+   <p class="stitle-article-norm">Syfte</p>
+   <p class="norm">Syftet med denna förordning är att anta och tillämpa internationella redovisningsstandarder i gemenskapen för att harmonisera den finansiella information som läggs fram av de företag som avses i artikel 4 för att på så sätt garantera en hög grad av insyn i redovisningarna och att redovisningarna i hög grad kan jämföras och därigenom garantera att gemenskapens kapitalmarknad och den inre marknaden kan fungera ändamålsenligt.</p>
+   <p class="title-article-norm">Artikel 2</p>
+   <p class="stitle-article-norm">Definitioner</p>
+   <p class="norm">I denna förordning avses med ”internationella redovisningsstandarder” IAS-standarder (International Accounting Standards) och IFRS-standarder (International Financial Reporting Standards) med tillhörande tolkningar (SIC/IFRIC-tolkningar), efterföljande ändringar av dessa standarder och tillhörande tolkningar, framtida standarder och tillhörande tolkningar som utfärdats eller antagits av International Accounting Standards Board (IASB).</p>
+   <p class="title-article-norm">Artikel 3</p>
+   <p class="stitle-article-norm">Antagande och användning av internationella redovisningsstandarder</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32008R0297"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32008R0297: REPLACED">▼M1</a>
+   </p>
+   <p class="norm">1.  Kommissionen ska besluta om hur de internationella redovisningsstandarderna ska tillämpas inom gemenskapen. Dessa åtgärder, som avser att ändra icke väsentliga delar i denna förordning genom att komplettera den, ska antas i enlighet med det föreskrivande förfarande med kontroll som avses i artikel 6.2.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32002R1606"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32002R1606">▼B</a>
+   </p>
+   <p class="norm">2.  De internationella redovisningsstandarderna får antas endast om</p>
+   <div style="margin-left: 12pt; text-indent: -12pt; ">
+      <p class="norm">—<span style="word-spacing: 0"> </span>de inte strider mot den princip som fastställts i artikel 2.3 i direktiv 78/660/EEG och i artikel 16.3 i direktiv 83/349/EEG och om de bidrar till det europeiska gemensamma bästa,</p>
+   </div>
+   <div style="margin-left: 12pt; text-indent: -12pt; ">
+      <p class="norm">—<span style="word-spacing: 0"> </span>de uppfyller de kriterier i fråga om begriplighet, relevans, tillförlitlighet och jämförbarhet som ställs på finansiell information som behövs för att fatta ekonomiska beslut och utvärdera företagsledningens arbete.</p>
+   </div>
+   <p class="norm">3.  Kommissionen skall, i enlighet med förfarandet i artikel 6.2 senast den 31 december 2002 besluta om tillämpligheten inom gemenskapen av de internationella redovisningsstandarder som existerar vid ikraftträdandet av denna förordning.</p>
+   <p class="norm">4.  Antagna internationella redovisningsstandarder skall i sin helhet, och på vart och ett av gemenskapens officiella språk, offentliggöras som en förordning från kommissionen i <span class="italics">Europeiska gemenskapernas officiella tidning</span>.</p>
+   <p class="title-article-norm">Artikel 4</p>
+   <p class="stitle-article-norm">Koncernredovisning i noterade företag</p>
+   <p class="norm">För varje räkenskapsår som inleds den 1 januari 2005 eller därefter skall de företag som är underställda en medlemsstats lagstiftning upprätta sin koncernredovisning i enlighet med de internationella redovisningsstandarder som antagits i överensstämmelse med förfarandet i artikel 6.2, under förutsättning att deras värdepapper på balansdagen är noterade på en reglerad marknad i en medlemsstat i enlighet med de villkor som fastställs i artikel 1.13 i rådets direktiv 93/22/EEG av den 10 maj 1993 om investeringstjänster på värdepappersområde (<a href="#E0009" id="src.E0009">
+         <span class="superscript">9</span>
+      </a>).</p>
+   <p class="title-article-norm">Artikel 5</p>
+   <p class="stitle-article-norm">Valmöjligheter i fråga om årsredovisningar och onoterade företag</p>
+   <p class="norm">Medlemsstaterna får tillåta eller kräva att</p>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">a)<span style="word-spacing: 15pt"> </span>sådana företag som avses i artikel 4 utarbetar sina årsredovisningar, och att</p>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">b)<span style="word-spacing: 15pt"> </span>andra företag än sådana som avses i artikel 4 utarbetar sin koncernredovisning och/eller sin årsredovisning</p>
+   </div>
+   <p class="norm">i enlighet med de internationella redovisningsstandarder som antas i enlighet med förfarandet i artikel 6.2.</p>
+   <p class="title-article-norm">Artikel 6</p>
+   <p class="stitle-article-norm">Kommittéförfarande</p>
+   <p class="norm">1.  Kommissionen skall biträdas av en föreskrivande kommitté för redovisningsfrågor, nedan kallad kommittén.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32008R0297"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32008R0297: REPLACED">▼M1</a>
+   </p>
+   <p class="norm">2.  När det hänvisas till denna punkt ska artikel 5a.1–5a.4 och artikel 7 i beslut 1999/468/EG tillämpas, med beaktande av bestämmelserna i artikel 8 i det beslutet.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32008R0297"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32008R0297: DELETED">▼M1</a> —————</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32002R1606"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32002R1606">▼B</a>
+   </p>
+   <p class="title-article-norm">Artikel 7</p>
+   <p class="stitle-article-norm">Rapportering och samordning</p>
+   <p class="norm">1.  Kommissionen skall regelbundet stå i kontakt med kommittén i frågor som rör pågående IASB-projekt och deras status och alla därtill relaterade dokument utfärdade av IASB för att samordna ståndpunkter och underlätta diskussioner om antagandet av de standarder som projekten och dokumenten i fråga kan ge upphov till.</p>
+   <p class="norm">2.  Kommissionen skall i vederbörlig ordning och god tid rapportera till kommittén om den har för avsikt att föreslå att en standard inte skall antas.</p>
+   <p class="title-article-norm">Artikel 8</p>
+   <p class="stitle-article-norm">Anmälan</p>
+   <p class="norm">När medlemsstaterna vidtar åtgärder med stöd av artikel 5, skall de omedelbart meddela dessa till kommissionen och övriga medlemsstater.</p>
+   <p class="title-article-norm">Artikel 9</p>
+   <p class="stitle-article-norm">Övergångsbestämmelser</p>
+   <p class="norm">Medlemsstaterna kan besluta om sådana undantag från artikel 4 som innebär att de villkor som anges i den artikeln endast skall gälla räkenskapsår som inleds i januari 2007 eller därefter för de företag</p>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">a)<span style="word-spacing: 15pt"> </span>vilka har endast skuldebrev upptagna till handel på en reglerad marknad i någon av medlemsstaterna i den mening som avses i artikel 1.13 i direktiv 93/22/EEG, eller</p>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">b)<span style="word-spacing: 15pt"> </span>vilkas värdepapper erbjuds till allmänheten i en stat utanför EU, och som i detta syfte har använt sig av internationellt gångbara standarder från och med ett räkenskapsår som inletts före den tidpunkt då denna förordning offentliggjordes i <span class="italics">Europeiska gemenskapernas officiella tidning</span>.</p>
+   </div>
+   <p class="title-article-norm">Artikel 10</p>
+   <p class="stitle-article-norm">Information och översyn</p>
+   <p class="norm">Kommissionen skall granska tillämpningen av denna förordning och senast den 1 juli 2007 överlämna en rapport om detta till Europaparlamentet och rådet.</p>
+   <p class="title-article-norm">Artikel 11</p>
+   <p class="stitle-article-norm">Ikraftträdande</p>
+   <p class="norm">Förordningen träder i kraft den tredje dagen efter det att den har offentliggjorts i <span class="italics">Europeiska gemenskapernas officiella tidning</span>.</p>
+   <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) EGT C 154 E, 29.5.2001, s. 285.</p>
+   <p class="footnote">(<a href="#src.E0002" id="E0002">
+         <span class="superscript">2</span>
+      </a>) EGT C 260, 17.9.2001, s. 86.</p>
+   <p class="footnote">(<a href="#src.E0003" id="E0003">
+         <span class="superscript">3</span>
+      </a>) Europaparlamentets yttrande av den 12 mars 2002 (ännu ej offentliggjort i EGT) och rådets beslut av den 7 juni 2002.</p>
+   <p class="footnote">(<a href="#src.E0004" id="E0004">
+         <span class="superscript">4</span>
+      </a>) EGT L 222, 14.8.1978, s. 11. Direktivet senast ändrat genom Europaparlamentets och rådets direktiv 2001/65/EG (EGT L 283, 27.10.2001, s. 28).</p>
+   <p class="footnote">(<a href="#src.E0005" id="E0005">
+         <span class="superscript">5</span>
+      </a>) EGT L 193, 18.7.1983, s. 1. Direktivet senast ändrat genom Europaparlamentets och rådets direktiv 2001/65/EG.</p>
+   <p class="footnote">(<a href="#src.E0006" id="E0006">
+         <span class="superscript">6</span>
+      </a>) EGT L 372, 31.12.1986, s. 1. Direktivet senast ändrat genom Europaparlamentets och rådets direktiv 2001/65/EG.</p>
+   <p class="footnote">(<a href="#src.E0007" id="E0007">
+         <span class="superscript">7</span>
+      </a>) EGT L 374, 31.12.1991, s. 7.</p>
+   <p class="footnote">(<a href="#src.E0008" id="E0008">
+         <span class="superscript">8</span>
+      </a>) EGT L 184, 17.7.1999, s. 23.</p>
+   <p class="footnote">(<a href="#src.E0009" id="E0009">
+         <span class="superscript">9</span>
+      </a>) EGT L 141, 11.6.1993, s. 27. Direktivet senast ändrat genom Europaparlamentets och rådets direktiv 2000/64/EG (EGT L 290, 17.11.2000, s. 27).</p>
+</body>
+</html>

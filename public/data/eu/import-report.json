@@ -1,0 +1,833 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-09",
+  "retrievedAt": "2026-10-09T16:34:30.643Z",
+  "documents": [
+    {
+      "id": "32022R2554",
+      "baseCelex": "32022R2554",
+      "versionKind": "original",
+      "articleCount": 64,
+      "sourceSha256": "c81fda2a7ec15af5240bca3f5caf1f638396412f20200a920819b1feda0effda"
+    },
+    {
+      "id": "02013R0575-20260626",
+      "baseCelex": "32013R0575",
+      "versionKind": "consolidated",
+      "articleCount": 669,
+      "sourceSha256": "28ffc31f5f318925342941ef1a7776f3b11a7ff8b7edc8c096763e4e0ff80608"
+    },
+    {
+      "id": "02013L0036-20260711",
+      "baseCelex": "32013L0036",
+      "versionKind": "consolidated",
+      "articleCount": 190,
+      "sourceSha256": "f258aa2fbfeb5595b83c4bdc54dd66510d7e7e182b08bab81cdb1b9700284ab7"
+    },
+    {
+      "id": "02014L0065-20260606",
+      "baseCelex": "32014L0065",
+      "versionKind": "consolidated",
+      "articleCount": 93,
+      "sourceSha256": "60c0d379de6ee586ee04aa33cc63ffa639108d25a9d4462eee574ad1a5dfbf5a"
+    },
+    {
+      "id": "02014R0600-20251123",
+      "baseCelex": "32014R0600",
+      "versionKind": "consolidated",
+      "articleCount": 90,
+      "sourceSha256": "f16fe16be505534e0c48d866e4033c7c57266ea8877d7fd019eca367b01ca299"
+    },
+    {
+      "id": "02015L0849-20241230",
+      "baseCelex": "32015L0849",
+      "versionKind": "consolidated",
+      "articleCount": 81,
+      "sourceSha256": "73522a895d14b71744b22f446f4ac9cbb53c8114f1427fea1d4ad6b482c05ed4"
+    },
+    {
+      "id": "02012R0648-20250117",
+      "baseCelex": "32012R0648",
+      "versionKind": "consolidated",
+      "articleCount": 137,
+      "sourceSha256": "a2f1a02bce1dda5c54fbc7e233f76e68483d279045534d1e5d6f16a360c378ff"
+    },
+    {
+      "id": "02009L0138-20250117",
+      "baseCelex": "32009L0138",
+      "versionKind": "consolidated",
+      "articleCount": 333,
+      "sourceSha256": "2f3591c0a333a0f285806da88460e2cf7169e41c6427acefb860a2292d67236e"
+    },
+    {
+      "id": "02019R2033-20240109",
+      "baseCelex": "32019R2033",
+      "versionKind": "consolidated",
+      "articleCount": 67,
+      "sourceSha256": "27aa260e5e79f8e99f93b1f9fc7809125d514db9c18eb0049235f267698ff10d"
+    },
+    {
+      "id": "02019L2034-20241224",
+      "baseCelex": "32019L2034",
+      "versionKind": "consolidated",
+      "articleCount": 70,
+      "sourceSha256": "1454aee61c2273ad36f6b57510d04705924d622978e7218d3165248ed41ce84c"
+    },
+    {
+      "id": "02011L0061-20260416",
+      "baseCelex": "32011L0061",
+      "versionKind": "consolidated",
+      "articleCount": 75,
+      "sourceSha256": "db50723042f4a79a55ca37bdd643a177d87f782b56eb07bdbc5e4fb9750376f3"
+    },
+    {
+      "id": "02009L0065-20260416",
+      "baseCelex": "32009L0065",
+      "versionKind": "consolidated",
+      "articleCount": 132,
+      "sourceSha256": "0584b11a65d2424d3faa2e80067633d403c18335633eecad6ac0a02a404dd83e"
+    },
+    {
+      "id": "02015L2366-20250117",
+      "baseCelex": "32015L2366",
+      "versionKind": "consolidated",
+      "articleCount": 118,
+      "sourceSha256": "312e381661862ebc5234d199096abc816abb2fa726f721569258120916af3ef3"
+    },
+    {
+      "id": "01986L0635-20060905",
+      "baseCelex": "31986L0635",
+      "versionKind": "consolidated",
+      "articleCount": 50,
+      "sourceSha256": "674b5446009eb5e92fc832c1927935c49814e714219f28d3692909619b47c31b"
+    },
+    {
+      "id": "01991L0674-20060905",
+      "baseCelex": "31991L0674",
+      "versionKind": "consolidated",
+      "articleCount": 73,
+      "sourceSha256": "2978446effaa5aedb55af415d55a67624df283d097277e09e44efd96ed911390"
+    },
+    {
+      "id": "02001L0034-20070120",
+      "baseCelex": "32001L0034",
+      "versionKind": "consolidated",
+      "articleCount": 48,
+      "sourceSha256": "3c6d4d4259fb539f66b26bc296e90ecfb6eac260808fdccb0d6fcc99e611d1e9"
+    },
+    {
+      "id": "02002L0087-20240109",
+      "baseCelex": "32002L0087",
+      "versionKind": "consolidated",
+      "articleCount": 40,
+      "sourceSha256": "2fb364bb560449974adb5826f00445bcd504becf7219f31cc355141a0b6e6aaf"
+    },
+    {
+      "id": "02002L0092-20160223",
+      "baseCelex": "32002L0092",
+      "versionKind": "consolidated",
+      "articleCount": 18,
+      "sourceSha256": "5faf39a2f6e44e3e4f645d69af0a04629de1a03cbaab1cd56309cea3de278a73"
+    },
+    {
+      "id": "02002R1606-20080410",
+      "baseCelex": "32002R1606",
+      "versionKind": "consolidated",
+      "articleCount": 11,
+      "sourceSha256": "91ea20291c6a7afa8d283c2293d1d048b77c99e1325fd794922e29628c66bbdc"
+    },
+    {
+      "id": "02004L0109-20240109",
+      "baseCelex": "32004L0109",
+      "versionKind": "consolidated",
+      "articleCount": 43,
+      "sourceSha256": "47b84ca0093cf5ee58fd2e437c18983db826c2b5667589ebaf2338e04f71d8e4"
+    },
+    {
+      "id": "32005L0060",
+      "baseCelex": "32005L0060",
+      "versionKind": "original",
+      "articleCount": 47,
+      "sourceSha256": "cc3f5ad57be27ace3b8b3e17ce298be57ce32f8d9fe61573bbaf7c7a3e0c7b61"
+    },
+    {
+      "id": "32006L0046",
+      "baseCelex": "32006L0046",
+      "versionKind": "original",
+      "articleCount": 7,
+      "sourceSha256": "da9bf971e70d4fd0411ebe61dbde8897b24013c62ba49e65036c0037e45b310c"
+    },
+    {
+      "id": "32006L0048",
+      "baseCelex": "32006L0048",
+      "versionKind": "original",
+      "articleCount": 160,
+      "sourceSha256": "d4ec7ecd7866ee02d4d0499e92d0fd58a1154c9682973f9d1ef9da5f91162ec2"
+    },
+    {
+      "id": "32006L0049",
+      "baseCelex": "32006L0049",
+      "versionKind": "original",
+      "articleCount": 54,
+      "sourceSha256": "b36cb239c8b5d76aef16a5315bea169f961f8a5afffe97bed18ed26b254cdc35"
+    },
+    {
+      "id": "02006L0070-20060824",
+      "baseCelex": "32006L0070",
+      "versionKind": "consolidated",
+      "articleCount": 7,
+      "sourceSha256": "533e85e3feb29a69fab823b77420cd82da98171fc3090d555952ba02e4cbcfba"
+    },
+    {
+      "id": "32006R1781",
+      "baseCelex": "32006R1781",
+      "versionKind": "original",
+      "articleCount": 20,
+      "sourceSha256": "0c528000eccdcfcb0caf9e0c361f910fd393469a3883634b0d6b5288dbd676bd"
+    },
+    {
+      "id": "02006R1893-20250101",
+      "baseCelex": "32006R1893",
+      "versionKind": "consolidated",
+      "articleCount": 20,
+      "sourceSha256": "77e13c4732928eaa09725b64d85d6213bdf62fe860c29d51bd4a111fef7c34b5"
+    },
+    {
+      "id": "02007L0036-20240109",
+      "baseCelex": "32007L0036",
+      "versionKind": "consolidated",
+      "articleCount": 34,
+      "sourceSha256": "c7756a172edaa8a6dd674f855c560929d124ce02bebb97a6d07a95e21581baa2"
+    },
+    {
+      "id": "02007L0064-20091207",
+      "baseCelex": "32007L0064",
+      "versionKind": "consolidated",
+      "articleCount": 96,
+      "sourceSha256": "b2138f587cfd120d0287bbfcf2193e5e4b95d0f33094a57c8605f1877eb6761e"
+    },
+    {
+      "id": "32008R0295",
+      "baseCelex": "32008R0295",
+      "versionKind": "original",
+      "articleCount": 15,
+      "sourceSha256": "3a8e677fe8174b5cdc066ce403ebf92e8006a08b4b416c30440908054400d203"
+    },
+    {
+      "id": "32009R0250",
+      "baseCelex": "32009R0250",
+      "versionKind": "original",
+      "articleCount": 7,
+      "sourceSha256": "5e0620bd7b8eb0617268b349e19c7ad0962abf0d3009aa4b8e55c5cd6e226a3c"
+    },
+    {
+      "id": "02009R1060-20250117",
+      "baseCelex": "32009R1060",
+      "versionKind": "consolidated",
+      "articleCount": 67,
+      "sourceSha256": "a51cd7d918563e6e4163a1ee94bb7053442beee233da97112bca9ff8f171ef21"
+    },
+    {
+      "id": "02010L0043-20220801",
+      "baseCelex": "32010L0043",
+      "versionKind": "consolidated",
+      "articleCount": 49,
+      "sourceSha256": "99892a5152807261bf8c6e6102a7499de8c1bca84ef6298610ffd7de18856968"
+    },
+    {
+      "id": "32010R0583",
+      "baseCelex": "32010R0583",
+      "versionKind": "original",
+      "articleCount": 39,
+      "sourceSha256": "85eb585b38195ebc4b50949eceae3d0b837f118f4736c40e2b62132804aea806"
+    },
+    {
+      "id": "02010R0584-20240714",
+      "baseCelex": "32010R0584",
+      "versionKind": "consolidated",
+      "articleCount": 9,
+      "sourceSha256": "f235d0926291a3c6db8b08f7e632548ebd04e6bd9b594e3ab0a0cbaad98731e9"
+    },
+    {
+      "id": "02010R1093-20251231",
+      "baseCelex": "32010R1093",
+      "versionKind": "consolidated",
+      "articleCount": 96,
+      "sourceSha256": "a4c12fec8328785111847b36e8f321efc9b8c5d2c1ec105d3db5701df78875b6"
+    },
+    {
+      "id": "02010R1094-20251110",
+      "baseCelex": "32010R1094",
+      "versionKind": "consolidated",
+      "articleCount": 93,
+      "sourceSha256": "486fc723e6f41cb853d2e4c77fb1273c9a69248e74c6bfc3b9ed34d0b8cfed2b"
+    },
+    {
+      "id": "02010R1095-20251110",
+      "baseCelex": "32010R1095",
+      "versionKind": "consolidated",
+      "articleCount": 94,
+      "sourceSha256": "033a84ee210294105b49399bf841d836629e912f15a9b5fb4547b2980727b209"
+    },
+    {
+      "id": "02013L0050-20131126",
+      "baseCelex": "32013L0050",
+      "versionKind": "consolidated",
+      "articleCount": 7,
+      "sourceSha256": "ed1f57a62575923618ecfc427aa6db88f0117205a609f7ff4aa0e017960b78ac"
+    },
+    {
+      "id": "02013R0549-20250901",
+      "baseCelex": "32013R0549",
+      "versionKind": "consolidated",
+      "articleCount": 13,
+      "sourceSha256": "51d2c185dfcd062d2fcbfdda45d1bc43453bf6f28fa6a23cb5b7a22d10314134"
+    },
+    {
+      "id": "02014L0017-20231230",
+      "baseCelex": "32014L0017",
+      "versionKind": "consolidated",
+      "articleCount": 52,
+      "sourceSha256": "497a92cb824062b108e325ab8caec471bd9b6a2708bbef1f95399c673b3c176f"
+    },
+    {
+      "id": "02014L0049-20140702",
+      "baseCelex": "32014L0049",
+      "versionKind": "consolidated",
+      "articleCount": 23,
+      "sourceSha256": "16e69ac86707bd8a7d2908f391dde9e42227dac7bef42b2bdd5099800d65ee0d"
+    },
+    {
+      "id": "02014L0051-20140522",
+      "baseCelex": "32014L0051",
+      "versionKind": "consolidated",
+      "articleCount": 9,
+      "sourceSha256": "d14bbe0e1dc8266504737d563fd56159a9ff8a4d7951a5a5f4c33978ecf56a3b"
+    },
+    {
+      "id": "02014L0059-20260511",
+      "baseCelex": "32014L0059",
+      "versionKind": "consolidated",
+      "articleCount": 148,
+      "sourceSha256": "c70b9bdc193031a44e742e4b7db04d5f7d98328031c4dc582656b92c7d07397b"
+    },
+    {
+      "id": "32014R0527",
+      "baseCelex": "32014R0527",
+      "versionKind": "original",
+      "articleCount": 6,
+      "sourceSha256": "5d757825b881a5bd366032dc82ffd6cb201243c71b5e20b44237f3cb18b1c9fe"
+    },
+    {
+      "id": "02014R0596-20260605",
+      "baseCelex": "32014R0596",
+      "versionKind": "consolidated",
+      "articleCount": 41,
+      "sourceSha256": "441af1076dc06670dfd9206b3bebedcbb03873016e97280d4d7923fb62318595"
+    },
+    {
+      "id": "02014R0806-20260611",
+      "baseCelex": "32014R0806",
+      "versionKind": "consolidated",
+      "articleCount": 114,
+      "sourceSha256": "bcfcfa7e774ff1fe6197b3f363d4efd936ef575f3b1b9fdf70c82c0cb7a7771c"
+    },
+    {
+      "id": "02014R0909-20260117",
+      "baseCelex": "32014R0909",
+      "versionKind": "consolidated",
+      "articleCount": 82,
+      "sourceSha256": "8a44d071465803444b994f87ba0db63ed830c0267520249a580775badcc43408"
+    },
+    {
+      "id": "32014R1125",
+      "baseCelex": "32014R1125",
+      "versionKind": "original",
+      "articleCount": 2,
+      "sourceSha256": "91e0e19a6213a4ae975a57cdd786bfe43691c9c44480d06c0776b1585d438dd2"
+    },
+    {
+      "id": "32015R0462",
+      "baseCelex": "32015R0462",
+      "versionKind": "original",
+      "articleCount": 19,
+      "sourceSha256": "87b65bc1992e41f099d92963bb4d5395286b6e12f617ae4ed0cd993f032961cd"
+    },
+    {
+      "id": "32015R0498",
+      "baseCelex": "32015R0498",
+      "versionKind": "original",
+      "articleCount": 7,
+      "sourceSha256": "6e4adeed6f8718ad987309f6a3ce17c7f59a1e804b45a74191b23da4dd9905f6"
+    },
+    {
+      "id": "02015R0847-20200101",
+      "baseCelex": "32015R0847",
+      "versionKind": "consolidated",
+      "articleCount": 27,
+      "sourceSha256": "9393fe9505bbcf15ebecc8a6d2c09ab596efd51144503537be17517461525e40"
+    },
+    {
+      "id": "02015R2011-20260518",
+      "baseCelex": "32015R2011",
+      "versionKind": "consolidated",
+      "articleCount": 2,
+      "sourceSha256": "e6d250b455f90e1c16df0c7e82070e0ca4a5dd438752796f8b770d8d290094d0"
+    },
+    {
+      "id": "02015R2450-20200607",
+      "baseCelex": "32015R2450",
+      "versionKind": "consolidated",
+      "articleCount": 37,
+      "sourceSha256": "ba3649b4c7eb84293ccb71c275da4934f1014dd39a0eb70b432199c39e34c7c4"
+    },
+    {
+      "id": "02015R2452-20200101",
+      "baseCelex": "32015R2452",
+      "versionKind": "consolidated",
+      "articleCount": 10,
+      "sourceSha256": "ecb6456682cb734def088441a37027cb8092a7e55847949051c757a8d0d28bdd"
+    },
+    {
+      "id": "02016L0097-20241009",
+      "baseCelex": "32016L0097",
+      "versionKind": "consolidated",
+      "articleCount": 47,
+      "sourceSha256": "5d4c069aa0d561c220efb1ea44c0a532d2e8bb80a9ebd6b4fd6596bfc7073c85"
+    },
+    {
+      "id": "02016L2341-20250117",
+      "baseCelex": "32016L2341",
+      "versionKind": "consolidated",
+      "articleCount": 68,
+      "sourceSha256": "94a222478a604dffae695e1e770a81fb08b0b1482d3418d100670d61d02d4d14"
+    },
+    {
+      "id": "32016R0824",
+      "baseCelex": "32016R0824",
+      "versionKind": "original",
+      "articleCount": 11,
+      "sourceSha256": "15717f6a0fabc05034ed8dc909650ce013ce3a23dd1a41959faab916f86e6ac5"
+    },
+    {
+      "id": "02016R1011-20260101",
+      "baseCelex": "32016R1011",
+      "versionKind": "consolidated",
+      "articleCount": 82,
+      "sourceSha256": "568be86f6091abe29bd3cbd1e3e2d94eb4aacfaf5d38c12b105e05240213d905"
+    },
+    {
+      "id": "02016R1800-20240722",
+      "baseCelex": "32016R1800",
+      "versionKind": "consolidated",
+      "articleCount": 2,
+      "sourceSha256": "4795f4edfdd7eeaa41f985e6d703ade1a2995a47f1f085c994da1eeddde2a795"
+    },
+    {
+      "id": "02017L0593-20260606",
+      "baseCelex": "32017L0593",
+      "versionKind": "consolidated",
+      "articleCount": 16,
+      "sourceSha256": "d6714bf091a9d2955d910c779a3f18f99f2d554e5ba96c109e9fd921fccadfcd"
+    },
+    {
+      "id": "32017L0828",
+      "baseCelex": "32017L0828",
+      "versionKind": "original",
+      "articleCount": 4,
+      "sourceSha256": "0224659f3940a92c921977851f80d755313a052bae9d99b13be6c966e9d99355"
+    },
+    {
+      "id": "02017R0565-20220802",
+      "baseCelex": "32017R0565",
+      "versionKind": "consolidated",
+      "articleCount": 92,
+      "sourceSha256": "5ed4f3bd49ad36bf564df27721f08156168dc6a08b281221a62766d452e2222f"
+    },
+    {
+      "id": "02017R1129-20260605",
+      "baseCelex": "32017R1129",
+      "versionKind": "consolidated",
+      "articleCount": 51,
+      "sourceSha256": "d65b7cdae5e99ea35dfddad6ad5bf3b6170be50e734367cf5461ae2d21011a43"
+    },
+    {
+      "id": "32017R1943",
+      "baseCelex": "32017R1943",
+      "versionKind": "original",
+      "articleCount": 11,
+      "sourceSha256": "f2580926efbdb4d5814dce405d7e5264d8cc5bbb5b220172d3dddfa96ba51705"
+    },
+    {
+      "id": "02017R2055-20250220",
+      "baseCelex": "32017R2055",
+      "versionKind": "consolidated",
+      "articleCount": 17,
+      "sourceSha256": "f1fc264f4dc19ca191f21a61c4379fc5f88d4ce0baf38492b4bec40f10db8f04"
+    },
+    {
+      "id": "02017R2358-20220802",
+      "baseCelex": "32017R2358",
+      "versionKind": "consolidated",
+      "articleCount": 13,
+      "sourceSha256": "934f8375f60c0e4ab5b12991ae9fa21af85fa3a492087a0289f148f649c46954"
+    },
+    {
+      "id": "02017R2359-20220802",
+      "baseCelex": "32017R2359",
+      "versionKind": "consolidated",
+      "articleCount": 20,
+      "sourceSha256": "e82d5eca82f00364d8619ce8b34df6a5e81a413de12cada69b03d04aa7dfb5cc"
+    },
+    {
+      "id": "32018R0231",
+      "baseCelex": "32018R0231",
+      "versionKind": "original",
+      "articleCount": 14,
+      "sourceSha256": "7df8c9078a7ce0f0805de17fc8301aa2f531880f5aace7481912f700d353209a"
+    },
+    {
+      "id": "32018R0633",
+      "baseCelex": "32018R0633",
+      "versionKind": "original",
+      "articleCount": 2,
+      "sourceSha256": "bff681a96827dfe21b49b8572bebdc996c579fed12770ebb09426888b27a0d77"
+    },
+    {
+      "id": "02019L0878-20201228",
+      "baseCelex": "32019L0878",
+      "versionKind": "consolidated",
+      "articleCount": 4,
+      "sourceSha256": "9de00d7ed9a070863f327849a82bd21b470c6236e7e13c8cea304373dd7d6c5c"
+    },
+    {
+      "id": "02019R1238-20240109",
+      "baseCelex": "32019R1238",
+      "versionKind": "consolidated",
+      "articleCount": 75,
+      "sourceSha256": "262f04ecbcdd40f217f4b3a1f9acf42557b13db444c48bd6306c2ace0c8a7e0b"
+    },
+    {
+      "id": "02019R2088-20260702",
+      "baseCelex": "32019R2088",
+      "versionKind": "consolidated",
+      "articleCount": 22,
+      "sourceSha256": "ecc5d80163103a5c1dbc4c54c2096bb1d57481a50d18af14f9e967851a968f42"
+    },
+    {
+      "id": "32021L1269",
+      "baseCelex": "32021L1269",
+      "versionKind": "original",
+      "articleCount": 4,
+      "sourceSha256": "a52e9a4d5db3723db928d764d3c1324229f02d8291ce366a74787337f8b5e25d"
+    },
+    {
+      "id": "32021L1270",
+      "baseCelex": "32021L1270",
+      "versionKind": "original",
+      "articleCount": 4,
+      "sourceSha256": "4b9b400f715fc61948d43e3cfa523b94872e3af6c965298f4a88de8d62cfd78b"
+    },
+    {
+      "id": "02021R0451-20240901",
+      "baseCelex": "32021R0451",
+      "versionKind": "consolidated",
+      "articleCount": 24,
+      "sourceSha256": "38f1203659f254679dab9595aa7a689f5f5504da527f068a44e95020f89faca8"
+    },
+    {
+      "id": "32021R0896",
+      "baseCelex": "32021R0896",
+      "versionKind": "original",
+      "articleCount": 2,
+      "sourceSha256": "59e8bebc7841051bc1ce7761fd585d8d186b4fe17dae5c6f9790b3c513bcc8a1"
+    },
+    {
+      "id": "32021R0897",
+      "baseCelex": "32021R0897",
+      "versionKind": "original",
+      "articleCount": 18,
+      "sourceSha256": "67353420b6c551d4630238f19da7901dc406510dafd60d13974ef27370f889e5"
+    },
+    {
+      "id": "02022R1302-20260208",
+      "baseCelex": "32022R1302",
+      "versionKind": "consolidated",
+      "articleCount": 23,
+      "sourceSha256": "4a165fbe67d0ed4c96c798d9f2d3e8bf23b5c3457791add93a5f3fb195784a77"
+    },
+    {
+      "id": "32023R0894",
+      "baseCelex": "32023R0894",
+      "versionKind": "original",
+      "articleCount": 40,
+      "sourceSha256": "438b61bfea258f9f23c5143069bda9da752d978085fe10326448c05b0fe44c5b"
+    },
+    {
+      "id": "02023R2631-20240109",
+      "baseCelex": "32023R2631",
+      "versionKind": "consolidated",
+      "articleCount": 73,
+      "sourceSha256": "c978ddd5c61c50af7dd234c730125b31d66ca60e53b35a96d4a38b79d0301b92"
+    },
+    {
+      "id": "32024L0927",
+      "baseCelex": "32024L0927",
+      "versionKind": "original",
+      "articleCount": 5,
+      "sourceSha256": "a626ddd9e4370c31057d18c89d0b1d8cdab63685d23cc5ecc709838f94677885"
+    },
+    {
+      "id": "32024L1619",
+      "baseCelex": "32024L1619",
+      "versionKind": "original",
+      "articleCount": 4,
+      "sourceSha256": "26d94d1c12e5c08cf8bdd05d6835eba13b1537bda97d136610267b62dafe38ba"
+    },
+    {
+      "id": "32024R0910",
+      "baseCelex": "32024R0910",
+      "versionKind": "original",
+      "articleCount": 7,
+      "sourceSha256": "3acd589f10692099ebd101d71f8ac5a495221717e16b99db6998211c7850a69e"
+    }
+  ],
+  "failures": [
+    {
+      "baseCelex": "32022R2554",
+      "requestedCelex": "02022R2554-20221227",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:09.696Z"
+    },
+    {
+      "baseCelex": "32006L0048",
+      "requestedCelex": "02006L0048-20140101",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:13.600Z"
+    },
+    {
+      "baseCelex": "32006L0049",
+      "requestedCelex": "02006L0049-20140101",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:13.975Z"
+    },
+    {
+      "baseCelex": "32003L0071",
+      "requestedCelex": "02003L0071-20190721",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:14.680Z"
+    },
+    {
+      "baseCelex": "32003L0071",
+      "requestedCelex": "32003L0071",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:14.989Z"
+    },
+    {
+      "baseCelex": "32015R0035",
+      "requestedCelex": "02015R0035-20241114",
+      "stage": "content",
+      "message": "Official response exceeds configured 40 MB import limit.",
+      "retrievedAt": "2026-10-09T16:34:15.020Z"
+    },
+    {
+      "baseCelex": "32003L0006",
+      "requestedCelex": "02003L0006-20160703",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:17.329Z"
+    },
+    {
+      "baseCelex": "32003L0041",
+      "requestedCelex": "02003L0041-20190113",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:17.356Z"
+    },
+    {
+      "baseCelex": "32003L0041",
+      "requestedCelex": "32003L0041",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:17.667Z"
+    },
+    {
+      "baseCelex": "32003L0006",
+      "requestedCelex": "32003L0006",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:17.717Z"
+    },
+    {
+      "baseCelex": "32003L0124",
+      "requestedCelex": "02003L0124-20031224",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:17.722Z"
+    },
+    {
+      "baseCelex": "32003L0125",
+      "requestedCelex": "02003L0125-20031224",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:17.771Z"
+    },
+    {
+      "baseCelex": "32003L0125",
+      "requestedCelex": "32003L0125",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:18.025Z"
+    },
+    {
+      "baseCelex": "32003L0124",
+      "requestedCelex": "32003L0124",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:18.159Z"
+    },
+    {
+      "baseCelex": "32006R1781",
+      "requestedCelex": "02006R1781-20061228",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:18.218Z"
+    },
+    {
+      "baseCelex": "32004L0072",
+      "requestedCelex": "32004L0072",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:18.327Z"
+    },
+    {
+      "baseCelex": "32015R0035",
+      "requestedCelex": "32015R0035",
+      "stage": "content",
+      "message": "Official response exceeds configured 40 MB import limit.",
+      "retrievedAt": "2026-10-09T16:34:18.438Z"
+    },
+    {
+      "baseCelex": "32010R0583",
+      "requestedCelex": "02010R0583-20100730",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:18.490Z"
+    },
+    {
+      "baseCelex": "32014R0680",
+      "requestedCelex": "02014R0680-20210628",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:19.529Z"
+    },
+    {
+      "baseCelex": "32017L0828",
+      "requestedCelex": "02017L0828-20170520",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:19.911Z"
+    },
+    {
+      "baseCelex": "32017R1943",
+      "requestedCelex": "02017R1943-20171026",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:20.104Z"
+    },
+    {
+      "baseCelex": "31978L0660",
+      "requestedCelex": "01978L0660-20130719",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:21.302Z"
+    },
+    {
+      "baseCelex": "31978L0660",
+      "requestedCelex": "31978L0660",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:21.594Z"
+    },
+    {
+      "baseCelex": "32006L0046",
+      "requestedCelex": "02006L0046-20060905",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:23.550Z"
+    },
+    {
+      "baseCelex": "32005L0060",
+      "requestedCelex": "02005L0060-20170626",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:23.704Z"
+    },
+    {
+      "baseCelex": "32014R0680",
+      "requestedCelex": "32014R0680",
+      "stage": "content",
+      "message": "Official response exceeds configured 40 MB import limit.",
+      "retrievedAt": "2026-10-09T16:34:23.758Z"
+    },
+    {
+      "baseCelex": "32008R0295",
+      "requestedCelex": "02008R0295-20210101",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:24.398Z"
+    },
+    {
+      "baseCelex": "32009R0250",
+      "requestedCelex": "02009R0250-20210101",
+      "stage": "parse",
+      "message": "Ingen svensk artikelstruktur hittades; källan publiceras inte som verifierat läsbar rättsakt.",
+      "retrievedAt": "2026-10-09T16:34:24.654Z"
+    },
+    {
+      "baseCelex": "32018R0231",
+      "requestedCelex": "02018R0231-20180217",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:27.442Z"
+    },
+    {
+      "baseCelex": "32023R0894",
+      "requestedCelex": "02023R0894-20230505",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:28.336Z"
+    },
+    {
+      "baseCelex": "32024R0910",
+      "requestedCelex": "02024R0910-20240325",
+      "stage": "content",
+      "message": "Official content HTTP 404; no bypass attempted.",
+      "retrievedAt": "2026-10-09T16:34:28.744Z"
+    }
+  ],
+  "coverage": {
+    "linkedActCount": 93,
+    "importedActCount": 84,
+    "missingBaseCelex": [
+      "31978L0660",
+      "32003L0006",
+      "32003L0041",
+      "32003L0071",
+      "32003L0124",
+      "32003L0125",
+      "32004L0072",
+      "32014R0680",
+      "32015R0035"
+    ],
+    "note": "Avgränsad import av svenska rättsakter som FFFS-katalogen hänvisar till. Träffar är hänvisningar, inte automatiska tillämplighetsbeslut. Saknade texter och misslyckade konsolideringar redovisas separat."
+  },
+  "officialDocumentation": "https://op.europa.eu/en/web/cellar/cellar-data",
+  "ossPreflight": "https://github.com/cyanheads/eur-lex-mcp-server/tree/v0.18.2",
+  "parser": "htmlparser2; positive Swedish headings; quoted article headings inside tables excluded; duplicate articles rejected"
+}

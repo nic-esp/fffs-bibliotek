@@ -1,0 +1,1508 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.18.0 # generated_on:20260820-1503 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32017L0593 — SV — 06.06.2026</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02017L0593 — SV — 06.06.2026 — 002.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017L0593">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-643f48f4-60e2-413a-b089-2205e71db6a7">
+                        KOMMISSIONENS DELEGERADE DIREKTIV (EU) 2017/593</p>
+            <p class="title-doc-first" id="id-4520f6a1-b36e-4ac3-b7f0-f41fb665f87c">av den 7 april 2016
+                     </p>
+            <p class="title-doc-first" id="id-3b917430-8fa4-474e-91fe-ff811942b944">om komplettering av Europaparlamentets och rådets direktiv 2014/65/EU i fråga om skydd av finansiella instrument och medel som tillhör kunder, produktstyrningskrav och regler för tillhandahållande eller mottagande av avgifter, provisioner eller andra monetära eller icke-monetära förmåner</p>
+            <p class="title-doc-last" id="id-de9eac4a-d2d9-46dc-8d59-50f3f7e7e1c4">
+               <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017L0593">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-e3027ac5-120a-41ba-9012-ba273c2379a9">(EGT L 087 31.3.2017, s. 500)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrat genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021L1269">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-dd97a1b2-ca62-4cf5-b3f6-04f809d5159c">
+               <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021L1269">
+                              KOMMISSIONENS DELEGERADE DIREKTIV (EU) 2021/1269 av den 21 april 2021
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 277</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">137</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">2.8.2021</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32026L0374"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026L0374">►M2</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-dc748118-416d-4755-aee0-c68fb2221173">
+               <a href="http://publications.europa.eu/resource/celex/32026L0374"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026L0374">
+                              KOMMISSIONENS DELEGERADE DIREKTIV (EU) 2026/374 av den 20 februari 2026
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 374</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">2.6.2026</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <p class="hd-modifiers">Rättat genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32017L0593R%2801%29"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017L0593R(01)">►C1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member" id="id-f2472dfa-1282-452e-a1a0-7c3b49a1720d">
+               <a href="http://publications.europa.eu/resource/celex/32017L0593R%2801%29"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017L0593R(01)">Rättelse, EGT L 210, 15.8.2017, s.  17 (2017/593)</a>
+            </p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <div class="eli-container">
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32017L0593"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017L0593">▼B</a>
+      </p>
+      <div class="eli-main-title" id="tit_1">
+         <p class="title-doc-first" id="id-9b6c070b-b3ad-4ab5-9851-8e3961a10ab5">
+               KOMMISSIONENS DELEGERADE DIREKTIV (EU) 2017/593</p>
+         <p class="title-doc-first" id="id-48bc3aa1-0e9e-4381-a3cf-b430a7df254e">av den 7 april 2016
+            </p>
+         <p class="title-doc-first" id="id-60776af3-5652-4dee-8345-86eff75305db">om komplettering av Europaparlamentets och rådets direktiv 2014/65/EU i fråga om skydd av finansiella instrument och medel som tillhör kunder, produktstyrningskrav och regler för tillhandahållande eller mottagande av avgifter, provisioner eller andra monetära eller icke-monetära förmåner</p>
+         <p class="title-doc-last" id="id-6b323a65-1fb2-4fb9-ad6b-bf05e08e6a7d">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <p>
+            <br/>
+            <br/>
+         </p>
+         <div id="cpt_I">
+            <p class="title-division-1" id="id-530b4a90-2729-4050-beec-47ff8a695c00">KAPITEL I</p>
+            <p class="title-division-2" id="id-7a1e32f5-3d9b-42fd-a860-7735dbc40886">
+               <span class="boldface">TILLÄMPNINGSOMRÅDE</span>
+            </p>
+            <div class="eli-subdivision" id="art_1">
+               <p class="title-article-norm" id="id-5dbc399f-66ad-42e1-8e08-a57d49bd7238">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="stitle-article-norm">Tillämpningsområde och definitioner</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Detta direktiv är tillämpligt på värdepappersföretag, på förvaltningsbolag i enlighet med artikel 6.4 i Europaparlamentets och rådets direktiv 2009/65/EG (<a href="#E0001" id="src.E0001">
+                        <span class="superscript">1</span>
+                     </a>) och på förvaltare av alternativa investeringsfonder i enlighet med artikel 6.6 i Europaparlamentets och rådets direktiv 2011/61/EU (<a href="#E0002" id="src.E0002">
+                        <span class="superscript">2</span>
+                     </a>).</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <span>
+                        <a href="http://publications.europa.eu/resource/celex/32017L0593R%2801%29"
+                           onclick="window.open(this.href,'_blank'); return false;"
+                           title="32017L0593R(01): REPLACED">
+                           <span class="boldface">►C1</span>
+                        </a>
+                     </span> I detta direktiv ska hänvisningar till värdepappersföretag och finansiella instrument i kapitlen II, III och IV omfatta kreditinstitut och strukturerade insättningar i samband med alla de krav som avses i artikel 1.3 och 1.4 i direktiv 2014/65/EU och gäller följande definitioner:<span class="boldface"> ◄ </span>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">
+                     <span class="italics">transaktion för värdepappersfinansiering:</span> transaktioner enligt definitionen i artikel 3.11 i Europaparlamentets och rådets förordning (EU) 2015/2365 (<a href="#E0003" id="src.E0003">
+                        <span class="superscript">3</span>
+                     </a>) om transparens i transaktioner för värdepappersfinansiering och om återanvändning.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">
+                        <span class="italics">godkänd penningmarknadsfond:</span> ett företag för kollektiva investeringar som auktoriserats enligt direktiv 2009/65/EG, eller som omfattas av tillsyn och, i förekommande fall, som auktoriserats av en myndighet enligt nationell lagstiftning i en medlemsstat, och som uppfyller följande villkor:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Dess primära investeringsmål ska vara att bevara nettovärdet på företagets tillgångar, antingen konstant till pari (exklusive avkastning) eller till värdet av investerarens initiala kapital plus avkastning.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">För att kunna uppnå det primära syftet med investeringen ska företaget enbart investera i högkvalitativa penningmarknadsinstrument med en löptid eller återstående löptid på högst 397 dagar, eller med regelbundna räntejusteringar som överensstämmer med löptiden, och med en vägd genomsnittlig löptid på 60 dagar. Det får även uppnå detta mål genom att som en sidotjänst investera i insättningar hos kreditinstitut.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Det ska tillhandahålla likvida medel genom avveckling samma dag eller dagen efter.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm">Vid tillämpning av punkt b ska ett penningmarknadsinstrument anses vara av hög kvalitet om förvaltningsbolaget/värdepappersföretaget gör en egen dokumenterad bedömning av penningmarknadsinstrumentets kreditkvalitet som gör att det kan anse att penningmarknadsinstrumentet är av hög kvalitet. Om instrumentet kreditvärderats av ett eller flera kreditvärderingsinstitut som är registrerade hos och övervakas av ESMA ska förvaltningsbolaget/värdepappersföretaget i sin interna bedömning ta hänsyn till bl.a. dessa kreditvärderingar.</p>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021L1269: INSERTED">▼M1</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">
+                     <span class="italics">hållbarhetsfaktorer</span>: hållbarhetsfaktorer enligt definitionen i artikel 2.24 i Europaparlamentets och rådets förordning (EU) 2019/2088 (<a href="#E0004" id="src.E0004">
+                        <span class="superscript">4</span>
+                     </a>).</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+            </div>
+         </div>
+         <div id="cpt_II">
+            <p class="title-division-1" id="id-6aafa0b8-c996-4a15-94a0-8d7a14c9bb8b">KAPITEL II</p>
+            <p class="title-division-2" id="id-028564a0-7819-4e73-b53c-9cf3e03f7082">
+               <span class="boldface">SKYDD AV KUNDERS FINANSIELLA INSTRUMENT OCH MEDEL</span>
+            </p>
+            <div class="eli-subdivision" id="art_2">
+               <p class="title-article-norm" id="id-9e010f14-d78d-4036-91ef-6221bf071448">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="stitle-article-norm">Skydd av kunders finansiella instrument och medel</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen uppfyller följande krav:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska föra register och bokföring som gör att den i sina räkenskaper när som helst och utan dröjsmål kan särskilja en kunds värdepapper från en annans och i förekommande fall från värdepappersföretagets egna tillgångar.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska bevara sina uppgifter och föra räkenskaper på ett sådant sätt att de kan garantera att uppgifterna är riktiga och stämmer överens med de finansiella instrument och medel som de innehar för kunders räkning och att de kan användas som verifieringskedja.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska regelbundet stämma av sina interna räkenskaper och uppgifter i förhållande till motsvarande uppgifter för den tredje part som förvaltar tillgångarna.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska vidta nödvändiga åtgärder för att säkerställa att de kunders finansiella instrument som placerats hos en tredje part, i enlighet med artikel 3, kan identifieras separat från värdepappersföretagens egna finansiella instrument och från den tredje partens finansiella instrument genom konton med olika benämningar i den tredje partens räkenskaper eller genom andra likvärdiga åtgärder som ger samma skyddsnivå.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>e) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska vidta nödvändiga åtgärder för att säkerställa att de kundmedel som i enlighet med artikel 4 placeras i en centralbank, ett kreditinstitut eller en bank som auktoriserats i ett tredjeland eller en godkänd penningmarknadsfond sätts på ett konto eller konton som kan identifieras separat från de konton som används för medel som tillhör värdepappersföretaget.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>f) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska införa lämpliga organisatoriska åtgärder för att minimera riskerna för förlust eller värdeminskning av kundtillgångar eller av rättigheter som är förenade med dessa tillgångar, till följd av missbruk av tillgångarna, bedrägerier, bristfällig förvaltning, bristande dokumentation eller försumlighet.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om värdepappersföretagen på grundval av tillämplig lagstiftning, däribland särskilt förmögenhetsrättslig lagstiftning och insolvensrätt, inte kan följa kraven i punkt 1 i denna artikel för att skydda kundernas rättigheter i syfte att uppfylla kraven i artikel 16.8 och 16.9 i direktiv 2014/65/EU ska medlemsstaterna kräva att värdepappersföretagen inför arrangemang som säkerställer att kundernas tillgångar skyddas så att målen i punkt 1 i denna artikel uppnås.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Om den tillämpliga lagstiftningen inom den jurisdiktion där kundens medel eller finansiella instrument innehas hindrar värdepappersföretagen från att följa punkt 1 d eller 1 e ska medlemsstaterna fastställa krav som har en likvärdig effekt när det gäller att skydda kundernas rättigheter.</div>
+               </div>
+               <p class="norm">Vid tillämpning av likvärdiga krav i enlighet med artikel 2.1 d eller e ska medlemsstaterna se till att värdepappersföretagen underrättar sina kunder om att de i dessa fall inte omfattas av bestämmelserna i direktiv 2014/65/EU och detta direktiv.</p>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska se till att säkerhetsintressen, panträttigheter och kvittningsrättigheter avseende kundernas finansiella instrument eller medel som ger en tredje part möjlighet att avyttra en kunds finansiella instrument eller medel i syfte att driva in skulder som inte avser kunden eller tillhandahållande av tjänster till kunden inte är tillåtna, utom i det fall då detta krävs enligt tillämplig lagstiftning i ett tredjeland inom vars jurisdiktion kundens medel eller finansiella instrument innehas</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska kräva att värdepappersföretag i det fall de är tvungna att ingå avtal som ger upphov till säkerhetsintressen, panträttigheter och kvittningsrättigheter underrättar kunderna om detta och anger de risker som är förbundna med dessa arrangemang.</p>
+               <p class="norm">Om ett företag beviljar säkerhetsintressen, panträttigheter och kvittningsrättigheter avseende kunders finansiella instrument eller medel eller om företaget har underrättats om att sådana beviljats ska dessa säkerhetsintressen, panträttigheter och kvittningsrättigheter anges i kundavtal och i företagets egna räkenskaper i syfte att klargöra vilka ägarförhållanden som gäller för kundens tillgångar, t.ex. vid insolvens.</p>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretag ser till att information rörande kunders finansiella instrument och medel finns lätt tillgänglig för följande enheter: behöriga myndigheter, tillsatta konkursförvaltare och ansvariga för resolution av institut på obestånd. Den information som ska göras tillgänglig ska omfatta följande:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Relaterade interna räkenskaper och uppgifter som gör att det lätt går att identifiera vilken behållning varje enskild kund har i form av medel och finansiella instrument.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om värdepappersföretag innehar kundmedel i enlighet med artikel 4, närmare uppgifter om de konton på vilka kundmedlen placerats och relevanta avtal med dessa företag.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om värdepappersföretag innehar finansiella instrument i enlighet med artikel 3, närmare uppgifter om de konton som öppnats hos tredje parter och om relevanta avtal med dessa tredje parter samt närmare uppgifter om relevanta avtal med dessa värdepappersföretag.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Närmare information om tredje parter som utför relaterade (utlagda) arbetsuppgifter och närmare information om arbetsuppgifter som lagts ut på entreprenad.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>e) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Nyckelpersoner vid företaget som deltar i relaterade processer, bland annat de som är ansvariga för övervakningen av företagets skyldigheter vad gäller skydd av kundernas tillgångar.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>f) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Avtal som är relevanta för att fastställa kundens äganderätt till tillgångar.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p class="title-article-norm" id="id-c92b8eff-1129-447f-a935-4ae48d596180">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="stitle-article-norm">Placering av kunders finansiella instrument</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska tillåta att värdepappersföretagen placerar finansiella instrument som de innehar för sina kunders räkning på ett konto eller konton som öppnats hos en tredje part förutsatt att företaget handlar med all vederbörlig skicklighet, omsorg och aktsamhet när det väljer, utser och regelbundet ser över den tredje parten och arrangemangen för innehav och förvaring av de finansiella instrumenten.</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska särskilt kräva att värdepappersföretagen beaktar den tredje partens sakkunskaper och anseende på marknaden samt alla rättsliga krav som avser innehav av dessa finansiella instrument och som skulle kunna påverka kundernas rättigheter negativt.</p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om ett värdepappersföretag avser att placera kunders finansiella instrument hos en tredje part ska medlemsstaterna säkerställa att värdepappersföretaget endast placerar de finansiella instrumenten hos en tredje part i en sådan jurisdiktion där förvaring av finansiella instrument för en annan persons räkning omfattas av särskild reglering och tillsyn och att denna tredje part omfattas av denna särskilda reglering och tillsyn.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretagen inte placerar finansiella instrument som innehas för kunds räkning hos en tredje part i ett tredjeland som inte reglerar innehav och förvaring av finansiella instrument för en annan persons räkning om inte ett av följande villkor är uppfyllt:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Karaktären på de finansiella instrumenten eller investeringstjänsterna som är knutna till dessa instrument kräver att de ska placeras hos en tredje part i det tredje landet.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om de finansiella instrumenten innehas för en professionell kunds räkning och denne skriftligt begär att företaget ska placera dem hos en tredje part i det tredje landet.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska se till att kraven i punkterna 2 och 3 även tillämpas i det fall den tredje parten har delegerat någon av sina uppgifter i samband med innehav och förvaring av finansiella instrument till en annan tredje part.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p class="title-article-norm" id="id-82e92d8c-ecb3-4ee3-b5b0-387cfca7190b">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="stitle-article-norm">Placering av kundmedel</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">När värdepappersföretag tar emot kundmedel ska medlemsstaterna kräva att de omgående placerar dessa medel på ett eller flera konton som öppnats i</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">en centralbank,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">ett kreditinstitut som har auktoriserats i enlighet med Europaparlamentets och rådets direktiv direktiv 2013/36/EU (<a href="#E0005" id="src.E0005">
+                                 <span class="superscript">5</span>
+                              </a>),</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">en bank som har auktoriserats i tredjeland, eller i</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">en godkänd penningmarknadsfond.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm">Det första stycket ska inte gälla kreditinstitut som auktoriserats enligt direktiv 2013/36/EU med avseende på insättningar i den mening som avses i det direktivet och som innehas av institutet.</p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om värdepappersföretag inte placerar kundmedel hos en centralbank, ska medlemsstaterna kräva att de handlar med all vederbörlig skicklighet, omsorg och aktsamhet när det väljer, utser och regelbundet ser över kreditinstitutet, banken eller penningmarknadsfonden där medlen är placerade och arrangemangen för innehav och förvaring av medlen samt att de tar hänsyn till att diversifiering av dessa medel ingår i kravet på vederbörlig aktsamhet.</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska särskilt säkerställa att värdepappersföretagen beaktar dessa instituts eller penningmarknadsfonders sakkunskaper och anseende på marknaden för att säkerställa skydd av kundernas rättigheter samt krav i alla lagar och bestämmelser eller praxis på marknaden som avser innehav av kundmedel och som skulle kunna påverka kundernas rättigheter negativt.</p>
+               <p class="norm">Medlemsstaterna ska kräva att värdepappersföretagen säkerställer att kunderna uttryckligen har gett sitt samtycke till att deras medel placeras i en godkänd penningmarknadsfond. För att säkerställa att kunderna verkligen kan utöva sin rätt till samtycke ska värdepappersföretagen underrätta kunderna om att medel som placeras i en godkänd penningmarknadsfond inte kommer att innehas i enlighet med de krav som gäller för skydd av kunders medel som anges i detta direktiv.</p>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Om värdepappersföretagen placerar kundmedel hos ett kreditinstitut, en bank eller en penningmarknadsfond som tillhör den egna företagsgruppen ska medlemsstaterna kräva att värdepappersföretagen begränsar de medel de placerar i en sådan företagsgrupp eller kombination av företagsgrupper så att de inte överstiger 20 % av alla sådana medel.</div>
+               </div>
+               <p class="norm">Ett värdepappersföretag behöver inte respektera denna begränsning om det kan påvisa att kravet i föregående stycke inte är proportionellt med hänsyn till arten, omfattningen och komplexiteten hos företagets verksamhet, den säkerhet som erbjuds av de tredje parter som avses i det föregående stycket samt dessutom även den ringa volym kundmedel värdepappersföretaget innehar. Värdepappersföretag ska regelbundet se över den bedömning som gjorts i enlighet med detta stycke och lämna sina ursprungliga och reviderade bedömningar till de behöriga nationella myndigheterna.</p>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p class="title-article-norm" id="id-aca95f2f-492c-41a6-be22-15944b03a834">Artikel 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="stitle-article-norm">Användning av kunders finansiella instrument</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska inte tillåta att värdepappersföretagen får ingå avtal om transaktioner för värdepappersfinansiering med avseende på finansiella instrument som de innehar för en kunds räkning, eller på annat sätt utnyttjar dessa finansiella instrument för egen räkning eller för en annan persons eller någon annan av företagets kunders räkning, om inte båda följande villkor är uppfyllda:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Kunden ska på förhand ha gett sitt uttryckliga samtycke till användning av instrumenten på fastställda villkor, vilket tydligt bekräftats skriftligen genom underskrift eller en motsvarande.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Användning av kundens finansiella instrument ska vara begränsad till de fastställda villkor som den berörda kunden har samtyckt till.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna får inte tillåta att värdepappersföretag får ingå avtal om transaktioner för värdepappersfinansiering med avseende på finansiella instrument som innehas för en kunds räkning på ett samlingskonto som hålls av en tredje part eller på annat sätt utnyttjar finansiella instrument som innehas på ett sådant konto för egen eller för en annan persons räkning om inte minst ett av följande villkor, utöver de villkor som anges i punkt 1, är uppfyllda:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Alla kunder vars finansiella instrument innehas tillsammans på ett samlingskonto ska på förhand ha gett sitt uttryckliga samtycke enligt punkt 1 a.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Värdepappersföretaget ska ha inrättat system och kontroller för att säkerställa att bara finansiella instrument som tillhör kunder som på förhand uttryckligen har gett sitt samtycke enligt punkt 1 a används på ett sådant sätt.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm">Värdepappersföretagets uppgifter ska innehålla upplysningar om den kund på vars instruktioner det finansiella instrumentet används och om antalet använda finansiella instrument som tillhör varje kund som har gett sitt samtycke, för att en eventuell förlust ska kunna fördelas korrekt.</p>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretagen vidtar lämpliga åtgärder för att förhindra icke godkänd användning av kunders finansiella instrument för egen räkning eller för någon annan persons räkning såsom</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">ingående av avtal med kunder om åtgärder som värdepappersföretaget ska vidta i det fall kunden inte har tillräcklig täckning på sitt konto på avvecklingsdagen, t.ex. lån av motsvarande värdepapper på kundens vägnar eller nettning av positionen,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">nära övervakning av värdepappersföretaget av dess förväntade förmåga att leverera på avvecklingsdagen och införande av korrigerande åtgärder om de inte kan leverera, och</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">nära övervakning och omedelbar infordran av icke levererade värdepapper som är utestående på avvecklingsdagen eller senare.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretagen antar särskilda arrangemang för alla kunder i syfte att se till att den som lånar en kunds finansiella instrument ställer lämplig säkerhet och att företaget övervakar att denna säkerhet fortsätter att vara lämplig och vidtar nödvändiga åtgärder för att bibehålla balansen i förhållande till kundinstrumentets värde.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretagen inte ingår sådana avtal som är förbjudna enligt artikel 16.10 i direktiv 2014/65/EU.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p class="title-article-norm" id="id-abe3ad05-90d0-4717-a699-ba6467f9e1fe">Artikel 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="stitle-article-norm">Olämplig användning av avtal om finansiell äganderättsöverföring</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen noga överväger, och kan visa att det gjort så, användningen av avtal om finansiell äganderättsöverföring i samband med förhållandet mellan kundens skyldigheter gentemot företaget och de av kundens tillgångar som omfattas av den finansiella äganderättsöverföringen.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">När man överväger och dokumenterar lämpligheten av att använda avtal om finansiell äganderättsöverföring ska värdepappersföretagen beakta samtliga följande faktorer:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om det bara finns ett svagt samband mellan kundens skyldigheter gentemot företaget och användningen av ett avtal om finansiell äganderättsöverföring, bl.a. om kundens skulder till företaget är små eller försumbara.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om de kundens medel och finansiella instrument som omfattas av avtal om finansiell äganderättsöverföring uppgår till ett belopp som vida överstiger kundens skyldigheter, eller till och med är obegränsat om kunden har en skyldighet gentemot företaget överhuvudtaget.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om kundens samtliga medel och finansiella instrument omfattas av avtal om finansiell äganderättsöverföring utan hänsyn tagen till vilka skyldigheter varje kund har gentemot företaget.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">När värdepappersföretagen använder avtal om finansiell äganderättsöverföring ska de upplysa professionella kunder och godtagbara motparter om riskerna samt om effekten på kundens medel och finansiella instrument.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p class="title-article-norm" id="id-e131b7a4-f424-4604-b382-3f410f4c45dc">Artikel 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="stitle-article-norm">Styrningsarrangemang för skyddet av kundernas tillgångar</p>
+               </div>
+               <p class="norm">Medlemsstaterna ska säkerställa att värdepappersföretagen utser en enda ansvarig tjänsteman som har tillräcklig kompetens och befogenhet med särskilt ansvar för frågor rörande företagens uppfyllande av sina skyldigheter i fråga om skydd av kunders finansiella instrument och medel.</p>
+               <p class="norm">Medlemsstaterna ska ge värdepappersföretagen rätt att besluta, förutsatt att bestämmelserna i detta direktiv respekteras fullt ut, om den utsedda tjänstemannen uteslutande ska vara ansvarig för denna uppgift eller om tjänstemannen kan utföra denna uppgift verkningsfullt samtidigt med andra uppgifter.</p>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p class="title-article-norm" id="id-67a44c3f-83ce-4c1a-9e9d-d00e059c4160">Artikel 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="stitle-article-norm">De externa revisorernas rapporter</p>
+               </div>
+               <p class="norm">Medlemsstaterna ska kräva att värdepappersföretagen säkerställer att deras externa revisorer åtminstone en gång per år rapporterar till den behöriga myndigheten i företagets hemmedlemsstat om huruvida företagets arrangemang enligt artikel 16.8, 16.9 och 16.10 i direktiv 2014/65/EU och detta kapitel är lämpliga.</p>
+            </div>
+         </div>
+         <div id="cpt_III">
+            <p class="title-division-1" id="id-19f7586b-6233-4ae1-888a-b775dfd532c6">KAPITEL III</p>
+            <p class="title-division-2" id="id-1eb823ce-17ee-4f42-8ef7-a55b66a6df70">
+               <span class="boldface">PRODUKTSTYRNINGSKRAV</span>
+            </p>
+            <div class="eli-subdivision" id="art_9">
+               <p class="title-article-norm" id="id-1e44c71a-7d1d-45ed-9de3-8287b7064e40">Artikel 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="stitle-article-norm">Produktstyrningskrav för värdepappersföretag som konstruerar finansiella instrument</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen följer denna artikel när de konstruerar finansiella instrument, vilket omfattar skapande, utveckling, emission och/eller utformning av finansiella instrument.</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska kräva att värdepappersföretagen när de konstruerar finansiella instrument, på ett lämpligt och proportionellt sätt, följer de relevanta kraven i punkterna 2 till 15, med hänsyn tagen till karaktären på det finansiella instrumentet, investeringstjänsten och produktens målmarknad.</p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen fastställer, genomför och upprätthåller förfaranden och åtgärder som syftar till att säkerställa att de finansiella instrumenten konstrueras i överensstämmelse med kraven på en korrekt hantering av intressekonflikter, bland annat ersättningar. Värdepappersföretag som konstruerar finansiella instrument ska särskilt se till att det finansiella instrumentets utformning, bland annat dess egenskaper, inte påverkar slutkunderna negativt eller leder till problem med marknadsintegriteten genom att ge företagen möjlighet att reducera och/eller helt göra sig av med sin egen risk eller sina egna exponeringar mot produktens underliggande tillgångar i det fall värdepappersföretaget redan innehar de underliggande tillgångarna för egen räkning.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen när de konstruerar ett nytt finansiellt instrument undersöker om det finns potentiella intressekonflikter. Företagen ska särskilt bedöma om det finansiella instrumentet skapar en situation som kan påverka slutkunderna negativt om de tar</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">en exponering som är motsatsen till den som företaget själv hade tidigare eller</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">en exponering som är motsatsen till den som företaget vill inneha efter försäljningen av produkten.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska se till att värdepappersföretagen innan de beslutar att lansera ett finansiellt instrument undersöker om det skulle kunna hindra de finansiella marknaderna från att fungera korrekt eller utgöra ett hot mot deras stabilitet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser till att relevant personal som arbetar med att konstruera finansiella instrument har den sakkunskap som krävs för att förstå egenskaper och risker hos de finansiella instrument de ska konstruera.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">6.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser till att ledningsorganet har kontroll över företagets produktstyrningsprocess. Värdepappersföretagen ska se till att rapporterna till ledningsorganet om regelefterlevnad alltid innehåller information om de finansiella instrument som konstruerats av företaget, inklusive information om distributionsstrategierna. Värdepappersföretagen ska på begäran göra dessa rapporter tillgängliga för sina behöriga myndigheter.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">7.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser till att funktionen för regelefterlevnad övervakar utvecklingen och den regelbundna översynen av produktstyrningsarrangemangen i syfte att upptäcka om det finns risk för att företaget inte skulle kunna uppfylla de krav som anges i denna artikel.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">8.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen, i de fall de samarbetar, inbegripet med enheter som inte är auktoriserade och står under tillsyn i enlighet med direktiv 2014/65/EU eller ett tredjelandsföretag, för att skapa, utveckla, emittera och/eller utforma en produkt anger respektive parts skyldigheter i ett skriftligt avtal.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021L1269: REPLACED">▼M1</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">9.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen på en tillräckligt detaljerad nivå anger den potentiella målmarknaden för varje finansiellt instrument och vilken av kund det är avsett för med tanke på kundens behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål. Som ett led i denna process ska företaget identifiera alla kundgrupper som det finansiella instrumentet inte är avsett för med tanke på kundgruppens behov, egenskaper och mål, med undantag för om det finansiella instrumentet beaktar hållbarhetsfaktorer. I det fall värdepappersföretag samarbetar vid konstruktionen av ett finansiellt instrument behöver endast en målmarknad anges.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+               <p class="norm">Värdepappersföretag som konstruerar finansiella instrument som distribueras genom andra värdepappersföretag ska fastställa vilken typ av kund produkten är avsedd för med tanke på kundens behov och egenskaper, varvid de ska utgå från sina teoretiska kunskaper och tidigare erfarenheter av det finansiella instrumentet i fråga eller liknande finansiella instrument, de finansiella marknaderna och av de potentiella slutkundernas behov, egenskaper och mål.</p>
+               <div class="norm">
+                  <span class="no-parag">10.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen för sina finansiella instrument genomför en analys av olika scenarier för att bedöma risken för att produkten ger ett dåligt resultat för slutkunden och vilka omständigheter som kan leda till detta. Värdepappersföretagen ska bedöma det finansiella instrumentet under negativa förhållanden och undersöka vad som skulle hända om till exempel</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">marknaden försämras,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">konstruktören eller en tredje part som deltar i konstruktionen av det finansiella instrumentet och/eller dess funktionssätt drabbas av ekonomiska svårigheter eller någon annan motpartsrisk förverkligas,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">det finansiella instrumentet inte blir kommersiellt bärkraftigt eller</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">efterfrågan på det finansiella instrumentet är mycket högre än väntat, vilket i sin tur sätter press på företagets resurser och/eller marknaden för det underliggande instrumentet.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021L1269: REPLACED">▼M1</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">11.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen avgör huruvida det finansiella instrumentet uppfyller de behov, egenskaper och mål som identifierats för målmarknaden, bland annat genom att undersöka följande faktorer:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om det finansiella instrumentets risk-/avkastningsprofil passar in på målmarknaden.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">I förekommande fall, om det finansiella instrumentets hållbarhetsfaktorer passar in på målmarknaden.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om det finansiella instrumentet har en utformning som gynnar kunden och inte vilar på en affärsmodell som förutsätter ett dåligt resultat för kunden för att vara lönsam.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">12.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska se till att värdepappersföretagen vad gäller den avgiftsstruktur som föreslås för det finansiella instrumentet undersöker bland annat följande:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om det finansiella instrumentets kostnader och avgifter är förenliga med målmarknadens behov, mål och egenskaper.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">
+                              <span>
+                                 <a href="http://publications.europa.eu/resource/celex/32017L0593R%2801%29"
+                                    onclick="window.open(this.href,'_blank'); return false;"
+                                    title="32017L0593R(01): REPLACED">
+                                    <span class="boldface">►C1</span>
+                                 </a>
+                              </span> Om avgifterna undergräver det finansiella instrumentets förväntade avkastning, till exempel om de kostnader som tas ut är lika stora som eller högre än den förväntade skatteförmånen eller leder till att nästan all den förväntade skatteförmånen i samband med det finansiella instrumentet raderas ut.<span class="boldface"> ◄ </span>
+                           </p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om det finansiella instrumentets avgiftsstruktur är tillräckligt transparent för målmarknaden, till exempel att den inte döljer avgifter eller är för komplicerad för att förstå.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">13.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser till att den information om ett finansiellt instrument som tillhandahålls distributörerna innehåller uppgift om lämpliga distributionskanaler för det finansiella instrumentet, produktgodkännandeprocessen och målmarknadsbedömningen samt att den är av en sådan kvalitet att det är möjligt för distributörerna att förstå, rekommendera och sälja det finansiella instrumentet på ett korrekt sätt.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021L1269: INSERTED">▼M1</a>
+               </p>
+               <p class="norm">Det finansiella instrumentets hållbarhetsfaktorer ska presenteras på ett transparent sätt och förse distributörer med den information som är relevant för att de ska kunna ta vederbörlig hänsyn till en kunds eller presumtiv kunds eventuella hållbarhetsrelaterade mål.</p>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021L1269: REPLACED">▼M1</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">14.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen regelbundet ser över de finansiella instrument de konstruerar, varvid de ska ta hänsyn till alla händelser som påtagligt skulle kunna inverka på den potentiella risken för den angivna målmarknaden. Värdepappersföretagen ska undersöka om det finansiella instrumentet fortfarande är förenligt med målmarknadens behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål, och om det distribueras till målmarknaden eller når kunder som det inte är avsett för med tanke på dessa kunders behov, egenskaper och mål.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">15.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser över de finansiella instrumenten innan varje ny emission eller nylansering i det fall de fått kännedom om en händelse som påtagligt skulle kunna inverka på den potentiella risken för investerare, samt att de regelbundet kontrollerar om det finansiella instrumentet fungerar som avsett. Värdepappersföretagen ska bestämma hur de regelbundet ska se över sina finansiella instrument på grundval av relevanta faktorer, bland annat faktorer som sammanhänger med den tillämpade investeringsstrategins komplexitet eller innovativa karaktär. Företagen ska även ange vilka viktiga händelser som skulle kunna inverka på den potentiella risken eller förväntade avkastningen för det finansiella instrumentet, t.ex.</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">överskridandet av en tröskel, vilket kommer att påverka det finansiella instrumentets avkastningsprofil eller</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">solvenssituationen för vissa emittenter, vars värdepapper eller garantier kan inverka på det finansiella instrumentets resultat.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretagen vidtar lämpliga åtgärder i det fall en sådan händelse inträffar, vilket kan omfatta att</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>a) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">tillhandahålla all relevant information om händelsen och dess konsekvenser för det finansiella instrumentet till kunder eller distributörer av det finansiella instrumentet om värdepappersföretaget inte erbjuder eller säljer det finansiella instrumentet direkt till kunderna,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>b) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">ändra produktgodkännandeprocessen,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>c) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">stoppa ytterligare utfärdande av det finansiella instrumentet,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>d) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">ändra det finansiella instrumentet för att hindra oskäliga avtalsvillkor,;</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>e) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">undersöka om de försäljningskanaler genom vilka det finansiella instrumentet säljs är lämpliga i det fall företagen ser att det finansiella instrumentet inte säljs som planerat,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>f) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">kontakta distributören för att diskutera ändringar i distributionsprocessen,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>g) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">avsluta affärsförhållandet till distributören eller</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>h) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">underrätta relevant behörig myndighet.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_10">
+               <p class="title-article-norm" id="id-b69f8649-291b-4216-b160-7f218cd24672">Artikel 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="stitle-article-norm">Produktstyrningskrav för distributörer</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen när de fastställer vilket urval av finansiella instrument emitterade av dem själva eller av andra företag, och tjänster de avser att erbjuda eller rekommendera till kunder på ett lämpligt och proportionellt sätt uppfyller de relevanta kraven i punkterna 2 till 10, med hänsyn tagen till karaktären på det finansiella instrumentet, investeringstjänsten och produktens målmarknad.</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska se till att värdepappersföretagen uppfyller kraven i direktiv 2014/65/EU även när de erbjuder eller rekommenderar finansiella instrument som konstruerats av enheter som inte omfattas av direktiv 2014/65/EU. Som ett led i denna process ska värdepappersföretagen se till att ha välfungerande arrangemang som garanterar att de får tillräckligt med information om dessa finansiella instrument från konstruktörerna i fråga.</p>
+               <p class="norm">Värdepappersföretagen ska fastställa målmarknaden för varje finansiellt instrument, även om denna inte fastställts av konstruktören.</p>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021L1269: REPLACED">▼M1</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen har lämpliga produktstyrningsarrangemang som garanterar att de produkter och tjänster de avser att erbjuda eller rekommendera är förenliga med en angiven målmarknads behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål, samt att den avsedda distributionsstrategin är förenlig med den angivna målmarknaden. Värdepappersföretagen ska identifiera och bedöma förutsättningar och behov för de kunder de avser att inrikta sig på i syfte att se till att kundernas intressen inte äventyras till följd av ett kommersiellt eller finansieringsmässigt tryck. Som ett led i denna process ska värdepappersföretag identifiera alla kundgrupper som det finansiella instrumentet inte är avsett för med tanke på kundgruppens behov, egenskaper och mål, med undantag för om det finansiella instrumentet beaktar hållbarhetsfaktorer.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+               <p class="norm">Medlemsstaterna ska se till att värdepappersföretagen från de konstruktörer som omfattas av direktiv 2014/65/EU erhåller den informations som krävs för att de ska kunna förstå och få nödvändiga kunskaper om de produkter de avser att rekommendera eller sälja så att den kan säkerställa att produkterna distribueras på ett sätt som är förenligt med målmarknadens behov, egenskaper och mål.</p>
+               <p class="norm">Medlemsstaterna ska kräva att värdepappersföretagen vidtar alla åtgärder som är rimliga i syfte att se till att de även erhåller tillräcklig och tillförlitlig information från de konstruktörer som inte omfattas av direktiv 2014/65/EU, så att de kan säkerställa att produkterna distribueras på ett sätt som är förenligt med målmarknadens behov, egenskaper och mål. Om den relevanta informationen inte är offentligt tillgänglig ska distributören vidta alla rimliga åtgärder för att erhålla denna information från konstruktören eller dennes ombud. Med godtagbar offentligt tillgänglig information avses information som är tydlig, tillförlitlig och producerad för att möta de rättsliga kraven såsom t.ex. kraven på offentliggörande i enlighet med Europaparlamentets och rådets direktiv 2003/71/EG (<a href="#E0006" id="src.E0006">
+                     <span class="superscript">6</span>
+                  </a>) och 2004/109/EG (<a href="#E0007" id="src.E0007">
+                     <span class="superscript">7</span>
+                  </a>). Denna skyldighet gäller för produkter som säljs på primär- och sekundärmarknaderna och ska tillämpas på ett proportionellt sätt i förhållande till i vilken grad det finns tillgång till offentlig information och hur komplex produkten är.</p>
+               <p class="norm">Värdepappersföretagen ska använda den information de erhållit från konstruktörerna och den information de har om sina egna kunder för att identifiera målmarknad och distributionsstrategi. Om ett värdepappersföretag är både konstruktör och distributör behövs det endast en målmarknadsbedömning.</p>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen när de fastställer det urval av finansiella instrument och tjänster de avser att erbjuda eller rekommendera samt respektive målmarknader, upprätthåller förfaranden och åtgärder som syftar till att säkerställa att alla tillämpliga krav i enlighet med direktiv 2014/65/EU följs, bland annat kraven avseende offentliggörande, bedömning av lämplighet och ändamålsenlighet, incitament och korrekt hantering av intressekonflikter. I detta sammanhang bör särskild försiktighet iakttas när distributörer avser att erbjuda eller rekommendera nya produkter eller om de tjänster de erbjuder uppvisar variationer.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen regelbundet ser över och uppdaterar sina produktstyrningsarrangemang i syfte att se till att de förblir verkningsfulla och ändamålsenliga och att de vid behov vidtar lämpliga åtgärder.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021L1269"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021L1269: REPLACED">▼M1</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen regelbundet ser över de investeringsprodukter de erbjuder eller rekommenderar och de tjänster de regelbundet tillhandahåller, varvid de ska ta hänsyn till alla händelser som påtagligt skulle kunna inverka på den potentiella risken för den angivna målmarknaden. Företagen ska som minst bedöma om produkten eller tjänsten fortfarande är förenlig med den angivna målmarknadens behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål, och om distributionsstrategin fortfarande är lämplig. Företagen ska ompröva målmarknaden och/eller uppdatera produktstyrningsarrangemangen om de blir medvetna om att de har felbedömt målmarknaden för en viss produkt eller tjänst eller att produkten eller tjänsten inte längre uppfyller förutsättningarna för att tillhandahållas på den angivna målmarknaden, till exempel om produkten blivit illikvid eller mycket volatil till följd av att marknaden förändrats.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">6.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser till att deras funktion för regelefterlevnad övervakar utvecklingen och den regelbundna översynen av produktstyrningsarrangemangen i syfte att upptäcka om det finns risk för att företaget inte skulle kunna uppfylla de krav som anges i denna artikel.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">7.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser till att den relevanta personalen har den sakkunskap som krävs för att förstå egenskaper och risker hos de produkter de avser att erbjuda eller rekommendera och de tjänster som tillhandahålls samt den angivna målmarknadens behov, egenskaper och mål.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">8.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretagen ser till att ledningsorganet har kontroll över företagets produktstyrningsprocess i syfte att fastställa det urval av investeringsprodukter de avser att erbjuda eller rekommendera och de tjänster som ska tillhandahållas de respektive målmarknaderna. Värdepappersföretagen ska se till att rapporterna till ledningsorganet om regelefterlevnad alltid innehåller information om de produkter de erbjuder eller rekommenderar och de tjänster som tillhandahålls Rapporterna om regelefterlevnad ska göras tillgänglig för de behöriga myndigheterna på begäran.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">9.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska se till att distributörerna förser konstruktörerna med information om försäljning och när så är lämpligt även om de ovannämnda översynerna i syfte att stödja de produktöversyner som konstruktörerna genomför.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">10.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Om olika företag samarbetar när det gäller distributionen av en produkt eller tjänst ska medlemsstaterna se till att det värdepappersföretag som har den direkta kundrelationen också har det slutgiltiga ansvaret för uppfyllandet av de produktstyrningskrav som anges i denna artikel. Det förmedlande värdepappersföretaget ska emellertid</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">se till att relevant produktinformations förs vidare från konstruktören till slutdistributören i kedjan,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">göra det möjligt för konstruktören att erhålla information om produktförsäljningen om denne begär detta i syfte att kunna uppfylla sina egna produktstyrningskrav och</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">tillämpa de produktstyrningskrav som gäller för konstruktörerna i relevant utsträckning med avseende på de tjänster de erbjuder.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div id="cpt_IV">
+            <p class="title-division-1" id="id-7e74b772-7b6f-472e-9afb-d6c7b5ee6ce7">KAPITEL IV</p>
+            <p class="title-division-2" id="id-b5a1e27a-907c-49f6-b4d7-1fa4bffbe98a">
+               <span class="boldface">INCITAMENT</span>
+            </p>
+            <div class="eli-subdivision" id="art_11">
+               <p class="title-article-norm" id="id-b1202965-74c6-4bc3-8ceb-ac2f0b3dc029">Artikel 11</p>
+               <div class="eli-title" id="art_11.tit_1">
+                  <p class="stitle-article-norm">Incitament</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska kräva att värdepappersföretag som betalar eller betalas någon avgift eller provision, eller erbjuder eller erbjuds icke-monetära förmåner i samband med tillhandahållandet av investeringstjänster eller en sidotjänst till kunden, säkerställer att alla villkor i artikel 24.9 i direktiv 2014/65/EU och alla krav i punkterna 2–5 i denna artikel alltid är uppfyllda.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">En avgift, provision eller en icke-monetär förmån ska anses vara utformad för att höja kvaliteten på den relevanta tjänsten till kunden om samtliga följande villkor är uppfyllda:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Den är motiverad genom tillhandahållandet av en extra tjänst eller en tjänst på en högre nivå till den berörda kunden, som står i proportion till storleken på det mottagna incitamentet såsom:</p>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>i) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">Tillhandahållande av icke-oberoende investeringsrådgivning om ett brett utbud av lämpliga finansiella instrument och tillgång till dessa instrument, inbegripet ett lämpligt antal instrument från utomstående produktleverantörer som inte har någon nära koppling till det berörda värdepappersföretaget.</p>
+                              </div>
+                           </div>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>ii) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">Tillhandahållande av icke-oberoende investeringsrådgivning i kombination med antingen: ett erbjudande till kunden om att minst en gång om året göra en bedömning av om det finansiella instrument kunden investerat i fortfarande är lämpligt eller: tillhandahållande av en annan löpande tjänst som kan vara till nytta för kunden, t.ex. rådgivning om den föreslagna optimal tillgångsfördelningen för kunden.</p>
+                              </div>
+                           </div>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>iii) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">Tillhandahållande av tillgång till ett brett urval av finansiella instrument som förmodas uppfylla kundens behov, till konkurrenskraftiga priser, inklusive ett tillräckligt antal instrument från utomstående produktleverantörer som inte har någon nära koppling till det berörda värdepappersföretaget, i kombination med andra element som tillför mervärde – t.ex. redskap som underlättar tillgången till opartisk information som hjälper kunden att fatta investeringsbeslut eller att löpande övervaka, modulera eller justera den uppsättning av finansiella instrument som de har investerat i – eller, tillhandahållande av regelbundna rapporter om de finansiella instrumentens resultat och de därmed sammanhängande kostnaderna och avgifterna.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Den inte direkt gynnar det mottagande företaget, dess aktieägare eller anställda utan att detta ger en påtaglig fördel för den berörda kunden.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Den är motiverad genom tillhandahållandet av en löpande förmån till den berörda kunden i samband med ett löpande incitament.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm">En avgift, provision eller en icke-monetär förmån ska inte anses vara godtagbar om tillhandahållandet av de relevanta tjänsterna till kunderna påverkas eller snedvrids på grund av avgiften, provisionen eller den icke-monetära förmånen.</p>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Värdepappersföretagen ska fortlöpande uppfylla de krav som anges i punkt 2 så länge de fortsätter att betala eller att ta emot avgiften, provisionen eller den icke-monetära förmånen.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Värdepappersföretagen ska kunna visa belägg för att alla avgifter, provisioner eller icke-monetära förmåner som betalats till eller mottagits av företaget är utformade för att höja kvaliteten på den relevanta tjänsten till kunden genom att</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">föra en intern förteckning över alla avgifter, provisioner och icke-monetära förmåner som värdepappersföretaget tagit emot av en tredje part i samband med tillhandahållandet av investerings- eller sidotjänster och</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">registrera hur de avgifter, provisioner och icke-monetära förmåner som betalats till eller mottagits av värdepappersföretaget, eller som det avser att använda, höjer kvaliteten på den tjänst som tillhandahålls till de berörda kunderna och de åtgärder som vidtagits för att se till att företagets förutsättningar att uppfylla sina skyldigheter att agera hederligt, rättvist och professionellt i enlighet med kundens bästa intresse inte försämras.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Vad gäller betalningar eller förmåner som mottas från eller betalas av en tredje part ska värdepappersföretagen lämna följande uppgifter till kunden:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Innan den relevanta investerings- eller sidotjänsten tillhandahålls ska värdepappersföretaget lämna uppgift till kunden om den ifrågavarande betalningen eller förmånen i enlighet med artikel 24.9 andra stycket i direktiv 2014/65/EU. Mindre icke-monetära förmåner får beskrivas på ett allmänt sätt. Andra icke-monetära förmåner som mottagits av eller betalats till värdepappersföretaget i samband med den investeringstjänst som tillhandahållits en kund ska prissättas och anges separat.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">I det fall värdepappersföretaget på förhand inte kunnat bestämma storleken på en betalning eller förmån som ska tas emot eller betalas och i stället redovisat metoden för att beräkna detta belopp för kunden ska företaget även i lämna en redovisning i efterhand till kunden av det exakta beloppet av den betalning eller förmån som mottagits eller betalats.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Så länge värdepappersföretaget mottar (löpande) incitament i samband med de investeringstjänster som tillhandahålls av de relevanta kunderna ska värdepappersföretaget åtminstone en gång om året underrätta sina kunder var och en för sig om det faktiska belopp av betalningar eller förmåner som mottagits eller betalats. Mindre icke-monetära förmåner får beskrivas på ett allmänt sätt.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm">Vid tillämpningen av dessa krav ska värdepappersföretagen ta hänsyn till de kostnads- och avgiftsregler som anges i artikel 24.4 c i direktiv 2014/65/EU och i artikel 50 i kommissionens delegerade förordning (EU) 2017/565 (<a href="#E0008" id="src.E0008">
+                     <span class="superscript">8</span>
+                  </a>).</p>
+               <p class="norm">Om flera företag deltar i en distributionskanal ska varje värdepappersföretag som tillhandahåller en investerings- eller sidotjänst uppfylla sin skyldighet att lämna uppgifter till sina kunder.</p>
+            </div>
+            <div class="eli-subdivision" id="art_12">
+               <p class="title-article-norm" id="id-af5b2e08-6c62-4139-b9c0-eff2a2fe4c81">Artikel 12</p>
+               <div class="eli-title" id="art_12.tit_1">
+                  <p class="stitle-article-norm">Incitament avseende oberoende investeringsrådgivning eller portföljförvaltningstjänster</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretag som tillhandahåller oberoende investeringsrådgivning eller portföljförvaltning till sina kunder betalar tillbaka alla avgifter, provisioner eller monetära förmåner som betalats eller tillhandahållits av en tredje part eller person som agerar för en tredje parts räkning i samband med de tjänster som tillhandahållits till den berörda kunden så snart som det rimligen är möjligt efter mottagandet. Alla avgifter, provisioner och monetära förmåner som mottagits från tredje part i samband med tillhandahållandet av oberoende investeringsrådgivning och portföljförvaltning ska föras över i sin helhet till kunden.</div>
+               </div>
+               <p class="norm">Värdepappersföretagen ska utforma och tillämpa en strategi för att se till att alla avgifter, provisioner och monetära förmåner som betalats eller tillhandahållits av en tredje part eller en person som agerar för en tredje parts räkning i samband med tillhandahållande av oberoende investeringsrådgivning och portföljförvaltning fördelas och överförs till varje enskild kund.</p>
+               <p class="norm">Värdepappersföretagen ska underrätta kunderna om de avgifter, provisioner och monetära förmåner som de överför till dem, t.ex. genom den regelbundna rapporteringen till kunderna.</p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Värdepappersföretag som tillhandahåller oberoende investeringsrådgivning eller portföljförvaltning ska inte ta emot sådana icke-monetära förmåner som inte räknas som godtagbara mindre förmåner enligt punkt 3.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Följande ska godtas såsom mindre icke-monetära förmåner om de består av</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">uppgifter eller dokumentation om ett finansiellt instrument eller en investeringstjänst, och är av allmän karaktär eller anpassade efter den enskilda kundens omständigheter,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">skriftligt material som framställts av en tredje part och har beställts och betalats av ett företag som är emittent eller potentiell emittent med syftet att marknadsföra en ny emission från företaget i fråga, eller där den tredje parten genom kontrakt är knuten till och betald av emittenten för att ta fram sådant material på löpande basis, förutsatt att denna förbindelse tydligt redovisas i materialet, och att materialet samtidigt görs tillgängligt för alla värdepappersföretag som så önskar, samt för allmänheten,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">deltagande i konferenser, seminarier och andra informationsevenemang som gäller fördelarna med och egenskaperna hos ett visst finansiellt instrument eller en viss investeringstjänst,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">representation upp till ett rimligt värde, till exempel mat och dryck under ett affärssammanträde eller en konferens, ett seminarium eller annat informationsevenemang enligt c, eller</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>e) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">andra mindre icke-monetära förmåner som medlemsstaterna anser kan förbättra kvaliteten på den tjänst som tillhandahålls en kund och som, i förhållande till den totala nivån på de förmåner som tillhandahålls av en enhet eller grupp av enheter, är av sådan omfattning och art att det inte är sannolikt att de skulle hindra värdepappersföretaget från att uppfylla sin skyldighet att agera i kundens bästa intresse.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm">För att anses vara godtagbara såsom mindre icke-monetära förmåner ska förmånerna i fråga vara rimliga och proportionella, och vara av sådan omfattning att de sannolikt inte kommer att påverka värdepappersföretagets beteende på ett sätt som är till skada för den berörda kundens intressen.</p>
+               <p class="norm">Sådana mindre icke-monetära förmåner ska redovisas innan investeringstjänster eller sidotjänster erbjuds till kunder. Mindre icke-monetära förmåner får i enlighet med artikel 11.5 a beskrivas på ett allmänt sätt.</p>
+            </div>
+            <div class="eli-subdivision" id="art_13">
+               <p class="title-article-norm" id="id-1130ec17-f500-4125-bd1a-e27c35aeb9c5">Artikel 13</p>
+               <div class="eli-title" id="art_13.tit_1">
+                  <p class="stitle-article-norm">Incitament i form av investeringsanalys</p>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32026L0374"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32026L0374: REPLACED">▼M2</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretag som har ett sådant separat konto för analysutgifter som avses i artikel 24.9a d ii i direktiv 2014/65/EU uppfyller följande villkor för kontoförvaltningen:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Analyskontot finansieras genom en specifik analysavgift som tas ut av kunden.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">I samband med upprättandet av analyskontot och överenskommelsen med kunderna om analysavgiften fastställer värdepappersföretaget en analysbudget som det regelbundet följer upp, som en intern administrativ åtgärd.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Värdepappersföretaget bär ansvaret för analyskontot.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32026L0374"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32026L0374: INSERTED">▼M2</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">1a.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretag som använder ett sådant analyskonto som avses i punkt 1 upplyser sina kunder om följande:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Innan investeringstjänster tillhandahålls kunder: information om det budgeterade beloppet för analys och det beräknade analysavgiftsbeloppet för varje kund.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Årliga uppgifter om de totala kostnader som värdepappersföretag har haft för analyser utförda av tredje part.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32026L0374"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32026L0374: REPLACED">▼M2</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretag som väljer att betala separat för utförande av kundorder och analystjänster och som har ett sådant analyskonto som avses i punkt 1, på begäran av sina kunder eller behöriga myndigheter tillhandahåller följande:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En förteckning över de leverantörer som betalas från detta analyskonto.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Det totala belopp som dessa leverantörer betalats under en angiven period.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De förmåner och tjänster som värdepappersföretaget erhållit från dessa leverantörer.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Hur det totala belopp som betalats ut från analyskontot förhåller sig till den budget som värdepappersföretaget hade fastställt för samma period, med uppgift om eventuella rabatter eller överföringar av outnyttjade belopp till påföljande period.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <p class="norm inline-element">Vid tillämpning av punkt 1 a ska medlemsstaterna säkerställa att den uppskattade analysavgiften</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>a) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">endast grundas på en analysbudget som värdepappersföretaget fastställt för de analyser utförda av tredje part som krävs för att värdepappersföretaget ska kunna erbjuda sina kunder investeringstjänster,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>b) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">inte är kopplad till volymen eller värdet på de transaktioner som utförs för kundernas räkning.</p>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretag som väljer att betala separat för utförande av kundorder och analystjänster och som har ett sådant analyskonto som avses i punkt 1</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">anger en åtskild och identifierbar avgift för varje operativt arrangemang för att samla in analysavgiften från kunder,</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">uppfyller villkoren i punkterna 1 och 1a.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretag som väljer att betala separat för utförande av kundorder och analystjänster och som har ett sådant analyskonto som avses i punkt 1, inte mottar ett totalt belopp för analysavgifter som överstiger deras analysbudget.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska se till att värdepappersföretag som väljer att betala separat för utförande av kundorder och analystjänster och som har ett sådant särskilt analyskonto som avses i punkt 1, i sina investeringsförvaltningsavtal eller allmänna affärsvillkor kommer överens med sina kunder om den analysavgift värdepappersföretaget har budgeterat och hur ofta den särskilda analysavgiften ska dras från kundens medel under loppet av ett år.</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska säkerställa att värdepappersföretagen inte ökar sin analysbudget utan att först ha gett sina kunder tydlig information om den planerade ökningen.</p>
+               <p class="norm">Medlemsstaterna ska säkerställa att värdepappersföretagen har en rutin för att återbetala ett eventuellt överskott på analyskontot i slutet av en period till sina kunder eller för att räkna av det från budgetmedlen och analysavgiften för den efterföljande perioden.</p>
+               <div class="norm">
+                  <span class="no-parag">6.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretag som väljer att betala separat för utförande av kundorder och analystjänster och som har ett sådant analyskonto som avses i punkt 1 är ensamt ansvariga för förvaltningen av den analysbudget som avses i punkt 1 b.</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska säkerställa att den analysbudget som avses i punkt 1 b bygger på en rimlig bedömning av behovet av analyser utförda av tredje part.</p>
+               <p class="norm">Medlemsstaterna ska säkerställa att fördelningen av medlen i analysbudgeten för inköp av analyser från tredje part kontrolleras av värdepappersföretaget och görs under högsta ledningens överinseende, på ett objektivt och lämpligt sätt, för att säkerställa att budgeten förvaltas och används så att det bäst gagnar företagets kunder. Medlemsstaterna ska säkerställa att dessa kontroller innefattar en tydlig verifikationskedja för utbetalningarna till analysleverantörer, samt för hur de utbetalda beloppen har fastställts utifrån kvalitetskriterierna i punkt 10 första stycket. Medlemsstaterna ska säkerställa att värdepappersföretag inte använder medel från analysbudgeten och analyskontot för internt analysarbete.</p>
+               <div class="norm">
+                  <span class="no-parag">7.  </span>
+                  <div class="norm inline-element">Vid tillämpning av punkt 1 c ska medlemsstaterna säkerställa att värdepappersföretag kan delegera förvaltningen av analyskontot till tredje part, förutsatt att detta arrangemang underlättar inköp av analysarbete från tredje part och betalningar till analysleverantörer i värdepappersföretagets namn utan onödigt dröjsmål och i enlighet med värdepappersföretagets instruktioner.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32026L0374"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32026L0374: DELETED">▼M2</a> —————</p>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">9.  </span>
+                  <div class="norm inline-element">Värdepappersföretag som utför kundorder ska ange avgifterna för dessa tjänster separat, så att avgiften enbart återspeglar kostnaden för att utföra själva transaktionen. Avgifter för andra förmåner eller tjänster som samma värdepappersföretag utför åt ett annat värdepappersföretag etablerat inom EU ska anges som separata och identifierbara avgifter, och tillgången till och avgifterna för dessa förmåner eller tjänster får inte påverkas eller bero av ersättningsnivåerna för utförande av kundorder.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32026L0374"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32026L0374: INSERTED">▼M2</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">10.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska säkerställa att värdepappersföretagen, oavsett hur de betalar för utförande av kundorder och analystjänster, baserar den årliga analysbedömning som föreskrivs i artikel 24.9a c i direktiv 2014/65/EU på solida kvalitetskriterier som gör det möjligt för företagen att objektivt bedöma analysens kvalitet, användbarhet och värde samt hur den bidrar till bättre investeringsbeslut.</div>
+               </div>
+               <p class="norm">Medlemsstaterna ska säkerställa att värdepappersföretagen vidtar nödvändiga korrigerande åtgärder om bedömningarna visar att analysen är av bristande kvalitet eller värde, inte är användbar eller inte bidrar till bättre investeringsbeslut.</p>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017L0593"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017L0593">▼B</a>
+               </p>
+            </div>
+         </div>
+         <div id="cpt_V">
+            <p class="title-division-1" id="id-cc80441e-fa35-4afb-bb86-7144c7f67ccd">KAPITEL V</p>
+            <p class="title-division-2" id="id-079c046c-f423-49cb-9447-de28a422d6f5">
+               <span class="boldface">SLUTBESTÄMMELSER</span>
+            </p>
+            <div class="eli-subdivision" id="art_14">
+               <p class="title-article-norm" id="id-c411b018-98fa-4f43-8d84-52f4d13c992d">Artikel 14</p>
+               <div class="eli-title" id="art_14.tit_1">
+                  <p class="stitle-article-norm">Ikraftträdande och tillämpning</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska senast den 3 juli 2017 anta och offentliggöra de lagar och andra författningar som är nödvändiga för att följa detta direktiv. De ska till kommissionen genast överlämna texten till dessa bestämmelser.</div>
+               </div>
+               <p class="norm">De ska tillämpa dessa bestämmelser från och med den 3 januari 2018.</p>
+               <p class="norm">När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.</p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_15">
+               <p class="title-article-norm" id="id-2eca8c03-5d10-4265-afeb-7c6e0385695c">Artikel 15</p>
+               <p class="norm">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+            </div>
+            <div class="eli-subdivision" id="art_16">
+               <p class="title-article-norm" id="id-6bea38a0-b96a-430b-84ed-a46d698ac3e8">Artikel 16</p>
+               <p class="norm">Detta direktiv riktar sig till medlemsstaterna.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) Europaparlamentets och rådets direktiv 2009/65/EG av den 13 juli 2009 om samordning av lagar och andra författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) (EUT L 302, 17.11.2009, s. 32).</p>
+   <p class="footnote">(<a href="#src.E0002" id="E0002">
+         <span class="superscript">2</span>
+      </a>) Europaparlamentets och rådets direktiv 2011/61/EU av den 8 juni 2011 om förvaltare av alternativa investeringsfonder samt om ändring av direktiv 2003/41/EG och 2009/65/EG och förordningarna (EG) nr 1060/2009 och (EU) nr 1095/2010 (EUT L 174, 1.7.2011, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0003" id="E0003">
+         <span class="superscript">3</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2015/2365 av den 25 november 2015 om transparens i transaktioner för värdepappersfinansiering och om återanvändning samt om ändring av förordning (EU) nr 648/2012 (EUT L 337, 23.12.2015, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0004" id="E0004">
+         <span class="superscript">4</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019 om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn (EUT L 317, 9.12.2019, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0005" id="E0005">
+         <span class="superscript">5</span>
+      </a>) Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut och värdepappersföretag, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG (EUT L 176, 27.6.2013, s. 338).</p>
+   <p class="footnote">(<a href="#src.E0006" id="E0006">
+         <span class="superscript">6</span>
+      </a>) Europaparlamentets och rådets direktiv 2003/71/EG av den 4 november 2003 om de prospekt som skall offentliggöras när värdepapper erbjuds till allmänheten eller tas upp till handel och om ändring av direktiv 2001/34/EG (EUT L 345, 31.12.2003, s. 64).</p>
+   <p class="footnote">(<a href="#src.E0007" id="E0007">
+         <span class="superscript">7</span>
+      </a>) Europaparlamentets och rådets direktiv 2004/109/EG av den 15 december 2004 om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad och om ändring av direktiv 2001/34/EG (EUT L 390, 31.12.2004, s. 38).</p>
+   <p class="footnote">(<a href="#src.E0008" id="E0008">
+         <span class="superscript">8</span>
+      </a>) Kommissionens delegerade förordning (EU) 2017/565 av den 25 april 2016 om komplettering av Europaparlamentets och rådets direktiv 2014/65/EU vad gäller organisatoriska krav och villkor för verksamheten i värdepappersföretag, och definitioner för tillämpning av det direktivet (se sidan 1 i detta nummer av EUT).</p>
+</body>
+</html>

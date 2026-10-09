@@ -4,6 +4,13 @@ export const MAX_PAGE_CHARS = 20_000;
 export const normalize = (value: string): string => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('sv-SE');
 export const tokenize = (value: string): string[] => [...new Set(normalize(value).match(/[\p{L}\p{N}]+/gu) ?? [])].slice(0, 16);
 
+/** Acronyms must be words: DORA must not match tillgodoräkna. Other terms retain substring matching. */
+const regulatoryAcronyms = new Set(['dora','crr','crd','mifid','mifir','emir','sfdr','csrd','esrs','gdpr','ucits','ikt','esg','aml']);
+export function matchesSearchTerm(text: string, term: string): boolean {
+  if (!regulatoryAcronyms.has(term)) return text.includes(term);
+  return new RegExp(`(?<![\\p{L}\\p{N}])${term}(?![\\p{L}\\p{N}])`, 'u').test(text);
+}
+
 /** Accept a canonical id or a complete FFFS number. Never returns a path. */
 export function canonicalId(value: string): string {
   const match = value.trim().match(/^(?:FFFS\s*)?(\d{4})\s*[:/-]\s*0*(\d{1,3})$/i);
@@ -45,13 +52,13 @@ export function searchDocuments(catalog: Catalog, corpus: Corpus, options: Searc
     const title = normalize(`${document.number} ${document.title}`);
     const text = normalize(content?.markdown ?? '');
     const tags = normalize([...(document.categories ?? []), ...(document.institutions ?? [])].join(' '));
-    if (!exactId && terms.some(term => !title.includes(term) && !text.includes(term) && !tags.includes(term))) continue;
-    const rankedSections = (content?.sections ?? []).map(section => ({ section, score: terms.reduce((n, term) => n + (normalize(section.title).includes(term) ? 5 : 0) + (normalize(section.text).includes(term) ? 1 : 0), 0) })).sort((a, b) => b.score - a.score);
+    if (!exactId && terms.some(term => !matchesSearchTerm(title,term) && !matchesSearchTerm(text,term) && !matchesSearchTerm(tags,term))) continue;
+    const rankedSections = (content?.sections ?? []).map(section => ({ section, score: terms.reduce((n, term) => n + (matchesSearchTerm(normalize(section.title),term) ? 5 : 0) + (matchesSearchTerm(normalize(section.text),term) ? 1 : 0), 0) })).sort((a, b) => b.score - a.score);
     const best = rankedSections[0];
-    const evidence = document.tagsEvidence?.find(item => terms.some(term => normalize(item.tag).includes(term)));
+    const evidence = document.tagsEvidence?.find(item => terms.some(term => matchesSearchTerm(normalize(item.tag),term)));
     const evidenceSection = evidence?.sectionId ? content?.sections.find(section => section.id === evidence.sectionId) : undefined;
     const section = best && (best.score > 0 || !terms.length) ? best.section : evidenceSection;
-    const score = exactId ? 10_000 : terms.reduce((n, term) => n + (title.includes(term) ? 30 : tags.includes(term) ? 8 : 0), 0) + (best?.score ?? 0);
+    const score = exactId ? 10_000 : terms.reduce((n, term) => n + (matchesSearchTerm(title,term) ? 30 : matchesSearchTerm(tags,term) ? 8 : 0), 0) + (best?.score ?? 0);
     results.push({ document, score, snippet: snippet(section?.text ?? evidence?.evidence ?? content?.markdown ?? document.title, terms), ...(section ? { sectionId: section.id, sectionTitle: section.title, page: section.page } : {}) });
   }
   results.sort((a, b) => b.score - a.score || b.document.year - a.document.year || Number(b.document.id.split('-')[1]) - Number(a.document.id.split('-')[1]));

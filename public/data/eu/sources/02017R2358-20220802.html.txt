@@ -1,0 +1,524 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- fmx2xhtml # converter_version:9.8.0 # generated_on:20220802-1735 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32017R2358 — SV — 02.08.2022</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02017R2358 — SV — 02.08.2022 — 002.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32017R2358"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017R2358">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-ceae8d21-b607-4d98-92c4-87389597f88a">KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2017/2358</p>
+            <p class="title-doc-first" id="id-8e9b4f15-83c5-47cf-9f1e-94bb75bb9ead">av den 21 september 2017</p>
+            <p class="title-doc-first" id="id-d7e26429-42b3-4b9c-a680-81fc2eed9553">om komplettering av Europaparlamentets och rådets direktiv (EU) 2016/97 vad gäller produkttillsyns- och styrningskrav för försäkringsföretag och försäkringsdistributörer</p>
+            <p class="title-doc-last" id="id-2ee7b602-8c5e-4cab-8397-f15262b87c96">
+               <a href="http://publications.europa.eu/resource/celex/32017R2358"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017R2358">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-937ed518-30db-4667-96d0-d969fad38bb1">(EGT L 341 20.12.2017, s. 1)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32018R0541"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32018R0541">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-389a8227-ea73-4980-924f-3584eea07447">
+               <a href="http://publications.europa.eu/resource/celex/32018R0541"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32018R0541">KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2018/541 av den 20 december 2017</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 90</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">59</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">6.4.2018</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32021R1257"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021R1257">►M2</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-b8ef5fa5-ce3d-4c7e-b634-17c3f0a02d08">
+               <a href="http://publications.europa.eu/resource/celex/32021R1257"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021R1257">KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2021/1257 av den 21 april 2021</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 277</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">18</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">2.8.2021</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <p>
+      <br/>
+   </p>
+   <p class="arrow">
+      <a href="http://publications.europa.eu/resource/celex/32017R2358"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32017R2358">▼B</a>
+   </p>
+   <p class="title-doc-first" id="id-7b9a2114-a989-4aa4-9b5d-7ae996310e9a">KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2017/2358</p>
+   <p class="title-doc-first" id="id-e31f7310-01db-4895-b3df-d51047bc2b83">av den 21 september 2017</p>
+   <p class="title-doc-first" id="id-7ddc7998-5d5d-4b6d-999a-3531b7cbc0dd">om komplettering av Europaparlamentets och rådets direktiv (EU) 2016/97 vad gäller produkttillsyns- och styrningskrav för försäkringsföretag och försäkringsdistributörer</p>
+   <p class="title-doc-last" id="id-175e2821-c0a4-4b06-a0e5-c74eeebda582">(Text av betydelse för EES)</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-70293118-efe9-43a9-8c0f-3a36c3fe92c9">KAPITEL I</p>
+   <p class="title-division-2" id="id-e9aec557-67ae-4861-94ab-be2205c5e397">
+      <span class="boldface">ALLMÄNNA BESTÄMMELSER</span>
+   </p>
+   <p class="title-article-norm" id="id-50dae7eb-b295-4179-a90d-7463a7adb059">Artikel 1</p>
+   <p class="stitle-article-norm">Syfte</p>
+   <p class="norm">I denna förordning fastställs regler för att upprätthålla, sköta och se över system för produkttillsyn och styrning för försäkringsprodukter och för betydande anpassningar av befintliga försäkringsprodukter innan dessa marknadsförs eller distribueras till kunder (<span class="italics">produktgodkännandeprocess</span>), samt regler för produktdistributionssystem för sådana försäkringsprodukter.</p>
+   <p class="title-article-norm" id="id-a10228cd-97b7-485b-b976-728e8beadd28">Artikel 2</p>
+   <p class="stitle-article-norm">Tillämpningsområde</p>
+   <p class="norm">Denna förordning ska tillämpas på försäkringsföretag och försäkringsförmedlare som utvecklar försäkringsprodukter för försäljning till kunder (<span class="italics">utvecklare</span>), samt försäkringsdistributörer som lämnar rådgivning om eller föreslår försäkringsprodukter som de inte själva utvecklar.</p>
+   <p class="title-article-norm" id="id-605c3620-3e91-45fd-a6ac-a45842f52eaf">Artikel 3</p>
+   <p class="stitle-article-norm">Utveckling av försäkringsprodukter</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Vid tillämpning av artikel 25.1 i direktiv (EU) 2016/97 ska försäkringsförmedlare betraktas som utvecklare om en samlad analys av deras verksamhet visar att de har en beslutsfattande roll i utformningen och utvecklingen av en försäkringsprodukt för marknaden.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Med en beslutsfattande roll avses i synnerhet att försäkringsförmedlaren självständigt bestämmer vilka viktigaste egenskaper och inslag en försäkringsprodukt ska ha, bland annat försäkringsskydd, pris, kostnader, risk, målmarknad och rätt till ersättning och garantier, som inte ändras väsentligt av det försäkringsföretag som svarar för försäkringsproduktens skydd.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Att personalisera och att anpassa befintliga försäkringsprodukter inom ramen för försäkringsdistributionsverksamhet till enskilda kunder, eller att utforma skräddarsydda avtal på en enskild kunds begäran, ska inte betraktas som utveckling.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">En försäkringsföremedlare och ett försäkringsföretag som båda är utvecklare i den mening som avses i artikel 2 i denna delegerade förordning, ska ingå ett skriftligt avtal som uttryckligen anger deras samarbete för att uppfylla kraven för utvecklare i artikel 25.1 i direktiv (EU) 2016/97, de förfaranden som de ska använda för att komma överens om fastställandet av målmarknaden och deras respektive roller i produktgodkännandeprocessen.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-1efb8576-146f-4392-8f39-00cdcb8a1d50">KAPITEL II</p>
+   <p class="title-division-2" id="id-7934915c-bcd9-4c72-a13e-b67accc87b7f">
+      <span class="boldface">PRODUKTSTYRNINGSKRAV FÖR UTVECKLARE</span>
+   </p>
+   <p class="title-article-norm" id="id-9e32ada9-49a0-46fb-9529-178002644e0a">Artikel 4</p>
+   <p class="stitle-article-norm">Produktgodkännandeprocess</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Utvecklare ska upprätthålla, sköta och se över en produktgodkännandeprocess för nyutvecklade försäkringsprodukter och för betydande anpassningar av befintliga försäkringsprodukter. Processen ska omfatta åtgärder och förfaranden för utformning, övervakning, översyn och distribution av försäkringsprodukter, samt åtgärder för att korrigera försäkringsprodukter som leder till skada för kunder. Åtgärderna och förfarandena ska stå i proportion till produkternas komplexitet och risker samt till arten, omfattningen och komplexiteten hos utvecklarens relevanta verksamhet.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Produktgodkännandeprocessen ska fastställas i ett skriftligt dokument (<span class="italics">produkttillsyns- och styrningspolicy</span>), som ska göras tillgängligt för berörd personal.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Produktgodkännandeprocessen ska uppfylla följande krav:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Den ska säkerställa att utformningen av försäkringsprodukter uppfyller följande kriterier:</p>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32021R1257"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021R1257: REPLACED">▼M2</a>
+               </p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>i) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Tar hänsyn till kundernas mål, intressen och egenskaper, inbegripet eventuella hållbarhetsrelaterade mål.</p>
+                  </div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32017R2358"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017R2358">▼B</a>
+               </p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>ii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Inte har en negativ inverkan på kunderna.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>iii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Förhindrar eller minskar skada för kunden.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Den ska främja en lämplig hantering av intressekonflikter.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Utvecklarnas organ eller struktur som ansvarar för utvecklingen av försäkringsprodukter ska fullgöra alla följande uppgifter:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Godkänna och ha det yttersta ansvaret för fastställande, genomförande och översyn av produktgodkännandeprocessen.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Fortlöpande kontrollera att processen följs internt.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Utvecklare som utser en tredje part att utforma produkter för deras räkning bär fortfarande det fulla ansvaret för att produktgodkännandeprocessen följs.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">6.  </span>
+      <div class="norm inline-element">Utvecklare ska regelbundet se över sin produktgodkännandeprocess för att säkerställa att den fortfarande är effektiv och uppdaterad. De ska vid behov ändra produktgodkännandeprocessen.</div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021R1257"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021R1257: REPLACED">▼M2</a>
+   </p>
+   <p class="title-article-norm" id="id-35c1bbec-b52b-4758-842d-df6dee1aa212">Artikel 5</p>
+   <p class="stitle-article-norm">Målmarknad</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Produktgodkännandeprocessen ska för varje försäkringsprodukt fastställa målmarknad och gruppen av kompatibla kunder. Målmarknaden ska fastställas på tillräckligt detaljerad nivå på ett sätt som tar hänsyn till försäkringsproduktens egenskaper, riskprofil, komplexitet, art och hållbarhetsfaktorer enligt definitionen i artikel 2.24 i Europaparlamentets och rådets förordning (EU) 2019/2088 (<a href="#E0001" id="src.E0001">
+            <span class="superscript">1</span>
+         </a>).</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Utvecklare kan, i synnerhet när det gäller försäkringsbaserade investeringsprodukter, identifiera grupper av kunder vars behov, egenskaper och mål försäkringsprodukten generellt inte är kompatibel med, med undantag för om försäkringsprodukterna tar hänsyn till hållbarhetsfaktorer på det sätt som avses i punkt 1.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Utvecklare ska bara utforma och saluföra försäkringsprodukter som är kompatibla med behoven, egenskaperna och målen, inbegripet eventuella hållbarhetsrelaterade mål, hos kunderna på målmarknaden. Vid bedömningen av om en försäkringsprodukt är kompatibel med en målmarknad ska utvecklarna ta hänsyn till hur mycket information som är tillgänglig för kunder på denna målmarknad och deras finanskunskaper.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Utvecklare ska säkerställa att personal som deltar i utformning och utveckling av försäkringsprodukter har den kompetens, kännedom och expertis som behövs för att korrekt förstå de försäkringsprodukter som säljs och intressen, mål, inbegripet eventuella hållbarhetsrelaterade mål, samt egenskaper hos kunderna på målmarknaden.</div>
+   </div>
+   <p class="title-article-norm" id="id-f890d2a4-7615-4dc6-be8a-e19adbc17b56">Artikel 6</p>
+   <p class="stitle-article-norm">Produkttester</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Utvecklare ska testa sina försäkringsprodukter på lämpligt sätt, bland annat genom scenarioanalyser när detta är relevant, innan de släpper ut produkten på marknaden eller gör en betydande anpassning av den, eller om målmarknaden har ändrats väsentligt. Produkttestningen ska bedöma om försäkringsprodukten under sin livslängd uppfyller fastställda behov, mål, inbegripet eventuella hållbarhetsrelaterade mål, och egenskaper hos kunderna på målmarknaden. Utvecklare ska testa sina försäkringsprodukter kvalitativt och, beroende på försäkringsproduktens typ och art samt risken för skada för kunderna, även kvantitativt.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Utvecklare ska inte släppa ut försäkringsprodukter på marknaden om resultaten av produkttestningen visar att produkterna inte tillgodoser målmarknadens fastställda behov, mål, inbegripet eventuella hållbarhetsrelaterade mål, och egenskaper.</div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32017R2358"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32017R2358">▼B</a>
+   </p>
+   <p class="title-article-norm" id="id-ed39fb2e-59e4-4f82-b65b-644d7b03fbfd">Artikel 7</p>
+   <p class="stitle-article-norm">Övervakning och översyn av produkter</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021R1257"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021R1257: REPLACED">▼M2</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Utvecklare ska fortlöpande övervaka och regelbundet se över försäkringsprodukter som de har släppt ut på marknaden för att upptäcka händelser som kan ha en väsentlig inverkan på produkternas huvudsakliga särdrag, risktäckning och garantier. De ska bedöma huruvida försäkringsprodukterna förblir förenliga med behoven, egenskaperna och målen, inbegripet eventuella hållbarhetsrelaterade mål, hos den fastställda målmarknaden och huruvida produkterna distribueras till målmarknaden eller når kunder utanför målmarknaden.</div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32017R2358"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32017R2358">▼B</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Utvecklarna ska bestämma lämpliga intervall för regelbunden översyn av sina försäkringsprodukter, och därvid ta hänsyn till försäkringsprodukternas storlek, omfattning, kontraktsenliga löptid och komplexitet, deras respektive distributionskanaler, och alla relevanta externa faktorer, såsom ändringar av tillämplig lagstiftning, teknisk utveckling eller ändrade marknadsförhållanden.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Utvecklare som under försäkringsproduktens livslängd identifierar några omständigheter kring försäkringsprodukten som kan inverka negativt på kunden för den produkten, ska vidta lämpliga åtgärder för att åtgärda situationen och förhindra att den negativa händelsen upprepas. Utvecklarna ska omgående informera berörda försäkringsdistributörer och kunder om de korrigerande åtgärder som vidtagits.</div>
+   </div>
+   <p class="title-article-norm" id="id-9c1e3435-c9a7-421e-aac0-28bd6a915c9b">Artikel 8</p>
+   <p class="stitle-article-norm">Distributionskanaler</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Utvecklare ska omsorgsfullt välja distributionskanaler som är lämpliga för målmarknaden, och därvid ta hänsyn till de relevanta försäkringsprodukternas särskilda egenskaper.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Utvecklare ska ge försäkringsdistributörer all lämplig information om försäkringsprodukterna, den fastställda målmarknaden och den föreslagna distributionsstrategin, inbegripet information om försäkringsprodukternas viktigaste inslag och egenskaper, deras risker och kostnader, inklusive implicita kostnader, och alla omständigheter som kan orsaka en intressekonflikt som skadar kunden. Denna information ska vara tydlig, fullständig och aktuell.</div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021R1257"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021R1257: REPLACED">▼M2</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Den information som avses i punkt 2 ska göra det möjligt för försäkringsdistributörer att</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">förstå försäkringsprodukterna.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">förstå den fastställda målmarknaden för försäkringsprodukterna.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">identifiera eventuella kunder med behov, egenskaper och mål, inbegripet eventuella hållbarhetsrelaterade mål, som försäkringsprodukten inte är kompatibel med.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">utföra distributionsverksamhet för relevanta försäkringsprodukter i enlighet med kundernas bästa intresse enligt artikel 17.1 i direktiv (EU) 2016/97.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32017R2358"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32017R2358">▼B</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Utvecklarna ska vidta lämpliga åtgärder för att övervaka att försäkringsdistributörer handlar i enlighet med målen för utvecklarnas produktgodkännandeprocess. De ska framför allt regelbundet kontrollera om försäkringsprodukterna distribueras på den fastställda målmarknaden. Denna övervakningsskyldighet ska inte omfatta de allmänna regelkrav som försäkringsdistributörer måste uppfylla när de bedriver försäkringsdistributionsverksamhet för enskilda kunder. Övervakningsaktiviteterna ska vara rimliga och ta hänsyn till respektive distributionskanalers egenskaper och regelverk.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Utvecklare som bedömer att distributionen av deras försäkringsprodukter inte sker i enlighet med målen för deras produktgodkännandeprocess ska vidta lämpliga åtgärder för att rätta till detta.</div>
+   </div>
+   <p class="title-article-norm" id="id-6c07dcc2-e101-4487-aebf-a29abb0329b2">Artikel 9</p>
+   <p class="stitle-article-norm">Dokumentation</p>
+   <p class="norm">Relevanta åtgärder som utvecklare vidtar avseende sin produktgodkännandeprocess ska dokumenteras på vederbörligt sätt, bevaras för revisionsändamål och vara tillgängliga för behöriga myndigheter på begäran.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-43b7491a-487f-4aa0-9761-b150cbcefd85">KAPITEL III</p>
+   <p class="title-division-2" id="id-f62fd3c3-53b4-4a27-89d3-34655aeef03f">
+      <span class="boldface">PRODUKTSTYRNINGSKRAV FÖR FÖRSÄKRINGSDISTRIBUTÖRER</span>
+   </p>
+   <p class="title-article-norm" id="id-1aefd878-9fd2-44d0-92f9-efbe5c4d18f8">Artikel 10</p>
+   <p class="stitle-article-norm">Produktdistributionssystem</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Försäkringsdistributörer ska ha produktdistributionssystem som omfattar lämpliga åtgärder och förfaranden för att från utvecklaren få all lämplig information om de försäkringsprodukter de avser att erbjuda sina kunder och till fullo förstå dessa försäkringsprodukter, varvid hänsyn ska tas till graden av komplexitet och risker som är knutna till produkterna och till arten, omfattningen och komplexiteten hos distributörens relevanta verksamhet.</div>
+   </div>
+   <p class="norm">Försäkringsdistributörer ska beskriva produktdistributionssystemet i ett skriftligt dokument och göra det tillgängligt för sin berörda personal.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021R1257"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021R1257: REPLACED">▼M2</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Produktdistributionssystemet ska</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">syfta till att förhindra och minska skador för kunderna.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">främja en korrekt hantering av intressekonflikter.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">säkerställa att kundernas mål, intressen och egenskaper, inbegripet eventuella hållbarhetsrelaterade mål, vederbörligen beaktas.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32017R2358"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32017R2358">▼B</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Produktdistributionssystemen ska säkerställa att försäkringsdistributörer får den information från utvecklaren som ska lämnas enligt artikel 8.2.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Särskilda distributionsstrategier som fastställs eller följs av försäkringsdistributörer ska överensstämma med den distributionsstrategi och målmarknad som har fastställts av utvecklaren.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Det organ eller den struktur hos försäkringsdistributörerna som ansvarar för försäkringsdistribution ska godkänna och ha det yttersta ansvaret för att fastställa, genomföra och se över produktdistributionssystemen och fortlöpande kontrollera att systemen följs internt.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">6.  </span>
+      <div class="norm inline-element">Försäkringsdistributörer ska regelbundet se över sina produktdistributionssystem för att säkerställa att de fortfarande är effektiva och uppdaterade. De ska ändra produktdistributionssystemen vid behov. Försäkringsdistributörer som har fastställt eller tillämpar en särskild distributionsstrategi ska vid behov ändra denna strategi mot bakgrund av resultatet av översynen av produktdistributionssystemet. När försäkringsdistributörerna ser över sina produktdistributionssystem ska de kontrollera att försäkringsprodukterna distribueras till den fastställda målmarknaden.</div>
+   </div>
+   <p class="norm">Försäkringsdistributörer ska bestämma lämpliga intervall för regelbunden översyn av sina produktdistributionssystem, och därvid ta hänsyn till de olika berörda försäkringsprodukternas storlek, omfattning och komplexitet.</p>
+   <p class="norm">För att bistå utvecklarna vid deras produktöversyner ska försäkringsdistributörerna på begäran tillhandahålla relevant information om försäljningen, inklusive, i tillämpliga fall, information om de regelbundna översynerna av produktdistributionssystemen.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021R1257"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021R1257: REPLACED">▼M2</a>
+   </p>
+   <p class="title-article-norm" id="id-5442ed1a-fa08-498b-8d70-363fa133d1e3">Artikel 11</p>
+   <p class="stitle-article-norm">Information till utvecklaren</p>
+   <p class="norm">Om försäkringsdistributörer får kännedom om att en försäkringsprodukt inte är i linje med kundernas intressen, mål och egenskaper på den fastställda målmarknaden, inbegripet deras eventuella hållbarhetsrelaterade mål, eller om de får kännedom om andra produktrelaterade omständigheter som kan inverka negativt på kunden ska de omedelbart informera utvecklaren och vid behov ändra sin distributionsstrategi för den försäkringsprodukten.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32017R2358"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32017R2358">▼B</a>
+   </p>
+   <p class="title-article-norm" id="id-b27afd62-8d2b-4853-8a41-ce7edb2e7284">Artikel 12</p>
+   <p class="stitle-article-norm">Dokumentation</p>
+   <p class="norm">Relevanta åtgärder som försäkringsdistributörer vidtar avseende sina produktdistributionssystem ska dokumenteras på vederbörligt sätt, bevaras för revisionsändamål och vara tillgängliga för behöriga myndigheter på begäran.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-8c0b7f27-1fe6-46d5-a344-8eeedb9d69b3">KAPITEL IV</p>
+   <p class="title-division-2" id="id-795e5690-1f19-432a-9795-ac7ccc6e8c56">
+      <span class="boldface">SLUTBESTÄMMELSER</span>
+   </p>
+   <p class="title-article-norm" id="id-02be1538-4830-40d2-8789-2e1e69df52d8">Artikel 13</p>
+   <p class="stitle-article-norm">Ikraftträdande och tillämpning</p>
+   <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32018R0541"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32018R0541: REPLACED">▼M1</a>
+   </p>
+   <p class="norm">Den ska vara tillämplig från och med den dag då medlemsstaterna ska tillämpa de bestämmelser som avses i artikel 42.1 första stycket i direktiv (EU) 2016/97.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32017R2358"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32017R2358">▼B</a>
+   </p>
+   <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019 om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn (EUT L 317, 9.12.2019, s. 1).</p>
+</body>
+</html>

@@ -1,0 +1,1825 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.18.0 # generated_on:20260625-1845 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32019R2088 — SV — 02.07.2026</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02019R2088 — SV — 02.07.2026 — 003.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-d0075020-c574-43a6-a78f-b1b23c9bb521">
+                        EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2019/2088</p>
+            <p class="title-doc-first" id="id-c35df1d6-4ed3-42cf-af86-e63ac5af0d2e">av den 27 november 2019
+                     </p>
+            <p class="title-doc-first" id="id-4ce71fb5-ff83-4ebf-b544-eadaaf8ae6ee">om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn</p>
+            <p class="title-doc-last" id="id-7d752c0e-6d48-4bff-9dfb-5796b88ba6d1">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-d43986c0-093c-48c2-8917-6be39a3698f1">(EGT L 317 9.12.2019, s. 1)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-87a5cda0-c584-474d-9513-40fc551b41bc">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852">
+                              EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2020/852 av den 18 juni 2020
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 198</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">13</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">22.6.2020</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32023R2869"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32023R2869">►M2</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-ad856bd3-dae9-4b3a-a9c8-6075d0319441">
+               <a href="http://publications.europa.eu/resource/celex/32023R2869"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32023R2869">
+                              EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2023/2869 av den 13 december 2023
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 2869</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">20.12.2023</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32024R3005"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32024R3005">►M3</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-dbadb6b3-3c6e-48f4-ad37-13c9d7aa8c04">
+               <a href="http://publications.europa.eu/resource/celex/32024R3005"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32024R3005">
+                              EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2024/3005
+                            av den 27 november 2024
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 3005</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">12.12.2024</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <div class="eli-container">
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32019R2088"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32019R2088">▼B</a>
+      </p>
+      <div class="eli-main-title" id="tit_1">
+         <p class="title-doc-first" id="id-4bc99638-c2a7-4435-b96e-1282e85e6a79">
+               EUROPAPARLAMENTETS OCH RÅDETS FÖRORDNING (EU) 2019/2088</p>
+         <p class="title-doc-first" id="id-f0cb4682-456a-4fda-9cbe-025d5209ee7f">av den 27 november 2019
+            </p>
+         <p class="title-doc-first" id="id-6421ace0-7637-4ebe-a868-e5979bff6d2d">om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn</p>
+         <p class="title-doc-last" id="id-8be11fa6-4de8-4488-9232-ce98ee969749">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <p>
+            <br/>
+            <br/>
+         </p>
+         <div class="eli-subdivision" id="art_1">
+            <p class="title-article-norm" id="id-5080a6e1-f359-425c-a00e-49e922e5b911">Artikel 1</p>
+            <div class="eli-title" id="art_1.tit_1">
+               <p class="stitle-article-norm">Syfte</p>
+            </div>
+            <p class="norm">Denna förordning fastställer harmoniserade regler för finansmarknadsaktörer och finansiella rådgivare om transparens med avseende på integrering av hållbarhetsrisker och beaktande av negativa konsekvenser för hållbar utveckling i sina processer och tillhandahållande av hållbarhetsrelaterade upplysningar med avseende på finansiella produkter.</p>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p class="title-article-norm" id="id-2de2747f-f333-44cd-a012-fea8bd035e7d">Artikel 2</p>
+            <div class="eli-title" id="art_2.tit_1">
+               <p class="stitle-article-norm">Definitioner</p>
+            </div>
+            <p class="norm">I denna förordning gäller följande definitioner:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>1. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">finansmarknadsaktör</span>:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett försäkringsföretag som tillhandahåller en försäkringsbaserad investeringsprodukt (Ibip),</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett värdepappersföretag som tillhandahåller portföljförvaltning,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett tjänstepensionsinstitut,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en utvecklare av en pensionsprodukt,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>e) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en förvaltare av alternativa investeringsfonder (AIF-förvaltare),</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>f) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett sparinstitut för paneuropeiska privata pensionsprodukter (PEPP-produkter),</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>g) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en förvaltare av en godkänd riskkapitalfond som är registrerad i enlighet med artikel 14 i förordning (EU) nr 345/2013,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>h) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en förvaltare av en godkänd fond för socialt företagande som är registrerad i enlighet med artikel 15 i förordning (EU) nr 346/2013,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>i) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett förvaltningsbolag för företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag), eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>j) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett kreditinstitut som tillhandahåller portföljförvaltning.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>2. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">försäkringsföretag</span>: ett försäkringsföretag som är auktoriserat i enlighet med artikel 18 i direktiv 2009/138/EG.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>3. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">försäkringsbaserad investeringsprodukt</span>:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en försäkringsbaserad investeringsprodukt enligt definitionen i artikel 4.2 i Europaparlamentets och rådets förordning (EU) nr 1286/2014 (<a href="#E0001" id="src.E0001">
+                              <span class="superscript">1</span>
+                           </a>), eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en försäkringsprodukt som erbjuds en professionell investerare och som har en löptid eller ett återköpsvärde som helt eller delvis är direkt eller indirekt exponerat mot marknadsfluktuationer.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>4. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">förvaltare av alternativa investeringsfonder</span> eller <span class="italics">AIF-förvaltare</span>: en AIF-förvaltare enligt definitionen i artikel 4.1 b i direktiv 2011/61/EU.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>5. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">värdepappersföretag</span>: ett värdepappersföretag enligt definitionen i artikel 4.1.1 i direktiv 2014/65/EU.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>6. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">portföljförvaltning</span>: portföljförvaltning enligt definitionen i artikel 4.1.8 i direktiv 2014/65/EU.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>7. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">tjänstepensionsinstitut</span>: ett tjänstepensionsinstitut som auktoriserats eller registrerats i enlighet med artikel 9 i direktiv (EU) 2016/2341, utom institut med avseende på vilka en medlemsstat har valt att tillämpa artikel 5 i det direktivet, eller institut som förvaltar pensionsplaner som sammanlagt har färre än 15 medlemmar.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>8. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">pensionsprodukt</span>:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en pensionsprodukt enligt artikel 2.2 e i förordning (EU) nr 1286/2014, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en individuell pensionsprodukt enligt artikel 2.2 g i förordning (EU) nr 1286/2014.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>9. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">paneuropeisk privat pensionsprodukt (PEPP-produkt)</span>: en produkt enligt artikel 2.2 i förordning (EU) 2019/1238.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>10. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">förvaltningsbolag för fondföretag</span>:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett förvaltningsbolag enligt definitionen i artikel 2.1 b i direktiv 2009/65/EG, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett investeringsbolag som är auktoriserat i enlighet med direktiv 2009/65/EG som inte har utsett ett förvaltningsbolag som är auktoriserat enligt det direktivet för sin förvaltning.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>11. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">finansiell rådgivare</span>:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en försäkringsförmedlare som tillhandahåller försäkringsrådgivning med avseende på försäkringsbaserade investeringsprodukter,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett försäkringsföretag som tillhandahåller försäkringsrådgivning med avseende på försäkringsbaserade investeringsprodukter,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett kreditinstitut som tillhandahåller investeringsrådgivning,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett värdepappersföretag som tillhandahåller investeringsrådgivning,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>e) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en AIF-förvaltare som tillhandahåller investeringsrådgivning i enlighet med artikel 6.4 b i) i direktiv 2011/61/EU, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>f) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett förvaltningsbolag för fondföretag som tillhandahåller investeringsrådgivning i enlighet med artikel 6.3 b i) i direktiv 2009/65/EG.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>12. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">finansiell produkt</span>:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en portfölj som förvaltas i enlighet med led 6 i denna artikel,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en alternativ investeringsfond (AIF-fond),</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en försäkringsbaserad investeringsprodukt,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en pensionsprodukt,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>e) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en pensionsplan,</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>f) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">ett fondföretag, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>g) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">en PEPP-produkt.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>13. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">alternativ investeringsfond</span> eller <span class="italics">AIF-fond</span>: en AIF-fond enligt definitionen i artikel 4.1 a i direktiv 2011/61/EU.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>14. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">pensionsplan</span>: en pensionsplan enligt definitionen i artikel 6.2 i direktiv (EU) 2016/2341.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>15. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">företag för kollektiva investeringar i överlåtbara värdepapper</span> eller <span class="italics">fondföretag</span>: ett företag för kollektiva investeringar i överlåtbara värdepapper som är auktoriserat enligt artikel 5 i direktiv 2009/65/EG.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>16. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">investeringsrådgivning</span>: investeringsrådgivning enligt definitionen i artikel 4.1.4 i direktiv 2014/65/EU.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>17. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">hållbar investering</span>: en investering i en ekonomisk verksamhet som bidrar till ett miljömål, i enlighet med vad som mäts genom till exempel centrala resurseffektivitetsindikatorer avseende användning av energi, förnybar energi, råvaror, vatten och mark, generering av avfall och utsläpp av växthusgaser eller avseende effekter på den biologiska mångfalden och den cirkulära ekonomin, eller en investering i en ekonomisk verksamhet som bidrar till ett socialt mål, i synnerhet investeringar som bidrar till att bekämpa ojämlikheter eller som främjar social sammanhållning, social integration och ett gott förhållande mellan arbetsmarknadens parter, eller en investering i humankapital eller ekonomiskt eller socialt missgynnade grupper, förutsatt att investeringarna inte orsakar betydande skada för något av dessa mål och att investeringsobjekten följer praxis för god styrning, särskilt med avseende på sunda förvaltningsstrukturer, relationer till arbetstagarna, löner till berörd personal och efterlevnad av skatteregler.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>18. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">professionell investerare</span>: en investerare som uppfyller kriterierna i bilaga II i direktiv 2014/65/EU.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>19. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">icke-professionell investerare</span>: en investerare som inte är en professionell investerare.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>20. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">försäkringsförmedlare</span>: en försäkringsförmedlare enligt definitionen i artikel 2.1.3 i direktiv (EU) 2016/97.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>21. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">försäkringsrådgivning</span>: rådgivning enligt definitionen i artikel 2.1.15 i direktiv (EU) 2016/97.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>22. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">hållbarhetsrisk</span>: en miljörelaterad, social eller styrningsrelaterad händelse eller omständighet som, om den skulle inträffa, skulle ha en faktisk eller potentiell betydande negativ inverkan på investeringen värde.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>23. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">europeisk långsiktig investeringsfond</span> eller <span class="italics">Eltif-fond</span>: en fond som är auktoriserad i enlighet med artikel 6 i förordning (EU) 2015/760.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>24. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">
+                     <span class="italics">hållbarhetsfaktorer</span>: miljörelaterade, sociala och personalrelaterade frågor, respekt för mänskliga rättigheter samt bekämpning av korruption och mutor.</p>
+               </div>
+            </div>
+         </div>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32020R0852"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32020R0852: INSERTED">▼M1</a>
+         </p>
+         <div class="eli-subdivision" id="art_2a">
+            <p class="title-article-norm" id="id-3ce1ae40-1b2a-4ce2-9cd5-8a3291c52acc">Artikel 2a</p>
+            <div class="eli-title" id="art_2a.tit_1">
+               <p class="stitle-article-norm">Principen orsaka inte betydande skada</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna, som inrättats genom Europaparlamentets och rådets förordningar (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010 (gemensamt <span class="italics">de europeiska tillsynsmyndigheterna</span>), ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar kraven för innehåll i och presentation av de upplysningar som avser principen <span class="italics">orsaka inte betydande skada</span> som avses i artikel 2.17 i den här förordningen vilka är förenliga med det innehåll, de metoder och den presentation med avseende på hållbarhetsindikatorer för negativa konsekvenser som avses i artikel 4.6 och 4.7 i den här förordningen.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i punkt 1 till kommissionen senast den 30 december 2020.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i punkt 1 i denna artikel i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</div>
+            </div>
+         </div>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32019R2088"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32019R2088">▼B</a>
+         </p>
+         <div class="eli-subdivision" id="art_3">
+            <p class="title-article-norm" id="id-fc753719-e6a2-4ce5-8d3d-60fce6d33af2">Artikel 3</p>
+            <div class="eli-title" id="art_3.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om policyer för hållbarhetsrisker</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Finansmarknadsaktörer ska på sina webbplatser offentliggöra information avseende sina policyer för integreringen av hållbarhetsrisker i sin investeringsbeslutsprocess.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Finansiella rådgivare ska på sina webbplatser offentliggöra information avseende sina policyer för integreringen av hållbarhetsrisker i sin investerings- eller försäkringsrådgivning.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_4">
+            <p class="title-article-norm" id="id-72e67440-4b44-4c4a-981f-461a6d842939">Artikel 4</p>
+            <div class="eli-title" id="art_4.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om negativa konsekvenser för hållbar utveckling på enhetsnivå</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Finansmarknadsaktörer ska på sina webbplatser offentliggöra och hålla uppdaterade följande,</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">om investeringsbesluts huvudsakliga negativa konsekvenser för hållbarhetsfaktorer beaktas: en redogörelse för due diligence-policyer med avseende på dessa konsekvenser, varvid hänsyn ska tas till storleken, arten och omfattningen av deras verksamhet och typerna av finansiella produkter som de erbjuder, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">om investeringsbesluts negativa konsekvenser för hållbarhetsfaktorer inte beaktas: tydliga skäl för att så inte sker, inbegripet, i relevanta fall, information om huruvida och i så fall när de avser att beakta sådana negativa konsekvenser.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Finansmarknadsaktörer ska, i den information som lämnas i enlighet med punkt 1 a, åtminstone inkludera följande:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Information om sina policyer för identifiering och prioritering av huvudsakliga negativa konsekvenser och indikatorer för hållbar utveckling.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En beskrivning av de huvudsakliga negativa konsekvenserna för hållbar utveckling och av eventuella åtgärder som vidtagits med avseende på dessa eller, i relevanta fall, planerade sådana.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">I tillämpliga fall, korta sammanfattningar av policyer för aktieägarengagemang i enlighet med artikel 3g i direktiv 2007/36/EG.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En hänvisning till hur de följer uppförandekoder för ansvarsfullt företagande och internationellt erkända standarder för due diligence och rapportering och, i relevanta fall, i vilken grad de anpassat sig till målen i Parisavtalet.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">Genom undantag från punkt 1 ska finansmarknadsaktörer, som på balansdagen överskrider kriteriet om att under räkenskapsåret i genomsnitt ha haft 500 anställda, från och med den 30 juni 2021 på sina webbplatser offentliggöra och hålla uppdaterad en redogörelse för sina due diligence-policyer med avseende på investeringsbesluts huvudsakliga negativa konsekvenser för hållbarhetsfaktorer. Den redogörelsen ska åtminstone inbegripa den information som avses i punkt 2.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">4.  </span>
+               <div class="norm inline-element">Finansmarknadsaktörer som är moderföretag i en sådan stor koncern som avses i artikel 3.7 i direktiv 2013/34/EU och som på koncernens balansdag, efter konsolidering, överskrider kriteriet om att under räkenskapsåret i genomsnitt ha haft 500 anställda ska, genom undantag från punkt 1 i den här artikeln, från och med den 30 juni 2021 på sina webbplatser offentliggöra och hålla uppdaterade en redogörelse för sina due diligence‐policyer med avseende på investeringsbesluts huvudsakliga negativa konsekvenser för hållbarhetsfaktorer. Den redogörelsen ska åtminstone inbegripa den information som avses i punkt 2.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">5.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Finansiella rådgivare ska på sina webbplatser offentliggöra och hålla uppdaterad</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">information om huruvida de, med hänsyn tagen till deras storlek, arten och omfattningen av deras verksamhet och vilka typer av finansiella produkter som de tillhandahåller rådgivning om, i sin investerings- eller försäkringsrådgivning beaktar de huvudsakliga negativa konsekvenserna för hållbarhetsfaktorer, eller</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">information om varför investeringsbesluts negativa konsekvenser för hållbarhetsfaktorer inte beaktas i deras investerings- eller försäkringsrådgivning och, i relevanta fall, information om huruvida och i så fall när sådana negativa konsekvenser kommer att beaktas.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">6.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén senast den 30 december 2020 utarbeta förslag till tekniska standarder för tillsyn i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010, om innehållet, metoderna och presentationen av den information som avses i punkterna 1–5 i den här artikeln med avseende på hållbarhetsindikatorerna för negativa konsekvenser för klimatet och andra miljörelaterade negativa konsekvenser.</div>
+            </div>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska vid behov inhämta synpunkter från Europeiska miljöbyrån och Europeiska kommissionens gemensamma forskningscentrum.</p>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <div class="norm">
+               <span class="no-parag">7.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska, genom den gemensamma kommittén, senast den 30 december 2021 utarbeta förslag till tekniska standarder för tillsyn i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010, om innehållet, metoderna och presentationen av den information som avses i punkterna 1–5 i den här artikeln med avseende på hållbarhetsindikatorer för negativa konsekvenser inom området sociala och personalrelaterade frågor, respekt för de mänskliga rättigheterna samt bekämpning av korruption och mutor.</div>
+            </div>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+         </div>
+         <div class="eli-subdivision" id="art_5">
+            <p class="title-article-norm" id="id-18994b0d-9574-41bb-a734-8b09f7f4bbae">Artikel 5</p>
+            <div class="eli-title" id="art_5.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om ersättningspolicyer i samband med integreringen av hållbarhetsrisker</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Finansmarknadsaktörer och finansiella rådgivare ska i sina ersättningspolicyer inkludera information om hur dessa policyer är förenliga med integreringen av hållbarhetsrisker och offentliggöra denna information på sina webbplatser.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Den information som avses i punkt 1 ska inkluderas i ersättningspolicyer som finansmarknadsaktörer och finansiella rådgivare ska upprätta och upprätthålla i enlighet med sektorsspecifik lagstiftning, i synnerhet direktiven 2009/65/EG, 2009/138/EG, 2011/61/EU, 2013/36/EU, 2014/65/EU, (EU) 2016/97 och (EU) 2016/2341.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_6">
+            <p class="title-article-norm" id="id-30f35add-3c45-43f6-bbdd-3f4bdaf43d59">Artikel 6</p>
+            <div class="eli-title" id="art_6.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om integreringen av hållbarhetsrisker</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Finansmarknadsaktörer ska i upplysningar som lämnas innan avtal ingås inkludera beskrivningar av</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">på vilket sätt hållbarhetsriskerna är integrerade i investeringsbesluten, och</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">resultaten av bedömningen av hållbarhetsriskernas troliga inverkan på avkastningen för de finansiella produkter som de tillhandahåller.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <p class="norm">När finansmarknadsaktörer anser att hållbarhetsrisker inte är relevanta ska de beskrivningar som avses i första stycket inbegripa en tydlig och koncis redovisning av skälen till detta.</p>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Finansiella rådgivare ska i upplysningar som lämnas innan avtal ingås inkludera beskrivningar av</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">hur hållbarhetsriskerna är integrerade i investerings- eller försäkringsrådgivningen, och</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">resultatet av bedömningen av hållbarhetsriskernas troliga inverkan på avkastningen för de finansiella produkter som de ger råd om.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <p class="norm">När finansiella rådgivare anser att hållbarhetsrisker inte är relevanta ska de beskrivningar som avses i första stycket inbegripa en tydlig och koncis redovisning av skälen till detta.</p>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">De upplysningar som avses i punkterna 1 och 2 i denna artikel ska lämnas på följande sätt:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För AIF-förvaltare, i den information till investerare som avses i artikel 23.1 i direktiv 2011/61/EU.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För försäkringsföretag, tillsammans med den information som avses i artikel 185.2 i direktiv 2009/138/EG eller, i tillämpliga fall, i enlighet med artikel 29.1 i direktiv (EU) 2016/97.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För tjänstepensionsinstitut, tillsammans med den information som avses i artikel 41 i direktiv (EU) 2016/2341.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För förvaltare av godkända riskkapitalfonder, tillsammans med den information som avses i artikel 13.1 i förordning (EU) nr 345/2013.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>e) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För förvaltare av godkända fonder för socialt företagande, tillsammans med den information som avses i artikel 14.1 i förordning (EU) nr 346/2013.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>f) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För utvecklare av pensionsprodukter, skriftligt och i god tid innan en icke‐professionell investerare blir bunden av ett avtal som gäller en pensionsprodukt.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>g) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För förvaltningsbolag för fondföretag, i det prospekt som avses i artikel 69 i direktiv 2009/65/EG.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>h) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För värdepappersföretag som tillhandahåller portföljförvaltning eller investeringsrådgivning, i enlighet med artikel 24.4 i direktiv 2014/65/EU.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>i) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För kreditinstitut som tillhandahåller portföljförvaltning eller investeringsrådgivning, i enlighet med artikel 24.4 i direktiv 2014/65/EU.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>j) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För försäkringsförmedlare och försäkringsföretag som tillhandahåller försäkringsrådgivning med avseende på försäkringsbaserade investeringsprodukter och för försäkringsförmedlare som tillhandahåller försäkringsrådgivning med avseende på pensionsprodukter som är exponerade mot marknadsvolatilitet, i enlighet med artikel 29.1 i direktiv (EU) 2016/97.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>k) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För AIF-förvaltare av Eltif-fonder, i det prospekt som avses i artikel 23 i förordning (EU) 2015/760.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>l) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För PEPP-sparinstitut, i det dokument med basfakta som avses i artikel 26 i förordning (EU) 2019/1238.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_7">
+            <p class="title-article-norm" id="id-01095825-b66e-4b7b-b032-dcb713f4291a">Artikel 7</p>
+            <div class="eli-title" id="art_7.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om negativa konsekvenser för hållbar utveckling med avseende på finansiella produkter</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">När en finansmarknadsaktör tillämpar artikel 4.1 a eller 4.3 eller 4.4 ska de upplysningar som avses i artikel 6.3, senast den 30 december 2022 för varje finansiell produkt inbegripa följande:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En tydlig och motiverad förklaring av om, och i så fall hur, huvudsakliga negativa konsekvenser för hållbarhetsfaktorer beaktas för en finansiell produkt.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En redogörelse för att information om huvudsakliga negativa konsekvenser för hållbarhetsfaktorer finns tillgänglig i den information som ska lämnas enligt artikel 11.2.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <p class="norm">När informationen i artikel 11.2 inbegriper kvantifieringar av huvudsakliga negativa konsekvenser för hållbarhetsfaktorer får denna information grunda sig på bestämmelserna i de tekniska standarder för tillsyn som antagits enligt artikel 4.6 och 4.7.</p>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">När en finansmarknadsaktör tillämpar artikel 4.1 b ska den information som avses i artikel 6.3 för varje finansiell produkt inbegripa en redogörelse för att finansmarknadsaktören inte beaktar investeringsbesluts negativa konsekvenser för hållbarhetsfaktorer och skälen till detta.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_8">
+            <p class="title-article-norm" id="id-e91c0766-cafc-40f6-b4b8-489d5447d48d">Artikel 8</p>
+            <div class="eli-title" id="art_8.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om främjandet av miljörelaterade eller sociala egenskaper i den information som lämnas innan avtal ingås</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">När en finansiell produkt främjar bland annat miljörelaterade eller sociala egenskaper, eller en kombination av dessa egenskaper, ska, förutsatt att de företag i vilka investeringarna görs följer praxis för god styrning, de upplysningar som ska lämnas enligt artikel 6.1 och 6.3 inkludera följande:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Information om hur dessa egenskaper uppnås.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Om ett index har valts som referensvärde, information om huruvida och på vilket sätt detta index är förenligt med dessa egenskaper.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">I de upplysningar som ska lämnas enligt artikel 6.1 och 6.3 ska finansmarknadsaktörerna ange var den metod som används vid beräkning av det index som avses i punkt 1 i denna artikel finns tillgänglig.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: INSERTED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">2a.  </span>
+               <div class="norm inline-element">Om finansmarknadsaktörer tillhandahåller en sådan finansiell produkt som avses i artikel 6 i Europaparlamentets och rådets förordning (EU) 2020/852 (<a href="#E0002" id="src.E0002">
+                     <span class="superscript">2</span>
+                  </a>) ska de, i de upplysningar som ska lämnas enligt artikel 6.1 och 6.3 i den här förordningen, inkludera de upplysningar som krävs enligt artikel 6 i förordning (EU) 2020/852.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: REPLACED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar kraven för innehåll i och presentation av de upplysningar som ska lämnas enligt punkterna 1 och 2 i denna artikel.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+            <p class="norm">Vid utarbetandet av de förslag till tekniska standarder för tillsyn som avses i första stycket ska de europeiska tillsynsmyndigheterna ta hänsyn till de olika typerna av finansiella produkter, deras egenskaper och skillnader mellan dem, liksom målet att upplysningar ska vara korrekta, rättvisande, tydliga, inte vilseledande, lättfattliga och koncisa.</p>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket till kommissionen senast den 30 december 2020.</p>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: INSERTED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">4.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar kraven för innehåll i och presentation av de upplysningar som avses i punkt 2a i denna artikel.</div>
+            </div>
+            <p class="norm">Vid utarbetandet av de förslag till tekniska standarder för tillsyn som avses i första stycket i denna punkt ska de europeiska tillsynsmyndigheterna ta hänsyn till de olika typerna av finansiella produkter, deras egenskaper och skillnader mellan dem, liksom målet att upplysningar ska vara korrekta, rättvisande, tydliga, inte vilseledande, lättfattliga och koncisa, och, där så är nödvändigt för att uppnå det målet, utarbeta förslag till ändring av de tekniska standarder för tillsyn som avses i punkt 3 i denna artikel. Förslagen till tekniska standarder för tillsyn ska ta hänsyn till tillämpningsdatumen i artikel 27.2 a respektive b i förordning (EU)2020/852 när det gäller de miljömål som avses i artikel 9 i den förordningen.</p>
+            <p class="norm inline-element">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket till kommissionen</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">senast den 1 juni 2021 när det gäller de miljömål som avses i artikel 9 a och b i förordning (EU) 2020/852, och</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">senast den 1 juni 2022 när det gäller de miljömål som avses i artikel 9 c–f i förordning (EU) 2020/852.</p>
+               </div>
+            </div>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i denna punkt i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+         </div>
+         <div class="eli-subdivision" id="art_9">
+            <p class="title-article-norm" id="id-68edc573-3aa8-4d82-8a9d-9cfa6940b2a7">Artikel 9</p>
+            <div class="eli-title" id="art_9.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om hållbar investering i upplysningar som lämnas innan avtal ingås</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Om en finansiell produkt har hållbar investering som mål, och om ett index har valts som referensvärde, ska den information som ska lämnas enligt artikel 6.1 och 6.3 åtföljas av följande:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Information om hur det valda indexet är anpassat till det målet.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En redogörelse för varför och hur det valda målanpassade indexet skiljer sig från ett brett marknadsindex.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Om en finansiell produkt har hållbar investering som mål, och om inget index har valts som referensvärde, ska de upplysningar som ska lämnas enligt artikel 6.1 och 6.3 innehålla en redogörelse för hur målet ska uppnås.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">Om en finansiell produkt har en minskning av koldioxidutsläpp som mål ska de upplysningar som ska lämnas enligt artikel 6.1 och 6.3 inkludera målet att uppnå låg exponering för koldioxidutsläpp i syfte att uppnå de långsiktiga globala uppvärmningsmålen i Parisavtalet.</div>
+            </div>
+            <p class="norm">Genom undantag från punkt 2 i den här artikeln ska den information som avses i artikel 6, i det fall inget EU-referensvärde för klimatomställning eller för anpassning till Parisavtalet i enlighet med Europaparlamentets och rådets förordning (EU) 2016/1011 (<a href="#E0003" id="src.E0003">
+                  <span class="superscript">3</span>
+               </a>) finns tillgängligt, innehålla en detaljerad redogörelse för hur fortsatta insatser för att uppnå målet att minska koldioxidutsläppen säkerställs, i syfte att uppnå de långsiktiga globala uppvärmningsmålen i Parisavtalet.</p>
+            <div class="norm">
+               <span class="no-parag">4.  </span>
+               <div class="norm inline-element">I de upplysningar som ska lämnas enligt artikel 6.1 och 6.3 ska finansmarknadsaktörerna ange var den metod som används vid beräkning av de index som avses i punkt 1 i den här artikeln och de referensvärden som avses i punkt 3 andra stycket i den här artikeln finns tillgängliga.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: INSERTED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">4a.  </span>
+               <div class="norm inline-element">Finansmarknadsaktörer ska i de upplysningar som ska lämnas enligt artikel 6.1 och 6.3 i denna förordning inkludera de upplysningar som krävs enligt artikel 5 i förordning (EU) 2020/852.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: REPLACED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">5.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar kraven för innehåll i och presentation av de upplysningar som ska lämnas enligt punkterna 1–4 i denna artikel.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+            <p class="norm">Vid utarbetandet av förslag till tekniska standarder för tillsyn som avses i första stycket i denna punkt ska de europeiska tillsynsmyndigheterna ta hänsyn till de olika typerna av finansiella produkter, deras mål som avses i punkterna 1, 2 och 3 och skillnader mellan dem liksom målet att upplysningar ska vara korrekta, rättvisande, tydliga, inte vilseledande, lättfattliga och koncisa.</p>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket till kommissionen senast den 30 december 2020.</p>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: INSERTED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">6.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar kraven för innehåll i och presentation av de upplysningar som avses i punkt 4a i denna artikel.</div>
+            </div>
+            <p class="norm">Vid utarbetandet av de förslag till tekniska standarder för tillsyn som avses i första stycket i denna punkt ska de europeiska tillsynsmyndigheterna ta hänsyn till de olika typerna av finansiella produkter, deras mål enligt punkt 4a i denna artikel och skillnader mellan dem liksom målet att upplysningar ska vara korrekta, rättvisande, tydliga, inte vilseledande, lättfattliga och koncisa, och, där så är nödvändigt för att uppnå det målet, utarbeta förslag till ändring av de tekniska standarder för tillsyn som avses i punkt 5 i denna artikel. Förslagen till tekniska standarder för tillsyn ska ta hänsyn till tillämpningsdatumen i artikel 27.2 a respektive b i förordning (EU) 2020/852 när det gäller de miljömål som avses i artikel 9 i den förordningen.</p>
+            <p class="norm inline-element">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket i denna punkt till kommissionen</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">senast den 1 juni 2021 när det gäller de miljömål som avses i artikel 9 a och b i förordning (EU) 2020/852, och</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">senast den 1 juni 2022 när det gäller de miljömål som avses i artikel 9 c–f i förordning (EU) 2020/852.</p>
+               </div>
+            </div>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i denna punkt i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+         </div>
+         <div class="eli-subdivision" id="art_10">
+            <p class="title-article-norm" id="id-e0fccc58-7d03-4a8b-b987-7bc9f97b4044">Artikel 10</p>
+            <div class="eli-title" id="art_10.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om främjandet av miljörelaterade eller sociala egenskaper och av hållbar investering på webbplatser</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Finansmarknadsaktörer ska på sina webbplatser offentliggöra och hålla uppdaterade följande information för var och en av de finansiella produkter som avses i artikel 8.1 och artikel 9.1, 9.2 och 9.3:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En beskrivning av de miljörelaterade eller sociala egenskaperna eller målet för hållbar investering.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Information om de metoder som används för att bedöma, mäta och övervaka de miljörelaterade eller sociala egenskaperna eller effekten av de hållbara investeringar som valts för den finansiella produkten, inbegripet dess datakällor, granskningskriterier för de underliggande tillgångarna och relevanta hållbarhetsindikatorer som används för att mäta de miljörelaterade eller sociala egenskaperna eller den finansiella produktens övergripande hållbarhetseffekt.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Den information som avses i artiklarna 8 och 9.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Den information som avses i artikel 11.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <p class="norm">De upplysningar som ska lämnas enligt första stycket ska vara tydliga, kortfattade och lättförståeliga för investerare. De ska offentliggöras på ett sätt som är korrekt, rättvisande, tydligt, inte vilseledande, lättfattligt och koncist samt på en framträdande och lättillgänglig del av webbplatsen.</p>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar detaljerna för innehållet i den information som avses i punkt 1 första stycket leden a och b, och de presentationskrav som avses i andra stycket i den punkten.</div>
+            </div>
+            <p class="norm">Vid utarbetandet av de förslag till tekniska standarder för tillsyn som avses i första stycket i denna punkt ska de europeiska tillsynsmyndigheterna ta hänsyn till de olika typerna av finansiella produkter, deras egenskaper och mål som avses i punkt 1 och skillnader mellan dem. De europeiska tillsynsmyndigheterna ska uppdatera de tekniska standarderna för tillsyn mot bakgrund av den tekniska och regulatoriska utvecklingen.</p>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket i denna punkt till kommissionen senast den 30 december 2020.</p>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+         </div>
+         <div class="eli-subdivision" id="art_11">
+            <p class="title-article-norm" id="id-5e6e5882-fac4-49e1-ab8e-c0f3dab20f5b">Artikel 11</p>
+            <div class="eli-title" id="art_11.tit_1">
+               <p class="stitle-article-norm">Transparens i fråga om främjandet av miljörelaterade eller sociala egenskaper och av hållbara investeringar i regelbundna rapporter</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Om finansmarknadsaktörer tillhandahåller en sådan finansiell produkt som avses i artikel 8.1 eller i artikel 9.1, 9.2 eller 9.3 ska de inkludera en beskrivning av följande i regelbundna rapporter:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För en finansiell produkt som avses i artikel 8.1, i vilken utsträckning de miljörelaterade eller sociala egenskaperna har uppnåtts.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För en finansiell produkt som avses i artikel 9.1, 9.2 eller 9.3,</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>i) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">den övergripande hållbarhetsrelaterade effekt som den finansiella produkten har enligt relevanta hållbarhetsindikatorer, eller</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>ii) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">om ett index har valts som referensvärde, en jämförelse mellan den finansiella produktens övergripande hållbarhetsrelaterade effekt och effekterna av det valda indexet och av ett brett marknadsindex genom hållbarhetsindikatorer.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32020R0852: INSERTED">▼M1</a>
+                  </p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">för en finansiell produkt som omfattas av artikel 5 i förordning (EU) 2020/852, den information som krävs enligt den artikeln.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">för en finansiell produkt som omfattas av artikel 6 i förordning (EU) 2020/852, den information som krävs enligt den artikeln.</p>
+                     </div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32019R2088">▼B</a>
+                  </p>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Den information som avses i punkt 1 i denna artikel ska lämnas på följande sätt:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För AIF-förvaltare, i den årsredovisning som avses i artikel 22 i direktiv 2011/61/EU.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För försäkringsföretag, årligen och skriftligen i enlighet med artikel 185.6 i direktiv 2009/138/EG.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För tjänstepensionsinstitut, i den förvaltningsberättelse som avses i artikel 29 i direktiv (EU) 2016/2341.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För förvaltare av godkända riskkapitalfonder, i den årsredovisning som avses i artikel 12 i förordning (EU) nr 345/2013.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>e) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För förvaltare av godkända fonder för socialt företagande, i den årsredovisning som avses i artikel 13 i förordning (EU) nr 346/2013.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>f) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För utvecklare av pensionsprodukter, skriftligen i årsredovisningarna eller i en rapport i enlighet med nationell rätt.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>g) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För fondföretags förvaltningsbolag, i de årsrapporter som avses i artikel 69 i direktiv 2009/65/EG.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>h) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För värdepappersföretag som tillhandahåller portföljförvaltning, i en regelbunden rapport enligt artikel 25.6 i direktiv 2014/65/EU.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>i) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För kreditinstitut som tillhandahåller portföljförvaltning, i en regelbunden rapport enligt artikel 25.6 i direktiv 2014/65/EU.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>j) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För PEPP-sparinstitut, i det PEPP-pensionsbesked som avses i artikel 36 i förordning (EU) 2019/1238.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">Vid tillämpning av punkt 1 i denna artikel får finansmarknadsaktörer använda informationen i förvaltningsberättelser i enlighet med artikel 19 i direktiv 2013/34/EU eller informationen i icke-finansiella rapporter i enlighet med artikel 19a i det direktivet, i tillämpliga fall.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: REPLACED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">4.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar kraven för innehåll i och presentation av den information som avses i punkt 1 a och b.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+            <p class="norm">Vid utarbetandet av förslag till tekniska standarder för tillsyn enligt första stycket ska de europeiska tillsynsmyndigheterna ta hänsyn till de olika typerna av finansiella produkter, deras egenskaper och mål och skillnader mellan dem. De europeiska tillsynsmyndigheterna ska uppdatera de tekniska standarderna för tillsyn mot bakgrund av den tekniska och regulatoriska utvecklingen.</p>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket till kommissionen senast den 30 december 2020.</p>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: INSERTED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">5.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar kraven för innehåll i och presentation av den information som avses i punkt 1 c och d.</div>
+            </div>
+            <p class="norm">Vid utarbetandet av förslag till tekniska standarder för tillsyn enligt första stycket i denna punkt ska de europeiska tillsynsmyndigheterna ta hänsyn till de olika typerna av finansiella produkter, deras egenskaper och mål och skillnaderna mellan dem och, där så är nödvändigt, utarbeta förslag till ändring av de tekniska standarder för tillsyn som avses i punkt 4 i denna artikel. Förslagen till tekniska standarder för tillsyn ska ta hänsyn till tillämpningsdatumen i artikel 27.2 a respektive b i förordning (EU) 2020/852 när det gäller de miljömål som avses i artikel 9 i den förordningen. De europeiska tillsynsmyndigheterna ska uppdatera de tekniska standarderna för tillsyn mot bakgrund av den tekniska och regulatoriska utvecklingen.</p>
+            <p class="norm inline-element">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket i denna punkt till kommissionen</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">senast den 1 juni 2021 när det gäller de miljömål som avses i artikel 9 a och b i förordning (EU) 2020/852, och</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">senast den 1 juni 2022 när det gäller de miljömål som avses i artikel 9 c–f i förordning (EU) 2020/852.</p>
+               </div>
+            </div>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i första stycket i denna punkt i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+         </div>
+         <div class="eli-subdivision" id="art_12">
+            <p class="title-article-norm" id="id-bfcdd20b-8c80-42be-b808-5ebe4a74c792">Artikel 12</p>
+            <div class="eli-title" id="art_12.tit_1">
+               <p class="stitle-article-norm">Granskning av upplysningar</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Finansmarknadsaktörer ska säkerställa att all information som offentliggörs i enlighet med artikel 3, 5 eller 10 är uppdaterad. Om en finansmarknadsaktör ändrar sådan information ska en tydlig förklaring av ändringen offentliggöras på samma webbplats.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Punkt 1 ska i tillämpliga delar gälla för finansiella rådgivare med avseende på all information som offentliggörs i enlighet med artiklarna 3 och 5.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_13">
+            <p class="title-article-norm" id="id-510cfcd5-3f64-4237-84a0-732285f79048">Artikel 13</p>
+            <div class="eli-title" id="art_13.tit_1">
+               <p class="stitle-article-norm">Marknadsföringsmaterial</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Utan att det påverkar tillämpningen av striktare sektorsspecifik lagstiftning, i synnerhet direktiven 2009/65/EG, 2014/65/EU och (EU) 2016/97 samt förordning (EU) nr 1286/2014, ska finansmarknadsaktörer och finansiella rådgivare säkerställa att deras marknadsföringsmaterial inte motsäger den information som lämnas i enlighet med den här förordningen.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">De europeiska tillsynsmyndigheterna får genom den gemensamma kommittén utarbeta förslag till tekniska standarder för genomförande för att fastställa ett standardformat för presentation av information om främjandet av miljörelaterade eller sociala egenskaper och hållbara investeringar.</div>
+            </div>
+            <p class="norm">Kommissionen ges befogenhet att anta de tekniska standarder för genomförande som avses i första stycket i enlighet med artikel 15 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32024R3005"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32024R3005: INSERTED">▼M3</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">Om en finansmarknadsaktör eller finansiell rådgivare utfärdar och lämnar ut ett ESG-betyg, enligt definitionen i artikel 3.1 i Europaparlamentets och rådets förordning (EU) 2024/3005 (<a href="#E0004" id="src.E0004">
+                     <span class="superscript">4</span>
+                  </a>), till tredje part som en del av sitt marknadsföringsmaterial ska den på sin webbplats inkludera samma information som krävs enligt punkt 1 i bilaga III till den förordningen och i denna marknadsföringskommunikation inkludera en länk till denna webbplats.</div>
+            </div>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska genom den gemensamma kommittén utarbeta förslag till tekniska standarder för tillsyn som specificerar den information som avses i första stycket i denna punkt, med beaktande av de upplysningar som redan lämnats enligt artikel 10 i denna förordning.</p>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska överlämna de förslag till tekniska standarder för tillsyn som avses i första stycket till kommissionen.</p>
+            <p class="norm">Kommissionen ges befogenhet att komplettera denna förordning genom att anta de tekniska standarder för tillsyn som avses i andra stycket i denna punkt i enlighet med artiklarna 10–14 i förordningarna (EU) nr 1093/2010, (EU) nr 1094/2010 och (EU) nr 1095/2010.</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+         </div>
+         <div class="eli-subdivision" id="art_14">
+            <p class="title-article-norm" id="id-7e88025f-a95e-4ab8-8842-40c57c27d595">Artikel 14</p>
+            <div class="eli-title" id="art_14.tit_1">
+               <p class="stitle-article-norm">Behöriga myndigheter</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <span class="boldface">Medlemsstaterna ska säkerställa att de behöriga myndigheter</span> som har utsetts i enlighet med sektorsspecifik lagstiftning, i synnerhet den sektorsspecifika lagstiftning som avses i artikel 6.3 i denna förordning och i enlighet med direktiv 2013/36/EU, övervakar finansmarknadsaktörers och finansiella rådgivares efterlevnad av kraven i denna förordning. De behöriga myndigheterna ska ha alla tillsyns- och utredningsbefogenheter som krävs för att de ska kunna utföra sina uppgifter enligt denna förordning.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Vid tillämpning av denna förordning ska de behöriga myndigheterna samarbeta och förse varandra, utan onödigt dröjsmål, med den information som är relevant för fullgörandet av deras uppgifter enligt denna förordning.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_15">
+            <p class="title-article-norm" id="id-4f8b28f8-aa0f-4026-adab-4209b6d14354">Artikel 15</p>
+            <div class="eli-title" id="art_15.tit_1">
+               <p class="stitle-article-norm">Transparens för tjänstepensionsinstitut och försäkringsförmedlare</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Tjänstepensionsinstitut ska offentliggöra och tillhandahålla den information som avses i artiklarna 3–7 och artikel 10.1 första stycket i denna förordning i enlighet med artikel 36.2 f i direktiv (EU) 2016/2341.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Försäkringsförmedlare ska meddela den information som avses i artiklarna 3, 4.5, 5, 6 och artikel 10.1 första stycket i denna förordning i enlighet med artikel 23 i direktiv (EU) 2016/97.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_16">
+            <p class="title-article-norm" id="id-e07d5224-d998-4fe1-82f1-52ef7b8583d2">Artikel 16</p>
+            <div class="eli-title" id="art_16.tit_1">
+               <p class="stitle-article-norm">Pensionsprodukter som omfattas av förordningarna (EG) nr 883/2004 och (EG) nr 987/2009</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Medlemsstaterna får besluta att tillämpa den här förordningen på utvecklare av pensionsprodukter som förvaltar nationella sociala trygghetssystem som omfattas av förordningarna (EG) nr 883/2004 och (EG) nr 987/2009. I sådana fall ska utvecklare av pensionsprodukter enligt artikel 2.1 d i den här förordningen innefatta utvecklare av pensionsprodukter som förvaltar nationella sociala trygghetssystem och av pensionsprodukter enligt artikel 2.8 i den här förordningen. I sådana fall ska definitionen av pensionsprodukter i artikel 2.8 i den här förordningen även anses omfatta de pensionsprodukter som avses i första meningen.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Medlemsstaterna ska underrätta kommissionen och de europeiska tillsynsmyndigheterna om beslut som fattats enligt punkt 1.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_17">
+            <p class="title-article-norm" id="id-01c01ac1-0d92-4396-8569-b3e43d8c7680">Artikel 17</p>
+            <div class="eli-title" id="art_17.tit_1">
+               <p class="stitle-article-norm">Undantag</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Denna förordning ska inte tillämpas vare sig på försäkringsförmedlare som tillhandahåller försäkringsrådgivning med avseende på försäkringsbaserade investeringsprodukter eller på värdepappersföretag som tillhandahåller investeringsrådgivning vilka är företag, oavsett deras rättsliga form, inbegripet fysiska personer och egenföretagare, förutsatt att de har färre än tre anställda.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Medlemsstaterna får besluta att tillämpa denna förordning på sådana försäkringsförmedlare som tillhandahåller försäkringsrådgivning med avseende på försäkringsbaserade investeringsprodukter eller värdepappersföretag som tillhandahåller investeringsrådgivning enligt punkt 1.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">Medlemsstaterna ska underrätta kommissionen och de europeiska tillsynsmyndigheterna om beslut som fattats enligt punkt 2.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_18">
+            <p class="title-article-norm" id="id-7ba5a5d7-f068-4e7e-aaa7-08449017cc38">Artikel 18</p>
+            <div class="eli-title" id="art_18.tit_1">
+               <p class="stitle-article-norm">Rapport</p>
+            </div>
+            <p class="norm">De europeiska tillsynsmyndigheterna ska bedöma i vilken utsträckning upplysningar lämnas frivilligt i enlighet med artiklarna 4.1 a och 7.1 a. De europeiska tillsynsmyndigheterna ska senast den 10 september 2022 lämna in en rapport till kommissionen om bästa praxis och ge rekommendationer om standarder för frivillig rapportering. I den årsrapporten ska konsekvenserna av due diligence-metoder på upplysningar som lämnas enligt denna förordning beaktas och vägledning ska ges i frågan. Rapporten ska offentliggöras och översändas till Europaparlamentet och rådet.</p>
+         </div>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32023R2869"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32023R2869: INSERTED">▼M2</a>
+         </p>
+         <div class="eli-subdivision" id="art_18a">
+            <p class="title-article-norm" id="id-d13b8417-5ab3-4a96-b0eb-859d69b712e7">Artikel 18a</p>
+            <div class="eli-title" id="art_18a.tit_1">
+               <p class="stitle-article-norm">Tillgång till information i den europeiska gemensamma åtkomstpunkten</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Från och med den 10 januari 2028 ska finansmarknadsaktörer och finansiella rådgivare som offentliggör information som avses i artiklarna 3.1, 3.2, 4.1, 4.3, 4.4, 4.5, 5.1 och 10.1 i denna förordning samtidigt lämna in den informationen till det relevanta insamlingsorgan som avses i punkt 3 i denna artikel i syfte att göra den tillgänglig på den europeiska gemensamma åtkomstpunkten (Esap), som inrättats genom Europaparlamentets och rådets förordning (EU) 2023/2859 (<a href="#E0005" id="src.E0005">
+                     <span class="superscript">5</span>
+                  </a>).</div>
+            </div>
+            <p class="norm inline-element">Informationen ska uppfylla följande krav:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Informationen ska lämnas in i ett format som data kan extraheras från enligt definitionen i artikel 2.3 i förordning (EU) 2023/2859 eller, om så krävs enligt unionsrätten, i ett maskinläsbart format enligt definitionen i artikel 2.4 i den förordningen.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Följande metadata ska medfölja informationen:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>i) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Alla namn på den finansmarknadsaktör eller finansiella rådgivare som informationen avser.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>ii) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För juridiska personer, finansmarknadsaktörens eller den finansiella rådgivarens identifieringskod för juridiska personer som specificerats enligt artikel 7.4 b i förordning (EU) 2023/2859.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>iii) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För juridiska personer, finansmarknadsaktörens eller den finansiella rådgivarens storlekskategori som specificerats enligt artikel 7.4 d i den förordningen.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>iv) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Typen av information, klassificerad enligt artikel 7.4 c i den förordningen.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>v) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Uppgift om huruvida informationen innehåller personuppgifter.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Med avseende på tillämpningen av punkt 1 b ii ska finansmarknadsaktörer och finansiella rådgivare som är juridiska personer skaffa en identifieringskod för juridiska personer.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">Senast den 9 januari 2028 ska medlemsstaterna, i syfte att göra den information som avses i punkt 1 i denna artikel tillgänglig i Esap, utse minst ett insamlingsorgan, enligt definitionen i artikel 2.2 i förordning (EU) 2023/2859, och underrätta Esma om detta.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">4.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">För att säkerställa effektiv insamling och förvaltning av den information som lämnas in i enlighet med punkt 1 ska ESA-myndigheterna, genom den gemensamma kommittén, utarbeta förslag till tekniska standarder för att specificera följande:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Eventuella andra metadata som ska medfölja informationen.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Hur uppgifterna i informationen ska vara strukturerade.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">För vilken information som maskinläsbart format krävs och i så fall vilket maskinläsbart format som ska användas.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <p class="norm">Med avseende på tillämpningen av led c ska ESA-myndigheterna bedöma för- och nackdelar med olika maskinläsbara format och utföra lämpliga fältstudier i detta syfte.</p>
+            <p class="norm">ESA-myndigheterna ska överlämna dessa förslag till tekniska standarder för genomförande till kommissionen.</p>
+            <p class="norm">Kommissionen ges befogenhet att anta de tekniska standarder för genomförande som avses i första stycket i denna punkt i enlighet med artikel 15 i förordning (EU) nr 1093/2010, artikel 15 i förordning (EU) nr 1094/2010 och artikel 15 i förordning (EU) nr 1095/2010.</p>
+            <div class="norm">
+               <span class="no-parag">5.  </span>
+               <div class="norm inline-element">Vid behov ska ESA-myndigheterna, genom den gemensamma kommittén, anta riktlinjer för att säkerställa att de metadata som lämnats in i enlighet med punkt 4 första stycket a är korrekta.</div>
+            </div>
+         </div>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32019R2088"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32019R2088">▼B</a>
+         </p>
+         <div class="eli-subdivision" id="art_19">
+            <p class="title-article-norm" id="id-b0e4ac15-f37c-4a74-a5e8-22093d3a5ad7">Artikel 19</p>
+            <div class="eli-title" id="art_19.tit_1">
+               <p class="stitle-article-norm">Utvärdering</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Senast den 30 december 2022 ska kommissionen utvärdera tillämpningen av denna förordning och i synnerhet beakta</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">huruvida hänvisningen till genomsnittligt antal anställda i artikel 4.3 och 4.4 bör behållas, ersättas eller åtföljas av andra kriterier, och ska överväga fördelarna med och proportionaliteten för den därmed sammanhängande administrativa bördan, och</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">huruvida tillämpningen av denna förordning hämmas av en brist på uppgifter eller av en bristande kvalitet på desamma, inbegripet indikatorer för negativa konsekvenser på hållbarhetsfaktorer från investeringsobjekt.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Den utvärdering som avses i punkt 1 ska vid behov åtföljas av ett lagstiftningsförslag.</div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="art_20">
+            <p class="title-article-norm" id="id-7d601a9b-e3a8-4325-900b-01cdc6e6be2e">Artikel 20</p>
+            <div class="eli-title" id="art_20.tit_1">
+               <p class="stitle-article-norm">Ikraftträdande och tillämpning</p>
+            </div>
+            <div class="norm">
+               <span class="no-parag">1.  </span>
+               <div class="norm inline-element">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</div>
+            </div>
+            <div class="norm">
+               <span class="no-parag">2.  </span>
+               <div class="norm inline-element">Denna förordning ska tillämpas från och med den 10 mars 2021.</div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32020R0852"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32020R0852: REPLACED">▼M1</a>
+            </p>
+            <div class="norm">
+               <span class="no-parag">3.  </span>
+               <div class="norm inline-element">
+                  <p class="norm inline-element">Genom undantag från punkt 2 i denna artikel gäller följande:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Artiklarna 4.6, 4.7, 8.3, 9.5, 10.2, 11.4 och 13.2 ska tillämpas från och med den 29 december 2019.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Artiklarna 2a, 8.4, 9.6 och 11.5 ska tillämpas från och med den 12 juli 2020.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Artiklarna 8.2a och 9.4a ska tillämpas</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>i) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">från och med den 1 januari 2022 när det gäller de miljömål som avses i artikel 9 a och b i förordning (EU) 2020/852, och</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>ii) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">från och med den 1 januari 2023 när det gäller de miljömål som avses i artikel 9 c–f i förordning (EU) 2020/852.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>d) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Artikel 11.1, 11.2 och 11.3 ska tillämpas från och med den 1 januari 2022.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32019R2088"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32019R2088">▼B</a>
+            </p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+      </div>
+   </div>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) Europaparlamentets och rådets förordning (EU) nr 1286/2014 av den 26 november 2014 om faktablad för paketerade och försäkringsbaserade investeringsprodukter för icke‐professionella investerare (Priip-produkter) (EUT L 352, 9.12.2014, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0002" id="E0002">
+         <span class="superscript">2</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2020/852 av den 18 juni 2020 om inrättande av en ram för att underlätta hållbara investeringar och om ändring av förordning (EU) 2019/2088 (EUT L 198, 22.6.2020, s. 13).</p>
+   <p class="footnote">(<a href="#src.E0003" id="E0003">
+         <span class="superscript">3</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2016/1011 av den 8 juni 2016 om index som används som referensvärden för finansiella instrument och finansiella avtal eller för att mäta investeringsfonders resultat, och om ändring av direktiven 2008/48/EG och 2014/17/EU och förordning (EU) nr 596/2014 (EUT L 171, 29.6.2016, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0004" id="E0004">
+         <span class="superscript">4</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2024/3005 av den 27 november 2024 om transparens och integritet i betygsättningsverksamhet avseende miljö, samhällsansvar och bolagsstyrning (ESG-betyg), och om ändring av förordningarna (EU) 2019/2088 och (EU) 2023/2859 (EUT L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj).</p>
+   <p class="footnote">(<a href="#src.E0005" id="E0005">
+         <span class="superscript">5</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2023/2859 av den 13 december 2023 om inrättande av en europeisk gemensam åtkomstpunkt som ger centraliserad tillgång till allmänt tillgänglig information som är relevant för finansiella tjänster, kapitalmarknader och hållbarhet (EUT L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).</p>
+</body>
+</html>

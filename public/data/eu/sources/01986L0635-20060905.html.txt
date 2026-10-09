@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- fmx2xhtml # converter_version:5.4 # generated_on:20140905-1851 --><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <title>Konsoliderad TEXT: 31986L0635 — SV — 05.09.2006</title>
+      <link type="text/css" rel="stylesheet"
+            href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+   </head>
+   <body>
+      <p class="reference">1986L0635 — SV — 05.09.2006 — 003.001</p>
+      <hr class="separator"/>
+      <p class="disclaimer">Detta dokument är endast avsett som dokumentationshjälpmedel och institutionerna ansvarar inte för innehållet</p>
+      <table width="100%" border="0" cellspacing="5" cellpadding="0">
+         <col width="5%" span="1"/>
+         <col width="95%" span="1"/>
+         <tr>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/31986L0635"
+                     onclick="window.open(this.href,'_blanc'); return false;"
+                     title="31986L0635"
+                     shape="rect">►B</a>
+               </p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="title-doc-first">RÅDETS DIREKTIV</p>
+               <p class="title-doc-first">av den 8 december 1986</p>
+               <p class="title-doc-first">om årsbokslut och sammanställd redovisning för banker och andra finansiella institut</p>
+               <p class="title-doc-last">
+                  <a href="http://publications.europa.eu/resource/celex/31986L0635" onclick="_blanc"
+                     title="31986L0635"
+                     shape="rect">(86/635/EEG)</a>
+               </p>
+               <p class="title-doc-oj-reference">(EGT L 372, 31.12.1986, p.1)</p>
+            </td>
+         </tr>
+      </table>
+      <p class="hd-modifiers">Ändrad genom:</p>
+      <table width="100%" border="0" cellspacing="5" cellpadding="0">
+         <col width="10%" span="1"/>
+         <col width="55%" span="1"/>
+         <col width="10%" span="1"/>
+         <col width="10%" span="1"/>
+         <col width="15%" span="1"/>
+         <tr>
+            <td valign="top" rowspan="2" colspan="1">
+               <p class="norm"> </p>
+            </td>
+            <td valign="top" rowspan="2" colspan="1">
+               <p class="norm"> </p>
+            </td>
+            <td valign="top" colspan="3" rowspan="1">
+               <p class="hd-toc-1">Officiella tidningen</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="hd-toc-2">  No</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="hd-toc-3">page</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="hd-toc-3">date</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32001L0065"
+                     onclick="window.open(this.href,'_blanc'); return false;"
+                     title="32001L0065"
+                     shape="rect"> M1</a>
+               </p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="title-fam-member-star">
+                  <a href="http://publications.europa.eu/resource/celex/32001L0065"
+                     onclick="window.open(this.href,'_blanc'); return false;"
+                     title="32001L0065"
+                     shape="rect">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2001/65/EG av den 27 september 2001</a>
+               </p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-1">  L 283</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-2">28</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-2">27.10.2001</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32003L0051"
+                     onclick="window.open(this.href,'_blanc'); return false;"
+                     title="32003L0051"
+                     shape="rect">►M2</a>
+               </p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="title-fam-member-star">
+                  <a href="http://publications.europa.eu/resource/celex/32003L0051"
+                     onclick="window.open(this.href,'_blanc'); return false;"
+                     title="32003L0051"
+                     shape="rect">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2003/51/EG Text av betydelse för EES av den 18 juni 2003</a>
+               </p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-1">  L 178</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-2">16</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-2">17.7.2003</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32006L0046"
+                     onclick="window.open(this.href,'_blanc'); return false;"
+                     title="32006L0046"
+                     shape="rect">►M3</a>
+               </p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="title-fam-member-star">
+                  <a href="http://publications.europa.eu/resource/celex/32006L0046"
+                     onclick="window.open(this.href,'_blanc'); return false;"
+                     title="32006L0046"
+                     shape="rect">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2006/46/EG Text av betydelse för EES av den 14 juni 2006</a>
+               </p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-1">  L 224</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-2">1</p>
+            </td>
+            <td valign="top" rowspan="1" colspan="1">
+               <p class="toc-2">16.8.2006</p>
+            </td>
+         </tr>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <hr class="separator"/>
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/31986L0635"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="31986L0635"
+            shape="rect">▼B</a>
+      </p>
+      <p class="title-doc-first">RÅDETS DIREKTIV</p>
+      <p class="title-doc-first">av den 8 december 1986</p>
+      <p class="title-doc-first">om årsbokslut och sammanställd redovisning för banker och andra finansiella institut</p>
+      <p class="title-doc-last">(86/635/EEG)</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <div class="preamble">
+         <p class="norm">EUROPEISKA GEMENSKAPERNAS RÅD HAR ANTAGIT DETTA DIREKTIV</p>
+         <p class="norm">Med beaktande av Fördraget om upprättandet av Europeiska ekonomiska gemenskapen, särskilt artikel 54.3 g i detta,</p>
+         <p class="norm">med beaktande av kommissionens förslag (<a href="#E0001" id="src.E0001" shape="rect">
+               <span class="superscript">1</span>
+            </a>),</p>
+         <p class="norm">med beaktande av Europaparlamentets yttrande (<a href="#E0002" id="src.E0002" shape="rect">
+               <span class="superscript">2</span>
+            </a>),</p>
+         <p class="norm">med beaktande av Ekonomiska och sociala kommitténs yttrande (<a href="#E0003" id="src.E0003" shape="rect">
+               <span class="superscript">3</span>
+            </a>), och</p>med beaktande av följande:<p class="norm">Rådets direktiv 78/660/EEG av den 25 juli 1978 grundat på artikel 54.3 g i fördraget om årsbokslut i vissa typer av bolag (<a href="#E0004" id="src.E0004" shape="rect">
+               <span class="superscript">4</span>
+            </a>), i senaste lydelse enligt direktiv 84/569/EEG (<a href="#E0005" id="src.E0005" shape="rect">
+               <span class="superscript">5</span>
+            </a>), behöver i avvaktan på senare samordning inte tillämpas för banker och andra finansiella institut, i fortsättningen kallade ”kreditinstitut”. Med hänsyn till dessa företags centrala betydelse i gemenskapen är en sådan samordning nödvändig.</p>
+         <p class="norm">Vad som i rådets direktiv 83/349/EEG av den 13 juni 1983 grundat på artikel 54.3 g i fördraget om sammanställd redovisning (<a href="#E0006" id="src.E0006" shape="rect">
+               <span class="superscript">6</span>
+            </a>) sägs om undantag för kreditinstitut gäller endast till dess att föreliggande direktiv skall börja tillämpas. Detta direktiv måste därför även innehålla särskilda bestämmelser om sammanställd redovisning för kreditinstitut.</p>
+         <p class="norm">Det förhållandet att allt fler kreditinstitut bedriver verksamhet över gränserna har också gjort en sådan samordning angelägen. För borgenärer, gäldenärer och delägare samt för allmänheten är det av största betydelse att jämförbarheten förbättras såvitt gäller dessa instituts årsbokslut och sammanställda redovisning.</p>
+         <p class="norm">I nästan alla gemenskapens medlemsstater råder konkurrens på bankområdet mellan olika slags kreditinstitut, sådana som avses i rådets direktiv 77/780/EEG av den 12 december 1977 om samordning av lagar och andra författningar om rätten att starta och driva verksamhet i kreditinstitut (<a href="#E0007" id="src.E0007" shape="rect">
+               <span class="superscript">7</span>
+            </a>). En samordning beträffande sådana kreditinstitut bör därför inte begränsas till företagsformer för vilka direktiv 78/660/EEG gäller, utan räckvidden bör bestämmas så att alla bolag och företag som faller under definitionen i fördragets artikel 58 andra stycket omfattas.</p>
+         <p class="norm">Vad beträffar finansiella institut bör dock direktivets räckvidd begränsas till institut som drivs i någon av de företagsformer som avses i direktiv 78/660/EEG. De finansiella institut, för vilka det direktivet inte tillämpas, skall automatiskt omfattas av detta direktiv.</p>
+         <p class="norm">Det är nödvändigt att knyta an till samordningen beträffande kreditinstitut, eftersom reglerna om årsbokslut och sammanställd redovisning kommer att ha betydelse för olika delar av den samordningen, t.ex. i fråga om auktorisationskrav och om nyckeltal för tillsynsändamål.</p>
+         <p class="norm">Även om det, med hänsyn till vad som särskilt kännetecknar kreditinstitut, framstår som ändamålsenligt att utforma ett separat direktiv om årsbokslut och sammanställd redovisning för sådana institut, innebär detta inte ett regelverk som är nytt i förhållande till direktiven 78/660/EEG och 83/349/EEG. Ett separat direktiv av sådan innebörd skulle vara varken lämpligt eller förenligt med de principer som samordningen av bolagsrätten bygger på, då kreditinstituten med den viktiga roll de spelar för gemenskapens ekonomi inte kan undantas från ett regelverk avsett för företag i allmänhet. Av detta skäl har hänsyn tagits endast till vad som är utmärkande för kreditinstituten, och således innehåller detta direktiv endast avvikelser från bestämmelserna i direktiven 78/660/EEG och 83/349/EEG.</p>
+         <p class="norm">Medlemsstaterna uppvisar skillnader i fråga om uppställningen av och innehållet i kreditinstitutens balansräkningar. I detta direktiv måste därför föreskrivas att alla kreditinstitut i gemenskapen skall tillämpa samma uppställningsform, nomenklatur och terminologi i sina balansräkningar. Avvikelser bör tillåtas om de är nödvändiga som följd av ett instituts företagsform eller särskilda verksamhetsinriktning.</p>
+         <p class="norm">För att årsbokslut och sammanställda redovisningar skall kunna jämföras måste ett antal grundläggande frågor avgöras, som rör redovisning av olika transaktioner i och utanför balansräkningen.</p>
+         <p class="norm">För bättre jämförbarhet måste också exakt anges vad de olika posterna i och utanför balansräkningen avser.</p>
+         <p class="norm">Detsamma gäller uppställning och definitioner av posterna i resultaträkningen.</p>
+         <p class="norm">Jämförbarheten av uppgifter i balansräkningen och resultaträkningen beror också i hög grad av till vilka värden tillgångar och skulder tas upp i balansräkningen.</p>
+         <p class="norm">Med hänsyn till de särskilda risker som är knutna till bankrörelse och till behovet av att upprätthålla förtroende, bör det ges möjlighet att i balansräkningen föra upp en skuldpost betecknad ”reserveringar för allmänna risker i bankrörelse”. Av samma skäl bör medlemsstaterna ges rätt att, i avvaktan på vidare samordning, medge kreditinstituten viss rörelsefrihet, särskilt i fråga om värdering av fordringar samt vissa värdepapper. Emellertid bör i det senare fallet medlemsstaterna tillåta ifrågavarande kreditinstitut att tillskapa ”reserveringar för allmänna risker i bankrörelse” som nyss nämnts. Medlemsstaterna bör också ges rätt att tillåta kreditinstitut att kvitta vissa kostnader och intäkter i resultaträkningen.</p>
+         <p class="norm">Med hänsyn till kreditinstitutens särskilda karaktär behövs också vissa ändringar såvitt gäller noter till räkenskaperna.</p>
+         <p class="norm">Då det är önskvärt att största möjliga antal kreditinstitut underkastas samma regler, så som skett genom direktiv 77/780/EEG, skall några lättnader, motsvarande de som medges i direktiv 78/660/EEG, inte gälla för små och medelstora kreditinstitut. Om det likväl, mot bakgrund av vunna erfarenheter, kommer att visa sig nödvändigt att ge sådana lättnader kan frågan tas upp vid senare samordning. Av samma skäl har det utrymme som i direktiv 83/349/EEG givits medlemsstaterna att undanta moderföretag från skyldigheten att upprätta sammanställd redovisning, om företagen i gruppen inte tillsammans överstiger en viss storlek, inte utvidgats till att gälla kreditinstitut.</p>
+         <p class="norm">För att bestämmelserna om sammanställd redovisning skall kunna tillämpas på kreditinstitut krävs en anpassning av vissa av de regler som gäller för industri- och handelsföretag i allmänhet. Således skall specifika regler gälla för blandade grupper av företag och undantag från underkonsolidering får göras beroende av särskilda villkor.</p>
+         <p class="norm">Med hänsyn till att banknätverken sträcker sig över nationsgränserna och att de befinner sig i ständig utveckling, bör årsbokslut och sammanställd redovisning för de kreditinstitut som har huvudkontor i en medlemsstat offentliggöras i alla medlemsstater där institutet är etablerat.</p>
+         <p class="norm">För behandling av problem som uppkommer inom ämnesområdet för detta direktiv, särskilt såvitt gäller dess tillämpning, krävs att företrädare för medlemsstaterna och kommissionen samarbetar i en kontaktkommitté. För att en ökning av antalet kommittéer skall undvikas bör sådant samarbete äga rum i den kommitté som avses i artikel 52 i direktiv 78/660/EEG. Dock måste kommittén, då problem som rör kreditinstitut behandlas, ha en för ändamålet lämplig sammansättning.</p>
+         <p class="norm">Med hänsyn till sakens komplicerade natur måste kreditinstitut som omfattas av detta direktiv medges en längre frist än vanligt för att efterkomma dess bestämmelser.</p>
+         <p class="norm">Det bör skapas förutsättningar för att vissa bestämmelser i detta direktiv skall kunna ses över efter fem års tillämpning, detta för att tillgodose intresset av att åstadkomma större genomsynlighet och samordning.</p>
+         <p class="norm">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+      </div>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 1</p>
+      <p class="title-division-2">INLEDANDE BESTÄMMELSER OCH RÄCKVIDD</p>
+      <p class="title-article-norm">Artikel 1</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32003L0051"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="32003L0051: REPLACED"
+            shape="rect">▼M2</a>
+      </p>
+      <p class="norm">1.  <a href="http://publications.europa.eu/resource/celex/32006L0046"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="32006L0046: REPLACED"
+            shape="rect">
+            <span class="boldface">►M3</span>
+         </a> Artiklarna 2 och 3, artikel 4.1 och 4.3–4.6, artiklarna 6, 7, 13 och 14, artikel 15.3 och 15.4, artiklarna 16–21, 29–35 och 37–41, artikel 42 första meningen, artiklarna 42a–42f, artiklarna 45.1 och 46.1 och 46.2, artiklarna 46a, 48–50, 50a, 50b, 50c, artikel 51.1, artiklarna 51a, 56–59, 60a, 61 och 61a i direktiv 78/660/EEG skall tillämpas på de institut som anges i artikel 2 i det här direktivet, om annat inte föreskrivs i det här direktivet.<span class="boldface"> ◄ </span> Artiklarna 35.3, 36 och 37 samt 39.1–4 i det här direktivet skall inte tillämpas på tillgångar och skulder som värderas i enlighet med avsnitt 7a i direktiv 78/660/EEG.</p>
+      <p class="norm">2.  När det i direktiven 78/660/EEG och 83/349/EEG hänvisas till artiklarna 9, 10 och 10a (balansräkning) eller i direktiv 78/660/EEG till artiklarna 22–26 (resultaträkning), skall hänvisningarna anses gälla artikel 4 och 4a (balansräkning) respektive 26, 27 och 28 (resultaträkning) i det här direktivet.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/31986L0635"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="31986L0635"
+            shape="rect">▼B</a>
+      </p>
+      <p class="norm">3.  Hänvisningar i direktiven 78/660/EEG och 83/349/EEG till artiklarna 31—42 i direktiv 78/660/EEG skall anses gälla med beaktande av artiklarna 35—39 i detta direktiv.</p>
+      <p class="norm">4.  När det i de nyss nämnda bestämmelserna i direktiv 78/660/EEG hänvisas till poster i balansräkningen som inte har någon motsvarighet i detta direktiv, skall hänvisningarna anses avse sådana i artikel 4 i detta direktiv angivna poster som omfattar ifrågavarande tillgångar och skulder.</p>
+      <p class="title-article-norm">Artikel 2</p>
+      <p class="norm">1.  Vad som i detta direktiv föreskrivs om samordning skall gälla</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>kreditinstitut som avses i artikel 1 första strecksatsen i direktiv 77/780/EEG och som utgör bolag eller annat företag enligt definitionen i fördragets artikel 58 andra stycket,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>finansiella institut som verkar i någon sådan företagsform som avses i artikel 1.1 i direktiv 78/660/EEG men för vilka det direktivet, till följd av punkt 2 i nämnda artikel, inte tillämpas.</p>
+      </div>
+      <p class="norm">Vid tillämpning av detta direktiv skall med ”kreditinstitut” förstås även finansiella institut, om något annat inte framgår av sammanhanget.</p>
+      <p class="norm">2.  Medlemsstaterna behöver inte tillämpa detta direktiv beträffande</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>kreditinstitut som är uppräknade i artikel 2.2 i direktiv 77/780/EEG,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>institut som är hemmahörande i samma medlemsstat och som, i enlighet med vad som sägs i artikel 2.4 a i direktiv 77/780/EEG, är underställt en central företagsenhet i samma medlemsstat; i sådant fall skall, om annat inte gäller till följd av detta direktivs tillämplighet på den centrala företagsenheten, för denna centrala enhet och dess anknutna institut avges sammanställd redovisning som även omfattar förvaltningsberättelse och som upprättats, reviderats och offentliggjorts i enlighet med detta direktiv,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>följande kreditinstitut:</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>I Grekland ETEBA (Nationella investeringsbanken för industriell utveckling) och Τράπεζα Επενδύσεων (Investeringsbanken).</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>I Irland ”Industrial and Provident Societies”.</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>I Storbritannien ”Friendly Societies” och ”Industrial and Provident Societies”.</p>
+         </div>
+      </div>
+      <p class="norm">4.  I avvaktan på vidare samordning får medlemsstaterna, utan att det påverkar tillämpningen av artikel 2.3 i direktiv 78/660/EEG,</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>i fråga om kreditinstitut, som avses i artikel 2.1 a i detta direktiv och som inte utgör bolag av någon sådan typ som anges i artikel 1.1 i direktiv 78/660/EEG, föreskriva bestämmelser som avviker från detta direktiv, om institutens företagsform gör sådana avvikelser nödvändiga,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>i fråga om specialiserade kreditinstitut föreskriva bestämmelser som avviker från detta direktiv, om den särskilda verksamhetsinriktningen gör sådana avvikelser nödvändiga.</p>
+      </div>
+      <p class="norm">Sådana avvikande bestämmelser får avse endast anpassning av uppställningsformen, nomenklaturen, terminologin och innehållet i posterna i balans- och resultaträkningarna; de får inte innebära rätt för berörda institut att redovisa färre uppgifter i sina årsbokslut än vad andra institut som skall tillämpa detta direktiv är skyldiga att göra.</p>
+      <p class="norm">Medlemsstaterna skall inom sex månader från utgången av den tid som anges i artikel 47.2 lämna uppgift till kommissionen om ifrågavarande kreditinstitut, eventuellt angivna efter företagskategori. Medlemsstaterna skall underrätta kommissionen om vilka avvikelser som gjorts.</p>
+      <p class="norm">Avvikelserna skall omprövas inom tio år efter anmälan av detta direktiv. Kommissionen skall föreslå lämpliga åtgärder om det är påkallat. Den skall därutöver lägga fram en preliminär rapport inom fem år efter anmälan av direktivet.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 2</p>
+      <p class="title-division-2">ALLMÄNNA BESTÄMMELSER OM BALANS- OCH RESULTATRÄKNINGAR</p>
+      <p class="title-article-norm">Artikel 3</p>
+      <p class="norm">En sammanslagning av poster så som sägs i artikel 4.3 a eller b i direktiv 78/660/EEG skall av kreditinstitut inte kunna utnyttjas annat än beträffande sådana delposter i balans- och resultaträkningarna som betecknats med liten bokstav samt kunna tillåtas endast med stöd av bestämmelser som medlemsstaterna antagit för ändamålet.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 3</p>
+      <p class="title-division-2">BALANSRÄKNINGENS UPPSTÄLLNINGSFORM</p>
+      <p class="title-article-norm">Artikel 4</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32003L0051"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="32003L0051: REPLACED"
+            shape="rect">▼M2</a>
+      </p>
+      <p class="norm">Medlemsstaterna skall föreskriva följande uppställningsform för balansräkningen. Som ett alternativ får medlemsstaterna tillåta eller fordra att kreditinstitut använder den uppställningsform för balansräkningen som anges i artikel 4a.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/31986L0635"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="31986L0635"
+            shape="rect">▼B</a>
+      </p>
+      <p class="norm">Tillgångar</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">1.<span style="word-spacing: 15pt"> </span>Kassa, tillgodohavanden hos centralbanker och postgiro.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">2.<span style="word-spacing: 15pt"> </span>Statsskuldförbindelser och andra skuldbevis som är belåningsbara i centralbanker:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>statsskuldförbindelser och andra liknande värdepapper,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>andra skuldbevis som är belåningsbara i centralbanker (såvida det inte i nationell lag föreskrivs att de skall redovisas under Tillgångar, posterna 3 och 4).</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">3.<span style="word-spacing: 15pt"> </span>Fordringar på kreditinstitut:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>betalbara på anfordran,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>andra fordringar.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">4.<span style="word-spacing: 15pt"> </span>Utlåning till allmänheten.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">5.<span style="word-spacing: 15pt"> </span>Obligationer och andra värdepapper med fast avkastning</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>emitterade av offentliga organ,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>emitterade av andra låntagare, med särskilt angivande av</p>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>egna skuldebrev (såvida det inte i nationell lag föreskrivs att de skall räknas av på skuldsidan).</p>
+            </div>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">6.<span style="word-spacing: 15pt"> </span>Aktier och andra värdepapper med rörlig avkastning.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">7.<span style="word-spacing: 15pt"> </span>Ägarintressen, med särskilt angivande av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>ägarintressen i kreditinstitut (såvida det inte i nationell lag föreskrivs att de skall uppges i noter).</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">8.<span style="word-spacing: 15pt"> </span>Aktier och andelar i anknutna företag (”affiliated undertakings”), med särskilt angivande av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>aktier och andelar i kreditinstitut (såvida det inte i nationell lag föreskrivs att de skall uppges i noter).</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">9.<span style="word-spacing: 15pt"> </span>Immateriella anläggningstillgångar, angivna under Tillgångar, rubrikerna B och C.I, i artikel 9 i direktiv 78/660/EEG, med särskilt angivande av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>kostnader för bolagsbildning, så som de definierats i nationell lag, i den mån de enligt nationell lag får redovisas som tillgångar (såvida det inte i nationell lag föreskrivs att de skall uppges i noter),</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>goodwill, till den del den förvärvats mot vederlag (såvida det inte i nationell lag föreskrivs att den skall uppges i noter).</p>
+         </div>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">10.<span style="word-spacing: 15pt"> </span>Materiella anläggningstillgångar, angivna under Tillgångar, rubrik C.II, i artikel 9 i direktiv 78/660/EEG, med särskilt angivande av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>mark och byggnader som används av ett kreditinstitut för den egna verksamheten (såvida det inte i nationell lag föreskrivs att uppgift skall lämnas i noter).</p>
+         </div>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">11.<span style="word-spacing: 15pt"> </span>Tecknat ej inbetalt kapital, med särskilt angivande av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>infordrat kapital (såvida det inte i nationell lag föreskrivs att infordrat kapital skall redovisas på skuldsidan, i vilket fall kapital som infordrats men ännu inte inbetalts skall tas upp antingen under denna tillgångspost eller under Tillgångar, post 14).</p>
+         </div>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">12.<span style="word-spacing: 15pt"> </span>Egna aktier eller andelar (med uppgift om deras nominella värde eller, i avsaknad därav, deras bokförda parivärde, i den utsträckning det i nationell lag medges att de redovisas i balansräkningen).</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">13.<span style="word-spacing: 15pt"> </span>Övriga tillgångar.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">14.<span style="word-spacing: 15pt"> </span>Tecknat ej inbetalt kapital som är infordrat (såvida det inte i nationell lag föreskrivs att infordrat kapital skall redovisas under Tillgångar, post 11).</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">15.<span style="word-spacing: 15pt"> </span>Förutbetalda kostnader och upplupna intäkter.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">16.<span style="word-spacing: 15pt"> </span>Förlust under räkenskapsåret (såvida det inte i nationell lag föreskrivs att den skall redovisas under Skulder och eget kapital, post 14).</p>
+      </div>
+      <p class="norm">Summa tillgångar.</p>
+      <p class="norm">Skulder och eget kapital</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">1.<span style="word-spacing: 15pt"> </span>Skulder till kreditinstitut</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>att betalas på anfordran,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>att betalas på viss avtalad förfallodag eller efter uppsägning.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">2.<span style="word-spacing: 15pt"> </span>Inlåning från allmänheten:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>insatta sparmedel, med särskilt angivande av</p>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>sådana insättningar som skall återbetalas på anfordran, sådana för vilka en viss förfallodag har avtalats, samt sådana som skall återbetalas efter uppsägning, allt under förutsättning att en sådan uppdelning är föreskriven i nationell lag (såvida det inte i nationell lag är föreskrivet att sådana uppgifter skall redovisas i noter),</p>
+            </div>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>övriga skulder:</p>
+            <div style="margin-left: 30pt; text-indent: -30pt">
+               <p class="norm">ba)<span style="word-spacing: 15pt"> </span>att betalas på anfordran,</p>
+            </div>
+            <div style="margin-left: 30pt; text-indent: -30pt">
+               <p class="norm">bb)<span style="word-spacing: 15pt"> </span>att betalas på viss avtalad förfallodag eller efter uppsägning.</p>
+            </div>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">3.<span style="word-spacing: 15pt"> </span>Skulder representerade av emitterade värdepapper:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>emitterade skuldebrev,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>övriga.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">4.<span style="word-spacing: 15pt"> </span>Övriga skulder.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">5.<span style="word-spacing: 15pt"> </span>Upplupna kostnader och förutbetalda intäkter.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">6.<span style="word-spacing: 15pt"> </span>Avsättningar:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>avsättningar för pensioner och liknande förpliktelser,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>avsättningar för skatter,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">c)<span style="word-spacing: 15pt"> </span>avsättningar.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">7.<span style="word-spacing: 15pt"> </span>Vinst under räkenskapsåret (såvida det inte i nationell lag föreskrivs att den skall redovisas under Skulder och eget kapital, post 14).</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">8.<span style="word-spacing: 15pt"> </span>Efterställda skulder.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">9.<span style="word-spacing: 15pt"> </span>Tecknat kapital (såvida det inte i nationell lag föreskrivs att infordrat kapital skall redovisas under denna post, i vilket fall tecknat kapital och inbetalt kapital skall redovisas var för sig).</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">10.<span style="word-spacing: 15pt"> </span>Överkurs vid emission.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">11.<span style="word-spacing: 15pt"> </span>Kapitalreserver.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">12.<span style="word-spacing: 15pt"> </span>Uppskrivningsfond.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">13.<span style="word-spacing: 15pt"> </span>Balanserad vinst eller förlust.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">14.<span style="word-spacing: 15pt"> </span>Vinst eller förlust under räkenskapsåret (såvida det inte i nationell lag föreskrivs att den skall redovisas under Tillgångar, post 16, eller under Skulder och eget kapital, post 7).</p>
+      </div>
+      <p class="norm">Summa skulder.</p>
+      <p class="norm">Poster utanför balansräkningen</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">1.<span style="word-spacing: 15pt"> </span>Ansvarsförbindelser, med särskilt angivande av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>accepterade och endosserade växlar,</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>garantier samt pantförskrivna tillgångar.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">2.<span style="word-spacing: 15pt"> </span>Åtaganden, med särskilt angivande av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>åtaganden som följer med återköpstransaktioner.</p>
+         </div>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32003L0051"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="32003L0051: INSERTED"
+            shape="rect">▼M2</a>
+      </p>
+      <p class="title-article-norm">Artikel 4a</p>
+      <p class="norm">I stället för den uppställningsform för balansräkningsposterna som anges i artikel 4 får medlemsstaterna tillåta eller fordra att kreditinstitut eller vissa kategorier av kreditinstitut tillämpar en uppdelning av posterna med hänsyn till deras art och med hänsyn till deras relativa likviditet, förutsatt att den information som förmedlas minst är likvärdig med den som annars krävs enligt artikel 4.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/31986L0635"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="31986L0635"
+            shape="rect">▼B</a>
+      </p>
+      <p class="title-article-norm">Artikel 5</p>
+      <p class="norm">Följande skall redovisas särskilt, som delposter till respektive post:</p>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>Fordringar, som anges under Tillgångar, posterna 2—5, hos anknutna företag, vare sig fordringarna representeras av värdepapper eller ej.</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>Fordringar, som anges under Tillgångar, posterna 2—5, hos företag i vilka kreditinstitutet har ett ägarintresse, vare sig fordringarna representeras av värdepapper eller ej.</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>Skulder, som anges under Skulder och eget kapital, posterna 1, 2, 3 och 8, till anknutna företag, vare sig skulderna representeras av värdepapper eller ej.</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>Skulder, som anges under Skulder och eget kapital, posterna 1, 2, 3 och 8, till företag i vilka kreditinstitutet har ett ägarintresse, vare sig skulderna representeras av värdepapper eller ej.</p>
+      </div>
+      <p class="title-article-norm">Artikel 6</p>
+      <p class="norm">1.  Efterställda tillgångar skall redovisas särskilt, som delposter till poster enligt uppställningsformen eller till poster redovisade i enlighet med artikel 5.</p>
+      <p class="norm">2.  Efterställda tillgångar är de tillgångar som, vare sig de representeras av värdepapper eller ej, i händelse av likvidation eller konkurs kan infrias först efter det att övriga borgenärer tillgodosetts.</p>
+      <p class="title-article-norm">Artikel 7</p>
+      <p class="norm">Medlemsstaterna får medge att uppgifter som avses i artiklarna 5 och 6 redovisas i noter till respektive poster.</p>
+      <p class="title-article-norm">Artikel 8</p>
+      <p class="norm">1.  Tillgångar skall redovisas under respektive rubrik i balansräkningen, även då det kreditinstitut som upprättar balansräkningen pantförskrivit dem för egna eller tredje mans åtaganden eller i övrigt har anvisat dem som säkerhet hos tredje man.</p>
+      <p class="norm">2.  Ett kreditinstitut får inte i sin balansräkning ta upp tillgångar som institutet mottagit som pant eller anvisats som säkerhet, med mindre tillgångarna utgörs av kontanta medel som deponerats hos institutet.</p>
+      <p class="title-article-norm">Artikel 9</p>
+      <p class="norm">1.  I de fall ett lån har lämnats av ett konsortium av kreditinstitut, skall varje medverkande kreditinstitut i sin balansräkning ta upp endast sin del av hela lånet.</p>
+      <p class="norm">2.  Har ett kreditinstitut, i fråga om ett sådant konsortielån som anges i punkt 1, ställt garantier för högre belopp än som motsvarar vad institutet tillskjutit, skall mellanskillnaden redovisas som en ansvarsförbindelse (under Poster utanför balansräkningen, post 1, andra strecksatsen).</p>
+      <p class="title-article-norm">Artikel 10</p>
+      <p class="norm">1.  Medel som ett kreditinstitut förvaltar i eget namn men för tredje mans räkning skall redovisas i balansräkningen, om institutet har rätt att förfoga över tillgångarna. Summan av sådana tillgångar och skulder skall redovisas särskilt eller i noter till respektive tillgångs- och skuldposter. Dock får medlemsstaterna medge att sådana medel redovisas utanför balansräkningen, förutsatt att särskilda regler gäller, enligt vilka medlen kan avskiljas från de tillgångar som står till förfogande för utskiftning i händelse av likvidation av kreditinstitut (eller liknande förfaranden).</p>
+      <p class="norm">2.  Tillgångar som förvärvats i tredje mans namn och för hans räkning får inte tas upp i balansräkningen.</p>
+      <p class="title-article-norm">Artikel 11</p>
+      <p class="norm">Endast belopp som kan tas i anspråk när som helst eller beträffande vilka det har avtalats en löp- eller uppsägningstid som understiger 24 timmar eller en arbetsdag, skall anses betalbara på anfordran.</p>
+      <p class="title-article-norm">Artikel 12</p>
+      <p class="norm">1.  Med återköpstransaktioner avses transaktioner i vilka ingår överföring från ett kreditinstitut eller en kund (”överförande part”) till ett annat kreditinstitut eller en annan kund (”mottagande part”) av tillgångar, t.ex. växlar, fordringar eller överlåtbara värdepapper, och överföringen villkorats av att samma tillgångar senare skall återföras till den överförande parten till ett bestämt pris.</p>
+      <p class="norm">2.  Om den mottagande parten förbinder sig att återlämna tillgångarna på en dag som har bestämts eller skall bestämmas av den överförande parten, skall den ifrågavarande transaktionen anses som en äkta återköpstransaktion.</p>
+      <p class="norm">3.  Har emellertid den mottagande parten en rätt, men ej skyldighet, att på en dag som är bestämd eller som skall bestämmas återlämna tillgångarna till försäljningspriset eller till ett annat i förväg fastställt pris, skall den ifrågavarande transaktionen betraktas som en försäljning med option att lämna tillgångarna åter (oäkta återköpstransaktion).</p>
+      <p class="norm">4.  I fråga om återköpstransaktioner som avses i punkt 2 skall de överförda tillgångarna fortsatt redovisas i den överförande partens balansräkning; den köpeskilling som den överförande parten erhållit skall redovisas som en skuld till den mottagande parten. Vidare skall värdet av de överförda tillgångarna uppges i en not i den överförande partens räkenskaper. Den mottagande parten skall inte ha rätt att redovisa de överförda tilllgångarna i sin balansräkning. Det belopp som erlagts av den mottagande parten skall redovisas som en fordran på den överförande parten.</p>
+      <p class="norm">5.  I fråga om återköpstransaktioner som avses i punkt 3 skall den överförande parten däremot inte ha rätt att redovisa de överförda tillgångarna i sin balansräkning; dessa poster skall redovisas som tillgångar i den mottagande partens balansräkning. Den överförande parten skall under Poster utanför balansräkningen, post 2, redovisa ett belopp som motsvarar det som överenskommits för ett eventuellt återköp.</p>
+      <p class="norm">6.  Valutaterminstransaktioner, optioner, transaktioner som omfattar emission av skuldebrev med förbindelse att före förfallodagen återköpa hela emissionen eller delar av denna, samt andra liknande transaktioner skall inte anses som återköpstransaktioner i denna artikels mening.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 4</p>
+      <p class="title-division-2">SÄRSKILDA BESTÄMMELSER FÖR VISSA POSTER I BALANSRÄKNINGEN</p>
+      <p class="title-article-norm">Artikel 13</p>
+      <p class="stitle-article-norm">Tillgångar: Post 1 - Kassa, tillgodohavanden hos centralbanker och postgiro</p>
+      <p class="norm">1.  Kassatillgångar skall omfatta lagliga betalningsmedel, däribland utländska sedlar och mynt.</p>
+      <p class="norm">2.  Till denna post får hänföras endast tillgodohavanden hos centralbanker och postgiro i det land eller de länder där kreditinstitutet är etablerat. Sådana tillgodohavanden måste kunna fritt disponeras när som helst. Andra fordringar på sådana institut skall tas upp som fordringar på kreditinstitut (Tillgångar, post 3) eller som utlåning till allmänheten (Tillgångar, post 4).</p>
+      <p class="title-article-norm">Artikel 14</p>
+      <p class="stitle-article-norm">Tillgångar: Post 2 - Statsskuldförbindelser och andra skuldbevis som är belåningsbara i centralbanker</p>
+      <p class="norm">1.  Denna post skall, under a, omfatta statsskuldförbindelser och andra liknande värdepapper, dvs. skattkammarväxlar, statsobligationer och andra liknande skuldbevis emitterade av offentliga organ och belåningsbara i centralbanker i det land eller de länder där kreditinstitutet är etablerat. Skuldbevis som emitterats av offentliga organ och som inte uppfyller villkoren enligt ovan skall tas upp under Tillgångar, delpost 5 a.</p>
+      <p class="norm">2.  Denna post skall, under b, omfatta värdepapper som är belåningsbara i centralbanker, dvs. alla värdepapper som innehas i egen portfölj och som förvärvats från kreditinstitut eller från kunder, i den mån värdepapperen enligt nationell lag är belåningsbara i centralbanker i det land eller de länder där kreditinstitutet är etablerat.</p>
+      <p class="title-article-norm">Artikel 15</p>
+      <p class="stitle-article-norm">Tillgångar: Post 3 - Fordringar på kreditinstitut</p>
+      <p class="norm">1.  Fordringar på kreditinstitut skall omfatta alla fordringar som uppkommit genom banktransaktioner som det kreditinstitut, vilket upprättar balansräkningen, företagit med inhemska och utländska kreditinstitut, oavsett hur transaktionen rubricerats i det enskilda fallet.</p>
+      <p class="norm">Undantag skall göras endast för fordringar som representeras av obligationer eller andra värdepapper som skall tas upp under Tillgångar, post 5.</p>
+      <p class="norm">2.  Vid tillämpning av denna artikel skall till kreditinstitut hänföras alla företag uppförda på den lista som offentliggjorts i <span class="italics">Europeiska gemenskapernas officiella tidning</span> i enlighet med artikel 3.7 i direktiv 77/780/EEG, vidare centralbanker och officiella inhemska och internationella bankinrättningar samt alla privata och offentliga företag som inte är etablerade inom gemenskapen men som faller under definitionen i artikel 1 i direktiv 77/780/EEG.</p>
+      <p class="norm">Fordringar på företag som inte uppfyller de nu nämnda villkoren skall tas upp under Tillgångar, post 4.</p>
+      <p class="title-article-norm">Artikel 16</p>
+      <p class="stitle-article-norm">Tillgångar: Post 4 - Utlåning till allmänheten</p>
+      <p class="norm">Utlåning till allmänheten skall omfatta alla tillgångar i form av fordringar på inhemska och utländska kunder som inte är kreditinstitut, oavsett hur transaktionen rubricerats i det enskilda fallet.</p>
+      <p class="norm">Undantag skall göras endast för fordringar i form av obligationer eller andra värdepapper som skall tas upp under Tillgångar, post 5.</p>
+      <p class="title-article-norm">Artikel 17</p>
+      <p class="stitle-article-norm">Tillgångar: Post 5 - Obligationer och andra värdepapper med fast avkastning</p>
+      <p class="norm">1.  Denna post skall omfatta sådana omsättningsbara obligationer och andra värdepapper med fast avkastning som emitterats av kreditinstitut eller andra företag eller offentliga organ; värdepapper som emitterats av sistnämnda organ skall omfattas endast i den mån de inte skall tas upp under Tillgångar, post 2.</p>
+      <p class="norm">2.  Värdepapper med en rörlig ränta som varierar beroende på särskilda förhållanden, såsom räntan på interbankmarknaden eller Euromarknaden, skall likaså anses som obligationer och värdepapper med fast avkastning.</p>
+      <p class="norm">3.  Endast återköpta och omsättningsbara egna skuldebrev får ingå i delposten 5 b.</p>
+      <p class="title-article-norm">Artikel 18</p>
+      <p class="stitle-article-norm">Skulder och eget kapital: Post 1 - Skulder till kreditinstitut</p>
+      <p class="norm">1.  Skulder till kreditinstitut skall omfatta alla skulder som uppkommit genom banktransaktioner som det kreditinstitut, vilket upprättar balansräkningen, företagit med inhemska och utländska kreditinstitut, oavsett hur transaktionen rubricerats i det enskilda fallet.</p>
+      <p class="norm">Undantag skall göras endast för obligationer eller andra värdepapper som skall tas upp under Skulder och eget kapital, post 3.</p>
+      <p class="norm">2.  Vid tillämpning av denna artikel skall till kreditinstitut hänföras alla företag uppförda på den lista som offentliggjorts i <span class="italics">Europeiska gemenskapernas officiella tidning</span> i enlighet med artikel 3.7 i direktiv 77/780/EEG, vidare centralbanker och officiella inhemska och internationella bankinrättningar samt alla privata och offentliga företag som inte är etablerade inom gemenskapen men som faller under definitionen i artikel 1 i direktiv 77/780/EEG.</p>
+      <p class="title-article-norm">Artikel 19</p>
+      <p class="stitle-article-norm">Skulder och eget kapital: Post 2 - Inlåning från allmänheten</p>
+      <p class="norm">1.  Inlåning från allmänheten skall omfatta all inlåning från andra borgenärer än kreditinstitut enligt definitionen i artikel 18, oavsett hur transaktionen rubricerats i det enskilda fallet.</p>
+      <p class="norm">Undantag skall göras endast för upplåning i form av obligationer eller andra värdepapper som skall tas upp under Skulder och eget kapital, post 3.</p>
+      <p class="norm">2.  Endast insättningar som uppfyller i nationell lag uppställda villkor skall räknas som insatta sparmedel.</p>
+      <p class="norm">3.  Sparobligationer skall tas upp under motsvarande delpost endast i den mån de inte är omsättningsbara.</p>
+      <p class="title-article-norm">Artikel 20</p>
+      <p class="stitle-article-norm">Skulder och eget kapital: Post 3 - Skulder representerade av emitterade värdepapper</p>
+      <p class="norm">1.  Denna post skall omfatta både obligationer och skulder för vilka omsättningsbara värdepapper har emitterats, särskilt bankcertifikat, <span class="italics">”bons de caisse”</span> och skulder enligt egna accepter eller egna växlar.</p>
+      <p class="norm">2.  Endast växlar som ett kreditinstitut utställt för egen upplåning och för vilka institutet svarar i första hand (som trassat) skall räknas som egna accepter.</p>
+      <p class="title-article-norm">Artikel 21</p>
+      <p class="stitle-article-norm">Skulder och eget kapital: Post 8 - Efterställda skulder</p>
+      <p class="norm">Har det genom avtal bestämts att vissa skulder, vare sig de representeras av värdepapper eller ej, skall i händelse av likvidation eller konkurs återbetalas först efter det att alla övriga borgenärer tillgodosetts, skall sådana skulder tas upp under denna post.</p>
+      <p class="title-article-norm">Artikel 22</p>
+      <p class="stitle-article-norm">Skulder och eget kapital: Post 9 - Tecknat kapital</p>
+      <p class="norm">Denna post skall omfatta kapital som, oavsett hur det betecknats i det enskilda fallet, enligt nationell lag skall räknas som eget kapital tecknat av aktieägare eller andra innehavare, allt efter det ifrågavarande institutets associationsform.</p>
+      <p class="title-article-norm">Artikel 23</p>
+      <p class="stitle-article-norm">Skulder och eget kapital: Post 11 - Kapitalreserver</p>
+      <p class="norm">Denna post skall omfatta alla slag av reserver som i artikel 9 i direktiv 78/660/EEG angivits och definierats under Skulder och eget kapital, post A.IV. För kreditinstitut vars associationsform inte omfattas av direktiv 78/660/EEG får medlemsstaterna vid behov föreskriva även andra slag av reserver.</p>
+      <p class="norm">De slag av reserver som avses i första stycket skall i berörda kreditinstituts balansräkningar redovisas särskilt, som delposter till Skulder och eget kapital, post 11, med undantag för uppskrivningsfond som skall tas upp under post 12.</p>
+      <p class="title-article-norm">Artikel 24</p>
+      <p class="stitle-article-norm">Poster utanför balansräkningen: Post 1 - Ansvarsförbindelser</p>
+      <p class="norm">Denna post skall omfatta alla transaktioner varigenom ett institut har ställt garanti för tredje mans förpliktelser.</p>
+      <p class="norm">I noter skall anges arten och storleken av varje slag av ansvarsförbindelse som är av betydelse i förhållande till institutets hela verksamhet.</p>
+      <p class="norm">Förbindelser genom endossering av rediskonterade växlar skall ingå i denna post endast om annat ej är föreskrivet i nationell lag. Det samma gäller beträffande andra accepter än egna accepter.</p>
+      <p class="norm">Borgensförbindelser och pantförskrivna tillgångar skall omfatta alla garantiförpliktelser som ingåtts samt alla tillgångar som pantförskrivits för tredje mans räkning, särskilt borgensförbindelser och oåterkalleliga remburser.</p>
+      <p class="title-article-norm">Artikel 25</p>
+      <p class="stitle-article-norm">Poster utanför balansräkningen: Post 2 - Åtaganden</p>
+      <p class="norm">Denna post skall omfatta alla oåterkalleliga åtaganden som innebär risktagande.</p>
+      <p class="norm">I noter skall anges arten och storleken av varje slag av åtagande som är av betydelse i förhållande till institutets hela verksamhet.</p>
+      <p class="norm">Åtaganden genom återköpstransaktioner skall omfatta åtaganden som ingåtts av kreditinstitut i samband med sådana återköpstransaktioner (på grund av avtal om försäljning med option att lämna tillgångarna åter) som avses i artikel 12.3.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 5</p>
+      <p class="title-division-2">RESULTATRÄKNINGENS UPPSTÄLLNINGSFORM</p>
+      <p class="title-article-norm">Artikel 26</p>
+      <p class="norm">Medlemsstaterna skall föreskriva att en eller båda av de i artiklarna 27 och 28 angivna formerna skall användas för uppställning av resultaträkningen. Om en medlemsstat föreskriver båda uppställningsformerna får den tillåta företagen att välja mellan dem.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32003L0051"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="32003L0051: INSERTED"
+            shape="rect">▼M2</a>
+      </p>
+      <p class="norm">Genom avvikelse från artikel 2.1 i direktiv 78/660/EEG får medlemsstaterna tillåta eller fordra att alla kreditinstitut, eller vissa kategorier av kreditinstitut, överlämnar en resultatrapport i stället för de uppställningsformer för resultaträkningen som anges i artiklarna 27 och 28, förutsatt att den information som förmedlas genom en sådan rapport minst är likvärdig med den som annars krävs enligt dessa artiklar.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/31986L0635"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="31986L0635"
+            shape="rect">▼B</a>
+      </p>
+      <p class="title-article-norm">Artikel 27</p>
+      <p class="stitle-article-norm">Vertikal uppställning (rapportform)</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">1.<span style="word-spacing: 15pt"> </span>Ränteintäkter och liknande intäkter med särskild uppgift om intäkter från värdepapper med fast avkastning.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">2.<span style="word-spacing: 15pt"> </span>Räntekostnader och liknande kostnader.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">3.<span style="word-spacing: 15pt"> </span>Intäkter från värdepapper:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>Intäkter från aktier och andra värdepapper med rörlig avkastning.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>Intäkter från ägarintressen.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">c)<span style="word-spacing: 15pt"> </span>Intäkter från aktier och andelar i anknutna företag.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">4.<span style="word-spacing: 15pt"> </span>Provisionsintäkter.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">5.<span style="word-spacing: 15pt"> </span>Provisionskostnader.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">6.<span style="word-spacing: 15pt"> </span>Nettovinst eller nettoförlust av finansiella transaktioner.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">7.<span style="word-spacing: 15pt"> </span>Övriga rörelseintäkter.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">8.<span style="word-spacing: 15pt"> </span>Allmänna administrationskostnader:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>Personalkostnader med särskild uppgift om</p>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>löner och arvoden,</p>
+            </div>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>sociala kostnader med pensioner särskilt angivna.</p>
+            </div>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>Övriga administrationskostnader.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">9.<span style="word-spacing: 15pt"> </span>Värdejusteringar beträffande Tillgångar, posterna 9 och 10.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">10.<span style="word-spacing: 15pt"> </span>Övriga rörelsekostnader.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">11.<span style="word-spacing: 15pt"> </span>Nedskrivningar av fordringar samt avsättningar för ansvarsförbindelser och åtaganden.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">12.<span style="word-spacing: 15pt"> </span>Återföringar av nedskrivna fordringar samt av avsättningar för ansvarsförbindelser och åtaganden.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">13.<span style="word-spacing: 15pt"> </span>Nedskrivningar av överlåtbara värdepapper som innehas som finansiella anläggningstillgångar, av ägarintressen samt av aktier och andelar i anknutna företag.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">14.<span style="word-spacing: 15pt"> </span>Återföringar av nedskrivna överlåtbara värdepapper som innehas som finansiella anläggningstillgångar, ägarintressen samt aktier och andelar i anknutna företag.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">15.<span style="word-spacing: 15pt"> </span>Skatt på resultatet av den normala verksamheten.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">16.<span style="word-spacing: 15pt"> </span>Resultatet av den normala verksamheten efter skatt.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">17.<span style="word-spacing: 15pt"> </span>Extraordinära intäkter.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">18.<span style="word-spacing: 15pt"> </span>Extraordinära kostnader.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">19.<span style="word-spacing: 15pt"> </span>Extraordinärt resultat.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">20.<span style="word-spacing: 15pt"> </span>Skatt på extraordinärt resultat.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">21.<span style="word-spacing: 15pt"> </span>Extraordinärt resultat efter skatt.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">22.<span style="word-spacing: 15pt"> </span>Övriga skatter som inte ingår i ovanstående poster.</p>
+      </div>
+      <div style="margin-left: 30pt; text-indent: -30pt">
+         <p class="norm">23.<span style="word-spacing: 15pt"> </span>Vinst eller förlust för räkenskapsåret.</p>
+      </div>
+      <p class="title-article-norm">Artikel 28</p>
+      <p class="stitle-article-norm">Horisontell uppställning (kontoform)</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">A.<span style="word-spacing: 13pt"> </span>
+            <span class="italics">Kostnader</span>
+         </p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">1.<span style="word-spacing: 15pt"> </span>Räntekostnader och liknande kostnader.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">2.<span style="word-spacing: 15pt"> </span>Provisionskostnader.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">3.<span style="word-spacing: 15pt"> </span>Nettoförlust av finansiella transaktioner.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">4.<span style="word-spacing: 15pt"> </span>Allmänna administrationskostnader:</p>
+            <div style="margin-left: 24pt; text-indent: -24pt">
+               <p class="norm">a)<span style="word-spacing: 15pt"> </span>Personalkostnader med särskild uppgift om</p>
+               <div style="margin-left: 12pt; text-indent: -12pt; ">
+                  <p class="norm">—<span style="word-spacing: 0"> </span>löner och arvoden,</p>
+               </div>
+               <div style="margin-left: 12pt; text-indent: -12pt; ">
+                  <p class="norm">—<span style="word-spacing: 0"> </span>sociala kostnader med pensioner särskilt angivna.</p>
+               </div>
+            </div>
+            <div style="margin-left: 24pt; text-indent: -24pt">
+               <p class="norm">b)<span style="word-spacing: 15pt"> </span>Övriga administrationskostnader.</p>
+            </div>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">5.<span style="word-spacing: 15pt"> </span>Värdejusteringar beträffande Tillgångar, posterna 9 och 10.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">6.<span style="word-spacing: 15pt"> </span>Övriga rörelsekostnader.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">7.<span style="word-spacing: 15pt"> </span>Nedskrivningar av fordringar samt avsättningar för ansvarsförbindelser och åtaganden.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">8.<span style="word-spacing: 15pt"> </span>Nedskrivningar av överlåtbara värdepapper som innehas som finansiella anläggningstillgångar, av ägarintressen samt av aktier och andelar i anknutna företag.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">9.<span style="word-spacing: 15pt"> </span>Skatt på resultatet av den normala verksamheten.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">10.<span style="word-spacing: 15pt"> </span>Resultatet av den normala verksamheten efter skatt.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">11.<span style="word-spacing: 15pt"> </span>Extraordinära kostnader.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">12.<span style="word-spacing: 15pt"> </span>Skatt på extraordinärt resultat.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">13.<span style="word-spacing: 15pt"> </span>Extraordinär förlust efter skatt.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">14.<span style="word-spacing: 15pt"> </span>Övriga skatter som inte ingår i ovanstående poster.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">15.<span style="word-spacing: 15pt"> </span>Vinst för räkenskapsåret.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">B.<span style="word-spacing: 13pt"> </span>
+            <span class="italics">Intäkter</span>
+         </p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">1.<span style="word-spacing: 15pt"> </span>Ränteintäkter och liknande intäkter med särskild uppgift om intäkter av värdepapper med fast avkastning.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">2.<span style="word-spacing: 15pt"> </span>Intäkter från värdepapper:</p>
+            <div style="margin-left: 24pt; text-indent: -24pt">
+               <p class="norm">a)<span style="word-spacing: 15pt"> </span>Intäkter från aktier och andra värdepapper med rörlig avkastning.</p>
+            </div>
+            <div style="margin-left: 24pt; text-indent: -24pt">
+               <p class="norm">b)<span style="word-spacing: 15pt"> </span>Intäkter från ägarintressen.</p>
+            </div>
+            <div style="margin-left: 24pt; text-indent: -24pt">
+               <p class="norm">c)<span style="word-spacing: 15pt"> </span>Intäkter från aktier och andelar i anknutna företag.</p>
+            </div>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">3.<span style="word-spacing: 15pt"> </span>Provisionsintäkter.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">4.<span style="word-spacing: 15pt"> </span>Nettovinst av finansiella transaktioner.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">5.<span style="word-spacing: 15pt"> </span>Återföringar av nedskrivna fordringar samt av avsättningar för ansvarsförbindelser och åtaganden.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">6.<span style="word-spacing: 15pt"> </span>Återföringar av nedskrivna överlåtbara värdepapper som innehas som finansiella anläggningstillgångar, ägarintressen samt aktier och andelar i anknutna företag.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">7.<span style="word-spacing: 15pt"> </span>Övriga rörelseintäkter.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">8.<span style="word-spacing: 15pt"> </span>Resultatet av den normala verksamheten efter skatt.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">9.<span style="word-spacing: 15pt"> </span>Extraordinära intäkter.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">10.<span style="word-spacing: 15pt"> </span>Extraordinär vinst efter skatt.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">11.<span style="word-spacing: 15pt"> </span>Förlust för räkenskapsåret.</p>
+         </div>
+      </div>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 6</p>
+      <p class="title-division-2">SÄRSKILDA BESTÄMMELSER FÖR VISSA POSTER I RESULTATRÄKNINGEN</p>
+      <p class="title-article-norm">Artikel 29</p>
+      <p class="norm">Artikel 27, posterna 1 och 2 (vertikal uppställning).</p>
+      <p class="norm">Artikel 28, posterna A.1 och B.1 (horisontell uppställning).</p>
+      <p class="norm">Ränteintäkter och liknande intäkter samt räntekostnader och liknande kostnader.</p>
+      <p class="norm">Dessa poster skall omfatta alla vinster och förluster som uppkommer i bankverksamhet, bl.a.</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">1)<span style="word-spacing: 15pt"> </span>alla intäkter från tillgångar upptagna under Tillgångar, posterna 1—5 i balansräkningen, oberoende av hur de beräknats; här skall också ingå över tiden fördelade intäkter som uppkommit därigenom att tillgångar förvärvats till lägre belopp än, eller att skulder iklätts till högre belopp än vad som skall betalas på förfallodagen,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">2)<span style="word-spacing: 15pt"> </span>alla kostnader för skulder upptagna under Skulder och eget kapital, posterna 1, 2, 3 och 8, oberoende av hur de beräknats; här skall också ingå över tiden fördelade utgifter som uppkommit därigenom att tillgångar förvärvats till högre belopp än, eller att skulder iklätts till lägre belopp än vad som skall betalas på förfallodagen,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">3)<span style="word-spacing: 15pt"> </span>intäkter och kostnader som uppkommit på grund av säkrade terminskontrakt och som är fördelade över kontraktets faktiska löptid och har räntekaraktär,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">4)<span style="word-spacing: 15pt"> </span>ränteliknande arvoden och provisioner som beräknas på tidsbasis eller på grundval av fordringens eller skuldens storlek.</p>
+      </div>
+      <p class="title-article-norm">Artikel 30</p>
+      <p class="norm">Artikel 27, post 3 (vertikal uppställning).</p>
+      <p class="norm">Artikel 28, post B.2 (horisontell uppställning).</p>
+      <p class="norm">Intäkter från aktier och andra värdepapper med rörlig avkastning, från ägarintressen och från aktier och andelar i anknutna företag.</p>
+      <p class="norm">Denna post skall omfatta all utdelning och alla övriga intäkter från värdepapper med rörlig avkastning, från ägarintressen och från aktier och andelar i anknutna företag. Intäkter från aktier och andelar i förvaltningsbolag skall också ingå i denna post.</p>
+      <p class="title-article-norm">Artikel 31</p>
+      <p class="norm">Artikel 27, posterna 4 och 5 (vertikal uppställning).</p>
+      <p class="norm">Artikel 28, posterna A.2 och B.3 (horisontell uppställning).</p>
+      <p class="norm">Provisionsintäkter och provisionskostnader.</p>
+      <p class="norm">Utan att det påverkar tillämpningen av artikel 29 skall till provisionsintäkter räknas intäkter från alla tjänster som tillhandahållits tredje man och till provisionskostnader alla kostnader för tjänster som tillhandahållits av tredje man, särskilt</p>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>provisioner hänförliga till garantigivning, till låneförvaltning för andra långivares räkning och till värdepapperstransaktioner för tredje mans räkning,</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>provisioner och andra avgifter samt intäkter hänförliga till betalningstransaktioner, kontoadministration, samt förvaring och förvaltning av värdepapper,</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>provisioner hänförliga till transaktioner i utländsk valuta och försäljning och köp av mynt och ädla metaller för tredje mans räkning,</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>provisioner för mäklartjänster i samband med inlånings-, försäkrings- och låneavtal.</p>
+      </div>
+      <p class="title-article-norm">Artikel 32</p>
+      <p class="norm">Artikel 27, post 6 (vertikal uppställning).</p>
+      <p class="norm">Artikel 28, post A.3 eller B.4 (horisontell uppställning).</p>
+      <p class="norm">Nettovinst eller nettoförlust av finansiella transaktioner.</p>
+      <p class="norm">Denna post omfattar</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">1.<span style="word-spacing: 15pt"> </span>nettovinster eller nettoförluster av handel med värdepapper som inte innehas som finansiella anläggningstillgångar jämte justeringar eller återföringar av värdet på sådana värdepapper, med beaktande av den mellanskillnad som uppkommer vid tillämpning av artikel 36.2; dock skall i de medlemsstater som utnyttjar den möjlighet som ges i artikel 37 dessa nettovinster eller nettoförluster jämte värdejusteringar och återföringar redovisas endast till den del de hänför sig till värdepapper i handelslager,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">2.<span style="word-spacing: 15pt"> </span>nettovinster eller nettoförluster av valutatransaktioner, utan att det påverkar tillämpningen av artikel 29.3,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">3.<span style="word-spacing: 15pt"> </span>nettovinster eller nettoförluster av köp- och säljtransaktioner beträffande finansiella instrument inklusive ädla metaller.</p>
+      </div>
+      <p class="title-article-norm">Artikel 33</p>
+      <p class="norm">Artikel 27, posterna 11 och 12 (vertikal uppställning).</p>
+      <p class="norm">Artikel 28, posterna A.7 och B.5 (horisontell uppställning).</p>
+      <p class="norm">Nedskrivningar av fordringar samt avsättningar för ansvarsförbindelser och åtaganden.</p>
+      <p class="norm">Återföringar av nedskrivna fordringar samt av avsättningar för ansvarsförbindelser och åtaganden.</p>
+      <p class="norm">1.  Dessa poster skall omfatta dels kostnader vid nedskrivningar av sådana fordringar som skall tas upp under Tillgångar, posterna 3 och 4, samt avsättningar för sådana ansvarsförbindelser och åtaganden som skall tas upp som poster utanför balansräkningen, posterna 1 och 2, dels intäkter av tidigare nedskrivna fordringar samt belopp som återförts efter tidigare nedskrivningar eller avsättningar.</p>
+      <p class="norm">2.  Denna post skall i medlemsstater som utnyttjar den möjlighet som ges i artikel 37 omfatta även nettovinst eller nettoförlust av handel med sådana under Tillgångar, posterna 5 och 6, upptagna värdepapper som varken innehas som finansiella anläggningstillgångar enligt definitionen i artikel 35.2 eller ingår i handelslager, jämte justeringar eller återföringar av värdet på sådana värdepapper, med beaktande av den skillnad som följer vid tillämpning av artikel 36.2. Postens rubrik skall anpassas därefter.</p>
+      <p class="norm">3.  Medlemsstaterna får tillåta kvittning mellan kostnader och intäkter under dessa poster, så att endast en nettopost (intäkt eller kostnad) redovisas.</p>
+      <p class="norm">4.  Värdejusteringar av fordringar på kreditinstitut, kunder, företag i vilka kreditinstitut har ägarintressen samt anknutna företag skall redovisas särskilt i noter, när justeringarna är av betydelse. Denna bestämmelse behöver inte tillämpas om en medlemsstat tillåter kvittning enligt punkt 3.</p>
+      <p class="title-article-norm">Artikel 34</p>
+      <p class="norm">Artikel 27, posterna 13 och 14 (vertikal uppställning).</p>
+      <p class="norm">Artikel 28, posterna A.8 och B.5 (horisontell uppställning).</p>
+      <p class="norm">Nedskrivningar av överlåtbara värdepapper som innehas som finansiella anläggningstillgångar, av ägarintressen samt av aktier och andelar i anknutna företag.</p>
+      <p class="norm">Återföringar av nedskrivna överlåtbara värdepapper som innehas som finansiella anläggningstillgångar, ägarintressen samt aktier och andelar i anknutna företag.</p>
+      <p class="norm">1.  Dessa poster skall omfatta dels kostnader vid nedskrivning av sådana fordringar som skall tas upp under Tillgångar, posterna 5—8, dels alla belopp som återförts efter tidigare nedskrivning, till den del kostnaderna och intäkterna hänför sig till överlåtbara värdepapper som innehas som finansiella anläggningstillgångar enligt definitionen i artikel 35.2, till ägarintressen eller till aktier eller andelar i anknutna företag.</p>
+      <p class="norm">2.  Medlemsstaterna får tillåta kvittning mellan kostnader och intäkter under dessa poster, så att endast en nettopost (intäkt eller kostnad) redovisas.</p>
+      <p class="norm">3.  Värdejusteringar av sådana överlåtbara värdepapper, ägarintressen samt aktier och andelar i anknutna företag skall redovisas särskilt i noter, när justeringarna är av betydelse. Denna bestämmelse behöver inte tillämpas om en medlemsstat tillåter kvittning enligt punkt 2.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 7</p>
+      <p class="title-division-2">VÄRDERINGSREGLER</p>
+      <p class="title-article-norm">Artikel 35</p>
+      <p class="norm">1.  Vad som tagits upp under Tillgångar, posterna 9 och 10, skall alltid värderas som anläggningstillgångar. Tillgångar under övriga poster i balansräkningen skall värderas som anläggningstillgångar om de är avsedda att varaktigt ingå i företagets normala verksamhet.</p>
+      <p class="norm">2.  När det i avsnitt 7 i direktiv 78/660/EEG hänvisas till finansiella anläggningstillgångar skall detta begrepp, då det gäller kreditinstitut, anses omfatta ägarintressen, aktier och andelar i anknutna företag samt värdepapper avsedda att varaktigt ingå i företagets normala verksamhet.</p>
+      <!--transformed by post treatment  ...--><p>3.  </p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Obligationer och andra värdepapper med fast avkastning skall när de innehas som anläggningstillgångar tas upp i balansräkningen till anskaffningsvärdet. Medlemsstaterna får dock kräva eller tillåta att sådana värdepapper tas upp i balansräkningen med det belopp som skall infrias på förfallodagen.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>När anskaffningskostnaden för sådana värdepapper är högre än det belopp som skall infrias på förfallodagen skall mellanskillnaden tas upp som en kostnad i resultaträkningen. Medlemsstaterna får dock kräva eller tillåta att mellanskillnaden skrivs av i delposter så att den är helt avskriven på värdepapperens förfallodag. Mellanskillnaden skall redovisas särskilt i balansräkningen eller i en not.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>När anskaffningskostnaden för sådana värdepapper är lägre än det belopp som skall infrias på förfallodagen får medlemsstaterna kräva eller tillåta att mellanskillnaden tas upp som intäkt, fördelad i poster under återstående löptid. Mellanskillnaden skall redovisas särskilt i balansräkningen eller i en not.</p>
+      </div>
+      <p class="title-article-norm">Artikel 36</p>
+      <p class="norm">1.  Om överlåtbara värdepapper, vilka inte innehas som finansiella anläggningstillgångar, tas upp till anskaffningsvärdet i balansräkningen, skall kreditinstitutet i en not redovisa skillnaden mellan anskaffningsvärdet och det högre marknadsvärde som gäller på balansdagen.</p>
+      <p class="norm">2.  Medlemsstaterna får dock kräva eller tillåta att sådana överlåtbara värdepapper tas upp i balansräkningen till det högre marknadsvärde som gäller på balansdagen. Skillnaden mellan anskaffningsvärdet och det högre marknadsvärdet skall redovisas i en not.</p>
+      <p class="title-article-norm">Artikel 37</p>
+      <p class="norm">1.  Artikel 39 i direktiv 78/660/EEG skall gälla i fråga om värdering av kreditinstituts fordringar, obligationer, aktier och andra värdepapper med rörlig avkastning vilka inte innehas som finansiella anläggningstillgångar.</p>
+      <p class="norm">2.  I avvaktan på vidare samordning får dock medlemsstaterna tillåta</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>att fordringar på kreditinstitut samt utlåning till allmänheten (Tillgångar, posterna 3 och 4) och skuldebrev samt aktier och andra värdepapper med rörlig avkastning, som ingår under Tillgångar, posterna 5 och 6, och som varken innehas som finansiella anläggningstillgångar enligt definitionen i artikel 35.2 eller ingår i handelslager, tas upp till ett värde lägre än det som följer av en tillämpning av artikel 39.1 i direktiv 78/660/EEG, om det krävs för beaktande av de särskilda risker som är förenade med bankrörelse; skillnaden mellan de två värdena får dock inte motsvara mer än 4 % av de samlade tillgångarnas värde beräknat enligt den nämnda artikeln 39,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>att det lägre värde som följer av en tillämpning av a upprätthålls tills kreditinstitutet beslutar att justera det,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>att varken artikel 36.1 i detta direktiv eller artikel 40.2 i direktiv 78/660/EEG skall gälla, i fall en medlemsstat uttnyttjar den möjlighet som ges i a ovan.</p>
+      </div>
+      <p class="title-article-norm">Artikel 38</p>
+      <p class="norm">1.  Medlemsstater som utnyttjar den möjlighet som ges i artikel 37 skall tillåta och övriga medlemsstater får tillåta, i avvaktan på vidare samordning, att det under Skulder och eget kapital införs en post 6A, betecknad ”Reserveringar för allmänna risker i bankrörelse”. Denna post skall omfatta reserveringar som kreditinstitut beslutar göra för att möta de särskilda risker som är förenade med bankrörelse.</p>
+      <p class="norm">2.  Saldot för ökningar och minskningar av ”Reserveringar för allmänna risker i bankrörelse” skall redovisas särskilt i resultaträkningen.</p>
+      <p class="title-article-norm">Artikel 39</p>
+      <p class="norm">1.  Tillgångar och skulder i utländsk valuta skall omräknas efter avistakursen på balansdagen. Medlemsstaterna får dock kräva eller tillåta att tillgångar som innehas som finansiella anläggningstillgångar samt materiella och immateriella tillgångar som inte är säkrade på avista- eller terminsmarknader, omräknas efter anskaffningskursen vid förvärvet.</p>
+      <p class="norm">2.  Öppna termins- och avistaaffärer skall omräknas efter avistakursen på balansdagen.</p>
+      <p class="norm">Medlemsstaterna får dock kräva att terminsaffärer omräknas efter terminskursen på balansdagen.</p>
+      <p class="norm">3.  Utan att det påverkar tillämpningen av artikel 29.3 skall skillnader mellan å ena sidan det bokförda värdet av tillgångar, skulder och terminsaffärer och å andra sidan det värde som erhållits vid omräkning enligt punkterna 1 och 2 redovisas i resultaträkningen. Medlemsstaterna får dock kräva eller tillåta att skillnader till följd av omräkning enligt punkterna 1 och 2 redovisas, helt eller delvis, under bundna reserver, då de hänför sig till finansiella anläggningstillgångar, till materiella eller immateriella tillgångar och till transaktioner avsedda att säkra sådana tillgångar.</p>
+      <p class="norm">4.  Medlemsstaterna får bestämma att positiva omräkningsskillnader som hänför sig till terminsaffärer, tillgångar eller skulder som inte är säkrade genom andra terminsaffärer eller av tillgångar eller skulder, inte skall redovisas i resultaträkningen.</p>
+      <p class="norm">5.  Vid användning av någon sådan metod som anges i artikel 59 i direktiv 78/660/EEG får medlemsstaterna bestämma att omräkningsskillnader skall, helt eller delvis, föras direkt till reserver. Positiva och negativa omräkningsskillnader som förs till reserver skall redovisas särskilt i balansräkningen eller i en not.</p>
+      <p class="norm">6.  Medlemsstaterna får kräva eller tillåta att omräkningsskillnader, som vid sammanställd redovisning uppkommer då ett anknutet företags kapital och reserver eller ett ägarintresses andel av kapital och reserver omräknas vid början av redovisningsperioden, helt eller delvis skall ingå i sammanställda reserver, jämte omräkningsskillnader hänförliga till omräkning av transaktioner avsedda att säkra sådant kapital och sådana reserver.</p>
+      <p class="norm">7.  Medlemsstaterna får kräva eller tillåta att intäkter och kostnader hänförliga till anknutna företag och till ägarintressen vid sammanställd redovisning omräknas efter ett genomsnitt av valutakurserna under redovisningsperioden.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 8</p>
+      <p class="title-division-2">NOTERNAS INNEHÅLL</p>
+      <p class="title-article-norm">Artikel 40</p>
+      <p class="norm">1.  Artikel 43.1 i direktiv 78/660/EEG skall tillämpas med de avvikelser som följer av artikel 37 i detta direktiv och följande bestämmelser.</p>
+      <p class="norm">2.  Ett kreditinstitut skall lämna upplysningar, utöver vad som sägs i artikel 43.1.5 i direktiv 78/660/EEG, om vad som upptagits under Skulder och eget kapital, post 8 (efterställda skulder), enligt följande.</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Beträffande varje lån som motsvarar mer än 10 % av samtliga efterställda skulder:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">i)<span style="word-spacing: 19pt"> </span>Uppgift om lånebelopp och -valuta, räntesats och förfallodag eller om huruvida lånet löper evigt.</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">ii)<span style="word-spacing: 23pt"> </span>Uppgift om eventuella omständigheter som medför förtida återbetalning.</p>
+         </div>
+         <div style="margin-left: 36pt; text-indent: -36pt">
+            <p class="norm">iii)<span style="word-spacing: 27pt"> </span>Uppgift om villkoren för lånets efterställda karaktär, om eventuella förutsättningar och villkor för konvertering av det efterställda lånet till kapital eller till något annat slag av skuldpost.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Sammanfattande upplysning om vilka regler som gäller för övriga lån.</p>
+      </div>
+      <!--transformed by post treatment  ...--><p>3.  </p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>I stället för de upplysningar som krävs enligt artikel 43.1.6 i direktiv 78/660/EEG, skall kreditinstituten för var och en av posterna 3 b och 4 under Tillgångar och posterna 1 b, 2 a, 2 b.bb och 3 b under Skulder och eget kapital i noter ange belopp för fordringar och skulder allt efter återstående löptid enligt följande:</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Högst tre månader.</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Mer än tre månader men högst ett år.</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Mer än ett år men högst fem år.</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Mer än fem år.</p>
+         </div>
+         <p class="list">I fråga om Tillgångar, post 4, skall också redovisas vilka fordringar som är betalbara på anfordran respektive efter kort uppsägningstid.</p>
+         <p class="list">Om fordringar eller skulder skall amorteras, skall som återstående löptid räknas perioden mellan balansdagen och förfallodagen för respektive amortering.</p>
+         <p class="list">Dock får medlemsstaterna under en tid av fem år från den dag som avses i artikel 47.2 kräva eller tillåta att förteckningen över tillgångar och skulder efter löptid görs på grundval av ursprunglig löp- eller uppsägningstid. I sådant fall skall, när ett kreditinstitut har förvärvat en utelöpande fordran som inte representeras av värdepapper, medlemsstaterna kräva att fordringen anges efter den löptid som återstår från dagen för förvärvet. Vid tillämpning av detta stycke skall ursprunglig löptid för fordringar motsvara tiden mellan dagen för första utnyttjandet och dagen för återbetalning; som uppsägningstid skall räknas tiden mellan den dag då uppsägning sker och dagen för återbetalning; i fråga om fordringar och skulder som skall amorteras, skall överenskommen löptid motsvara tiden mellan den dag då fordringen eller skulden uppkom och förfallodagen för sista amortering. Kreditinstituten skall också beträffande balansräkningsposter som avses i detta stycke ange hur stor del av tillgångarna och skulderna som förfaller till betalning inom ett år efter balansdagen.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Ett kreditinstitut skall i fråga om Tillgångar, post 5 (obligationer och andra värdepapper med fast avkastning) och Skulder och eget kapital, post 3 a (emitterade skuldebrev) ange hur stor del av tillgångarna och skulderna som förfaller till betalning inom ett år efter balansdagen.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>Medlemsstaterna får kräva att upplysningar som avses i a och b ovan skall lämnas i balansräkningen.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">d)<span style="word-spacing: 15pt"> </span>Ett kreditinstitut skall lämna närmare uppgifter om tillgångar som det har ställt som säkerhet för egna eller tredje mans förpliktelser (inklusive ansvarsförbindelser); uppgifterna skall vara så detaljerade att de beträffande varje enskild skuldpost respektive post utanför balansräkningen ger upplysning om totalbeloppet för de tillgångar som ställts som säkerhet.</p>
+      </div>
+      <p class="norm">4.  När ett kreditinstitut är skyldigt att under Poster utanför balansräkningen lämna upplysningar som avses i artikel 43.1.7 i direktiv 78/660/EEG, behöver dessa upplysningar inte upprepas i noter.</p>
+      <p class="norm">5.  I stället för de upplysningar som krävs enligt artikel 43.1.8 i direktiv 78/660/EEG, skall kreditinstitut i noter ange hur stor del av intäkterna under posterna 1, 3, 4, 6 och 7 i artikel 27 eller under posterna B.1, B.2, B.3, B.4 och B.7 i artikel 28 som hänför sig till olika geografiska marknader, i den mån dessa väsentligen skiljer sig åt med hänsyn till hur kreditinstitutets verksamhet bedrivs. Artikel 45.1 b i direktiv 78/660/EEG skall gälla.</p>
+      <p class="norm">6.  Hänvisningen i artikel 43.1.9 i direktiv 78/660/EEG till artikel 23.6 i samma direktiv skall anses som en hänvisning till artikel 27.8 eller artikel 28 A.4 i detta direktiv.</p>
+      <p class="norm">7.  Med avvikelse från artikel 43.1.13 i direktiv 78/660/EEG behöver kreditinstitut lämna uppgift endast om storleken av förskott och krediter som beviljats ledamöterna i förvaltnings-, lednings- och kontrollorgan, och om åtaganden som ingåtts för ledamöternas räkning i form av garantier av något slag. I sådana uppgifter skall anges summan för varje personkategori.</p>
+      <p class="title-article-norm">Artikel 41</p>
+      <p class="norm">1.  De uppgifter som anges i artikel 15.3 i direktiv 78/660/EEG skall redovisas med avseende på tillgångar som innehas som anläggningstillgångar enligt definitionen i artikel 35 i detta direktiv. Skyldigheten att redovisa värdejusteringar särskilt skall emellertid inte gälla i de fall en medlemsstat har tilllåtit kvittning av värdejusteringar med stöd av artikel 34.2 i detta direktiv. I sådant fall får värdejusteringar sammanslås med andra poster.</p>
+      <p class="norm">2.  Medlemsstaterna skall föreskriva skyldighet för kreditinstitut att även i noterna redovisa följande:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>En uppdelning av överlåtbara värdepapper, redovisade under Tillgångar, posterna 5—8, på noterade och onoterade värdepapper.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>En uppdelning av överlåtbara värdepapper, redovisade under Tillgångar, posterna 5 och 6, alltefter huruvida de innehas eller inte innehas som finansiella anläggningstillgångar enligt artikel 35, samt det kriterium som använts för åtskillnad av de båda värdepapperskategorierna.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>Värdet av leasingaffärer fördelat på respektive balansräkningspost.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">d)<span style="word-spacing: 15pt"> </span>En uppdelning av post 13 under Tillgångar, post 4 under Skulder och eget kapital, posterna 10 och 18 vid vertikal uppställning eller posterna A.6 och A.11 vid horisontell uppställning samt posterna 7 och 17 vid vertikal uppställning eller posterna B.7 och B.9 vid horisontell uppställning i resultaträkningen på de huvudbelopp som ingår under respektive post, i den mån dessa belopp är av betydelse för bedömningen av årsbokslutet, jämte förklaringar angående beloppens natur och storlek.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">e)<span style="word-spacing: 15pt"> </span>Kostnader under räkenskapsåret för ett kreditinstituts efterställda skulder.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">f)<span style="word-spacing: 17pt"> </span>Uppgift om förvaltnings- och förmedlingstjänster som ett institut lämnat tredje man, i den mån omfattningen av sådan verksamhet är av betydelse i förhållande till institutets samlade verksamhet.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">g)<span style="word-spacing: 15pt"> </span>Det samlade värdet av tillgångar respektive skulder i utländsk valuta, omräknat till den valuta som använts i årsbokslutet.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">h)<span style="word-spacing: 15pt"> </span>Uppgift om vilka slags icke förfallna terminsaffärer som föreligger på balansdagen, med särskilt angivande för varje slag av affärer om de till väsentlig del ingåtts för att möta verkan av svängningar i räntekurser, valutakurser och marknadspriser, och om de i väsentlig mån ingåtts som ett led i verksamheten. Sådana kategorier skall omfatta alla affärer beträffande vilka intäkter och kostnader skall tas upp enligt artikel 27 post 6, artikel 28 posterna A.3 eller B.4, eller artikel 29.3, exempelvis utländska valutor, ädla metaller, överlåtbara värdepapper, bankcertifikat och andra tillgångar.</p>
+      </div>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 9</p>
+      <p class="title-division-2">BESTÄMMELSER OM SAMMANSTÄLLD REDOVISNING</p>
+      <p class="title-article-norm">Artikel 42</p>
+      <p class="norm">1.  Kreditinstitut skall upprätta sammantälld redovisning och sammanställd förvaltningsberättelse i enlighet med direktiv 83/349/EEG, i den mån annat ej föreskrivs i detta avsnitt.</p>
+      <p class="norm">2.  I den mån en medlemsstat inte tillämpar artikel 5 i direktiv 83/349/EEG skall punkt 1 i denna artikel gälla också moderföretag som inte har annat ändamål än att förvärva innehav i dotterföretag och att förvalta sådana innehav och göra dem vinstbringande, såvitt dotterföretagen uteslutande eller huvudsakligen är kreditinstitut.</p>
+      <p class="title-article-norm">Artikel 43</p>
+      <p class="norm">1.  Direktiv 83/349/EEG skall tillämpas med de avvikelser som följer av artikel 1 i detta direktiv och punkt 2 i denna artikel.</p>
+      <!--transformed by post treatment  ...--><p>2.  </p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Artiklarna 4, 6, 15 och 40 i direktiv 83/349/EEG skall inte gälla.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Medlemsstaterna får göra en tillämpning av artikel 7 i direktiv 83/349/EEG beroende av följande ytterligare villkor:</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Moderföretaget skall ha avgivit en förklaring att det garanterar åtaganden som det undantagna företaget iklätt sig; i det senare företagets redovisning skall uppges att en sådan förklaring gjorts.</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Moderföretaget skall vara ett kreditinstitut enligt definitionen i artikel 2.1 a i detta direktiv.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>Uppgifter som avses i de två första strecksatserna i artikel 9.2 i direktiv 83/349/EEG, alltså</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>summan av anläggningstillgångarna och</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>nettoomsättningen,</p>
+         </div>
+         <p class="list">skall ersättas av</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>summan av posterna 1, 3, 4, 6 och 7 i artikel 27 eller B.1, B.2, B.3, B.4 och B.7 i artikel 28 i detta direktiv.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">d)<span style="word-spacing: 15pt"> </span>Om, till följd av bestämmelsen i artikel 13.3 c i direktiv 83/349/EEG, ett dotterföretag som är ett kreditinstitut inte omfattas av sammanställd redovisning, men aktierna eller andelarna i det företaget innehas temporärt som ett led i en finansiell stödaktion, syftande till en rekonstruktion eller räddning av företaget i fråga, skall detta företags årsbokslut fogas till den sammanställda redovisningen och kompletterande upplysningar om arten av och villkoren för den finansiella stödaktionen lämnas i en not.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">e)<span style="word-spacing: 15pt"> </span>En medlemsstat får tillämpa artikel 12 i direktiv 83/349/EEG också på två eller flera kreditinstitut som inte är anknutna så som sägs i artikel 1.1 eller 1.2 i det direktivet men som på annan grund än avtal eller bestämmelser i stiftelseurkund eller bolagsordning står under gemensam ledning.</p>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32003L0051"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="32003L0051: DELETED"
+            shape="rect">▼M2</a> —————</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/31986L0635"
+            onclick="window.open(this.href,'_blanc'); return false;"
+            title="31986L0635"
+            shape="rect">▼B</a>
+      </p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">g)<span style="word-spacing: 15pt"> </span>I fråga om uppställning av sammanställd redovisning skall</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>artiklarna 3, 5—26 och 29—34 i detta direktiv gälla,</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>hänvisningen i artikel 17 i direktiv 83/349/EEG till artikel 15.3 i direktiv 78/660/EEG avse tillgångar som anses som anläggningstillgångar enligt artikel 35 i detta direktiv.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">h)<span style="word-spacing: 15pt"> </span>Artikel 34 i direktiv 83/349/EEG skall, med de avvikelser som följer av artiklarna 40 och 41 i detta direktiv, tillämpas beträffande innehållet i noter till den sammanställda redovisningen.</p>
+      </div>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 10</p>
+      <p class="title-division-2">OFFENTLIGGÖRANDE</p>
+      <p class="title-article-norm">Artikel 44</p>
+      <p class="norm">1.  Ett kreditinstituts vederbörligen fastställda årsbokslut skall, jämte förvaltningsberättelse och berättelse avgiven av dem som är ansvariga för revision av räkenskaperna, offentliggöras enligt nationell lag i överensstämmelse med artikel 3 i direktiv 68/151/EEG (<a href="#E0008" id="src.E0008" shape="rect">
+            <span class="superscript">8</span>
+         </a>).</p>
+      <p class="norm">Genom nationell lagstiftning får dock bestämmas att förvaltningsberättelsen inte behöver offentliggöras enligt ovan. I så fall skall den hållas tillgänglig för allmänheten hos bolaget där detta har sitt säte i den ifrågavarande medlemsstaten. Det skall vara möjligt att på begäran kostnadsfritt få en kopia av hela berättelsen eller någon del av den. Priset på en sådan kopia får inte överstiga administrationskostnaden.</p>
+      <p class="norm">2.  Punkt 1 skall också gälla i fråga om vederbörligen fastställd sammanställd redovisning, sammanställd förvaltningsberättelse och berättelse som avgivits av dem som är ansvariga för revision av sammanställd redovisning.</p>
+      <p class="norm">3.  Dock skall ett kreditinstitut som upprättat årsbokslut eller sammanställd redovisning, om institutet inte är etablerat i någon sådan bolagsform som är angiven i artikel 1.1 i direktiv 78/660/EEG och inte har skyldighet enligt nationell lag att offentliggöra handlingar som avses i punkterna 1 och 2 i denna artikel och som föreskrivits i artikel 3 i direktiv 68/151/EEG, i vart fall hålla handlingarna tillgängliga för allmänheten där institutet har sitt säte eller, i avsaknad därav, där det har sin huvudsakliga verksamhet. Det skall vara möjligt att på begäran få kopior av handlingarna. Priset på sådana kopior får inte överstiga administrationskostnaden.</p>
+      <p class="norm">4.  Ett kreditinstituts årsbokslut och sammanställda redovisning skall offentliggöras i varje medlemsstat där kreditinstitutet har filialer enligt definitionen i artikel 1 tredje strecksatsen i direktiv 77/780/EEG. Dessa medlemsstater får kräva att handlingarna offentliggörs på staternas respektive officiella språk.</p>
+      <p class="norm">5.  Medlemsstaterna skall föreskriva lämpliga påföljder för underlåtenhet att följa bestämmelserna om offentliggörande i denna artikel.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 11</p>
+      <p class="title-division-2">REVISION</p>
+      <p class="title-article-norm">Artikel 45</p>
+      <p class="norm">En medlemsstat behöver inte tillämpa artikel 2.1 b iii i direktiv 84/253/EEG (<a href="#E0009" id="src.E0009" shape="rect">
+            <span class="superscript">9</span>
+         </a>) på allmänna sparbanker, om det vid tiden för detta direktivs ikraftträdande ankommer på ett särskilt organ för kontroll av sådana sparbanker att ombesörja lagstadgad revision av sådana företags handlingar, angivna i artikel 1.1 i det direktivet, och de ansvariga personerna uppfyller åtminstone vad som krävs enligt artiklarna 3—9 i direktiv 84/253/EEG.</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1">AVSNITT 12</p>
+      <p class="title-division-2">SLUTBESTÄMMELSER</p>
+      <p class="title-article-norm">Artikel 46</p>
+      <p class="norm">Den kontaktkommitté som inrättats enligt artikel 52 i direktiv 78/660/EEG skall, i sammansättning för ändamålet, ha till uppgift även</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>att, utan att det påverkar tillämpningen av artiklarna 169 och 170 i fördraget, underlätta en enhetlig tillämpning av detta direktiv genom regelbundet samråd, särskilt om praktiska problem i samband med tillämpningen,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>att vid behov rekommendera kommissionen tillägg eller ändringar i detta direktiv.</p>
+      </div>
+      <p class="title-article-norm">Artikel 47</p>
+      <p class="norm">1.  Medlemsstaterna skall sätta i kraft de lagar och andra författningar som är nödvändiga för att följa detta direktiv senast den 31 december 1990. De skall genast underrätta kommissionen om detta.</p>
+      <p class="norm">2.  Medlemsstaterna får föreskriva att bestämmelser som avses i punkt 1 skall tillämpas första gången på årsbokslut och sammanställd redovisning för det räkenskapsår som börjar den 1 januari 1993 eller under år 1993.</p>
+      <p class="norm">3.  Medlemsstaterna skall till kommissionen överlämna texterna till centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.</p>
+      <p class="title-article-norm">Artikel 48</p>
+      <p class="norm">Fem år efter den dag som avses i artikel 47.2 skall rådet, på förslag från kommissionen, se över och vid behov ändra dels bestämmelser i detta direktiv som ger medlemsstaterna valmöjlighet, dels artikel 2.1 samt artiklarna 27, 28 och 41, med beaktande av de erfarenheter som vunnits vid tillämpning av direktivet och av syftet att åstadkomma större genomsynlighet och samordning av bestämmelser som omfattas av direktivet.</p>
+      <p class="title-article-norm">Artikel 49</p>
+      <p class="norm">Detta direktiv riktar sig till medlemsstaterna.</p>
+      <p>
+         <br/>
+      </p>
+      <hr class="separator-short"/>
+      <p class="footnote">(<a href="#src.E0001" id="E0001" shape="rect">
+            <span class="superscript">1</span>
+         </a>) EGT nr C 130, 1.6.1981, s. 1, EGT nr C 83, 24.3.1984, s. 6 och</p>
+      <p class="footnote">EGT nr C 351, 31.12.1985, s. 24.</p>
+      <p class="footnote">(<a href="#src.E0002" id="E0002" shape="rect">
+            <span class="superscript">2</span>
+         </a>) EGT nr C 242, 12.9.1983, s. 33 och</p>
+      <p class="footnote">EGT nr C 163, 10.7.1978, s. 60.</p>
+      <p class="footnote">(<a href="#src.E0003" id="E0003" shape="rect">
+            <span class="superscript">3</span>
+         </a>) EGT nr C 112, 3.5.1982, s. 60.</p>
+      <p class="footnote">(<a href="#src.E0004" id="E0004" shape="rect">
+            <span class="superscript">4</span>
+         </a>) EGT nr L 222, 14.8.1978, s. 11.</p>
+      <p class="footnote">(<a href="#src.E0005" id="E0005" shape="rect">
+            <span class="superscript">5</span>
+         </a>) EGT nr L 314, 4.12.1984, s. 28.</p>
+      <p class="footnote">(<a href="#src.E0006" id="E0006" shape="rect">
+            <span class="superscript">6</span>
+         </a>) EGT nr L 193, 18.7.1983, s. 1.</p>
+      <p class="footnote">(<a href="#src.E0007" id="E0007" shape="rect">
+            <span class="superscript">7</span>
+         </a>) EGT nr L 322, 17.12.1977, s. 30.</p>
+      <p class="footnote">(<a href="#src.E0008" id="E0008" shape="rect">
+            <span class="superscript">8</span>
+         </a>) EGT nr L 65, 14.3.1968, s. 8.</p>
+      <p class="footnote">(<a href="#src.E0009" id="E0009" shape="rect">
+            <span class="superscript">9</span>
+         </a>) EGT nr L 126, 12.5.1984, s. 20.</p>
+   </body>
+</html>

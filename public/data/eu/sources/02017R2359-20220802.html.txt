@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- fmx2xhtml # converter_version:9.8.0 # generated_on:20220802-1709 --><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+      <title>Konsoliderad TEXT: 32017R2359 — SV — 02.08.2022</title>
+      <link type="text/css" rel="stylesheet"
+            href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+   </head>
+   <body>
+      <p class="reference">02017R2359 — SV — 02.08.2022 — 002.001</p>
+      <hr class="separator"/>
+      <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+      <table width="100%" border="0" cellspacing="5" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32017R2359"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017R2359"
+                     >►B</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-doc-first" id="id-a32fc96d-a757-41eb-a56e-b7c83a65eb8f">KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2017/2359</p>
+               <p class="title-doc-first" id="id-a32d69e9-1a53-4267-8e28-645d4afd1350">av den 21 september 2017</p>
+               <p class="title-doc-first" id="id-af45a231-7a02-4acf-afdf-ae67680cca03">om komplettering av Europaparlamentets och rådets direktiv (EU) 2016/97 vad gäller informationskrav och uppföranderegler för distribution av försäkringsbaserade investeringsprodukter</p>
+               <p class="title-doc-last" id="id-1552de9f-5514-4e21-b670-3a0b52310d80">
+                  <a href="http://publications.europa.eu/resource/celex/32017R2359"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32017R2359"
+                     >(Text av betydelse för EES)</a>
+               </p>
+               <p class="title-doc-oj-reference" id="id-e8421c1e-f43e-4df2-8f71-f1f1907210de">(EGT L 341 20.12.2017, s. 8)</p>
+            </td>
+         </tr>
+      </table>
+      <p class="hd-modifiers">Ändrad genom:</p>
+      <table width="100%" border="0" cellspacing="5" cellpadding="0">
+         <col width="10%"/>
+         <col width="55%"/>
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="15%"/>
+         <tr>
+            <td valign="top" rowspan="2" >
+               <p class="norm"> </p>
+            </td>
+            <td valign="top" rowspan="2" >
+               <p class="norm"> </p>
+            </td>
+            <td valign="top" colspan="3" >
+               <p class="hd-toc-1">Officiella tidningen</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="hd-toc-2">  nr</p>
+            </td>
+            <td valign="top"  >
+               <p class="hd-toc-3">sida</p>
+            </td>
+            <td valign="top"  >
+               <p class="hd-toc-3">datum</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32018R0541"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32018R0541"
+                     >►M1</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-fam-member-star" id="id-1aa6887e-b324-4846-b6a4-6053f8d8be08">
+                  <a href="http://publications.europa.eu/resource/celex/32018R0541"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32018R0541"
+                     >KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2018/541 av den 20 december 2017</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-1">  L 90</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">59</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">6.4.2018</p>
+            </td>
+         </tr>
+         <tr>
+            <td valign="top"  >
+               <p class="arrow">
+                  <a href="http://publications.europa.eu/resource/celex/32021R1257"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021R1257"
+                     >►M2</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="title-fam-member-star" id="id-5b821fe8-d67a-4c78-bc6b-645eb4e99dcd">
+                  <a href="http://publications.europa.eu/resource/celex/32021R1257"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32021R1257"
+                     >KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2021/1257 av den 21 april 2021</a>
+               </p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-1">  L 277</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">18</p>
+            </td>
+            <td valign="top"  >
+               <p class="toc-2">2.8.2021</p>
+            </td>
+         </tr>
+      </table>
+      <p>
+         <br/>
+      </p>
+      <hr class="separator"/>
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32017R2359"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2359"
+            >▼B</a>
+      </p>
+      <p class="title-doc-first" id="id-3a477b9a-d1eb-4519-b6cb-4def4413f65a">KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2017/2359</p>
+      <p class="title-doc-first" id="id-5b48723d-dfea-4e00-b873-8733cd38e8eb">av den 21 september 2017</p>
+      <p class="title-doc-first" id="id-98e175db-c0c2-4b29-9dc1-de95315852c1">om komplettering av Europaparlamentets och rådets direktiv (EU) 2016/97 vad gäller informationskrav och uppföranderegler för distribution av försäkringsbaserade investeringsprodukter</p>
+      <p class="title-doc-last" id="id-782ed6e9-25b4-4db6-a63a-897355c0df89">(Text av betydelse för EES)</p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1" id="id-40dd90e6-f136-46d5-ba06-66548450f71b">KAPITEL I</p>
+      <p class="title-division-2" id="id-99247239-b691-4b17-8348-a423241698cc">
+         <span class="boldface">TILLÄMPNINGSOMRÅDE OCH DEFINITIONER</span>
+      </p>
+      <p class="title-article-norm" id="id-6b00796e-2078-4c26-acc5-3fa662f70c78">Artikel 1</p>
+      <p class="stitle-article-norm">Tillämpningsområde</p>
+      <p class="norm">Denna förordning ska tillämpas på försäkringsdistribution i samband med försäljning av försäkringsbaserade investeringsprodukter genom försäkringsförmedlare eller försäkringsföretag.</p>
+      <p class="title-article-norm" id="id-6156628a-731f-423c-8ab1-654509290e1e">Artikel 2</p>
+      <p class="stitle-article-norm">Definitioner</p>
+      <p class="norm">I denna förordning gäller följande definitioner:</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top"  >
+               <p class="dlist-term">1.</p>
+            </td>
+            <td valign="top"  >
+               <span class="italics">relevant person</span>
+               <p class="normal"> : </p>
+               <p class="norm">när det gäller en försäkringsförmedlare eller ett försäkringsföretag, någon av följande personer:</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>a) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">En styrelseledamot, delägare eller motsvarande, eller chef inom förmedlaren eller företaget, enligt vad som är tillämpligt.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>b) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">En anställd inom försäkringsförmedlaren eller försäkringsföretaget liksom alla andra fysiska personer vars tjänster ställs till förfogande för försäkringsförmedlaren eller försäkringsföretaget och som står under dess kontroll och som deltar i distributionen av försäkringsbaserade investeringsprodukter.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>c) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">En fysisk person som, inom ramen för ett entreprenadavtal, direkt deltar i tillhandahållandet av tjänster till försäkringsförmedlaren eller försäkringsföretaget i samband med förmedlarens eller företagets distribution av försäkringsbaserade investeringsprodukter.</p>
+                  </div>
+               </div>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top"  >
+               <p class="dlist-term">2.</p>
+            </td>
+            <td valign="top"  >
+               <p class="dlist-definition">
+                  <span class="italics">incitament</span> : varje avgift, provision eller icke-monetär förmån som tillhandahålls av eller till en försäkringsförmedlare eller ett försäkringsföretag i samband med distribution av en försäkringsbaserad investeringsprodukt, till eller från någon part utom den kund som deltar i transaktionen i fråga eller en person som agerar för kundens räkning.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top"  >
+               <p class="dlist-term">3.</p>
+            </td>
+            <td valign="top"  >
+               <p class="dlist-definition">
+                  <span class="italics">incitamentprogram</span> : en uppsättning regler för utbetalning av incitament, inbegripet villkoren för utbetalningen.</p>
+            </td>
+         </tr>
+      </table>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32021R1257"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32021R1257: INSERTED"
+            >▼M2</a>
+      </p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top"  >
+               <p class="dlist-term">4.</p>
+            </td>
+            <td valign="top"  >
+               <p class="dlist-definition">
+                  <span class="italics">hållbarhetspreferenser</span> : en kunds eller presumtiv kunds val om huruvida någon av följande finansiella produkter bör integreras i kundens investeringsstrategi:<div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En försäkringsbaserad investeringsprodukt i fråga om vilken kunden eller den presumtiva kunden bestämmer att en viss minimiandel ska investeras i miljömässigt hållbara investeringar enligt definitionen i artikel 2.1 i Europaparlamentets och rådets förordning (EU) 2020/852 (<a href="#E0001" id="src.E0001" >
+                              <span class="superscript">1</span>
+                           </a>).</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En försäkringsbaserad investeringsprodukt i fråga om vilket kunden eller den presumtiva kunden bestämmer att en viss minimiandel ska investeras i hållbara investeringar enligt definitionen i artikel 2.17 i Europaparlamentets och rådets förordning (EU) 2019/2088 (<a href="#E0002" id="src.E0002" >
+                              <span class="superscript">2</span>
+                           </a>).</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>c) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">En försäkringsbaserad investeringsprodukt som beaktar huvudsakliga negativa konsekvenser för hållbarhetsfaktorer i fråga om vilken kunden eller den presumtiva kunden bestämmer vilka kvalitativa eller kvantitativa inslag som ska påvisa att så sker.</p>
+                     </div>
+                  </div>
+               </p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top"  >
+               <p class="dlist-term">5.</p>
+            </td>
+            <td valign="top"  >
+               <p class="dlist-definition">
+                  <span class="italics">hållbarhetsfaktorer</span> : hållbarhetsfaktorer enligt definitionen i artikel 2.24 i förordning (EU) 2019/2088.</p>
+            </td>
+         </tr>
+      </table>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32017R2359"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2359"
+            >▼B</a>
+      </p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1" id="id-3444f187-3bde-4935-9f2b-df7fec81b32a">KAPITEL II</p>
+      <p class="title-division-2" id="id-1d09bbca-09c9-4853-831d-317d09c162ef">
+         <span class="boldface">INTRESSEKONFLIKTER OCH INCITAMENT</span>
+      </p>
+      <p class="title-article-norm" id="id-b73dedb7-61e0-4427-bd6c-b856689ffb84">Artikel 3</p>
+      <p class="stitle-article-norm">Identifiering av intressekonflikter</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32021R1257"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32021R1257: REPLACED"
+            >▼M2</a>
+      </p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">För att identifiera, i enlighet med artikel 28 i direktiv (EU) 2016/97, de typer av intressekonflikter som uppstår vid bedrivande av försäkringsdistributionsverksamhet som rör försäkringsbaserade investeringsprodukter och som innebär en risk för negativ inverkan på kundens intressen, inbegripet kundens eventuella hållbarhetspreferenser, ska försäkringsförmedlare och försäkringsföretag bedöma huruvida de, en relevant person eller någon annan person med direkt eller indirekt koppling till dem genom kontroll, har ett intresse av resultatet av försäkringsdistributionsverksamheten som uppfyller följande kriterier:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Det skiljer sig från kundens eller den presumtiva kundens intresse vad gäller resultatet av försäkringsdistributionsverksamheten.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Det har potential att påverka resultatet av verksamheten på ett sätt som är negativt för kunden.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <p class="norm">Försäkringsförmedlare och försäkringsföretag ska på samma sätt identifiera intressekonflikter mellan en kund och en annan kund.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32017R2359"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2359"
+            >▼B</a>
+      </p>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">För bedömningen enligt punkt 1 ska försäkringsförmedlare och försäkringsföretag beakta följande situationer såsom minimikriterier:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Försäkringsförmedlaren eller försäkringsföretaget, en relevant person eller någon annan person med direkt eller indirekt koppling till dem genom kontroll, skulle sannolikt göra en ekonomisk vinst eller undvika en ekonomisk förlust på eventuell bekostnad av kundens intressen.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Försäkringsförmedlaren eller försäkringsföretaget, en relevant person eller någon annan person med direkt eller indirekt koppling till dem genom kontroll, har ekonomiska incitament eller andra incitament till förmån för en annan kund eller kundgrupp, på bekostnad av kundens intressen.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>c) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Försäkringsförmedlaren eller försäkringsföretaget, en relevant person eller en person med direkt eller indirekt koppling till en försäkringsförmedlare eller ett försäkringsföretag genom kontroll, deltar på ett väsentligt sätt i förvaltningen eller utvecklingen av försäkringsbaserade investeringsprodukter, i synnerhet när en sådan person har inflytande över prissättningen av produkterna eller deras distributionskostnader.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <p class="title-article-norm" id="id-93d0c230-535d-48d0-95f1-848329bbf2e5">Artikel 4</p>
+      <p class="stitle-article-norm">Riktlinjer för intressekonflikter</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">Vid tillämpningen av artikel 27 i direktiv (EU) 2016/97 ska försäkringsförmedlare och försäkringsföretag förväntas inrätta, genomföra och upprätthålla effektiva riktlinjer för intressekonflikter som fastställts skriftligt och som är lämpliga med tanke på företagens storlek och organisation och med tanke på affärsverksamhetens art, omfattning och komplexitet.</div>
+      </div>
+      <p class="norm">Om försäkringsförmedlaren eller försäkringsföretaget ingår i en företagsgrupp ska riktlinjerna också beakta de omständigheter som försäkringsförmedlaren eller försäkringsföretaget har eller borde ha kunskap om och som kan ge upphov till en intressekonflikt till följd av strukturen och affärsverksamheten i andra företag i gruppen.</p>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">De riktlinjer för intressekonflikter som fastställts enligt punkt 1 ska innehålla följande:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">För den särskilda försäkringsdistributionsverksamhet som utförs, angivelse av vilka omständigheter som utgör eller kan ge upphov till en intressekonflikt som medför en risk för att en eller flera kunders intressen skadas.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Förfaranden som ska följas och åtgärder som ska vidtas för att hantera sådana konflikter och hindra dem från att skada kundens intressen.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <p class="title-article-norm" id="id-e6f2499e-245a-45e5-8277-8ce525a79ee9">Artikel 5</p>
+      <p class="stitle-article-norm">Förfaranden och åtgärder i riktlinjerna för intressekonflikter</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">De förfaranden och åtgärder som avses i artikel 4.2 b ska vara avvägda med hänsyn till företagsstorleken och den verksamhet som bedrivs av försäkringsförmedlaren eller försäkringsföretaget och den grupp som de eventuellt tillhör, och med hänsyn till risken för negativ inverkan på kundernas intressen.</div>
+      </div>
+      <p class="norm inline-element">De förfaranden som ska följas och åtgärder som ska vidtas i enlighet med artikel 4.2 b ska, om tillämpligt, inbegripa följande:</p>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>a) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Ändamålsenliga förfaranden för att förebygga eller kontrollera utbyte av information mellan relevanta personer som deltar i verksamhet som innebär en risk för intressekonflikt där utbytet av den berörda informationen skulle kunna skada en eller flera kunders intressen.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>b) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Separat tillsyn av relevanta personer vars viktigaste funktioner omfattar att utföra verksamhet för kunders räkning eller att tillhandahålla tjänster till kunder vars intressen kan vara motstridiga eller till kunder som på annat sätt företräder olika intressen som kan vara motstridiga, däribland i förhållande till försäkringsförmedlarens eller försäkringsföretagets egna intressen.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>c) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Avlägsnande av alla direkta samband mellan betalningar, inklusive ersättning, till relevanta personer som deltar i en viss verksamhet, och betalningar, inklusive ersättning, till olika relevanta personer som i huvudsak deltar i annan verksamhet, om det kan uppstå en intressekonflikt i samband med dessa verksamheter.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>d) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Åtgärder för att förhindra eller begränsa att personer utövar opassande inflytande över det sätt på vilket försäkringsdistributionsverksamhet utförs av försäkringsförmedlaren eller försäkringsföretaget eller dess ledning eller anställda eller andra personer med direkt eller indirekt koppling till dem genom kontroll.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>e) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Åtgärder för att förhindra eller kontrollera en relevant persons samtidiga eller senare deltagande i separat försäkringsdistributionsverksamhet om sådant deltagande kan påverka hanteringen av intressekonflikter negativt.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>f) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">En policy för gåvor och förmåner som tydligt fastställer under vilka villkor gåvor och förmåner får tas emot eller ges, och vilka åtgärder som ska vidtas när gåvor och förmåner tas emot eller ges.</p>
+         </div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">I fall där försäkringsförmedlare och försäkringsföretag kan visa att de åtgärder och förfaranden som avses i punkt 1 inte är lämpliga för att säkerställa att försäkringsdistributionsverksamheten sker i enlighet med kundens bästa intresse och inte brister i objektivitet på grund av att försäkringsförmedlaren, försäkringsföretaget eller en annan kund har motstridiga intressen, ska försäkringsförmedlare och försäkringsföretag vidta lämpliga alternativa åtgärder och förfaranden för detta ändamål.</div>
+      </div>
+      <p class="title-article-norm" id="id-f9ae78ed-7074-464a-8a05-0a198e1d828a">Artikel 6</p>
+      <p class="stitle-article-norm">Information</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">Försäkringsförmedlare och försäkringsföretag ska undvika att i allt för hög grad förlita sig på information, för att säkerställa att användning av information till kunder i enlighet med artikel 28.2 i direktiv (EU) 2016/97 är en sista utväg som bara tillgrips om de effektiva organisatoriska och administrativa system som fastställts av försäkringsförmedlaren eller försäkringsföretaget för att förebygga eller hantera intressekonflikter i enlighet med artikel 27 i direktiv (EU) 2016/97 inte är tillräckliga för att med rimlig säkerhet säkerställa att riskerna för skador på kundens intressen förhindras.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">Information om intressekonflikter från försäkringsförmedlare och försäkringsföretag ska innehålla samtliga följande delar:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">En specifik beskrivning av intressekonflikten i fråga.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">En beskrivning av intressekonfliktens generella typ och dess källor.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>c) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">En beskrivning av de risker som drabbar konsumenten till följd av intressekonflikten och de åtgärder som vidtagits för att minska dessa risker.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>d) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">En tydlig angivelse om att de organisatoriska och administrativa system som fastställts av försäkringsförmedlaren eller försäkringsföretaget för att förebygga eller hantera intressekonflikten inte är tillräckliga för att med rimlig säkerhet säkerställa att det inte finns risk för att kundernas intressen skadas.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <p class="title-article-norm" id="id-52f8fc8b-9c61-40d3-a067-69e77937131c">Artikel 7</p>
+      <p class="stitle-article-norm">Översyn och dokumentering</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">Vid tillämpningen av artikel 27 i direktiv (EU) 2016/97 ska försäkringsförmedlare och försäkringsföretag bedöma och regelbundet se över – minst en gång om året – de riktlinjer för intressekonflikter som inrättats i enlighet med artikel 4, och vidta alla lämpliga åtgärder för att avhjälpa eventuella brister.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">Försäkringsförmedlare och försäkringsföretag ska dokumentera och regelbundet uppdatera uppgifter om de intressekonfliktsituationer med risk för att en kunds intressen skadas som har uppstått eller, när det gäller en pågående tjänst eller verksamhet, som kan komma att uppstå.</div>
+      </div>
+      <p class="norm">Försäkringsförmedlarens eller försäkringsföretagets ledning ska minst en gång per år få regelbundna skriftliga rapporter om de situationer som avses i första stycket.</p>
+      <p class="title-article-norm" id="id-068367be-baf9-4d2f-835b-4be6b2258a71">Artikel 8</p>
+      <p class="stitle-article-norm">Bedömning av incitament och incitamentprogram</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">Incitament eller incitamentprogram ska anses ha en negativ inverkan på kvaliteten på den aktuella tjänsten till kunden om det är av en sådan art och omfattning att det uppmuntrar till att försäkringsdistributionsverksamhet bedrivs på ett sätt som inte stämmer överens med skyldigheten att agera hederligt, rättvist och professionellt i enlighet med kundens bästa intresse.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">För att bedöma om ett incitament eller ett incitamentprogram har en negativ inverkan på kvaliteten på den aktuella tjänsten till kunden ska försäkringsförmedlare och försäkringsföretag göra en helhetsbedömning med beaktande av samtliga relevanta faktorer som kan öka eller minska risken för negativ inverkan på kvaliteten på den aktuella tjänsten till kunden, och eventuella organisatoriska åtgärder som vidtagits av den försäkringsförmedlare eller det försäkringsföretag som bedriver distributionsverksamheten, för att förebygga risken för negativ inverkan.</div>
+      </div>
+      <p class="norm inline-element">De ska särskilt beakta följande kriterier:</p>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>a) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Huruvida incitamentet eller incitamentprogrammet skulle kunna uppmuntra försäkringsförmedlaren eller försäkringsföretaget till att erbjuda eller rekommendera en viss försäkringsprodukt eller en viss tjänst till kunden trots att försäkringsförmedlaren eller försäkringsföretaget skulle kunna erbjuda en annan försäkringsprodukt eller försäkringstjänst som bättre motsvarar kundens behov.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>b) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Huruvida incitamentet eller incitamentprogrammet uteslutande eller till övervägande del grundar sig på kvantitativa affärsmässiga kriterier eller om det tar hänsyn till lämpliga kvalitativa kriterier, som beaktar efterlevnad av tillämplig lagstiftning, kvaliteten på de tjänster som tillhandahålls och kundnöjdheten.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>c) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Värdet på det incitament som betalas ut eller tas emot i förhållande till värdet på produkten och de tjänster som tillhandahålls.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>d) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Huruvida incitamentet helt eller huvudsakligen betalas ut när försäkringsavtalet ingås eller om det sträcker sig över hela avtalstiden.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>e) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Förekomst av en lämplig mekanism för att kräva tillbaka incitamentet om produkten löper ut eller återköps på ett tidigt stadium eller i det fall kundens intressen har skadats.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>f) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Förekomst av någon form av rörligt eller resultatbaserat tröskelvärde eller någon annan typ av värdestegringsmekanism som aktiveras genom att en viss försäljningsvolym eller ett visst försäljningsvärde uppnås.</p>
+         </div>
+      </div>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1" id="id-4b05038c-ee33-4a37-b0e2-0257bda084da">KAPITEL III</p>
+      <p class="title-division-2" id="id-14b57731-0e04-4820-b951-d6709daf3392">
+         <span class="boldface">BEDÖMNING AV LÄMPLIGHET OCH ÄNDAMÅLSENLIGHET</span>
+      </p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1" id="id-2e0637a4-21ba-4702-9a4e-cd783f503773">
+         <span class="italics">AVSNITT 1</span>
+      </p>
+      <p class="title-division-2" id="id-e5aebb21-38fb-4ccb-bce2-7254b6b4b52d">
+         <span class="boldface">
+            <span class="italics">Bedömning av lämplighet</span>
+         </span>
+      </p>
+      <p class="title-article-norm" id="id-1e0b0abe-6365-4716-a02c-f182ac8143a3">Artikel 9</p>
+      <p class="stitle-article-norm">Information som ska inhämtas vid bedömning av lämplighet</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">För att tillhandahålla rådgivning om en försäkringsbaserad investeringsprodukt i enlighet med artikel 30.1 i direktiv (EU) 2016/97 ska försäkringsförmedlare eller försäkringsföretag fastställa hur mycket information som ska hämtas in från kunden eller den presumtiva kunden mot bakgrund av alla aspekter av den rådgivning som ska tillhandahållas kunden eller den presumtiva kunden.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">Utan att det påverkar artikel 20.1 i direktiv (EU) 2016/97 som säger att varje avtal som föreslås ska vara förenligt med kundens krav och behov, ska försäkringsförmedlare eller försäkringsföretag inhämta de upplysningar från kunderna eller de presumtiva kunderna som är nödvändiga för att de ska förstå avgörande fakta om kunden eller den presumtiva kunden och ha en rimlig grund för att fastställa att deras personliga rekommendation till kunden eller den presumtiva kunden uppfyller samtliga följande kriterier:</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32021R1257"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021R1257: REPLACED"
+                  >▼M2</a>
+            </p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Den är förenlig med kundens eller den presumtiva kundens investeringsmål, inbegripet den personens risktolerans och eventuella hållbarhetspreferenser.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32017R2359"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017R2359"
+                  >▼B</a>
+            </p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Den är förenlig med kundens eller den presumtiva kundens finansiella ställning, inbegripet den personens förmåga att bära förluster.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>c) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Den är sådan att det relevanta investeringsområdet för den specifika typen av produkt eller tjänst är ett område där kunden eller den presumtiva kunden har nödvändig kunskap och erfarenhet.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">3.  </span>
+         <div class="norm inline-element">Informationen om kundens eller den presumtiva kundens finansiella ställning, inbegripet den personens förmåga att bära förluster, ska där så är tillämpligt innefatta information om källan till och storleken på kundens eller den presumtiva kundens normala inkomst, tillgångar, däribland likvida medel, investeringar och fast egendom, samt normala finansiella åtaganden. Information ska hämtas in i en omfattning som är lämplig med tanke på den specifika produkt eller tjänst som övervägs.</div>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32021R1257"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32021R1257: REPLACED"
+            >▼M2</a>
+      </p>
+      <div class="norm">
+         <span class="no-parag">4.  </span>
+         <div class="norm inline-element">Informationen om kundens eller den presumtiva kundens investeringsmål ska i förekommande fall innefatta uppgifter om hur länge kunden eller den presumtiva kunden önskar inneha investeringen, kundens riskvilja och riskprofil samt syftena med investeringen och, dessutom, eventuella hållbarhetspreferenser. Information ska hämtas in i en omfattning som är lämplig med tanke på den specifika produkt eller tjänst som övervägs.</div>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32017R2359"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2359"
+            >▼B</a>
+      </p>
+      <div class="norm">
+         <span class="no-parag">5.  </span>
+         <div class="norm inline-element">Om försäkringsförmedlaren eller försäkringsföretaget inte erhåller nödvändiga upplysningar enligt artikel 30.1 i direktiv (EU) 2016/97 får försäkringsförmedlaren eller försäkringsföretaget inte ge råd om försäkringsbaserade investeringsprodukter till kunden eller den presumtiva kunden.</div>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32021R1257"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32021R1257: REPLACED"
+            >▼M2</a>
+      </p>
+      <div class="norm">
+         <span class="no-parag">6.  </span>
+         <div class="norm inline-element">Vid rådgivning om en försäkringsbaserad investeringsprodukt i enlighet med artikel 30.1 i direktiv (EU) 2016/97 får försäkringsförmedlaren eller försäkringsföretaget inte ge någon rekommendation om ingen av produkterna är lämplig för kunden eller den presumtiva kunden.</div>
+      </div>
+      <p class="norm">Försäkringsförmedlare eller försäkringsföretag ska inte rekommendera försäkringsbaserade investeringsprodukter såsom motsvarande en kunds eller presumtiv kunds hållbarhetspreferenser om de försäkringsbaserade investeringsprodukterna inte motsvarar dessa preferenser. Försäkringsförmedlare eller försäkringsföretag ska för sina kunder eller presumtiva kunder klargöra skälen till varför de inte gör detta och dokumentera dessa skäl.</p>
+      <p class="norm">Om ingen försäkringsbaserad investeringsprodukt motsvarar kundens eller den presumtiva kundens hållbarhetspreferenser och kunden beslutar att ändra sina hållbarhetspreferenser ska försäkringsförmedlaren eller försäkringsföretaget spara dokumentation om kundens beslut, inbegripet skälen till detta beslut.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32017R2359"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2359"
+            >▼B</a>
+      </p>
+      <div class="norm">
+         <span class="no-parag">7.  </span>
+         <div class="norm inline-element">När försäkringsförmedlare och försäkringsföretag tillhandahåller rådgivning som innebär byte av underliggande investeringstillgångar ska de också inhämta nödvändiga upplysningar om kundens befintliga underliggande investeringstillgångar och de rekommenderade nya investeringstillgångarna, och analysera de förväntade kostnaderna och fördelarna med bytet, så att de på rimliga grunder kan visa att fördelarna med ett byte förväntas vara större än kostnaderna.</div>
+      </div>
+      <p class="title-article-norm" id="id-19c4f1e7-460f-4568-8f32-bd4d4d807514">Artikel 10</p>
+      <p class="stitle-article-norm">Uppgifternas tillförlitlighet</p>
+      <p class="norm">Försäkringsförmedlare och försäkringsföretag ska vidta rimliga åtgärder för att säkerställa att de uppgifter som hämtas in om kunder och presumtiva kunder för lämplighetsbedömningen är tillförlitliga. Åtgärderna ska omfatta, men inte vara begränsade till, följande:</p>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>a) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Säkerställa att kunderna är medvetna om vikten av att ge korrekt och aktuell information.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>b) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Säkerställa att alla verktyg som används i lämplighetsbedömningen, såsom verktyg för riskbedömningsprofilering eller bedömning av kundens kunskaper och erfarenhet, är ändamålsenliga och korrekt utformade för att tillämpas på kunderna, och att alla begränsningar har identifierats och aktivt hanteras inom ramen för bedömningsprocessen.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>c) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Säkerställa att de frågor som används i processen är sådana att kunden kan förstå dem, att de fångar in en korrekt bild av kundens mål och behov, och att de ger de upplysningar som är nödvändiga för att göra lämplighetsbedömningen.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>d) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Vidta åtgärder, efter behov, för att säkerställa att upplysningarna från kunderna är konsekventa, till exempel genom att undersöka om det finns uppenbara felaktigheter i de upplysningar som kunderna ger.</p>
+         </div>
+      </div>
+      <p class="title-article-norm" id="id-19d03d67-b3f5-4356-b426-69c3722e605e">Artikel 11</p>
+      <p class="stitle-article-norm">Information till kunderna om lämplighetsbedömningen</p>
+      <p class="norm">Försäkringsförmedlare och försäkringsföretag får inte göra så att det uppstår tveksamhet eller risk för missförstånd gällande deras ansvar i processen när de bedömer lämpligheten av försäkringsbaserade investeringsprodukter i enlighet med artikel 30.1 i direktiv (EU) 2016/97. Försäkringsförmedlare och försäkringsföretag ska på ett tydligt och enkelt sätt informera kunderna om att skälet till att göra lämplighetsbedömningen är att kunna agera i kundens bästa intresse.</p>
+      <p class="title-article-norm" id="id-55df3b69-6ff8-4100-8cd1-ecf32d3f5ab3">Artikel 12</p>
+      <p class="stitle-article-norm">Automatiserad rådgivning</p>
+      <p class="norm">Försäkringsförmedlarens eller försäkringsföretagets ansvar att göra en lämplighetsbedömning i enlighet med artikel 30.1 i direktiv (EU) 2016/97 ska inte minskas på grund av att rådgivningen om försäkringsbaserade investeringsprodukter helt eller delvis sker genom ett automatiskt eller halvautomatiskt system.</p>
+      <p class="title-article-norm" id="id-77f7a396-41d3-40e7-8b7b-0f88a50a488f">Artikel 13</p>
+      <p class="stitle-article-norm">Gruppförsäkring</p>
+      <p class="norm">När det gäller gruppförsäkringar ska försäkringsförmedlaren eller försäkringsföretaget inrätta och följa riktlinjer om vem som ska vara föremål för lämplighetsbedömningen om ett försäkringsavtal ingås på vägnar av medlemmarna i en grupp och varje enskild medlem inte kan fatta individuella beslut om att ansluta sig. Riktlinjerna ska också innehålla bestämmelser om hur bedömningen ska göras i praktiken, inklusive från vem man ska samla in upplysningar om kunskaper och erfarenhet, finansiell ställning och investeringsmål.</p>
+      <p class="norm">Försäkringsförmedlaren eller försäkringsföretaget ska dokumentera de riktlinjer som har fastställts i enlighet med första stycket.</p>
+      <p class="title-article-norm" id="id-eccf30ef-7ce0-4395-aef5-52b48421c7ed">Artikel 14</p>
+      <p class="stitle-article-norm">Lämplighetsutlåtande</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">När försäkringsförmedlare och försäkringsföretag tillhandahåller rådgivning om lämpligheten av en försäkringsbaserad investeringsprodukt i enlighet med artikel 30.1 i direktiv (EU) 2016/97 ska de lämna en rapport till kunden (lämplighetsutlåtande) som omfattar följande:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">En sammanfattning av rådgivningen.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Förklaring av hur rekommendationen är lämplig för kunden, och särskilt hur den är förenlig med</p>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32021R1257"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32021R1257: REPLACED"
+                        >▼M2</a>
+                  </p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>i) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">kundens investeringsmål, inbegripet den personens risktolerans, och huruvida kundens investeringsmål uppnås genom att hänsyn tas till kundens hållbarhetspreferenser.</p>
+                     </div>
+                  </div>
+                  <p class="modref">
+                     <a href="http://publications.europa.eu/resource/celex/32017R2359"
+                        onclick="window.open(this.href,'_blank'); return false;"
+                        title="32017R2359"
+                        >▼B</a>
+                  </p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>ii) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">kundens finansiella ställning, inbegripet den personens förmåga att bära förluster.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>iii) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">kundens kunskap och erfarenhet.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">Försäkringsförmedlare och försäkringsföretag ska ta med information i lämplighetsutlåtandet om huruvida de rekommenderade försäkringsbaserade investeringsprodukterna kan förväntas kräva att kunden söker regelbunden översyn av arrangemangen, och även uppmärksamma kunden på detta.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">3.  </span>
+         <div class="norm inline-element">Om en försäkringsförmedlare eller ett försäkringsföretag har informerat kunden om att de kommer att göra regelbundna bedömningar av lämpligheten kan det räcka att de utlåtanden som följer efter det att den första tjänsten är etablerad endast omfattar förändringar i tjänsterna eller i de underliggande investeringstillgångarna, och/eller kundens omständigheter, utan att alla detaljer i det första utlåtandet upprepas.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">4.  </span>
+         <div class="norm inline-element">Försäkringsförmedlare och försäkringsföretag som gör regelbundna bedömningar av lämpligheten ska i enlighet med kundens bästa intresse se över lämpligheten av de rekommenderade försäkringsbaserade investeringsprodukterna minst en gång per år. Bedömningen ska göras oftare om det behövs med tanke på kundens egenskaper, till exempel när det gäller risktolerans, och den rekommenderade försäkringsbaserade investeringsproduktens art.</div>
+      </div>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32021R1257"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32021R1257: INSERTED"
+            >▼M2</a>
+      </p>
+      <p class="norm">Kraven att i förekommande fall tillgodose kunders eller presumtiva kunders hållbarhetspreferenser ska inte ändra villkoren i första stycket.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32017R2359"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2359"
+            >▼B</a>
+      </p>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1" id="id-bc24962d-938d-4703-894f-07cfb7a02426">
+         <span class="italics">AVSNITT 2</span>
+      </p>
+      <p class="title-division-2" id="id-f558481f-ea3f-48a2-b3a5-cb05f9aaf4f8">
+         <span class="boldface">
+            <span class="italics">Bedömning av ändamålsenlighet</span>
+         </span>
+      </p>
+      <p class="title-article-norm" id="id-6eaf00fd-a702-443d-b50f-2aba75e0bd97">Artikel 15</p>
+      <p class="stitle-article-norm">Förfarande för bedömningen</p>
+      <p class="norm">Utan att det påverkar artikel 20.1 i direktiv (EU) 2016/97 som säger att varje avtal som föreslås ska vara förenligt med kundens krav och behov, ska försäkringsförmedlare eller försäkringsföretag avgöra om kunden har nödvändig kunskap och erfarenhet för att förstå riskerna i samband med den föreslagna eller efterfrågade tjänsten eller produkten när de bedömer om en försäkringstjänst eller försäkringsprodukt som distribueras i enlighet med artikel 30.2 i direktiv (EU) 2016/97 är passande för kunden.</p>
+      <p class="title-article-norm" id="id-c92c97f3-29e9-4c96-a697-25de407df428">Artikel 16</p>
+      <p class="stitle-article-norm">Icke-komplexa försäkringsbaserade investeringsprodukter</p>
+      <p class="norm">En försäkringsbaserad investeringsprodukt ska betraktas som icke-komplex vid tillämpningen av artikel 30.3 a ii i direktiv (EU) 2016/97 om den uppfyller samtliga följande kriterier:</p>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>a) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Den innefattar ett avtalsenligt garanterat minsta värde på förfallodagen som minst motsvarar det belopp som betalats av kunden med avdrag för berättigade kostnader.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>b) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Den innefattar inte någon klausul, något villkor eller någon utlösande händelse som gör det möjligt för försäkringsföretaget att väsentligen ändra den försäkringsbaserade investeringsproduktens art, risk, eller utbetalningsmönster.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>c) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Den ger möjlighet till återköp eller annan realisering av den försäkringsbaserade investeringsprodukten till ett värde som kunden har uppgift om.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>d) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Den innefattar inte några explicita eller implicita avgifter som, trots att det tekniskt sett finns möjligheter till återköp eller annan realisering av den försäkringsbaserade investeringsprodukten, kan leda till orimlig nackdel för kunden på grund av att avgifterna inte står i proportion till försäkringsföretagets kostnad.</p>
+         </div>
+      </div>
+      <div class="grid-container grid-list">
+         <div class="list grid-list-column-1">
+            <span>e) </span>
+         </div>
+         <div class="grid-list-column-2">
+            <p class="norm">Den innefattar inte på något annat sätt en struktur som gör det svårt för kunden att förstå vilka risker som är förbundna med produkten.</p>
+         </div>
+      </div>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1" id="id-b69f7e14-d1cc-4632-8b5d-f7a382878897">
+         <span class="italics">AVSNITT 3</span>
+      </p>
+      <p class="title-division-2" id="id-4c733fe2-5bf9-4726-ba2c-97af1b5f10cd">
+         <span class="boldface">
+            <span class="italics">Bestämmelser som är gemensamma för bedömning av lämplighet och bedömning av ändamålsenlighet</span>
+         </span>
+      </p>
+      <p class="title-article-norm" id="id-a8aaf29a-e12d-49b3-af7a-121d74b9e3ae">Artikel 17</p>
+      <p class="stitle-article-norm">Upplysningar som ska inhämtas från kunden</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">Vid tillämpningen av artikel 30.1 och 30.2 i direktiv (EU) 2016/97 ska de nödvändiga upplysningar som försäkringsförmedlare och försäkringsföretag ska inhämta om kundens eller den presumtiva kundens kunskaper och erfarenheter på det relevanta investeringsområdet där så är tillämpligt innefatta följande, i den omfattning som är lämplig med tanke på kundens art och med tanke på vilken art och typ av produkt eller tjänst som erbjuds eller efterfrågas, inklusive dess komplexitet och risker:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Typ av tjänster, transaktioner, försäkringsbaserade investeringsprodukter eller finansiella instrument som kunden eller den presumtiva kunden är bekant med.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Art, antal, värde och frekvens för kundens eller den presumtiva kundens transaktioner med försäkringsbaserade investeringsprodukter eller finansiella instrument, och den tidsperiod under vilken transaktionerna har genomförts.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>c) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Kundens eller den presumtiva kundens utbildningsnivå och yrke eller relevant tidigare yrke.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">Försäkringsförmedlaren eller försäkringsföretaget får inte motverka att en kund eller en presumtiv kund tillhandahåller de nödvändiga upplysningarna enligt artikel 30.1 och 30.2 i direktiv (EU) 2016/97.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">3.  </span>
+         <div class="norm inline-element">Om de nödvändiga upplysningarna enligt artikel 30.1 eller 30.2 i direktiv (EU) 2016/97 redan har inhämtats i enlighet med artikel 20 i direktiv (EU) 2016/97 får försäkringsförmedlare och försäkringsföretag inte begära dem på nytt från kunden.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">4.  </span>
+         <div class="norm inline-element">Försäkringsförmedlaren eller försäkringsföretaget ska kunna lita på den information som tillhandahålls av dess kunder eller presumtiva kunder, såvida förmedlaren eller företaget inte känner till eller borde känna till att informationen är uppenbart föråldrad, felaktig eller ofullständig.</div>
+      </div>
+      <p class="title-article-norm" id="id-a0330966-9bf1-4f8e-b6fc-9d27be7ea74c">Artikel 18</p>
+      <p class="stitle-article-norm">Regelbundna rapporter</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">Utan att det påverkar tillämpningen av artikel 185 i Europaparlamentets och rådets direktiv 2009/138/EG (<a href="#E0003" id="src.E0003" >
+               <span class="superscript">3</span>
+            </a>), ska försäkringsförmedlaren eller försäkringsföretaget lämna en regelbunden rapport till kunden, på ett varaktigt medium, om de tjänster och de transaktioner som utförts för kundens räkning.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">Regelbundna rapporter enligt punkt 1 ska ge en rättvisande och välavvägd bild av de tjänster och transaktioner som utförts för kundens räkning under rapporteringsperioden och, i förekommande fall, redovisa de totala kostnaderna i samband med dessa tjänster och transaktioner, och värdet för varje underliggande investeringstillgång.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">3.  </span>
+         <div class="norm inline-element">De regelbundna rapporterna enligt punkt 1 ska lämnas minst en gång per år.</div>
+      </div>
+      <p class="title-article-norm" id="id-e66fcecd-f685-4e94-b32b-70268cc10f8a">Artikel 19</p>
+      <p class="stitle-article-norm">Bevarande av uppgifter</p>
+      <div class="norm">
+         <span class="no-parag">1.  </span>
+         <div class="norm inline-element">Utan att det påverkar tillämpningen av Europaparlamentets och rådets förordning (EU) 2016/679 (<a href="#E0004" id="src.E0004" >
+               <span class="superscript">4</span>
+            </a>) ska försäkringsförmedlare och försäkringsföretag dokumentera uppgifter från bedömningar av lämplighet eller ändamålsenlighet som görs i enlighet med artikel 30.1 och 30.2 i direktiv (EU) 2016/97. Dokumentationen ska omfatta de upplysningar som har inhämtats från kunden och eventuella handlingar som överenskommits med kunden, inklusive handlingar som anger parternas rättigheter och övriga villkor enligt vilka försäkringsförmedlaren eller försäkringsföretaget tillhandahåller sina tjänster till kunden. Uppgifterna ska bevaras under minst hela den tid som förhållandet mellan försäkringsförmedlaren eller försäkringsföretaget och kunden varar.</div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">2.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">Vid en lämplighetsbedömning som görs i enlighet med artikel 30.1 i direktiv (EU) 2016/97 ska de dokumenterade uppgifterna även omfatta följande:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Resultatet av lämplighetsbedömningen.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Rekommendationen till kunden och det utlåtande som har lämnats i enlighet med artikel 14.1 i denna förordning.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>c) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Alla ändringar som försäkringsförmedlaren eller försäkringsföretaget gör med avseende på lämplighetsbedömningen, särskilt ändringar av kundens risktolerans.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>d) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Alla ändringar av de underliggande investeringstillgångarna.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">3.  </span>
+         <div class="norm inline-element">
+            <p class="norm inline-element">Vid en bedömning av ändamålsenlighet som görs i enlighet med artikel 30.2 i direktiv (EU) 2016/97 ska de dokumenterade uppgifterna även omfatta följande:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>a) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Resultatet av bedömningen av ändamålsenlighet.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>b) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Alla varningar till kunden om man i bedömningen kom fram till att den försäkringsbaserade investeringsprodukten potentiellt inte skulle vara passande för kunden, om kunden begärde att man skulle gå vidare med att ingå avtalet trots varningen och, i förekommande fall, om försäkringsförmedlaren eller försäkringsföretaget accepterade kundens begäran om att gå vidare.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>c) </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Alla varningar till kunden om denne inte tillhandahöll upplysningar som var tillräckliga för att försäkringsförmedlaren eller försäkringsföretaget skulle kunna göra en bedömning av ändamålsenligheten, om kunden begärde att man skulle gå vidare med att ingå avtalet trots varningen och, i förekommande fall, om försäkringsförmedlaren eller försäkringsföretaget accepterade kundens begäran om att gå vidare.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="norm">
+         <span class="no-parag">4.  </span>
+         <div class="norm inline-element">Uppgifterna ska bevaras på ett medium som gör det möjligt att lagra information på ett sätt så att den behöriga myndigheten kan ha tillgång till den i framtiden. Den behöriga myndigheten ska lätt kunna komma åt uppgifterna och kunna rekonstruera alla delar på ett klart och tydlig sätt, och lätt kunna identifiera alla korrigeringar och övriga ändringar, samt uppgifternas innehåll före sådana modifieringar.</div>
+      </div>
+      <p>
+         <br/>
+         <br/>
+      </p>
+      <p class="title-division-1" id="id-4d12b2fa-6d3e-4b58-9128-bc484528e955">KAPITEL IV</p>
+      <p class="title-division-2" id="id-297f89d1-f9bf-4e35-a8bc-2acde09a161d">
+         <span class="boldface">SLUTBESTÄMMELSER</span>
+      </p>
+      <p class="title-article-norm" id="id-27b2fa94-a2d9-403d-9f8b-3cdc3edf1d69">Artikel 20</p>
+      <p class="stitle-article-norm">Ikraftträdande och tillämpning</p>
+      <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32018R0541"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32018R0541: REPLACED"
+            >▼M1</a>
+      </p>
+      <p class="norm">Den ska vara tillämplig från och med den dag då medlemsstaterna ska tillämpa de bestämmelser som avses i artikel 42.1 första stycket i direktiv (EU) 2016/97.</p>
+      <p class="modref">
+         <a href="http://publications.europa.eu/resource/celex/32017R2359"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2359"
+            >▼B</a>
+      </p>
+      <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+      <p>
+         <br/>
+      </p>
+      <hr class="separator-short"/>
+      <p class="footnote">(<a href="#src.E0001" id="E0001" >
+            <span class="superscript">1</span>
+         </a>) Europaparlamentets och rådets förordning (EU) 2020/852 av den 18 juni 2020 om transparens i transaktioner för värdepappersfinansiering och om återanvändning samt om ändring av förordning (EU) 2019/2088 (EUT L 198, 22.6.2020, s. 13).</p>
+      <p class="footnote">(<a href="#src.E0002" id="E0002" >
+            <span class="superscript">2</span>
+         </a>) Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019 om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn (EUT L 317, 9.12.2019, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0003" id="E0003" >
+            <span class="superscript">3</span>
+         </a>) Europaparlamentets och rådets direktiv 2009/138/EG av den 25 november 2009 om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II) (EUT L 335, 17.12.2009, s. 1).</p>
+      <p class="footnote">(<a href="#src.E0004" id="E0004" >
+            <span class="superscript">4</span>
+         </a>) Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning) (EUT L 119, 4.5.2016, s. 1).</p>
+   </body>
+</html>

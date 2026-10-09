@@ -1,10 +1,11 @@
 import { WebStandardStreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/webStandardStreamableHttp.js';
 import { createFffsServer } from './mcp.js';
 import { GitHubPagesLoader } from './loader.js';
+import { createEuLoader, type EuLoader } from './eurlex.js';
 import type { LibraryLoader } from './types.js';
 
 export interface Env { DATA_BASE_URL: string; ALLOWED_ORIGINS?: string }
-export function createWorker(loader: LibraryLoader, allowedOrigins: string[] = []) {
+export function createWorker(loader: LibraryLoader, allowedOrigins: string[] = [], euLoader?: EuLoader) {
   return {
     async fetch(request: Request): Promise<Response> {
       const url = new URL(request.url);
@@ -26,7 +27,7 @@ export function createWorker(loader: LibraryLoader, allowedOrigins: string[] = [
       }
       // Stateless JSON responses: no standalone server event stream or session to delete.
       if (request.method !== 'POST') return new Response('Method not allowed', { status: 405, headers: new Headers([...cors, ['allow', 'POST, OPTIONS']]) });
-      const server = createFffsServer(loader);
+      const server = createFffsServer(loader, euLoader);
       const transport = new WebStandardStreamableHTTPServerTransport({ sessionIdGenerator: undefined, enableJsonResponse: true, maxRequestBodySize: 65_536 });
       try {
         await server.connect(transport);
@@ -49,7 +50,7 @@ export default {
       if (!configured || configured.key !== key) {
         const loader = new GitHubPagesLoader(env.DATA_BASE_URL);
         const origins = (env.ALLOWED_ORIGINS ?? '').split(',').map(value => value.trim()).filter(Boolean);
-        configured = { key, worker: createWorker(loader, [loader.base.origin, ...origins]) };
+        configured = { key, worker: createWorker(loader, [loader.base.origin, ...origins], createEuLoader(loader.base.href)) };
       }
       return await configured.worker.fetch(request);
     } catch { return Response.json({ ok: false, error: 'MCP-konfigurationen är inte giltig.' }, { status: 503 }); }

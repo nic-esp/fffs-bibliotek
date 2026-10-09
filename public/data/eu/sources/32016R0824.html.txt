@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.16.1 # generated_on:20241212-0927 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2016137SV.01001001.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">26.5.2016   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">SV</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 137/10</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-10-1">
+            KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2016/824</p>
+            <p class="oj-doc-ti">av den 25 maj 2016
+         </p>
+            <p class="oj-doc-ti">om fastställande av tekniska standarder för genomförande med avseende på innehållet och formatet vad gäller beskrivningen av multilaterala handelsplattformars och organiserade handelsplattformars funktionssätt och anmälan till Europeiska värdepappers- och marknadsmyndigheten enligt Europaparlamentets och rådets direktiv 2014/65/EU om marknader för finansiella instrument</p>
+            <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DENNA FÖRORDNING</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">med beaktande av Europaparlamentets och rådets direktiv 2014/65/EU av den 15 maj 2014 om marknader för finansiella instrument och om ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU <a id="ntc1-L_2016137SV.01001001-E0001" href="#ntr1-L_2016137SV.01001001-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artikel 18.11 tredje stycket, och</p>
+            </div>
+            <p class="oj-normal">av följande skäl:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Det är viktigt att erkänna behöriga myndigheters behov av att erhålla fullständig information om syftet med, strukturen för och organisationen av de multilaterala handelsplattformar (MTF-plattformar) och organiserade handelsplattformar (OTF-plattformar) som ska stå under deras tillsyn för att säkra de finansiella marknadernas effektiva och korrekta funktionssätt.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Informationen bör bygga på den information som ett värdepappersföretag eller en marknadsoperatör skulle behöva lämna som en del av de allmänna auktoriseringskraven enligt direktiv 2014/65/EU. Den bör inriktas på handelssystemets särskilda funktionssätt för att göra det möjligt för behöriga myndigheter att bedöma huruvida systemet uppfyller definitionen av en MTF-plattform eller en OTF-plattform, och att bedöma dess överensstämmelse med de särskilda handelsplatsinriktade kraven i direktiv 2014/65/EU och Europaparlamentets och rådets förordning (EU) nr 600/2014 <a id="ntc2-L_2016137SV.01001001-E0002" href="#ntr2-L_2016137SV.01001001-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>. Kravet på en detaljerad beskrivning bör inte påverka ett värdepappersföretags eller en marknadsoperatörs skyldighet att tillhandahålla annan information till sin behöriga myndighet enligt direktiv 2014/65/EU och förordning (EU) nr 600/2014, eller behöriga myndigheters rätt att begära annan information som en del av deras löpande tillsyn av handelsplatser.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Den information som tas emot av behöriga myndigheter bör säkerställa insamling av detaljerade beskrivningar av MTF-plattformarnas eller OTF-plattformarnas funktion enligt direktiv 2014/65/EU på ett enhetligt sätt. Den bör även leda till en effektiv bearbetning av information för befintliga MTF-plattformar som redan är i drift i enlighet med en nationell auktorisation vid den tidpunkt då kravet på att lämna in en detaljerad beskrivning träder i kraft.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Eftersom tillväxtmarknader för små och medelstora företag särskiljs från andra MTF-plattformar i och med att de omfattas av ytterligare regler enligt direktiv 2014/65/EU är det nödvändigt att tillväxtmarknader för små och medelstora företag tillhandahåller ytterligare uppgifter.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Eftersom OTF-plattformar skiljer sig från MTF-plattformar i och med att handeln kan inbegripa användning av skönsmässiga regler från operatörens sida och eftersom en operatör av en OTF-plattform kommer att vara ansvarig inför användarna av systemet, bör OTF-plattformar tillhandahålla ytterligare uppgifter.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att säkerställa effektiv bearbetning ska den information som erfordras lämnas i elektroniskt format.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att underlätta Europeiska värdepappers- och marknadsmyndighetens (Esma) offentliggörande av förteckningen över alla MTF-plattformar och OTF-plattformar i unionen, åtföljd av information om de tjänster som de tillhandahåller och den unika kod som identifierar dem, bör en standardmall för sådan information användas.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att uppnå överensstämmelse och för att säkerställa välfungerande finansiella marknader är det nödvändigt att bestämmelserna i denna förordning och de relaterade nationella bestämmelser som införlivar direktiv 2014/65/EU börjar tillämpas från samma datum.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Eventuella personuppgifter som tillhandahålls inom ramen för denna förordning bör vara avsedda för särskilda, uttryckligt angivna och berättigade ändamål och senare behandling får inte ske på ett sätt som är oförenligt med dessa ändamål. I enlighet med artikel 6 i Europaparlamentets och rådets direktiv 95/46/EG <a id="ntc3-L_2016137SV.01001001-E0003" href="#ntr3-L_2016137SV.01001001-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> får personuppgifter inte sparas under en längre tid än vad som är nödvändigt för utövande av tillsynsfunktionen, och den längsta perioden för bevarande bör anges.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Denna förordning baseras på det förslag till tekniska standarder för genomförande som lämnats in till kommissionen av Esma.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Esma har genomfört öppna offentliga samråd om det förslag till tekniska genomförandestandarder som denna förordning baseras på. Esma har även analyserat möjliga relaterade kostnader och fördelar samt begärt in ett yttrande av den intressentgrupp för värdepapper och marknader som inrättats i enlighet med artikel 37 i Europaparlamentets och rådets förordning (EU) nr 1095/2010 <a id="ntc4-L_2016137SV.01001001-E0004" href="#ntr4-L_2016137SV.01001001-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e174-10-1" class="oj-ti-art">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Definitioner</p>
+               </div>
+               <p class="oj-normal">I denna förordning avses med</p>
+               <p class="oj-normal">1.   <span class="oj-bold">
+                     <span class="oj-italic">relevant operatör</span>
+                  </span>: </p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">värdepappersföretag som driver en multilateral handelsplattform (MTF-plattform),</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">värdepappersföretag som driver en organiserad handelsplattform (OTF-plattform),</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">marknadsoperatör som driver en MTF-plattform,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">d)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">marknadsoperatör som driver en OTF-plattform,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <p class="oj-normal">2.   <span class="oj-bold">
+                     <span class="oj-italic">tillgångsklasser</span>
+                  </span>: kategorier av finansiella instrument enligt avsnitt C i bilaga I till direktiv 2014/65/EU.</p>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e223-10-1" class="oj-ti-art">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Information som ska lämnas om MTF-plattformar och OTF-plattformar</p>
+               </div>
+               <div id="002.001">
+                  <p class="oj-normal">1.   En relevant operatör ska förse sin behöriga myndighet med följande information:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Tillgångsklasserna för de finansiella instrument som handlas på MTF-plattformen eller OTF-plattformen.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Reglerna och förfarandena för att göra finansiella instrument tillgängliga för handel, tillsammans med uppgifter om de publiceringsarrangemang som används för att göra informationen tillgänglig för allmänheten.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Reglerna och förfarandena för att säkerställa objektiv och icke-diskriminerande tillgång till handelsplattformarna, tillsammans med uppgifter om de publiceringsarrangemang som används för att göra informationen tillgänglig för allmänheten.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Åtgärderna och förfarandena för att se till att tillräcklig information finns offentligt tillgänglig för användarna av MTF-plattformen eller OTF-plattformen för att göra en investeringsbedömning, med beaktande av såväl användarnas natur som de klasser av finansiella instrument som handlas.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Systemen, förfarandena och arrangemangen för att säkerställa efterlevnad av de villkor som fastställs i artiklarna 48 och 49 i direktiv 2014/65/EU.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">En detaljerad beskrivning av eventuella arrangemang för att underlätta tillhandahållandet av likviditet till systemet, såsom marknadsgarantsystem.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">g)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Arrangemangen och förfarandena för att övervaka transaktioner enligt artikel 31 i direktiv 2014/65/EU.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">h)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Reglerna och förfarandena för stopp för handeln med ett finansiellt instrument och avförande av ett finansiellt instrument från handel enligt artikel 32 i direktiv 2014/65/EU.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">i)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Arrangemangen för att uppfylla kraven på transparens gällande uppgifter före och efter handel som gäller för de finansiella instrument som handlas och MTF-plattformens eller OTF-plattformens handelsfunktion. Denna information ska åtföljas av information om alla avsikter att använda undantag enligt artiklarna 4 och 9 i förordning (EU) nr 600/2014 och uppskjutet offentliggörande enligt artiklarna 7 och 11 i den förordningen.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">j)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Arrangemangen för effektiv avveckling av de transaktioner som utförs genom operatörens system och för att säkerställa att användarna är medvetna om sina respektive skyldigheter i detta avseende.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">k)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">En förteckning över medlemmarna eller deltagarna på den MTF-plattform eller OTF-plattform som operatören driver.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="002.002">
+                  <p class="oj-normal">2.   En relevant operatör ska förse sin behöriga myndighet med en detaljerad beskrivning av hur dennes handelssystem fungerar, med uppgift om</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">huruvida systemet utgör en röstfunktion, elektronisk funktion eller hybridfunktion,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">när det rör sig om ett elektroniskt handelssystem eller ett handelssystem av hybridtyp, karaktären hos eventuella algoritmer eller program som används för att fastställa matchningen och utförandet av handelsintressen,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">när det rör sig om ett röstbaserat handelssystem, reglerna och protokollen som används för att fastställa matchningen och utförandet av handelsintressen,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">en beskrivning som förklarar hur handelssystemet uppfyller alla delar i definitionen av en MTF-plattform eller OTF-plattform.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="002.003">
+                  <p class="oj-normal">3.   En relevant operatör ska förse sin behöriga myndighet med information om hur och när driften av MTF-plattformen eller OTF-plattformen kommer att ge upphov till potentiella intressekonflikter mellan MTF-plattformen eller OTF-plattformen, dess operatör eller dess ägare och MTF-plattformens eller OTF-plattformens sunda funktion. Den relevanta operatören ska specificera förfarandena och arrangemangen för att uppfylla kraven i artikel 18.4 i direktiv 2014/65/EU.</p>
+               </div>
+               <div id="002.004">
+                  <p class="oj-normal">4.   En relevant operatör ska förse sin behöriga myndighet med följande information om sina utkontrakteringsarrangemang som har att göra med ledningen, driften eller tillsynen av MTF-plattformen eller OTF-plattformen:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Organisatoriska åtgärder för att identifiera riskerna med anknytning till dessa utkontrakterade verksamheter och för att övervaka de utkontrakterade verksamheterna.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Avtalet mellan den relevanta operatören och det företag som tillhandahåller den utkontrakterade tjänsten, där beskaffenheten, omfattningen, målen och servicenivåavtal beskrivs.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="002.005">
+                  <p class="oj-normal">5.   En relevant operatör ska förse sin behöriga myndighet med information om eventuella kopplingar till eller deltagande av en reglerad marknad, MTF-plattform, OTF-plattform eller systematisk internhandlare som ägs av samma relevanta operatör.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e361-10-1" class="oj-ti-art">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Ytterligare uppgifter som ska lämnas om MTF-plattformar</p>
+               </div>
+               <p class="oj-normal">Utöver den information som anges i artikel 2 ska en relevant operatör förse sin behöriga myndighet med följande information med anknytning till kraven som anges i artikel 19.3 i direktiv 2014/65/EU:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">En beskrivning av de arrangemang och system som genomförs för att hantera de risker som operatören är exponerad för, för att identifiera alla betydande risker för verksamheten och inrätta effektiva åtgärder för att minska sådana risker.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">En beskrivning av de arrangemang som genomförs för att underlätta ett effektivt avslut utan dröjsmål av de transaktioner som utförs i operatörens system.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Med hänsyn till arten och omfattningen av transaktionerna som genomförs på marknaden och till sammansättningen och graden av riskerna som operatören är exponerad för, en beskrivning av de finansiella resurser som anses tillräckliga för att underlätta dess korrekta funktion.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e388-10-1" class="oj-ti-art">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Information som ska lämnas om MTF-plattformar som redan är i drift</p>
+               </div>
+               <p class="oj-normal">När det rör sig om ett värdepappersföretag eller en marknadsoperatör som har auktoriserats för att driva en MTF-plattform enligt artikel 5 i Europaparlamentets och rådets direktiv 2004/39/EG <a id="ntc5-L_2016137SV.01001001-E0005" href="#ntr5-L_2016137SV.01001001-E0005"
+                     >(<span class="oj-super oj-note-tag">5</span>)</a>, som är i drift den dag då denna förordning börjar tillämpas, ska det värdepappersföretaget eller den operatören tillhandahålla den information som avses i artiklarna 2 och 3 i denna förordning där så krävs</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">för att korrigera, uppdatera eller klargöra information som tidigare lämnats in av den relevanta operatören till dess behöriga myndighet,</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">för att styrka överensstämmelse med de skyldigheter enligt direktiv 2014/65/EU och förordning (EU) nr 600/2014 som inte gällde för MTF-plattformen innan denna förordning börjar tillämpas.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e419-10-1" class="oj-ti-art">Artikel 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Ytterligare uppgifter som ska lämnas om MTF-plattformar för registrering som en tillväxtmarknad för små och medelstora företag</p>
+               </div>
+               <p class="oj-normal">När det rör sig om en relevant operatör som ansöker om att registrera en MTF-plattform som en tillväxtmarknad för små och medelstora företag ska denna operatör se till att den information som lämnas enligt artiklarna 2 och 3 tydligt identifierar vilka funktioner eller arrangemang som är tillämpliga på tillväxtmarknaden för små och medelstora företag.</p>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e426-10-1" class="oj-ti-art">Artikel 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="oj-sti-art">Ytterligare uppgifter som ska lämnas om OTF-plattformar</p>
+               </div>
+               <p class="oj-normal">Utöver artikel 2 ska en relevant operatör som driver en OTF-plattform förse sin behöriga myndighet med följande information:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Information om huruvida ett annat värdepappersföretag har anlitats för att på oberoende grund bedriva verksamhet som marknadsgarant på dess OTF-plattform i enlighet med artikel 20.5 i direktiv 2014/65/EU.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">En detaljerad beskrivning av hur och under vilka omständigheter den utför order på OTF-plattformen på diskretionär grund i enlighet med artikel 20.6 i direktiv 2014/65/EU.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">De regler, förfaranden och protokoll som tillåter operatören att dirigera en medlems eller en deltagares handelsintresse utanför OTF-plattformen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">d)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">En beskrivning av användningen av matchad principalhandel som är förenlig med artikel 20.7 i direktiv 2014/65/EU.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">e)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Reglerna och förfarandena för att säkerställa efterlevnad av artiklarna 24, 25, 27 och 28 i direktiv 2014/65/EU för transaktioner som genomförs på OTF-plattformen där dessa regler är tillämpliga på den relevanta operatören i förhållande till en användare av OTF-plattformen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p id="d1e465-10-1" class="oj-ti-art">Artikel 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="oj-sti-art">Specifik information om tillgångsklass</p>
+               </div>
+               <p class="oj-normal">När en relevant operatör av en MTF-plattform eller OTF-plattform tillämpar olika regler för olika tillgångsklasser ska den tillhandahålla den information som krävs enligt denna förordning för var och en av de tillgångsklasserna separat.</p>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p id="d1e472-10-1" class="oj-ti-art">Artikel 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="oj-sti-art">Väsentliga förändringar</p>
+               </div>
+               <div id="008.001">
+                  <p class="oj-normal">1.   En relevant operatör ska förse sin behöriga myndighet med en beskrivning av eventuella väsentliga förändringar av information som lämnats tidigare i enlighet med denna förordning som skulle kunna vara relevant för en bedömning av den operatörens efterlevnad av direktiv 2014/65/EU och förordning (EU) nr 600/2014.</p>
+               </div>
+               <div id="008.002">
+                  <p class="oj-normal">2.   Där en relevant operatör skickar ny information till sin behöriga myndighet för att korrigera, uppdatera eller klargöra information som lämnats tidigare i enlighet med denna förordning är det inte nödvändigt att inkludera information som är mindre viktig eller av teknisk karaktär som saknar relevans för en bedömning av den operatörens efterlevnad av direktiv 2014/65/EU och förordning (EU) nr 600/2014.</p>
+               </div>
+               <div id="008.003">
+                  <p class="oj-normal">3.   Ett värdepappersföretag eller en marknadsoperatör som är auktoriserad att driva en MTF-plattform enligt direktiv 2004/39/EG som är i drift den dag då denna förordning börjar tillämpas ska, utöver punkt 1 i denna artikel, förse sin behöriga myndighet med en beskrivning av eventuella väsentliga förändringar av den information som lämnats tidigare till den behöriga myndigheten med avseende på den MTF-plattformen enligt det direktivet.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p id="d1e492-10-1" class="oj-ti-art">Artikel 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="oj-sti-art">Format för tillhandahållande av beskrivningen</p>
+               </div>
+               <div id="009.001">
+                  <p class="oj-normal">1.   Där den relevanta operatören förser den behöriga myndigheten med beskrivningen av funktionssättet hos den MTF-plattform eller OTF-plattform den driver i enlighet med denna förordning ska den relevanta operatören inbegripa tydliga hänvisningar i sina inlämnade uppgifter som uppfyller kraven i mallen i tabell 1 i bilagan.</p>
+               </div>
+               <div id="009.002">
+                  <p class="oj-normal">2.   I samband med tillhandahållandet av den information som erfordras enligt denna förordning ska en relevant operatör inbegripa hänvisningar till lämpliga bestämmelser i reglerna för dess MTF-plattform eller OTF-plattform, avtal eller kontrakt med deltagare eller relevanta tredje parter och interna rutiner och riktlinjer.</p>
+               </div>
+               <div id="009.003">
+                  <p class="oj-normal">3.   En relevant operatör ska lämna den information som erfordras enligt denna förordning till sin behöriga myndighet i elektroniskt format.</p>
+               </div>
+               <div id="009.004">
+                  <p class="oj-normal">4.   När information lämnas enligt denna förordning ska den relevanta operatören</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">förse varje dokument som den lämnar in med ett unikt referensnummer,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">se till att den information som lämnas tydligt identifierar vilket specifikt krav i denna förordning som den hänvisar till och i vilket dokument den informationen lämnas genom att använda det unika referensnumret för att identifiera dokumentet,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">se till att om ett krav i denna förordning inte gäller för operatören ska detta faktum anges tillsammans med en förklaring,</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">lämna in den informationen i det format som anges i tabell 1 i bilagan.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="009.005">
+                  <p class="oj-normal">5.   Där beskrivningen lämnas inom ramen för en begäran om auktorisering ska företaget som ansöker om auktorisering för att tillhandahålla fler än en tjänst samtidigt lämna in en ansökan som tydligt identifierar de tjänster som den lämnade informationen gäller. När samma dokument ska anses vara en del av flera begäranden om auktorisering, när det gäller tillhandahållande av informationen i det format som anges i tabell 1 i bilagan, ska samma referensnummer användas när samma dokument lämnas för flera ansökningar.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_10">
+               <p id="d1e548-10-1" class="oj-ti-art">Artikel 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="oj-sti-art">Anmälan till Esma</p>
+               </div>
+               <p class="oj-normal">Den behöriga myndigheten ska underrätta Esma om en relevant operatörs auktorisation som en MTF-plattform eller OTF-plattform i elektroniskt format och i det format som anges i tabell 2 i bilagan.</p>
+            </div>
+            <div class="eli-subdivision" id="art_11">
+               <p id="d1e555-10-1" class="oj-ti-art">Artikel 11</p>
+               <div class="eli-title" id="art_11.tit_1">
+                  <p class="oj-sti-art">Ikraftträdande och tillämpning</p>
+               </div>
+               <p class="oj-normal">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+               <p class="oj-normal">Den ska tillämpas från och med det datum som anges i artikel 93.1 andra stycket i direktiv 2014/65/EU.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+               <p class="oj-normal">Utfärdad i Bryssel den 25 maj 2016.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På kommissionens vägnar</span>
+                  </p>
+                  <p class="oj-signatory">Jean-Claude JUNCKER
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Ordförande</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2016137SV.01001001-E0001" href="#ntc1-L_2016137SV.01001001-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >EUT L 173, 12.6.2014, s. 349</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2016137SV.01001001-E0002" href="#ntc2-L_2016137SV.01001001-E0002"
+               >(<span class="oj-super">2</span>)</a>  Europaparlamentets och rådets förordning (EU) nr 600/2014 av den 15 maj 2014 om marknader för finansiella instrument och om ändring av förordning (EU) nr 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC"
+               >EUT L 173, 12.6.2014, s. 84</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2016137SV.01001001-E0003" href="#ntc3-L_2016137SV.01001001-E0003"
+               >(<span class="oj-super">3</span>)</a>  Europaparlamentets och rådets direktiv 95/46/EG av den 24 oktober 1995 om skydd för enskilda personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter (<a href="http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC"
+               >EGT L 281, 23.11.1995, s. 31</a>).</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2016137SV.01001001-E0004" href="#ntc4-L_2016137SV.01001001-E0004"
+               >(<span class="oj-super">4</span>)</a>  Europaparlamentets och rådets förordning (EU) nr 1095/2010 av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska värdepappers- och marknadsmyndigheten), om ändring av beslut nr 716/2009/EG och om upphävande av kommissionens beslut 2009/77/EG (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >EUT L 331, 15.12.2010, s. 84</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2016137SV.01001001-E0005" href="#ntc5-L_2016137SV.01001001-E0005"
+               >(<span class="oj-super">5</span>)</a>  Europaparlamentets och rådets direktiv 2004/39/EG av den 21 april 2004 om marknader för finansiella instrument och om ändring av rådets direktiv 85/611/EEG och 93/6/EEG och Europaparlamentets och rådets direktiv 2000/12/EG samt upphävande av rådets direktiv 93/22/EEG (<a href="http://publications.europa.eu/resource/oj/JOL_2004_145_R_TOC"
+               >EUT L 145, 30.4.2004, s. 1</a>).</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2016137SV.01001601">
+         <div class="eli-container" id="anx_1">
+            <p class="oj-doc-ti" id="d1e32-16-1">BILAGA</p>
+            <p id="d1e38-16-1" class="oj-ti-grseq-1">
+               <span class="oj-bold">Format</span>
+            </p>
+            <p class="oj-ti-tbl" id="d1e44-16-1-table">
+               <span class="oj-italic">Tabell 1</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Information från operatörer av MTF- och OTF-plattformar</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="13%"/>
+               <col width="34%"/>
+               <col width="20%"/>
+               <col width="15%"/>
+               <col width="18%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Relevant operatör på vars vägnar ansökan lämnas in</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Relevant artikel i genomförandeförordning (EU) 2016/824</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Dokumentets referensnummer</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Dokumentets titel</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Kapitel, avsnitt eller sida i dokumentet där informationen lämnas eller skäl till varför informationen inte lämnas</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <br/>
+            </p>
+            <p class="oj-ti-tbl" id="d1e99-16-1-table">
+               <span class="oj-italic">Tabell 2</span>
+            </p>
+            <p class="oj-ti-tbl">
+               <span class="oj-bold">Information som ska skickas till Esma</span>
+            </p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="18%"/>
+               <col width="21%"/>
+               <col width="23%"/>
+               <col width="12%"/>
+               <col width="26%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Anmälande behörig myndighet</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Den relevanta operatörens namn</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Namn på den MTF- eller OTF-plattform som drivs av operatören</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">MIC-kod</p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-hdr">Tjänster som tillhandahålls av MTF- eller OTF-plattformen</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-normal"> </p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

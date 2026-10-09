@@ -1,0 +1,1078 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- fmx2xhtml # converter_version:6.1.1 # generated_on:20150115-1814 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32013L0050 — SV — 26.11.2013</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">2013L0050 — SV — 26.11.2013 — 000.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Detta dokument är endast avsett som dokumentationshjälpmedel och institutionerna ansvarar inte för innehållet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32013L0050"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32013L0050">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2013/50/EU</p>
+            <p class="title-doc-first">av den 22 oktober 2013</p>
+            <p class="title-doc-first">om ändring av Europaparlamentets och rådets direktiv 2004/109/EG om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad, av Europaparlamentets och rådets direktiv 2003/71/EG om de prospekt som skall offentliggöras när värdepapper erbjuds till allmänheten eller tas upp till handel och av kommissionens direktiv 2007/14/EG om tillämpningsföreskrifter för vissa bestämmelser i direktiv 2004/109/EG</p>
+            <p class="title-doc-last">
+               <a href="http://publications.europa.eu/resource/celex/32013L0050" onclick="_blanc"
+                  title="32013L0050">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference">(EGT L 294, 6.11.2013, p.13)</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <p class="hd-modifiers">Rättad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32013L0050R%2801%29"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32013L0050R(01)">►C1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member">
+               <a href="http://publications.europa.eu/resource/celex/32013L0050R%2801%29"
+                  onclick="window.open(this.href,'_blanc'); return false;"
+                  title="32013L0050R(01)">Rättelse, EGT L 014, 18.1.2014, s. 35 (2013/50/EU)</a>
+            </p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <p>
+      <br/>
+   </p>
+   <p class="arrow">
+      <a href="http://publications.europa.eu/resource/celex/32013L0050"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32013L0050">▼B</a>
+   </p>
+   <p class="title-doc-first">EUROPAPARLAMENTETS OCH RÅDETS DIREKTIV 2013/50/EU</p>
+   <p class="title-doc-first">av den 22 oktober 2013</p>
+   <p class="title-doc-first">om ändring av Europaparlamentets och rådets direktiv 2004/109/EG om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad, av Europaparlamentets och rådets direktiv 2003/71/EG om de prospekt som skall offentliggöras när värdepapper erbjuds till allmänheten eller tas upp till handel och av kommissionens direktiv 2007/14/EG om tillämpningsföreskrifter för vissa bestämmelser i direktiv 2004/109/EG</p>
+   <p class="title-doc-last">(Text av betydelse för EES)</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <div class="preamble">
+      <p class="norm">EUROPAPARLAMENTET OCH EUROPEISKA UNIONENS RÅD HAR ANTAGIT DETTA DIREKTIV</p>
+      <p class="norm">med beaktande av fördraget om Europeiska unionens funktionssätt, särskilt artiklarna 50 och 114,</p>
+      <p class="norm">med beaktande av Europeiska kommissionens förslag,</p>
+      <p class="norm">efter översändande av utkastet till lagstiftningsakt till de nationella parlamenten,</p>
+      <p class="norm">med beaktande av Europeiska centralbankens yttrande (<a href="#E0001" id="src.E0001">
+            <span class="superscript">1</span>
+         </a>),</p>
+      <p class="norm">med beaktande av Europeiska ekonomiska och sociala kommitténs yttrande (<a href="#E0002" id="src.E0002">
+            <span class="superscript">2</span>
+         </a>),</p>
+      <p class="norm">i enlighet med det ordinarie lagstiftningsförfarandet (<a href="#E0003" id="src.E0003">
+            <span class="superscript">3</span>
+         </a>), och</p>av följande skäl:<table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(1)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Enligt artikel 33 i Europaparlamentets och rådets direktiv 2004/109/EG (<a href="#E0004" id="src.E0004">
+                     <span class="superscript">4</span>
+                  </a>) skulle kommissionen överlämna en rapport till Europaparlamentet och rådet om tillämpningen av direktivet inklusive en bedömning av lämpligheten av att avskaffa undantaget för befintliga skuldebrev efter den tioårsperiod som avses i artikel 30.4 i direktivet och av de eventuella konsekvenserna av det direktivets tillämpning för de europeiska finansmarknaderna.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(2)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Den 27 maj 2010 antog kommissionen en rapport om tillämpningen av direktiv 2004/109/EG, som identifierade områden där direktivets ramverk skulle kunna förbättras. Rapporten visar framför allt att det är nödvändigt att förenkla kraven för vissa emittenter för att göra de reglerade marknaderna mer attraktiva för små och medelstora emittenter som vill anskaffa kapital i unionen. Dessutom är det nödvändigt att förbättra det befintliga insynsramverkets effektivitet, särskilt när det gäller offentliggörandet av företagens ägarförhållanden.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(3)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I sitt meddelande av den 13 april 2011 med titeln <span class="italics">Inremarknadsakten – Tolv åtgärder för att stimulera tillväxten och stärka förtroendet för inre marknaden – Gemensamma insatser för att skapa ny tillväxt</span> konstaterade kommissionen dessutom att det finns ett behov av att se över direktiv 2004/109/EG för att de skyldigheter som åläggs börsnoterade små och medelstora företag ska bli mer proportionella, samtidigt som investerarskyddet garanteras.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(4)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Enligt kommissionens rapport och kommissionens meddelande bör den administrativa bördan när det gäller kraven vid upptagande till handel på en reglerad marknad minskas för små och medelstora emittenter för att förbättra deras tillgång till kapital. Skyldigheterna att offentliggöra delårsredogörelser eller kvartalsrapporter är en betydande börda för många små och medelstora emittenter vars värdepapper är upptagna till handel på reglerade marknader, utan att detta är nödvändigt för investerarskyddet. Sådana skyldigheter uppmuntrar även kortsiktiga resultat och avskräcker från långsiktiga investeringar. För att främja ett hållbart värdeskapande och långsiktiga investeringsstrategier, är det viktigt att minska det kortsiktiga trycket på emittenterna och ge investerarna ett incitament att anlägga ett mer långsiktigt synsätt. Kravet på att offentliggöra delårsredogörelser bör därför avskaffas.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(5)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Det bör inte vara tillåtet för medlemsstaterna att i sin nationella lagstiftning ställa krav på offentliggörande av regelbunden finansiell information oftare än årliga redovisningar och halvårsrapporter. Medlemsstaterna bör dock kunna kräva att emittenter offentliggör kompletterande regelbunden finansiell information om ett sådant krav inte utgör en betydande administrativ börda och om den efterfrågade kompletterande informationen står i proportion till de faktorer som bidrar till investerarnas beslut. Detta direktiv påverkar inte krav på andra kompletterande uppgifter som framgår av sektorunionslagstiftning och medlemsstaterna kan särskilt kräva offentliggörande av kompletterande regelbunden finansiell information från finansiella institut. Dessutom kan en reglerad marknad kräva att emittenter vars värdepapper är upptagna till handel på den reglerade marknaden offentliggör kompletterande regelbunden finansiell information inom alla eller några segment av den marknaden.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(6)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att möjliggöra större flexibilitet och därigenom minska den administrativa bördan bör tidsfristen för offentliggörande av halvårsrapporter förlängas till tre månader efter rapporteringsperiodens slut. Eftersom den period under vilken emittenter kan offentliggöra sina halvårsrapporter förlängs förväntas små och medelstora emittenters rapporter erhålla större intresse från aktörer på marknaden och på så sätt blir dessa emittenter mer synliga.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(7)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att öka insynen när det gäller betalningar till regeringar bör emittenter vars värdepapper är upptagna till handel på en reglerad marknad och som bedriver verksamhet inom utvinningsindustrin eller avverkning av naturskog i en separat årsrapport offentliggöra de betalningar som görs till regeringarna i de länder där de är verksamma. Rapporten bör inkludera betalningar jämförbara med dem som offentliggjorts i enlighet med utvinningsindustrins initiativ för ökad öppenhet (EITI). Offentliggörandet av betalningar till regeringar bör ge det civila samhället och investerare information för att göra regeringarna i resursrika länder ansvariga för sina inkomster från utvinning av naturresurser. Initiativet kompletterar också Europeiska unionens handlingsplan för skogslagstiftningens efterlevnad samt förvaltning av och handel med skog (Flegt) och bestämmelserna i Europaparlamentets och rådets förordning (EU) nr 995/2010 av den 20 oktober 2010 om fastställande av skyldigheter för verksamhetsutövare som släpper ut timmer och trävaror på marknaden (<a href="#E0005" id="src.E0005">
+                     <span class="superscript">5</span>
+                  </a>), där det föreskrivs att de som handlar med timmerprodukter ska visa tillbörlig aktsamhet för att säkerställa att olagligt avverkat timmer inte kommer in på unionsmarknaden. Medlemsstaterna bör se till att medlemmarna av ett företags ansvariga organ, inom ramen för deras befogenheter enligt nationell rätt, har ansvar för att se till att rapporten om betalningar till offentliga myndigheter, såvitt de vet och efter bästa förmåga, utarbetas i enlighet med kraven i detta direktiv. De detaljerade kraven anges i kapitel 10 i Europaparlamentets och rådets direktiv 2013/34/EU av den 26 juni 2013 om årsbokslut, koncernredovisning och rapporter i vissa typer av företag (<a href="#E0006" id="src.E0006">
+                     <span class="superscript">6</span>
+                  </a>).</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(8)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att främja insynen och investerarskyddet bör medlemsstaterna kräva att följande principer ska gälla för rapportering om betalningar till regeringar i enlighet med kapitel 10 i direktiv 2013/34/EU: väsentlighet (i rapporten behöver man inte ta hänsyn till en betalning, vare sig det gäller en enskild betalning eller ett flertal till varandra hörande betalningar, om beloppet för betalningen understiger 100 000  EUR under ett räkenskapsår), rapportering per regering och projekt (rapportering av betalningar till regeringar bör ske per regering och projekt), allomfattande (det bör inte göras några undantag, till exempel för emittenter verksamma i vissa länder, som kan få en snedvridande effekt och göra det möjligt för emittenter att utnyttja svagare insynskrav) och fullständighet (alla relevanta betalningar till regeringar bör rapporteras, i enlighet med kapitel 10 i direktiv 2013/34/EU och tillhörande skäl i ingressen).</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(9)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Finansiell innovation har lett till att nya kategorier av finansiella instrument har skapats som innebär att investerarna exponeras ekonomiskt mot företag. Offentliggörandet av sådan information behandlas inte i direktiv 2004/109/EG. Sådana instrument skulle kunna användas för att i hemlighet förvärva innehav i företag, vilket i sin tur kan leda till marknadsmissbruk och ge en falsk och missvisande bild av det ekonomiska ägandet i börsnoterade företag. För att se till att både emittenter och investerare har fullständig kunskap om hur företagens ägarförhållanden är strukturerade bör det direktivets definition av finansiella instrument omfatta alla instrument med en ekonomisk effekt liknande den av aktieinnehav och rätt att förvärva aktier.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(10)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Finansiella instrument som har en ekonomisk effekt som liknar den av aktieinnehav och rätt att förvärva aktier och som ger möjlighet till kontantavräkning bör beräknas med hjälp av deltajustering, genom att det nominella beloppet för underliggande aktier multipliceras med instrumentets delta. Delta anger hur mycket ett finansiellt instruments teoretiska värde skulle utvecklas vid variation i det underliggande instrumentets pris och ger en korrekt bild av innehavarens exponering mot underliggande instrument. Detta tillvägagångssätt används för att säkerställa att informationen om de sammanlagda rösträtter som investeraren har tillgång till är så korrekt som möjligt.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(11)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att garantera tillräcklig insyn i större innehav bör det krävas en ny underrättelse i syfte att visa hur innehavens sammansättning har förändrats när en innehavare av finansiella instrument utövar sin rätt att förvärva aktier och det sammanlagda innehavet av rösträtter som är förenade med underliggande aktier överskrider tröskelvärdet för offentliggörande utan att detta påverkar den totala procentandelen av tidigare anmälda innehav.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(12)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Ett harmoniserat ramverk för underrättelse om större innehav av rösträtter, särskilt när det gäller sammanläggning av aktieinnehav med innehav av finansiella instrument, skulle öka rättssäkerheten och insynen och minska den administrativa bördan för gränsöverskridande investerare. Medlemsstaterna bör därför inte tillåtas att anta strängare regler än de som fastställs i direktiv 2004/109/EG om beräkningen av tröskelvärden för underrättelse, sammanläggning av innehav av rösträtter som är förenade med aktier med innehav av rösträtter avseende finansiella instrument och undantag från kraven på underrättelse. Med tanke på de skillnader som finns i ägarskapskoncentration i unionen och de olikheter som föreligger avseende bolagsrätt inom unionen, som leder till att det totala antalet aktier skiljer sig från det totala antalet rösträtter för vissa emittenter, bör medlemsstaterna även i fortsättningen kunna fastställa såväl lägre som kompletterande tröskelvärden för underrättelse om innehav av rösträtter och kräva motsvarande underrättelser när det gäller tröskelvärden som grundar sig på innehav av kapital. Dessutom bör medlemsstaterna även fortsättningsvis kunna fastställa strängare krav än de som fastställs i direktiv 2004/109/EG när det gäller innehållet (t.ex. offentliggörande av aktieinnehavares avsikter), förfarande och tidpunkt för underrättelse, samt kunna kräva kompletterande upplysningar om större innehav som inte föreskrivs i direktiv 2004/109/EG. Medlemsstaterna bör också särskilt ha möjlighet att även fortsättningsvis tillämpa lagar och andra författningar som innehåller strängare krav på offentliggörande än de i Europaparlamentets och rådets direktiv 2004/25/EG av den 21 april 2004 om uppköpserbjudanden (<a href="#E0007" id="src.E0007">
+                     <span class="superscript">7</span>
+                  </a>) och som antagits avseende uppköpserbjudanden, fusioner och andra transaktioner med inverkan på ägande eller kontroll av företag som regleras av de myndigheter som medlemsstaterna utsett enligt artikel 4 i direktiv 2004/109/EG.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(13)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Tekniska standarder bör säkerställa en konsekvent harmonisering av ramverket för underrättelse om större innehav samt lämpliga insynsnivåer. Det skulle vara både effektivt och lämpligt att ge Europeiska värdepappers- och marknadsmyndigheten (nedan kallad <span class="italics">Esma</span>), inrättad genom Europaparlamentets och rådets förordning (EU) nr 1095/2010 (<a href="#E0008" id="src.E0008">
+                     <span class="superscript">8</span>
+                  </a>), i uppgift att utarbeta förslag till tekniska standarder för tillsyn som inte inbegriper policyval, för att lägga fram för kommissionen. Kommissionen bör anta de tekniska standarder för tillsyn som utarbetats av Esma för att ange tillämpningsvillkoren för de befintliga undantagen från underrättelsekraven för större innehav av rösträtter. Genom att utnyttja sin expertis bör Esma särskilt fastställa de fall där undantag får göras, samtidigt som hänsyn tas till risken för eventuellt missbruk i syfte att kringgå kraven på underrättelse.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(14)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I syfte att ta hänsyn till den tekniska utvecklingen bör befogenheten att anta akter i enlighet med artikel 290 i fördraget om Europeiska unionens funktionssätt (EUF-fördraget) delegeras till kommissionen för att specificera innehållet i underrättelser om större innehav av finansiella instrument. Det är av särskild betydelse att kommissionen genomför lämpliga samråd under sitt förberedande arbete, inklusive på expertnivå. När kommissionen förbereder och utarbetar delegerade akter bör den se till att relevanta handlingar översänds samtidigt till Europaparlamentet och rådet och att detta sker så snabbt som möjligt och på lämpligt sätt.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(15)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I syfte att underlätta gränsöverskridande investeringar är det viktigt att investerarna lätt kan få tillgång till obligatorisk information om alla börsnoterade företag i unionen. Det befintliga nätverket av nationella officiellt utsedda mekanismer för central lagring av obligatorisk information garanterar emellertid inte en enkel sökning av sådan information inom unionen. I syfte att säkerställa gränsöverskridande tillgång till information och ta hänsyn till den tekniska utvecklingen på finansmarknaderna och inom kommunikationstekniken bör befogenheten att anta akter i enlighet med artikel 290 i EUF-fördraget delegeras till kommissionen med avseende på angivande av miniminormer för spridning av obligatoriska uppgifter, för tillgång till reglerad information på unionsnivå och för mekanismen för den centrala lagringen av obligatorisk information. Kommissionen bör också ges befogenhet att med bistånd från Esma vidta åtgärder för att förbättra nätverket av officiellt utsedda nationella mekanismer för lagring samt utarbeta tekniska kriterier för tillgång till obligatorisk information på unionsnivå, särskilt när det gäller driften av en central åtkomstpunkt för sökning av obligatorisk information på unionsnivå. Esma bör utveckla och driva en webbportal som fungerar som en europeisk elektronisk åtkomstpunkt (nedan kallad <span class="italics">åtkomstpunkten</span>).</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(16)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att förbättra efterlevnaden av kraven i direktiv 2004/109/EG och med anledning av kommissionens meddelande av den 9 december 2010 om att förstärka sanktionssystemen i den finansiella sektorn bör sanktionsbefogenheterna stärkas och tillgodose vissa centrala krav när det gäller adressater, de kriterier som ska beaktas vid tillämpning av en administrativ sanktion eller åtgärd, viktiga sanktionsbefogenheter och nivåer på administrativa sanktionsavgifter. Dessa sanktionsbefogenheter bör åtminstone föreligga vid överträdelse av centrala bestämmelser i direktiv 2004/109/EG. Medlemsstaterna bör också kunna utöva dem under andra förhållanden. Medlemsstaterna bör särskilt se till att de administrativa sanktioner och åtgärder som kan tillämpas inbegriper möjligheten att besluta om sanktionsavgifter som är tillräckligt höga för att ha en avskräckande effekt. Vid överträdelser som begås av juridiska personer bör medlemsstaterna kunna möjliggöra en tillämpning av sanktioner mot medlemmar av den berörda juridiska personens förvaltnings-, lednings- eller kontrollorgan eller andra personer, vilka på de villkor som fastställs i nationell rätt kan hållas ansvariga för överträdelserna. Medlemsstaterna bör också kunna föreskriva tillfälligt upphävande eller möjligheten till tillfälligt upphävande av rösträtter för innehavare av aktier och finansiella instrument som inte uppfyller kraven i fråga om underrättelse. Medlemsstaterna bör kunna föreskriva att det tillfälliga upphävandet av rösträtter endast ska ske vid de mest allvarliga överträdelserna. Direktiv 2004/109/EG bör avse såväl administrativa sanktioner som åtgärder för att täcka alla fall av överträdelser, oavsett om de betecknas som en sanktion eller en åtgärd enligt nationell rätt, och bör inte påverka några bestämmelser i medlemsstaternas lagstiftning om straffrättsliga påföljder.</p>
+               <p class="list">Medlemsstaterna bör kunna föreskriva ytterligare sanktioner eller åtgärder och högre nivåer på administrativa sanktionsavgifter än de som föreskrivs i direktiv 2004/109/EG, med beaktande av behovet av tillräckligt avskräckande sanktioner för att stödja rättvisa och öppna marknader. Bestämmelserna om sanktioner och bestämmelserna om offentliggörande av administrativa sanktioner är inte prejudicerande för annan unionslagstiftning, i första hand för särskilt allvarliga överträdelser.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(17)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">För att garantera att beslut om att vidta en administrativ åtgärd eller sanktion har en avskräckande effekt på allmänheten i stort bör de normalt offentliggöras. Offentliggörandet av beslut är också ett viktigt sätt att informera marknadsaktörerna om vilka handlingar som anses utgöra en överträdelse av direktiv 2004/109/EG och att främja ett allmänt bättre beteende bland marknadsaktörerna. Den behöriga myndigheten bör dock kunna besluta att senarelägga ett sådant offentliggörande eller att offentliggöra informationen anonymt om offentliggörandet av ett beslut allvarligt skulle äventyra det finansiella systemets stabilitet eller en pågående officiell utredning eller skulle orsaka oproportionell och allvarlig skada, i den mån den kan fastställas, för de berörda instituten eller personerna, eller om ett offentliggörande av personuppgifter, om sanktionen har ålagts en fysisk person, genom en obligatorisk förhandsbedömning av proportionaliteten i ett sådant offentliggörande visar sig vara oproportionellt.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(18)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I syfte att klargöra hur onoterade värdepapper som motsvaras av depåbevis som är upptagna till handel på en reglerad marknad ska behandlas och för att undvika ofullständig insyn bör definitionen av emittent preciseras så att man inbegriper emittenter av onoterade värdepapper som motsvaras av depåbevis upptagna till handel på en reglerad marknad. Det är också lämpligt att ändra definitionen av emittent med tanke på att vissa medlemsstaters emittenter av värdepapper som är upptagna till handel på en reglerad marknad kan vara fysiska personer.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(19)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I fråga om en tredjelandsemittent av skuldebrev vars nominella värde per enhet understiger 1 000  EUR eller aktier ska enligt direktiv 2004/109/EG emittentens hemmedlemsstat vara den medlemsstat som avses i artikel 2.1 m iii i Europaparlamentets och rådets direktiv 2003/71/EG (<a href="#E0009" id="src.E0009">
+                     <span class="superscript">9</span>
+                  </a>). För att förtydliga och förenkla fastställandet av hemmedlemsstaten för sådana tredjelandsemittenter bör definitionen av den termen ändras så att det fastställs att hemmedlemsstaten ska vara den medlemsstat som emittenten valt bland de medlemsstater där dess värdepapper är upptagna till handel på en reglerad marknad.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(20)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Alla emittenter vars värdepapper är upptagna till handel på en reglerad marknad inom unionen bör stå under tillsyn av en behörig myndighet i en medlemsstat för att säkerställa att de fullgör sina skyldigheter. Emittenter som enligt direktiv 2004/109/EG måste välja hemmedlemsstat men inte har gjort detta kan undvika tillsyn av en behörig myndighet i unionen. Därför bör direktiv 2004/109/EG ändras för att fastställa hemmedlemsstaten för emittenter som inte anmält sitt val av hemmedlemsstat till de behöriga myndigheterna inom en period på tre månader. I sådana fall bör hemmedlemsstaten vara den medlemsstat där emittentens värdepapper är upptagna till handel på en reglerad marknad. När värdepapperen är upptagna till handel på en reglerad marknad i fler än en medlemsstat kommer alla dessa medlemsstater att vara hemmedlemsstater till dess att emittenten har valt en enda hemmedlemsstat och anmäler detta. Detta kan utgöra ett incitament för sådana emittenter att välja och anmäla sitt val av hemmedlemsstat till de berörda behöriga myndigheterna, och under tiden skulle de behöriga myndigheterna inte längre sakna de befogenheter som krävs för att ingripa till dess att en emittent har anmält sitt val av hemmedlemsstat.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(21)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">När det gäller en emittent av skuldebrev vilkas nominella värde per enhet uppgår till 1 000  EUR eller mer, gäller emittentens val av hemmedlemsstat i tre år enligt direktiv 2004/109/EG. Om en emittents värdepapper inte längre är upptagna till handel på den reglerade marknaden i emittentens hemmedlemsstat och fortfarande är upptagna till handel i en eller flera värdmedlemsstater finns det emellertid inget förhållande mellan emittenten och den hemmedlemsstat som den ursprungligen valt om den inte är den medlemsstat där emittenten har sitt säte. Sådana emittenter bör kunna välja en av sina värdmedlemsstater eller den medlemsstat där denne har sitt säte som sin nya hemmedlemsstat innan treårsperioden löper ut. Samma möjlighet att välja en ny hemmedlemsstat skulle också gälla för en tredjelandsemittent av skuldebrev vilkas nominella värde per enhet understiger 1 000  EUR eller aktier vars värdepapper inte längre är upptagna till handel på den reglerade marknaden i emittentens hemmedlemsstat men fortfarande är upptagna till handel i en eller flera värdmedlemsstater.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(22)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Direktiven 2004/109/EG och 2003/71/EG bör vara samstämmiga när det gäller definitionen av hemmedlemsstat. För att tillsynen ska kunna säkerställas av den mest relevanta medlemsstaten bör direktiv 2003/71/EG ändras i detta avseende för att ge större flexibilitet i fråga om situationer där värdepapperen hos en emittent som har sitt säte i ett tredjeland inte längre är upptagna till handel på den reglerade marknaden i dennes hemmedlemsstat men däremot är upptagna till handel i en eller flera andra medlemsstater.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(23)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Kommissionens direktiv 2007/14/EG (<a href="#E0010" id="src.E0010">
+                     <span class="superscript">10</span>
+                  </a>) innehåller särskilt regler om emittentens anmälan av val av hemmedlemsstat. Dessa regler bör införlivas i direktiv 2004/109/EG. För att säkerställa att de behöriga myndigheterna i värdmedlemsstaten/värdmedlemsstaterna och i den medlemsstat där emittenten har sitt säte, om en sådan medlemsstat varken är hem- eller värdmedlemsstat, informeras om emittentens val av hemmedlemsstat bör alla emittenter vara skyldiga att meddela val av hemmedlemsstat till den behöriga myndigheten i hemmedlemsstaten, de behöriga myndigheterna i alla värdmedlemsstater och den behöriga myndigheten i den medlemsstat där de har sitt säte, om den medlemsstaten är en annan än hemmedlemsstaten. Reglerna om anmälan av valet av hemmedlemsstat bör därför ändras i enlighet med detta.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(24)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Kravet enligt direktiv 2004/109/EG om offentliggörande av nya låneemissioner har gett upphov till många genomförandeproblem i praktiken och tillämpningen av detta krav anses vara komplicerad. Dessutom överlappar kravet delvis de krav som fastställs i direktiv 2003/71/EG och Europaparlamentets och rådets direktiv 2003/6/EG av den 28 januari 2003 om insiderhandel och otillbörlig marknadspåverkan (marknadsmissbruk) (<a href="#E0011" id="src.E0011">
+                     <span class="superscript">11</span>
+                  </a>) och ger inte heller särskilt mycket kompletterande information till marknaden. För att minska den onödiga administrativa bördan för emittenterna bör detta krav följaktligen avskaffas.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(25)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Kravet på att en emittent ska underrätta de behöriga myndigheterna i hemmedlemsstaten om alla ändringar av sin bolagsordning eller sina stadgar överlappar det liknande kravet enligt Europaparlamentets och rådets direktiv 2007/36/EG av den 11 juli 2007 om utnyttjande av vissa av aktieägares rättigheter i börsnoterade företag (<a href="#E0012" id="src.E0012">
+                     <span class="superscript">12</span>
+                  </a>) och kan leda till oklarheter när det gäller den behöriga myndighetens roll. Följaktligen, och för att minska den onödiga administrativa bördan för emittenterna bör detta krav avskaffas.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(26)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Ett enhetligt elektroniskt format för rapportering skulle innebära stora fördelar för emittenter, investerare och behöriga myndigheter eftersom det skulle förenkla rapporteringen och underlätta tillgängligheten till, bedömningen av och jämförbarheten hos årliga redovisningar. Därför bör upprättandet av årliga redovisningar med hjälp av ett enhetligt elektroniskt rapporteringsformat bli obligatoriskt med verkan från och med den 1 januari 2020, under förutsättning att Esma har gjort en kostnads- och intäktsanalys. Esma bör utarbeta förslag till tekniska standarder för tillsyn för antagande av kommissionen för att specificera det elektroniska rapporteringsformatet, med vederbörlig hänsyn till nuvarande och framtida tekniska valmöjligheter, såsom eXtensible Business Reporting Language (XBRL). Esma bör vid utarbetandet av förslagen till tekniska standarder för tillsyn genomföra öppna offentliga samråd med alla berörda intressenter, göra en genomgående utvärdering av de potentiella konsekvenserna av anammandet av de olika tekniska valmöjligheterna, genomföra lämpliga tester i medlemsstaterna och rapportera till kommissionen om dessa tester vid framläggandet av förslagen till tekniska standarder för tillsyn. Vid utarbetandet av förslagen till tekniska standarder för tillsyn i fråga om de format som ska tillämpas på banker och finansiella intermediärer och på försäkringsbolag bör Esma regelbundet ha ett nära samarbete med den europeiska tillsynsmyndigheten (Europeiska bankmyndigheten), inrättad genom Europaparlamentets och rådets förordning (EU) nr 1093/2010 (<a href="#E0013" id="src.E0013">
+                     <span class="superscript">13</span>
+                  </a>) och den europeiska tillsynsmyndigheten (Europeiska försäkrings- och tjänstepensionsmyndigheten), inrättad genom Europaparlamentets och rådets förordning (EU) nr 1094/2010 (<a href="#E0014" id="src.E0014">
+                     <span class="superscript">14</span>
+                  </a>), för att beakta de sektorernas egenskaper och därvid säkerställa enhetlighet över sektorsgränserna och anta gemensamma ståndpunkter. Europaparlamentet och rådet bör enligt artikel 13.3 i förordning (EU) nr 1095/2010 kunna invända mot de tekniska standarderna för tillsyn, i vilket fall dessa standarder inte bör träda i kraft.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(27)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Europaparlamentets och rådets direktiv 95/46/EG av den 24 oktober 1995 om skydd för enskilda personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter (<a href="#E0015" id="src.E0015">
+                     <span class="superscript">15</span>
+                  </a>) och Europaparlamentets och rådets förordning (EG) nr 45/2001 av den 18 december 2000 om skydd för enskilda då gemenskapsinstitutionerna och gemenskapsorganen behandlar personuppgifter och om den fria rörligheten för sådana uppgifter (<a href="#E0016" id="src.E0016">
+                     <span class="superscript">16</span>
+                  </a>) är fullständigt tillämpliga på behandlingen av personuppgifter enligt detta direktiv.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(28)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Detta direktiv står i överensstämmelse med de grundläggande rättigheter och principer som erkänns i Europeiska unionens stadga om de grundläggande rättigheterna, så som de fastställs i fördraget, och måste genomföras i enlighet med dessa rättigheter och principer.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(29)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Eftersom målet för detta direktiv, nämligen att harmonisera insynskraven vad gäller information om emittenter vars värdepapper är upptagna till handel på en reglerad marknad, inte i tillräcklig utsträckning kan uppnås av medlemsstaterna och det därför, på grund av direktivets omfattning eller verkningar, bättre kan uppnås på unionsnivå, kan unionen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget om Europeiska unionen. I enlighet med proportionalitetsprincipen i samma artikel går detta direktiv inte utöver vad som är nödvändigt för att uppnå detta mål.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(30)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">I enlighet med den gemensamma politiska förklaringen av den 28 september 2011 från medlemsstaterna och kommissionen om förklarande dokument (<a href="#E0017" id="src.E0017">
+                     <span class="superscript">17</span>
+                  </a>) har medlemsstaterna åtagit sig att, i de fall detta är berättigat, låta anmälan av införlivandeåtgärder åtföljas av ett eller flera dokument som förklarar förhållandet mellan de olika delarna i direktivet och motsvarande delar i nationella instrument för införlivande. Med avseende på detta direktiv anser lagstiftaren att översändandet av sådana dokument är berättigat.</p>
+            </td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="5%"/>
+         <col width="95%"/>
+         <tr>
+            <td valign="top">
+               <p class="norm">(31)</p>
+            </td>
+            <td valign="top">
+               <p class="norm">Direktiven 2004/109/EG, 2003/71/EG och 2007/14/EG bör därför ändras i enlighet med detta.</p>
+            </td>
+         </tr>
+      </table>
+      <p class="norm">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-article-norm">Artikel 1</p>
+   <p class="stitle-article-norm">Ändringar av direktiv 2004/109/EG</p>
+   <p class="norm">Direktiv 2004/109/EG ska ändras på följande sätt:</p>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">1.<span style="word-spacing: 15pt"> </span>Artikel 2 ska ändras på följande sätt:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Punkt 1 ska ändras på följande sätt:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">i)<span style="word-spacing: 19pt"> </span>Led d ska ersättas med följande:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="5%"/>
+               <col width="95%"/>
+               <tr>
+                  <td valign="top">
+                     <p class="dlist-term">”d)</p>
+                  </td>
+                  <td valign="top">emittent : <p class="norm">en fysisk person eller en privaträttslig eller offentligrättslig juridisk person, inklusive en stat, vars värdepapper är upptagna till handel på en reglerad marknad.</p>
+                     <p class="norm">I det fall det förekommer depåbevis som är upptagna till handel på en reglerad marknad ska emittenten anses vara den som emitterat de värdepapper som depåbeviset motsvarar, vare sig dessa värdepapper är upptagna till handel på en reglerad marknad eller ej.”</p>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">ii)<span style="word-spacing: 23pt"> </span>Led i ska ändras på följande sätt:</p>
+            <div style="margin-left: 24pt; text-indent: -24pt">
+               <p class="norm">i)<span style="word-spacing: 19pt"> </span>I led i ska andra strecksatsen ersättas med följande:</p>
+               <div style="margin-left: 18pt; text-indent: -18pt">
+                  <p class="norm">”—<span style="word-spacing: 8pt"> </span>om emittenten har sitt säte i ett tredjeland: den medlemsstat som emittenten valt av de medlemsstater där dess värdepapper är upptagna till handel på en reglerad marknad. Valet av hemmedlemsstat ska fortfarande vara gällande om emittenten inte har valt en ny hemmedlemsstat enligt led iii och anmält valet i enlighet med andra stycket i detta led (i).”</p>
+               </div>
+            </div>
+            <div style="margin-left: 30pt; text-indent: -30pt">
+               <p class="norm">ii)<span style="word-spacing: 23pt"> </span>Led ii ska ersättas med följande:</p>
+               <div style="margin-left: 30pt; text-indent: -30pt">
+                  <p class="norm">”ii)<span style="word-spacing: 23pt"> </span>om emittenten inte omfattas av led i: den medlemsstat som emittenten har valt av alla medlemsstater där emittenten har sitt säte, i förekommande fall, och de medlemsstater där dess värdepapper är upptagna till handel på en reglerad marknad. Emittenten får endast välja en medlemsstat som hemmedlemsstat. Detta val ska vara giltigt minst tre år, såvida emittentens värdepapper inte längre är upptagna till handel på en reglerad marknad i unionen eller emittenten kommer att omfattas av led i eller iii under denna treårsperiod,”</p>
+               </div>
+            </div>
+            <div style="margin-left: 36pt; text-indent: -36pt">
+               <p class="norm">iii)<span style="word-spacing: 27pt"> </span>Följande led ska läggas till:</p>
+               <div style="margin-left: 36pt; text-indent: -36pt">
+                  <p class="norm">”iii)<span style="word-spacing: 27pt"> </span>om emittentens värdepapper inte längre är upptagna till handel på en reglerad marknad i emittentens hemmedlemsstat enligt definitionen i led i andra strecksatsen eller led ii men däremot är upptagna till handel i en eller flera andra medlemsstater, får emittenten välja en ny hemmedlemsstat av de medlemsstater där dess värdepapper är upptagna till handel på en reglerad marknad och, i tillämpliga fall, den medlemsstat där emittenten har sitt säte,”</p>
+               </div>
+            </div>
+            <div style="margin-left: 30pt; text-indent: -30pt">
+               <p class="norm">iv)<span style="word-spacing: 19pt"> </span>Följande stycken ska läggas till:</p>
+               <p class="norm">”En emittent ska offentliggöra sin hemmedlemsstat enligt vad som avses i leden i, ii eller iii i enlighet med artiklarna 20 och 21. Dessutom ska en emittent anmäla sin hemmedlemsstat till den behöriga myndigheten i den medlemsstat där emittenten i tillämpliga fall har sitt säte, till den behöriga myndigheten i hemmedlemsstaten och till de behöriga myndigheterna i alla värdmedlemsstater.</p>
+               <p class="norm">Om emittenten inte offentliggör sin hemmedlemsstat i enlighet med led i andra strecksatsen eller led ii inom en period av tre månader från den dag då emittentens värdepapper för första gången tas upp till handel på en reglerad marknad ska hemmedlemsstaten vara den medlemsstat där emittentens värdepapper är upptagna till handel på en reglerad marknad. Om emittentens värdepapper är upptagna till handel på reglerade marknader belägna i eller verksamma inom mer än en medlemsstat ska dessa medlemsstater vara emittentens hemmedlemsstater till dess att emittenten har valt en enda hemmedlemsstat och offentliggjort detta.</p>
+               <p class="norm">Tremånadersperioden ska påbörjas den 27 november 2015 i fråga om en emittent vars värdepapper redan är upptagna till handel på en reglerad marknad och vars val av hemmedlemsstat i enlighet med led i andra strecksatsen eller led ii inte har offentliggjorts före den 27 november 2015.</p>
+               <p class="norm">En emittent som har valt en hemmedlemsstat i enlighet med led i andra strecksatsen eller led ii eller iii och underrättat de behöriga myndigheterna om det valet av hemmedlemsstat före den 27 november 2015 ska undantas från kravet enligt andra stycket i detta led (i), om emittenten i fråga inte väljer en annan hemmedlemsstat efter den 27 november 2015.”</p>
+            </div>
+         </div>
+         <div style="margin-left: 36pt; text-indent: -36pt">
+            <p class="norm">iii)<span style="word-spacing: 27pt"> </span>Följande led ska läggas till:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="5%"/>
+               <col width="95%"/>
+               <tr>
+                  <td valign="top">
+                     <p class="dlist-term">”q)</p>
+                  </td>
+                  <td valign="top">
+                     <p class="dlist-definition">formellt avtal : ett avtal som är bindande enligt tillämplig rätt.”</p>
+                  </td>
+               </tr>
+            </table>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Följande punkt ska införas:</p>
+         <p class="norm">”2a.  Varje hänvisning till juridiska personer i detta direktiv ska anses inbegripa registrerade näringslivsorganisationer som saknar ställning som juridisk person och truster.”</p>
+      </div>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">2.<span style="word-spacing: 15pt"> </span>Artikel 3 ska ändras på följande sätt:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Punkt 1 ska ersättas med följande:</p>
+         <p class="norm">”1.  Hemmedlemsstaten får ålägga en emittent strängare krav än vad som föreskrivs i detta direktiv, med undantag av att den inte får kräva att emittenten ska offentliggöra finansiell information oftare än de årliga redovisningar som avses i artikel 4 och de halvårsrapporter som avses i artikel 5.”</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Följande punkt ska införas:</p>
+         <p class="norm">”1a.  Genom undantag från punkt 1 får hemmedlemsstaten ålägga emittenter att offentliggöra kompletterande regelbunden finansiell information oftare än de årliga redovisningar som avses i artikel 4 och de halvårsrapporter som avses i artikel 5 om följande villkor är uppfyllda:</p>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Den kompletterande regelbundna finansiella informationen utgör inte en oproportionell finansiell börda i den berörda medlemsstaten, särskilt för berörda små och medelstora emittenter.</p>
+         </div>
+         <div style="margin-left: 12pt; text-indent: -12pt; ">
+            <p class="norm">—<span style="word-spacing: 0"> </span>Innehållet i den kompletterande regelbundna finansiella information som krävs står i proportion till de faktorer som bidrar till investerarnas investeringsbeslut i den berörda medlemsstaten.</p>
+         </div>
+         <p class="norm">Innan medlemsstaterna fattar beslut om krav som innebär att emittenter ska offentliggöra kompletterande regelbunden finansiell information ska de bedöma huruvida sådana ytterligare krav kan leda till en överdriven fokusering på emittenternas kortsiktiga resultat och huruvida kraven kan ha en negativ inverkan på små och medelstora emittenters möjlighet att få tillträde till de reglerade marknaderna.</p>
+         <p class="norm">Detta påverkar inte medlemsstaternas möjlighet att kräva offentliggörande av kompletterande regelbunden finansiell information från emittenter som är finansiella institut.</p>
+         <p class="norm">Hemmedlemsstaten får inte ålägga en aktieägare eller en fysisk eller juridisk person som avses i artikel 10 eller 13 strängare krav än vad som föreskrivs i detta direktiv, med undantag för att</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">i)<span style="word-spacing: 19pt"> </span>fastställa lägre tröskelvärden för underrättelse än de som fastställs i artikel 9.1 eller tröskelvärden utöver dessa och ställa krav på motsvarande underrättelser när det gäller tröskelvärden som grundar sig på innehav av kapital,</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">ii)<span style="word-spacing: 23pt"> </span>tillämpa strängare krav än dem som avses i artikel 12, eller att</p>
+         </div>
+         <div style="margin-left: 36pt; text-indent: -36pt">
+            <p class="norm">iii)<span style="word-spacing: 27pt"> </span>tillämpa lagar och andra författningar som antagits avseende uppköpserbjudanden, fusioner och andra transaktioner med inverkan på ägande eller kontroll av företag, vilka regleras av de myndigheter som medlemsstaterna utsett i enlighet med artikel 4 i Europaparlamentets och rådets direktiv 2004/25/EG av den 21 april 2004 om uppköpserbjudanden (<a href="#E0018" id="src.E0018">
+                  <span class="superscript">18</span>
+               </a>).</p>
+         </div>
+      </div>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">3.<span style="word-spacing: 15pt"> </span>Artikel 4 ska ändras på följande sätt:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Punkt 1 ska ersättas med följande:</p>
+         <p class="norm">”1.  En emittent skall offentliggöra sin årliga redovisning för allmänheten senast fyra månader efter utgången av varje räkenskapsår och se till att den sedan förblir tillgänglig för allmänheten i minst 10 år.”</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Följande punkt ska läggas till:</p>
+         <p class="norm">”7.  Med verkan från och med den 1 januari 2020 ska alla årliga redovisningar upprättas med hjälp av ett enhetligt elektroniskt rapporteringsformat, under förutsättning att Europeiska värdepappers- och marknadsmyndigheten (Esma) inrättad genom Europaparlamentets och rådets förordning (EU) nr 1095/2010 (<a href="#E0019" id="src.E0019">
+               <span class="superscript">19</span>
+            </a>), har gjort en kostnads- och intäktsanalys.</p>
+         <p class="norm">Esma ska utarbeta förslag till tekniska standarder för tillsyn för att specificera det elektroniska rapporteringsformatet, med vederbörlig hänsyn till nuvarande och framtida tekniska valmöjligheter. Innan förslagen till tekniska standarder för tillsyn antas ska Esma göra en lämplig utvärdering av möjliga elektroniska rapporteringsformat och genomföra lämpliga tester. Esma ska överlämna dessa förslag till tekniska standarder för tillsyn till kommissionen senast den 31 december 2016.</p>
+         <p class="norm">Kommissionen ska ges befogenhet att anta de tekniska standarder för tillsyn som avses i andra stycket i enlighet med artiklarna 10–14 i förordning (EU) nr 1095/2010.</p>
+      </div>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">4.<span style="word-spacing: 15pt"> </span>Artikel 5.1 ska ersättas med följande:</p>
+      <p class="norm">”1.  En emittent av aktier eller skuldebrev ska offentliggöra en halvårsrapport som omfattar räkenskapsårets första sex månader så snart som möjligt efter den berörda periodens utgång och senast tre månader därefter. Emittenten ska se till att halvårsrapporten är tillgänglig för allmänheten i minst 10 år.”</p>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">5.<span style="word-spacing: 15pt"> </span>Artikel 6 ska ersättas med följande:</p>
+      <p class="title-article-quoted">”Artikel 6</p>
+      <p class="stitle-article-quoted">Rapport om betalningar till regeringar</p>
+      <p class="norm">Medlemsstaterna ska kräva att emittenter som är verksamma inom utvinningsindustrin eller avverkning av primärskog enligt definitionen i artikel 41.1 och 41.2 i Europaparlamentets och rådets direktiv 2013/34/EU av den 26 juni 2013 om årsbokslut, sammanställda redovisningar och rapporter i vissa typer av företag, om ändring av Europaparlamentets och rådets direktiv 2006/43/EG och om upphävande av rådets direktiv 78/660/EEG och 83/349/EEG (<a href="#E0020" id="src.E0020">
+            <span class="superscript">20</span>
+         </a>), årligen ska utarbeta en rapport om de betalningar som gjorts till regeringar i enlighet med kapitel 10 i det direktivet. Rapporten ska offentliggöras senast sex månader efter utgången av varje räkenskapsår och ska förbli tillgänglig för allmänheten i minst tio år. Betalningar till regeringar ska rapporteras på konsoliderad nivå.</p>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">6.<span style="word-spacing: 15pt"> </span>Artikel 8 ska ändras på följande sätt:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Punkt 1 ska ersättas med följande:</p>
+         <p class="norm">”1.  Artiklarna 4 och 5 ska inte tillämpas på följande kategorier av emittenter:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>Stater, regionala eller lokala myndigheter i en stat, internationella offentliga organ i vilka minst en av unionens medlemsstater är medlem, Europeiska centralbanken (ECB), Europeiska finansiella stabiliseringsfaciliteten (EFSF), inrättad genom EFSF-ramavtalet, och andra mekanismer som upprättats i syfte att upprätthålla finansiell stabilitet i Europeiska monetära unionen genom tillhandahållande av tillfälligt finansiellt stöd till medlemsstater vars valuta är euro samt medlemsstaternas nationella centralbanker, oavsett om de emitterar aktier eller andra värdepapper.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>Emittenter av enbart skuldebrev som är upptagna till handel på en reglerad marknad och vars nominella värde per enhet uppgår till minst 100 000  EUR eller, om skuldebreven är utställda i en annan valuta än euro, vars nominella värde per enhet på emissionsdagen motsvarar minst 100 000  EUR.”</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Punkt 4 ska ersättas med följande:</p>
+         <p class="norm">”4.  Genom undantag från punkt 1 b i denna artikel ska artiklarna 4 och 5 inte tillämpas på emittenter av enbart skuldebrev vars nominella värde per enhet uppgår till minst 50 000  EUR eller, om skuldebreven är utställda i en annan valuta än euro, vars nominella värde per enhet på emissionsdagen motsvarar minst 50 000  EUR och som redan tagits upp till handel på en reglerad marknad i unionen före den 31 december 2010, så länge som sådana skuldebrev fortfarande är utestående.”</p>
+      </div>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">7.<span style="word-spacing: 15pt"> </span>Artikel 9 ska ändras på följande sätt:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Punkt 6 ska ersättas med följande:</p>
+         <p class="norm">”6.  Denna artikel ska inte tillämpas på rösträtter i ett handelslager enligt definitionen i artikel 11 i Europaparlamentets och rådets direktiv 2006/49/EG av den 14 juni 2006 om kapitalkrav för värdepappersföretag och kreditinstitut (<a href="#E0021" id="src.E0021">
+               <span class="superscript">21</span>
+            </a>) som innehas av ett kreditinstitut eller värdepappersföretag, under förutsättning att</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>rösträtterna i ett handelslager inte överstiger 5 %, och</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>rösträtter kopplade till aktier i handelslagret inte utnyttjas eller används på annat sätt för att ingripa i emittentens förvaltning.</p>
+         </div>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Följande punkter ska införas:</p>
+         <p class="norm">”6a.  Denna artikel ska inte tillämpas på rösträtter som är knutna till aktier som förvärvats i stabiliseringssyfte i enlighet med kommissionens förordning (EG) nr 2273/2003 av den 22 december 2003 om genomförande av Europaparlamentets och rådets direktiv 2003/6/EG när det gäller undantag för återköpsprogram och stabilisering av finansiella instrument (<a href="#E0022" id="src.E0022">
+               <span class="superscript">22</span>
+            </a>), förutsatt att rösträtterna som är knutna till de aktierna inte utövas eller på annat sätt används för att ingripa i emittentens förvaltning.</p>
+         <p class="norm">6b.  Esma ska utarbeta förslag till tekniska standarder för tillsyn där man anger vilken beräkningsmetod som ska användas för det tröskelvärde på 5 % som avses i punkterna 5 och 6, inbegripet om det rör sig om en företagskoncern, med beaktande av artikel 12.4 och 12.5.</p>
+         <p class="norm">Esma ska senast den 27 november 2014 till kommissionen överlämna dessa förslag till tekniska standarder för tillsyn.</p>
+         <p class="norm">Kommissionen ges befogenhet att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordning (EU) nr 1095/2010.</p>
+      </div>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">8.<span style="word-spacing: 15pt"> </span>I artikel 12.2 ska inledningen ersättas med följande:</p>
+      <p class="norm">”Underrättelsen till emittenten ska göras så snart som möjligt, men senast inom fyra handelsdagar från och med den dag då aktieägaren, eller den fysiska eller juridiska person som avses i artikel 10,”</p>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">9.<span style="word-spacing: 15pt"> </span>Artikel 13 ska ändras på följande sätt:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Punkt 1 ska ersättas med följande:</p>
+         <p class="norm">”1.  Kraven på underrättelse i artikel 9 ska även tillämpas på en fysisk eller juridisk person som, direkt eller indirekt, innehar</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>finansiella instrument som vid förfall ger innehavaren, enligt ett formellt avtal, antingen en ovillkorlig rätt att förvärva eller en rätt att enligt eget gottfinnande förvärva redan emitterade aktier som medför rösträtter av en emittent vars aktier är upptagna till handel på en reglerad marknad,</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>finansiella instrument som inte omfattas av led a men som hänför sig till aktier som avses i det ledet och har en ekonomisk effekt liknande den av de finansiella instrument som avses i det ledet, vare sig dessa ger rätt till fysisk avveckling eller ej.</p>
+         </div>
+         <p class="norm">Den underrättelse som krävs ska innehålla en uppdelning per kategori av finansiella instrument som innehas i enlighet med led a och finansiella instrument som innehas i enlighet med led b i det stycket, varvid skillnad ska göras mellan finansiella instrument som ger rätt till fysisk avveckling och finansiella instrument som ger rätt till kontantavräkning.”</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Följande punkter ska införas:</p>
+         <p class="norm">”1a.  Antalet rösträtter ska beräknas med hänsyn till det totala nominella beloppet för det finansiella instrumentets underliggande aktier, utom när det finansiella instrumentet endast ger möjlighet till kontantavräkning, i vilket fall antalet rösträtter ska beräknas på grundval av deltajustering genom multiplicering av det nominella beloppet för underliggande aktier med instrumentets delta. Med beaktande av ovanstående ska innehavaren lägga samman och anmäla alla finansiella instrument som hör till samma underliggande emittent. Endast långa positioner ska beaktas vid beräkningen av rösträtter. Från en lång position får inte göras avdrag med eventuella korta positioner som hör till samma emittent (nettning).</p>
+         <p class="norm">Esma ska utarbeta förslag till tekniska standarder för tillsyn för att specificera</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>den metod som ska användas för att beräkna det antal rösträtter som avses i första stycket när det gäller finansiella instrument i en korg av aktier eller ett index, och</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>metoderna för att fastställa deltavärdet för beräkning av rösträtter avseende finansiella instrument vilka endast ger möjlighet till kontantavräkning i enlighet med första stycket.</p>
+         </div>
+         <p class="norm">Esma ska senast den 27 november 2014 till kommissionen överlämna dessa förslag till tekniska standarder för tillsyn.</p>
+         <p class="norm">Kommissionen ska ges befogenhet att anta de tekniska standarder för tillsyn som avses i andra stycket i enlighet med artiklarna 10–14 i förordning (EU) nr 1095/2010.</p>
+         <p class="norm">1b.  Vid tillämpning av punkt 1 ska följande anses utgöra finansiella instrument, under förutsättning att de uppfyller något av de villkor som anges i punkt 1 första stycket a eller b:</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">a)<span style="word-spacing: 15pt"> </span>Överlåtbara värdepapper.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">b)<span style="word-spacing: 15pt"> </span>Optioner.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">c)<span style="word-spacing: 15pt"> </span>Terminskontrakt.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">d)<span style="word-spacing: 15pt"> </span>Swappar.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">e)<span style="word-spacing: 15pt"> </span>Räntesäkringsavtal.</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">f)<span style="word-spacing: 17pt"> </span>CFD:er (<span class="italics">Contracts for differences</span>).</p>
+         </div>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">g)<span style="word-spacing: 15pt"> </span>Varje annat kontrakt eller avtal med liknande ekonomisk effekt som kan avvecklas fysiskt eller kontant.</p>
+         </div>
+         <p class="norm">Esma ska med beaktande av den tekniska utvecklingen på finansmarknaderna upprätta och regelbundet uppdatera en vägledande förteckning över finansiella instrument som omfattas av krav på underrättelse i enlighet med punkt 1.”</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>Punkt 2 ska ersättas med följande:</p>
+         <p class="norm">”2.  Kommissionen ska ges befogenhet att anta delegerade akter i enlighet med artikel 27.2a, 27.2b och 27.2c, och med förbehåll för de villkor som anges i artiklarna 27a och 27b, med avseende på åtgärderna för att ange innehållet i den underrättelse som ska göras, underrättelseperioden och till vem underrättelsen ska göras i enlighet med vad som avses i punkt 1.”</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">d)<span style="word-spacing: 15pt"> </span>Följande punkt ska läggas till:</p>
+         <p class="norm">”4.  De undantag som fastställs i artiklarna 9.4, 9.5, 9.6, 12.3, 12.4 och 12.5 ska med vederbörliga ändringar gälla för kraven på underrättelse enligt den här artikeln.</p>
+         <p class="norm">Esma ska utarbeta förslag till tekniska standarder för tillsyn för att ange de fall där de undantag som avses i första stycket är tillämpliga på finansiella instrument som innehas av en fysisk eller en juridisk person som fullgör order som initierats av kunder eller som svar på kunders önskemål om att handla annat än för egen räkning eller säkrar positioner som uppkommer genom uppfyllandet av sådana affärer.</p>
+         <p class="norm">Esma ska senast den 27 november 2014 till kommissionen överlämna dessa förslag till tekniska standarder för tillsyn.</p>
+         <p class="norm">Kommissionen ska ges befogenhet att anta de tekniska standarder för tillsyn som avses i andra stycket i enlighet med förfarandet i artiklarna 10–14 i Europaparlamentets och rådets förordning (EU) nr 1095/2010.”</p>
+      </div>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">10.<span style="word-spacing: 15pt"> </span>Följande artikel ska införas:</p>
+      <p class="title-article-quoted">”Artikel 13a</p>
+      <p class="stitle-article-quoted">Sammanläggning</p>
+      <p class="norm">1.  De krav på underrättelse som fastställs i artiklarna 9, 10 och 13 ska också gälla för fysiska eller juridiska personer, när det antal rösträtter som innehas direkt eller indirekt av en sådan person enligt artiklarna 9 och 10 läggs samman med det antal rösträtter som är knutna till finansiella instrument vilka innehas direkt eller indirekt enligt artikel 13, om denna andel uppnår, överstiger eller understiger de tröskelvärden som anges i artikel 9.1.</p>
+      <p class="norm">Kravet på underrättelse enligt första stycket ska innehålla en uppdelning av det antal rösträtter som är knutna till aktier som innehas i enlighet med artiklarna 9 och 10 och rösträtter som är knutna till finansiella instrument i den mening som avses i artikel 13.</p>
+      <p class="norm">2.  Rösträtter som är knutna till finansiella instrument som redan har anmälts i enlighet med artikel 13 ska anmälas igen, när en fysisk eller juridisk person har förvärvat de underliggande aktierna och ett sådant förvärv leder till att det antal rösträtter som är knutna till de aktier som har emitterats av samma emittent uppnår eller överstiger tröskelvärdena i artikel 9.1.”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">11.<span style="word-spacing: 15pt"> </span>Artikel 16.3 ska utgå.</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">12.<span style="word-spacing: 15pt"> </span>I artikel 19.1 ska andra stycket utgå.</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">13.<span style="word-spacing: 15pt"> </span>Artikel 21.4 ska ersättas med följande:</p>
+      <p class="norm">”4.  Kommissionen ska ges befogenhet att genom delegerade akter i enlighet med artikel 27.2a, 27.2b och 27.2c, och med förbehåll för de villkor som anges i artiklarna 27a och 27b, anta åtgärder i syfte att fastställa följande:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Miniminormer för spridning av obligatorisk information enligt punkt 1.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Miniminormer för den mekanism för centrallagring som avses i punkt 2.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>Regler för att säkerställa driftskompabiliteten för den informations- och kommunikationsteknik som används av de mekanismer som avses i punkt 2 och regler om tillgången till obligatorisk information på unionsnivå enligt den punkten.</p>
+      </div>
+      <p class="norm">Kommissionen får också upprätta och uppdatera en förteckning över medier för spridning av information till allmänheten.”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">14.<span style="word-spacing: 15pt"> </span>Följande artikel ska införas:</p>
+      <p class="title-article-quoted">”Artikel 21a</p>
+      <p class="stitle-article-quoted">Europeisk elektronisk åtkomstpunkt</p>
+      <p class="norm">1.  En webbportal, som ska fungera som en europeisk elektronisk åtkomstpunkt (nedan kallad <span class="italics">åtkomstpunkten</span>), ska ha inrättats senast den 1 januari 2018. Esma ska utveckla och driva åtkomstpunkten.</p>
+      <p class="norm">2.  Systemet för sammankoppling av officiellt utsedda mekanismer ska bestå av</p>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>de mekanismer som avses i artikel 21.2,</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>den portal som fungerar som europeisk elektronisk åtkomstpunkt.</p>
+      </div>
+      <p class="norm">3.  Medlemsstaterna ska säkerställa tillgång till sina mekanismer för centrallagring via åtkomstpunkten.”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">15.<span style="word-spacing: 15pt"> </span>Artikel 22 ska ersättas med följande:</p>
+      <p class="title-article-quoted">”Artikel 22</p>
+      <p class="stitle-article-quoted">Tillgång till obligatorisk information på unionsnivå</p>
+      <p class="norm">1.  Esma ska utarbeta förslag till tekniska standarder för tillsyn, där man anger de tekniska kraven för tillgång till obligatorisk information på unionsnivå i syfte att specificera</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>tekniska krav för kommunikationsteknik som används av de mekanismer som avses i artikel 21.2,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>tekniska krav för driften av den centrala åtkomstpunkten för sökningar av obligatorisk information på unionsnivå,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>tekniska krav för den unika identitetsbeteckning för varje emittent som används av de mekanismer som avses i artikel 21.2,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">d)<span style="word-spacing: 15pt"> </span>ett gemensamt format för tillhandahållande av obligatorisk information av de mekanismer som avses i artikel 21.2,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">e)<span style="word-spacing: 15pt"> </span>en gemensam klassificering av den obligatoriska information av de mekanismer som avses i artikel 21.2 och en gemensam förteckning över olika kategorier av obligatorisk information.</p>
+      </div>
+      <p class="norm">2.  När Esma utarbetar förslag till tekniska standarder för tillsyn, ska myndigheten beakta de tekniska kraven för systemet för sammankoppling av företagsregister, som inrättades genom Europaparlamentets och rådets direktiv 2012/17/EU (<a href="#E0023" id="src.E0023">
+            <span class="superscript">23</span>
+         </a>).</p>
+      <p class="norm">Esma ska senast den 27 november 2015 till kommissionen överlämna dessa förslag till tekniska standarder för tillsyn.</p>
+      <p class="norm">Kommissionen ska ges befogenhet att anta de tekniska standarder för tillsyn som avses i första stycket i enlighet med artiklarna 10–14 i förordning (EU) nr 1095/2010.</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">16.<span style="word-spacing: 15pt"> </span>I artikel 23.1 ska följande stycke läggas till:</p>
+      <p class="norm">”Den information som omfattas av de krav som fastställts i tredjelandet ska lämnas i enlighet med artikel 19 och offentliggöras i enlighet med artiklarna 20 och 21.”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">17.<span style="word-spacing: 15pt"> </span>I artikel 24 ska följande punkter införas:</p>
+      <p class="norm">”4a.  Utan att det påverkar punkt 4 ska de behöriga myndigheterna ges alla utredningsbefogenheter som krävs för att de ska kunna utföra sina uppgifter. Dessa befogenheter ska utövas enligt nationell rätt.</p>
+      <p class="norm">4b.  De behöriga myndigheterna ska utöva sin sanktionsbefogenhet i enlighet med detta direktiv och nationell rätt på något av följande sätt:</p>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>Direkt.</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>I samarbete med andra myndigheter.</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>På eget ansvar genom delegering till sådana myndigheter.</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>Efter ansökan till de behöriga rättsliga myndigheterna.”</p>
+      </div>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">18.<span style="word-spacing: 15pt"> </span>I artikel 25.2 ska följande stycke läggas till:</p>
+      <p class="norm">”De behöriga myndigheterna ska vid utövandet av sina sanktions- och utredningsbefogenheter samarbeta för att se till att sanktionerna eller åtgärderna leder till önskat resultat och ska samordna sina insatser när det gäller gränsöverskridande fall.”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">19.<span style="word-spacing: 15pt"> </span>Följande rubrik ska införas efter artikel 27b:</p>
+      <p class="title-division-1">”KAPITEL VIA</p>
+      <p class="title-division-2">
+         <span class="boldface">SANKTIONER OCH ÅTGÄRDER</span>”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">20.<span style="word-spacing: 15pt"> </span>Artikel 28 ska ersättas med följande:</p>
+      <p class="title-article-quoted">”Artikel 28</p>
+      <p class="stitle-article-quoted">Administrativa åtgärder och sanktioner</p>
+      <p class="norm">1.  Utan att det påverkar de behöriga myndigheternas befogenheter enligt artikel 24 och medlemsstaternas rätt att besluta om och utdöma straffrättsliga påföljder ska medlemsstaterna fastställa bestämmelser om administrativa åtgärder och sanktioner som ska tillämpas vid överträdelse av de nationella bestämmelser som antagits för införlivandet av detta direktiv och vidta alla åtgärder som krävs för att se till att de tillämpas. Dessa administrativa åtgärder och sanktioner ska vara effektiva, proportionella och avskräckande.</p>
+      <p class="norm">2.  Utan att det påverkar artikel 7 ska medlemsstaterna, när en juridisk person bryter mot sina skyldigheter, se till att sanktioner kan tillämpas enligt de villkor som fastställs i nationell rätt mot medlemmarna i den berörda juridiska personens administrativa organ, ledningsorgan eller tillsynsorgan samt mot andra personer som enligt nationell rätt är ansvariga för överträdelsen.”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">21.<span style="word-spacing: 15pt"> </span>Följande artiklar ska införas:</p>
+      <p class="title-article-quoted">”Artikel 28a</p>
+      <p class="stitle-article-quoted">Överträdelser</p>
+      <p class="norm">Artikel 28b ska tillämpas vid åtminstone följande överträdelser:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Underlåtenhet av emittenten att inom den fastställda tidsfristen offentliggöra de upplysningar som krävs enligt de nationella bestämmelser som antagits för att införliva artiklarna 4, 5, 6, 14 och 16.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Underlåtande av en fysisk eller juridisk person att inom den fastställda tidsgränsen underrätta om förvärv eller avyttring av ett större innehav i enlighet med de nationella bestämmelser som antagits för att införliva artiklarna 9, 10, 12, 13 och 13a.</p>
+      </div>
+      <p class="title-article-quoted">Artikel 28b</p>
+      <p class="stitle-article-quoted">Sanktionsbefogenheter</p>
+      <p class="norm">1.  Vid de överträdelser som avses i artikel 28a ska de behöriga myndigheterna ha befogenhet att vidta åtminstone följande administrativa åtgärder och sanktioner:</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>Ett offentligt utlåtande med uppgift om den ansvariga fysiska eller juridiska personen och om överträdelsens karaktär.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>Ett föreläggande enligt vilket det krävs att den fysiska eller juridiska personen upphör med sitt agerande och inte upprepar detta.</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>Administrativa sanktionsavgifter</p>
+         <div style="margin-left: 24pt; text-indent: -24pt">
+            <p class="norm">i)<span style="word-spacing: 19pt"> </span>för juridiska personer</p>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>på upp till 10 000 000  EUR eller upp till 5 % av den totala årsomsättningen enligt den senast tillgängliga årliga redovisning som har godkänts av styrelsen, om den juridiska personen är ett moderföretag eller ett dotterföretag till ett moderföretag som är skyldigt att upprätta konsoliderad redovisning enligt direktiv 2013/34/EU ska den totala omsättningen i fråga vara den totala årliga omsättningen eller motsvarande typ av intäkt enligt de relevanta räkenskapsdirektiven enligt senast tillgängliga konsoliderade årliga redovisning som godkänts av styrelsen för det yttersta moderföretaget, eller</p>
+            </div>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>upp till två gånger beloppet av de vinster som har erhållits eller de förluster som undvikits genom överträdelsen, om dessa belopp kan fastställas,</p>
+            </div>
+            <p class="list">varvid det högsta beloppet ska användas,</p>
+         </div>
+         <div style="margin-left: 30pt; text-indent: -30pt">
+            <p class="norm">ii)<span style="word-spacing: 23pt"> </span>för fysiska personer</p>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>på upp till 2 000 000  EUR, eller</p>
+            </div>
+            <div style="margin-left: 12pt; text-indent: -12pt; ">
+               <p class="norm">—<span style="word-spacing: 0"> </span>upp till två gånger beloppet av de vinster som har erhållits eller de förluster som undvikits genom överträdelsen, om dessa belopp kan fastställas,</p>
+            </div>
+            <p class="list">varvid det högsta beloppet ska användas.</p>
+         </div>
+      </div>
+      <p class="norm">I de medlemsstater som inte har euron som officiell valuta ska eurons värde i förhållande till den nationella valutan beräknas med beaktande av den officiella växelkursen dagen för ikraftträdandet av Europaparlamentets och rådets direktiv 2013/50/EU av den 22 oktober 2013 om ändring av Europaparlamentets och rådets direktiv 2004/109/EG om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad, av Europaparlamentets och rådets direktiv 2003/71/EG om de prospekt som skall offentliggöras när värdepapper erbjuds till allmänheten eller tas upp till handel och av kommissionens direktiv 2007/14/EG om tillämpningsföreskrifter för vissa bestämmelser i direktiv 2004/109/EG (<a href="#E0024" id="src.E0024">
+            <span class="superscript">24</span>
+         </a>).</p>
+      <p class="norm">2.  Utan att det påverkar de behöriga myndigheternas befogenheter enligt artikel 24 och medlemsstaternas rätt att utdöma straffrättsliga påföljder ska medlemsstaterna se till att deras lagar och andra författningar ger en möjlighet att tillfälligt upphäva rösträtten till aktier vid överträdelser av artikel 28a led b. Medlemsstaterna får begränsa ett tillfälligt upphävande av användandet av rösträtten till de allvarligaste överträdelserna.</p>
+      <p class="norm">3.  Medlemsstaterna får föreskriva ytterligare sanktioner eller åtgärder och högre administrativa sanktionsavgifter än de som föreskrivs i detta direktiv.</p>
+      <p class="title-article-quoted">Artikel 28c</p>
+      <p class="stitle-article-quoted">Utövande av sanktionsbefogenheter</p>
+      <p class="norm">1.  Medlemsstaterna ska säkerställa att de behöriga myndigheterna, när de fastställer vilken typ av och nivån på administrativa sanktioner eller åtgärder, tar hänsyn till alla relevanta omständigheter, i tillämpliga fall inbegripet</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>allvarlighetsgrad och varaktighet,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>den ansvariga fysiska eller juridiska personens grad av ansvar,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>den ansvariga fysiska eller juridiska personens finansiella ställning, som den indikeras genom den ansvariga juridiska personens totala omsättning eller den ansvariga fysiska personens årsinkomst,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">d)<span style="word-spacing: 15pt"> </span>omfattningen av de vinster som erhållits eller de förluster som undvikits av den ansvariga fysiska eller juridiska personen, i den mån detta kan fastställas,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">e)<span style="word-spacing: 15pt"> </span>de förluster som drabbat tredjeparter till följd av överträdelsen, i den mån dessa kan fastställas,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">f)<span style="word-spacing: 17pt"> </span>den ansvariga fysiska eller juridiska personens vilja att samarbeta med den behöriga myndigheten,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">g)<span style="word-spacing: 15pt"> </span>tidigare överträdelser som den ansvariga fysiska eller juridiska personen har gjort sig skyldig till.</p>
+      </div>
+      <p class="norm">2.  Behandlingen av personuppgifter som samlats in vid eller för utövandet av tillsyns- och utredningsbefogenheter enligt detta direktiv ska ske i enlighet med direktiv 95/46/EG och, om relevant, förordning (EG) nr 45/2001.</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">22.<span style="word-spacing: 15pt"> </span>Följande rubrik ska införas före artikel 29:</p>
+      <p class="title-division-1">”KAPITEL VIB</p>
+      <p class="title-division-2">
+         <span class="boldface">OFFENTLIGGÖRANDE AV BESLUT</span>”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">23.<span style="word-spacing: 15pt"> </span>Artikel 29 ska ersättas med följande:</p>
+      <p class="title-article-quoted">”Artikel 29</p>
+      <p class="stitle-article-quoted">Offentliggörande av beslut</p>
+      <p class="norm">1.  Medlemsstaterna ska föreskriva att behöriga myndigheter utan onödigt dröjsmål ska offentliggöra alla beslut om sanktioner och åtgärder som beslutats vid överträdelse av detta direktiv, inklusive information om överträdelsens typ och karaktär och uppgifter om den ansvariga fysiska eller juridiska personen.</p>
+      <p class="norm">De behöriga myndigheterna får dock, på ett sätt som är förenligt med nationell rätt, senarelägga offentliggörandet av ett beslut eller offentliggöra beslutet på anonym grund, i fall då</p>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">a)<span style="word-spacing: 15pt"> </span>vid sanktioner mot fysiska personer, ett offentliggörande av personuppgifter bedöms vara oproportionellt genom en obligatorisk förhandsbedömning av proportionaliteten i ett sådant offentliggörande,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">b)<span style="word-spacing: 15pt"> </span>offentliggörandet skulle utgöra ett allvarligt hot mot det finansiella systemets stabilitet eller en pågående utredning,</p>
+      </div>
+      <div style="margin-left: 24pt; text-indent: -24pt">
+         <p class="norm">c)<span style="word-spacing: 15pt"> </span>offentliggörandet, i den mån detta kan fastställas, skulle orsaka de berörda instituten eller fysiska personerna oproportionellt stor och allvarlig skada.</p>
+      </div>
+      <p class="norm">2.  Om det beslut som offentliggörs enligt punkt 1 överklagas, är den behöriga myndigheten skyldig att inkludera information om detta i offentliggörandet vid tidpunkten för offentliggörandet eller att ändra offentliggörandet, om överklagandet inges efter det ursprungliga offentliggörandet.”</p>
+   </div>
+   <div style="margin-left: 30pt; text-indent: -30pt">
+      <p class="norm">24.<span style="word-spacing: 15pt"> </span>Artikel 31.2 ska ersättas med följande:</p>
+      <p class="norm">”2.  När medlemsstaterna antar åtgärder enligt artiklarna 3.1, 8.2, 8.3 eller 30, ska de genast underrätta kommissionen och de övriga medlemsstaterna om dessa åtgärder.”</p>
+   </div>
+   <p class="title-article-norm">Artikel 2</p>
+   <p class="stitle-article-norm">Ändringar av direktiv 2003/71/EG</p>
+   <p class="norm">I direktiv 2003/71/EG ska artikel 2.1 m iii ersättas med följande:</p>
+   <div style="margin-left: 36pt; text-indent: -36pt">
+      <p class="norm">”iii)<span style="word-spacing: 27pt"> </span>när det gäller samtliga emittenter som har sitt säte i ett tredjeland som emitterar värdepapper som inte nämns i led ii: den medlemsstat som väljs av emittenten, erbjudaren eller den person som ansöker om upptagande till handel, alltefter omständigheterna, bland de medlemsstater där värdepapperen avses erbjudas allmänheten för första gången efter det att Europaparlamentets och rådets direktiv 2013/50/EU av den 22 oktober 2013 om ändring av Europaparlamentets och rådets direktiv 2004/109/EG om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad, av Europaparlamentets och rådets direktiv 2003/71/EG om de prospekt som skall offentliggöras när värdepapper erbjuds till allmänheten eller tas upp till handel och av kommissionens direktiv 2007/14/EG om tillämpningsföreskrifter för vissa bestämmelser i direktiv 2004/109/EG (<a href="#E0025" id="src.E0025">
+            <span class="superscript">25</span>
+         </a>). trätt i kraft eller där den första ansökan om upptagande till handel på en reglerad marknad görs, med förbehåll för senare val som görs av emittenter som har sitt säte i ett tredjeland i fall då</p>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>hemmedlemsstaten inte har fastställts i enlighet med deras val, eller</p>
+      </div>
+      <div style="margin-left: 12pt; text-indent: -12pt; ">
+         <p class="norm">—<span style="word-spacing: 0"> </span>i enlighet med artikel 2.1 i iii i Europaparlamentets och rådets direktiv 2004/109/EG av den 15 december 2004 om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad (<a href="#E0026" id="src.E0026">
+               <span class="superscript">26</span>
+            </a>).</p>
+      </div>
+   </div>
+   <p class="title-article-norm">Artikel 3</p>
+   <p class="stitle-article-norm">Ändringar av direktiv 2007/14/EG</p>
+   <p class="norm">Direktiv 2007/14/EG ska ändras på följande sätt:</p>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">1.<span style="word-spacing: 15pt"> </span>Artikel 2 ska utgå.</p>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">2.<span style="word-spacing: 15pt"> </span>I artikel 11 ska punkterna 1 och 2 utgå.</p>
+   </div>
+   <div style="margin-left: 24pt; text-indent: -24pt">
+      <p class="norm">3.<span style="word-spacing: 15pt"> </span>Artikel 16 ska utgå.</p>
+   </div>
+   <p class="title-article-norm">Artikel 4</p>
+   <p class="stitle-article-norm">Införlivande</p>
+   <p class="norm">1.  Medlemsstaterna ska sätta i kraft de bestämmelser i lagar och andra författningar som är nödvändiga för att följa detta direktiv inom en period av 24 månader från detta direktivs ikraftträdande. De ska genast underrätta kommissionen om detta.</p>
+   <p class="norm">När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.</p>
+   <p class="norm">2.  Medlemsstaterna ska till kommissionen överlämna texten till de bestämmelser i nationell rätt som de antar inom det område som omfattas av detta direktiv.</p>
+   <p class="title-article-norm">Artikel 5</p>
+   <p class="stitle-article-norm">Översyn</p>
+   <p class="norm">
+      <a href="http://publications.europa.eu/resource/celex/32013L0050R%2801%29"
+         onclick="window.open(this.href,'_blanc'); return false;"
+         title="32013L0050R(01): REPLACED">
+         <span class="boldface">►C1</span>
+      </a> Senast den 27 november 2018<span class="boldface"> ◄ </span> ska kommissionen rapportera till Europaparlamentet och rådet om tillämpningen av detta direktiv, inbegripet om dess återverkningar på små och medelstora emittenter och om tillämpningen av sanktioner, särskilt huruvida de är effektiva, proportionella och avskräckande, och ska se över hur metoden för beräkning av antalet rösträtter fungerar och bedöma hur effektiv den är i fråga om de finansiella instrument som avses i artikel 13.1a första stycket i direktiv 2004/109/EG.</p>
+   <p class="norm">Rapporten ska vid behov åtföljas av ett lagstiftningsförslag.</p>
+   <p class="title-article-norm">Artikel 6</p>
+   <p class="stitle-article-norm">Ikraftträdande</p>
+   <p class="norm">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+   <p class="title-article-norm">Artikel 7</p>
+   <p class="stitle-article-norm">Adressater</p>
+   <p class="norm">Detta direktiv riktar sig till medlemsstaterna.</p>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) EUT C 93, 30.3.2012, s. 2.</p>
+   <p class="footnote">(<a href="#src.E0002" id="E0002">
+         <span class="superscript">2</span>
+      </a>) EUT C 143, 22.5.2012, s. 78.</p>
+   <p class="footnote">(<a href="#src.E0003" id="E0003">
+         <span class="superscript">3</span>
+      </a>) Europaparlamentets ståndpunkt av den 12 juni 2013 (ännu ej offentliggjord i EUT) och rådets beslut av den 17 oktober 2013.</p>
+   <p class="footnote">(<a href="#src.E0004" id="E0004">
+         <span class="superscript">4</span>
+      </a>) EUT L 390, 31.12.2004, s. 38.</p>
+   <p class="footnote">(<a href="#src.E0005" id="E0005">
+         <span class="superscript">5</span>
+      </a>) EUT L 295, 12.11.2010, s. 23.</p>
+   <p class="footnote">(<a href="#src.E0006" id="E0006">
+         <span class="superscript">6</span>
+      </a>) EUT L 182, 29.6.2013, s. 19.</p>
+   <p class="footnote">(<a href="#src.E0007" id="E0007">
+         <span class="superscript">7</span>
+      </a>) EUT L 142, 30.4.2004, s. 12.</p>
+   <p class="footnote">(<a href="#src.E0008" id="E0008">
+         <span class="superscript">8</span>
+      </a>) EUT L 331, 15.12.2010, s. 84.</p>
+   <p class="footnote">(<a href="#src.E0009" id="E0009">
+         <span class="superscript">9</span>
+      </a>) EUT L 345, 31.12.2003, s. 64.</p>
+   <p class="footnote">(<a href="#src.E0010" id="E0010">
+         <span class="superscript">10</span>
+      </a>) EUT L 69, 9.3.2007, s. 27.</p>
+   <p class="footnote">(<a href="#src.E0011" id="E0011">
+         <span class="superscript">11</span>
+      </a>) EUT L 96, 12.4.2003, s. 16.</p>
+   <p class="footnote">(<a href="#src.E0012" id="E0012">
+         <span class="superscript">12</span>
+      </a>) EUT L 184, 14.7.2007, s. 17.</p>
+   <p class="footnote">(<a href="#src.E0013" id="E0013">
+         <span class="superscript">13</span>
+      </a>) EUT L 331, 15.12.2010, s. 12.</p>
+   <p class="footnote">(<a href="#src.E0014" id="E0014">
+         <span class="superscript">14</span>
+      </a>) EUT L 331, 15.12.2010, s. 48.</p>
+   <p class="footnote">(<a href="#src.E0015" id="E0015">
+         <span class="superscript">15</span>
+      </a>) EGT L 281, 23.11.1995, s. 31.</p>
+   <p class="footnote">(<a href="#src.E0016" id="E0016">
+         <span class="superscript">16</span>
+      </a>) EGT L 8, 12.1.2001, s. 1.</p>
+   <p class="footnote">(<a href="#src.E0017" id="E0017">
+         <span class="superscript">17</span>
+      </a>) EUT C 369, 17.12.2011, s. 14.</p>
+   <p class="footnote">(<a href="#src.E0018" id="E0018">
+         <span class="superscript">18</span>
+      </a>) EUT L 142, 30.4.2004, s. 12.”</p>
+   <p class="footnote">(<a href="#src.E0019" id="E0019">
+         <span class="superscript">19</span>
+      </a>) EUT L 331, 15.12.2010, s. 84.”</p>
+   <p class="footnote">(<a href="#src.E0020" id="E0020">
+         <span class="superscript">20</span>
+      </a>) EUT L 182, 29.6.2013, s. 19.”</p>
+   <p class="footnote">(<a href="#src.E0021" id="E0021">
+         <span class="superscript">21</span>
+      </a>) EUT L 177, 30.6.2006, s. 201.”</p>
+   <p class="footnote">(<a href="#src.E0022" id="E0022">
+         <span class="superscript">22</span>
+      </a>) EUT L 336, 23.12.2003, s. 33.”</p>
+   <p class="footnote">(<a href="#src.E0023" id="E0023">
+         <span class="superscript">23</span>
+      </a>) EUT L 156, 16.6.2012, s. 1.”</p>
+   <p class="footnote">(<a href="#src.E0024" id="E0024">
+         <span class="superscript">24</span>
+      </a>) EUT L 294, 6.11.2013, s. 13.”</p>
+   <p class="footnote">(<a href="#src.E0025" id="E0025">
+         <span class="superscript">25</span>
+      </a>) EUT L 294, 6.11.2013, s. 13.</p>
+   <p class="footnote">(<a href="#src.E0026" id="E0026">
+         <span class="superscript">26</span>
+      </a>) EUT L 390, 31.12.2004, s. 38.”</p>
+</body>
+</html>

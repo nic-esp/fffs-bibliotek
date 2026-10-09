@@ -1,0 +1,2346 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- fmx2xhtml # converter_version:9.8.0 # generated_on:20220729-0416 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32010L0043 — SV — 01.08.2022</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02010L0043 — SV — 01.08.2022 — 001.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32010L0043"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32010L0043">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-da8f060d-61f8-4b95-820b-af3a14941821">KOMMISSIONENS DIREKTIV 2010/43/EU</p>
+            <p class="title-doc-first" id="id-8777fe70-5fc1-4485-a51c-2cecfd784aad">av den 1 juli 2010</p>
+            <p class="title-doc-first" id="id-35198785-21a6-4c7e-a164-e7f7824295b2">om genomförande av Europaparlamentets och rådets direktiv 2009/65/EG när det gäller organisatoriska krav, intressekonflikter, uppföranderegler, riskhantering och innehållet i avtalet mellan ett förvaringsinstitut och ett förvaltningsbolag</p>
+            <p class="title-doc-last" id="id-03a0fa62-f1eb-4f94-aec8-a160eead6a0e">
+               <a href="http://publications.europa.eu/resource/celex/32010L0043"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32010L0043">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-bf846221-2110-4b5b-86c2-633dafe419b3">(EGT L 176 10.7.2010, s. 42)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrat genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32021L1270"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021L1270">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-12205540-9d41-406a-89bf-ad0fc6b948f6">
+               <a href="http://publications.europa.eu/resource/celex/32021L1270"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32021L1270">KOMMISSIONENS DELEGERADE DIREKTIV (EU) 2021/1270 av den 21 april 2021</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 277</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">141</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">2.8.2021</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <p>
+      <br/>
+   </p>
+   <p class="arrow">
+      <a href="http://publications.europa.eu/resource/celex/32010L0043"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32010L0043">▼B</a>
+   </p>
+   <p class="title-doc-first" id="id-f69644a9-6676-4f28-b681-8f52170bbbeb">KOMMISSIONENS DIREKTIV 2010/43/EU</p>
+   <p class="title-doc-first" id="id-890427c4-bfb2-4185-ad02-25695ac9b09e">av den 1 juli 2010</p>
+   <p class="title-doc-first" id="id-2b9d1211-4d93-4f59-a736-1c3ab7d257a6">om genomförande av Europaparlamentets och rådets direktiv 2009/65/EG när det gäller organisatoriska krav, intressekonflikter, uppföranderegler, riskhantering och innehållet i avtalet mellan ett förvaringsinstitut och ett förvaltningsbolag</p>
+   <p class="title-doc-last" id="id-352f0b14-15cc-4a8e-90da-82bd4c810c95">(Text av betydelse för EES)</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-82e7b930-de0b-4ca0-aabf-68f23f6da97e">KAPITEL I</p>
+   <p class="title-division-2" id="id-09391dc8-1abc-444c-88ef-d730111cd09f">SYFTE, TILLÄMPNINGSOMRÅDE OCH DEFINITIONER</p>
+   <p class="title-article-norm" id="id-af5e1b74-4c90-4b05-b43a-0db3b6e4e9a8">Artikel 1</p>
+   <p class="stitle-article-norm">Syfte</p>
+   <p class="norm">I detta direktiv fastställs bestämmelser för genomförandet av direktiv 2009/65/EG rörande</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>1. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">de förfaranden och arrangemang som avses i artikel 12.1 andra stycket a, och den struktur och organisation som krävs för att minimera intressekonflikter i enlighet med artikel 12.1 andra stycket b,</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>2. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">kriterierna för verksamhet som bedrivs hederligt och rättvist, med vederbörlig skicklighet, omsorg och aktsamhet i fondföretagens intresse och kriterierna för olika typer av intressekonflikter, om de principer som säkerställer att resurserna utnyttjas effektivt, och de åtgärder som bör vidtas för att identifiera, förhindra, hantera eller avslöja intressekonflikter i enlighet med artikel 14.1 och 14.2,</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>3. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">de uppgifter som ska ingå i avtalen mellan förvaringsinstituten och förvaltningsbolagen i enlighet med artiklarna 23.5 och 33.5, och</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>4. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">det förfarande för riskhantering som avses i artikel 51.1, framför allt kriterierna för bedömning av det förfarande för riskhantering som förvaltningsbolaget använder sig av, och riskhanteringsstrategin och de särskilda åtgärderna, förfarandena och teknikerna för riskbedömning och riskhantering i förhållande till de kriterierna.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-74174bd9-4bc7-4162-b889-5bd102b52283">Artikel 2</p>
+   <p class="stitle-article-norm">Tillämpningsområde</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Detta direktiv omfattar förvaltningsbolag som förvaltar företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) i enlighet med artikel 6.2 i direktiv 2009/65/EG.</p>
+         <p class="norm inline-element">Kapitel V i detta direktiv ska också omfatta förvaringsinstitut som bedriver verksamhet i enlighet med kapitel IV och kapitel V avsnitt 3 i direktiv 2009/65/EG.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Bestämmelserna i detta kapitel, artikel 12 i kapitel II och kapitlen III, IV och VI ska gälla i tillämpliga delar för investeringsbolag som inte har utsett något förvaltningsbolag i enlighet med direktiv 2009/65/EG.</p>
+         <p class="norm inline-element">I de fallen ska ”förvaltningsbolag” tolkas som ”investeringsbolag”.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-e4e69f0c-c23e-4a5c-8517-108e0127f6c1">Artikel 3</p>
+   <p class="stitle-article-norm">Definitioner</p>
+   <p class="norm">I detta direktiv gäller, utöver definitionerna i direktiv 2009/65/EG, följande definitioner:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>1. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">kund</span>: en fysisk eller juridisk person eller varje annat företag, även ett fondföretag, som ett förvaltningsbolag tillhandahåller kollektiv portföljförvaltning eller tjänster i enlighet med artikel 6.3 i direktiv 2009/65/EG.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>2. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">andelsägare</span>: en fysisk eller juridisk person som innehar en eller flera andelar i ett fondföretag.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>3. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">relevant person</span>: när det gäller ett förvaltningsbolag, någon av följande:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">en medlem av företagsledningen, delägare eller motsvarande, eller en av förvaltningsbolagets chefer,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">en av förvaltningsbolagets anställda samt varje annan fysisk person vars tjänster står till förfogande för förvaltningsbolaget och under dess kontroll, och som är involverad i den kollektiva portföljförvaltning som förvaltningsbolaget tillhandahåller,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">en fysisk person som inom ramen för ett delegeringsavtal till tredje part deltar direkt i tillhandahållandet av tjänster till förvaltningsbolaget i samband med att förvaltningsbolaget tillhandahåller kollektiv portföljförvaltning.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>4. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">företagsledningen</span>: den eller de personer som leder förvaltningsbolagets verksamhet i enlighet med artikel 7.1 b i direktiv 2009/65/EG.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>5. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">styrelse</span>: förvaltningsbolagets styrelse.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>6. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">tillsynsfunktion</span>: de relevanta personer eller den eller de organ som har ansvaret för tillsynen av högsta ledningen och för bedömning och regelbunden översyn av om den riskhanteringsprocess och de riktlinjer, förfaranden och åtgärder som har inrättats för att uppfylla kraven i direktiv 2009/65/EG är lämpliga och rimliga.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>7. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">motpartsrisk</span>: fondföretagets risk för förlust till följd av att motparten i en transaktion kanske inte uppfyller sina förpliktelser före den slutliga avvecklingen av transaktionens betalningsflöde.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>8. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">likviditetsrisk</span>: risken för att en position i fondföretagets portfölj inte kan säljas, lösas in eller avslutas till en begränsad kostnad inom en rimlig tid och att fondföretaget därför inte alltid är i stånd att efterleva artikel 84.1 i direktiv 2009/65/EG.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>9. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">marknadsrisk</span>: fondföretagens risk för förlust på grund av fluktuationer i marknadsvärdet på positioner i fondföretagets portfölj till följd av ändrade marknadsvariabler, såsom räntor, växelkurser, aktie- och råvarupriser eller en emittents kreditvärdighet.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>10. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">operativ risk</span>: fondföretagens risk för förlust på grund av otillräckliga interna förfaranden och brister när det gäller personal och system i förvaltningsbolaget eller yttre faktorer; här ingår även rättsliga och dokumentationsrelaterade risker och risker till följd av handels-, avvecklings- och värderingsförfaranden, som används på fondföretagets vägnar.</p>
+      </div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021L1270"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021L1270: INSERTED">▼M1</a>
+   </p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>11. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">hållbarhetsrisk</span>: hållbarhetsrisk enligt definitionen i artikel 2.22 i Europaparlamentets och rådets förordning (EU) 2019/2088 (<a href="#E0001" id="src.E0001">
+               <span class="superscript">1</span>
+            </a>).</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>12. </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">
+            <span class="italics">hållbarhetsfaktorer</span>: hållbarhetsfaktorer enligt definitionen i artikel 2.24 i förordning (EU) 2019/2088.</p>
+      </div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32010L0043"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32010L0043">▼B</a>
+   </p>
+   <p class="norm">I begreppet <span class="italics">styrelse</span>, som definieras i första stycket punkt 5 ska inte övervakningsrådet ingå i de fall då förvaltningsbolagen har en dubbel struktur bestående av en styrelse och ett övervakningsråd.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-e94c63e8-f126-4f4f-966d-da525e3209f3">KAPITEL II</p>
+   <p class="title-division-2" id="id-ed02cb56-d0d4-4039-a4ad-251fdaa34733">ADMINISTRATIVA FÖRFARANDEN OCH KONTROLLMEKANISMER</p>
+   <p class="title-division-2" id="id-32ae6a5b-b2e0-48c3-8aaa-e947c29056e8">(Artiklarna 12.1 a och 14.1 c i direktiv 2009/65/EG)</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-561ae891-8621-41be-9cbd-8f85b59154da">AVSNITT 1</p>
+   <p class="title-division-2" id="id-2b9a2f75-ea75-4f9a-bdf2-456d0a262c99">Allmänna principer</p>
+   <p class="title-article-norm" id="id-32da62f4-398e-46c4-b1cd-0257105e7f38">Artikel 4</p>
+   <p class="stitle-article-norm">Allmänna krav på förfaranden och organisation</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">inför, tillämpar och upprätthåller beslutsförfaranden och organisationsstrukturer som klart och på ett dokumenterat sätt anger rapporteringsvägar och fördelar funktioner och ansvarsområden,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">säkerställer att deras relevanta personer är medvetna om de förfaranden som måste följas för att de ska fullgöra sina skyldigheter korrekt,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">inför, tillämpar och upprätthåller lämpliga interna kontrollmekanismer som är utformade för att säkerställa att beslut och förfaranden efterlevs på alla nivåer inom förvaltningsbolaget,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">inför, tillämpar och upprätthåller effektiv intern rapportering och förmedling av information på alla relevanta nivåer i förvaltningsbolaget samt ett effektivt informationsflöde med alla berörda tredje parter,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">registrerar uppgifter noggrant och korrekt avseende verksamheten och den interna organisationen.</p>
+            </div>
+         </div>
+         <p class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen beaktar sin verksamhets art, omfattning och komplexitet, och arten på och omfattningen av de tjänster och de uppgifter som utförs inom ramen för verksamheten.</p>
+      </div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021L1270"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021L1270: INSERTED">▼M1</a>
+   </p>
+   <p class="norm">Medlemsstaterna ska säkerställa att förvaltningsbolagen beaktar hållbarhetsrisker i sin efterlevnad av kraven i första stycket.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32010L0043"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32010L0043">▼B</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför, tillämpar och upprätthåller de system och förfaranden som krävs för att med hänsyn till den berörda informationens art slå vakt om dess säkerhet, integritet och konfidentialitet.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför, tillämpar och upprätthåller lämpliga riktlinjer för avbrottsfri verksamhet för att vid ett eventuellt system- eller procedurfel säkerställa att deras viktigaste uppgifter och funktioner bevaras och att deras tjänster och verksamhet upprätthålls eller, om detta inte är möjligt, för att möjliggöra att dessa uppgifter och funktioner återvinns utan dröjsmål, och att tjänster och verksamhet snabbt kan återupptas.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför, tillämpar och upprätthåller redovisningsprinciper och redovisningsförfaranden som gör det möjligt för dem att på begäran från den behöriga myndigheten utan dröjsmål inkomma med finansiella rapporter som ger en rättvisande bild av företagets finansiella ställning och som överensstämmer med alla tillämpliga redovisningsstandarder och redovisningsregler.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen övervakar och regelbundet utvärderar sina system, interna kontrollmekanismer och åtgärder som införts enligt punkterna 1–4 för att säkerställa att de är effektiva, och att de vidtar lämpliga åtgärder för att avhjälpa eventuella brister.</div>
+   </div>
+   <p class="title-article-norm" id="id-415d8b49-63d3-4345-a27a-095d9eeecca3">Artikel 5</p>
+   <p class="stitle-article-norm">Resurser</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen anställer personal med den kompetens, kännedom och sakkunskap som krävs för att kunna fullgöra de uppgifter som tilldelats dem.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen innehar de resurser och den sakkunskap som krävs för att effektivt övervaka de uppgifter som tredje part utför inom ramen för ett avtal med förvaltningsbolaget, särskilt med hänsyn till hanteringen av de risker som är förbundna med avtalen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen, när relevanta personer fullgör flera funktioner, säkerställer att detta inte hindrar, och sannolikt inte kommer att hindra, dessa personer från att fullgöra sina särskilda funktioner på ett sunt, ärligt och professionellt sätt.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Med avseende på punkterna 1, 2 och 3 ska medlemsstaterna säkerställa att förvaltningsbolagen beaktar sin verksamhets art, omfattning och komplexitet, och arten på och omfattningen av de tjänster och de uppgifter som utförs inom ramen för verksamheten.</div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021L1270"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021L1270: INSERTED">▼M1</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen vid tillämpning av punkterna 1, 2 och 3 har de resurser och den sakkunskap som de behöver för att faktiskt integrera hållbarhetsrisker.</div>
+   </div>
+   <p class="title-article-norm" id="id-af1eb267-f17b-460f-b136-296d95ac69b6">Artikel 5a</p>
+   <p class="stitle-article-norm">Skyldighet för investeringsbolag att integrera hållbarhetsrisker i förvaltningen av fondföretag</p>
+   <p class="norm">Medlemsstaterna ska säkerställa att investeringsbolagen integrerar hållbarhetsrisker i förvaltningen av fondföretag med beaktande av arten och omfattningen av och komplexiteten hos investeringsbolagens verksamhet.</p>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32010L0043"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32010L0043">▼B</a>
+   </p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-e7b5e59d-f6f7-4f88-b787-003d40d7f1f4">AVSNITT 2</p>
+   <p class="title-division-2" id="id-6dd6b702-c82f-4190-9d7a-e746c29ea08c">Förfaranden för administration och bokföring</p>
+   <p class="title-article-norm" id="id-b815ee06-02af-47b9-9999-884ef2329c50">Artikel 6</p>
+   <p class="stitle-article-norm">Hantering av klagomål</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför, tillämpar och upprätthåller effektiva och öppna förfaranden för en rimlig och snabb hantering av klagomål från investerare.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att uppgifterna om varje klagomål och de åtgärder som vidtagits för att avhjälpa detta bevaras.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Investerare ska kunna lämna in klagomål kostnadsfritt. Uppgifter om förfarandena i punkt 1 ska kostnadsfritt göras tillgängliga för investerare.</div>
+   </div>
+   <p class="title-article-norm" id="id-8563db41-38ed-4853-8891-1993c591dbb4">Artikel 7</p>
+   <p class="stitle-article-norm">Elektronisk databehandling</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför lämpliga elektroniska system, så att alla portföljtransaktioner och order om teckning och inlösen kan registreras i rätt tid och på rätt sätt och kraven i artiklarna 14 och 15 efterlevas.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen garanterar en hög säkerhetsnivå vid elektronisk databehandling samt den registrerade informationens integritet och vid behov konfidentialitet.</div>
+   </div>
+   <p class="title-article-norm" id="id-d055dd43-5d94-4b17-9993-bf2cf2f4e246">Artikel 8</p>
+   <p class="stitle-article-norm">Redovisningsförfaranden</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen för att skydda andelsägarna garanterar tillämpningen av de redovisningsprinciper och redovisningsförfaranden som avses i artikel 4.4.</p>
+         <p class="norm inline-element">Räkenskaperna för fondföretag ska föras på ett sådant sätt att alla fondföretagets tillgångar och skulder är direkt identifierbara vid varje tidpunkt.</p>
+         <p class="norm inline-element">Om ett fondföretag har olika delfonder ska de ha separata räkenskaper.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför, genomför och använder redovisningsprinciper och redovisningsförfaranden som är förenliga med redovisningsbestämmelserna i fondföretagets hemmedlemsstat för att säkerställa att beräkningen av fondandelsvärdet för varje fondföretag blir korrekt, utifrån redovisningen, och att order om teckning och inlösen kan utföras till det fondandelsvärdet.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför lämpliga strukturer för att säkerställa en korrekt värdering av fondföretags tillgångar och skulder, i enlighet med gällande regler för värdering enligt artikel 85 i direktiv 2009/65/EG.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-cba77e6e-4a21-4586-90bb-73f21ccebf7d">AVSNITT 3</p>
+   <p class="title-division-2" id="id-947f9d23-bd4a-4edf-af88-5a042bfb76f4">Interna kontrollmekanismer</p>
+   <p class="title-article-norm" id="id-4fc8fa52-7271-4e01-9548-a1afbcb475a0">Artikel 9</p>
+   <p class="stitle-article-norm">Kontroll av företagsledningen och tillsynsfunktionen</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolag vid den interna fördelningen av funktionerna säkerställer att företagsledningen och, i förekommande fall, tillsynsfunktionen är ansvariga för att förvaltningsbolaget fullgör sina skyldigheter enligt direktiv 2009/65/EG.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Förvaltningsbolagen ska se till att företagsledningen</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">har ansvaret för genomförandet av den allmänna placeringsinriktning för varje förvaltat fondföretag, som i tillämpliga fall definieras i prospektet, fondbestämmelserna eller investeringsbolagets bolagsordning,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">övervakar godkännandet av placeringsstrategierna för varje förvaltat fondföretag,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">har ansvaret för att säkerställa att förvaltningsbolaget innehar en permanent och effektiv funktion för regelefterlevnad, i enlighet med artikel 10, även om denna funktion utförs av tredje part,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">säkerställer och med jämna mellanrum kontrollerar att den allmänna placeringsinriktningen, placeringsstrategierna och riskbegränsningarna för varje förvaltat fondföretag genomförs korrekt och effektivt och efterlevs, även när riskhanteringsfunktionen utförs av tredje part,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">godkänner och med jämna mellanrum kontrollerar att de interna förfarandena för beslut om investeringar för varje förvaltat fondföretag är lämpliga, i syfte att säkerställa att dessa beslut är förenliga med de godkända placeringsstrategierna, och</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>f) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">godkänner och med jämna mellanrum kontrollerar riskhanteringsstrategin och de särskilda åtgärderna, förfarandena och teknikerna för genomförandet av denna strategi i enlighet med artikel 38, inklusive riskbegränsningssystemet för varje förvaltat fondföretag.</p>
+            </div>
+         </div>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32021L1270"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32021L1270: INSERTED">▼M1</a>
+         </p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>g) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">har ansvaret för att hållbarhetsrisker integreras i de uppgifter som avses i leden a–f.</p>
+            </div>
+         </div>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32010L0043"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32010L0043">▼B</a>
+         </p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Förvaltningsbolaget ska också se till att företagsledningen och, i förekommande fall, tillsynsfunktionen</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">bedömer och med jämna mellanrum kontrollerar effektiviteten hos de metoder, ordningar och förfaranden som har införts för att efterleva kraven i direktiv 2009/65/EG, och</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">vidtar lämpliga åtgärder för att avhjälpa eventuella brister.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att företagsledningen får regelbundna, åtminstone årliga, skriftliga rapporter avseende regelefterlevnad, internrevision och riskhantering, i vilka det bland annat anges om lämpliga korrigeringsåtgärder har vidtagits vid eventuella brister.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att företagsledningen får regelbundna rapporter om genomförandet av placeringsstrategier och om de interna förvaranden för investeringsbeslut som avses i punkt 2 b–e.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">6.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att tillsynsfunktionen, i förekommande fall, regelbundet får skriftliga rapporter om de frågor som avses i punkt 4.</div>
+   </div>
+   <p class="title-article-norm" id="id-6e9a4cf0-8641-4d17-a185-eb2d895a728a">Artikel 10</p>
+   <p class="stitle-article-norm">Permanent funktion för regelefterlevnad</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen dels inför, tillämpar och upprätthåller lämpliga riktlinjer och förfaranden för att upptäcka risker för att bolagen inte klarar att uppfylla sina skyldigheter enligt direktiv 2009/65/EG, samt andra risker i samband med detta, dels vidtar lämpliga åtgärder för att minimera riskerna och göra det möjligt för de behöriga myndigheterna att utöva sina befogenheter effektivt enligt det direktivet.</p>
+         <p class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen beaktar sin verksamhets art, omfattning och komplexitet, och arten på och omfattningen av de tjänster och de uppgifter som utförs inom ramen för verksamheten.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför och upprätthåller en permanent och effektiv funktion för regelefterlevnad som arbetar oberoende och som ansvarar för att</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">övervaka och regelbundet bedöma om de åtgärder, riktlinjer och förfaranden som inrättats i enlighet med punkt 1 är lämpliga och effektiva, och utvärdera de åtgärder som vidtagits för att avhjälpa eventuella brister i förvaltningsbolagets efterlevnad av sina skyldigheter, samt</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">råda och stödja relevanta personer som ansvarar för att utföra tjänster och uppgifter i syfte att uppfylla förvaltningsbolagets skyldigheter enligt direktiv 2009/65/EG.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">För att den funktion för regelefterlevnad som avses i punkt 2 ska kunna fullgöra sina uppgifter korrekt och på ett oberoende sätt ska förvaltningsbolagen säkerställa att följande villkor är uppfyllda:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Funktionen för regelefterlevnad ska ha de befogenheter och resurser och den sakkunskap som krävs samt tillgång till all relevant information.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">En person ska utses att ansvara för funktionen för regelefterlevnad och för all regelbunden, minst årlig, rapportering till företagsledningen om regelefterlevnad, där det bland annat anges om lämpliga korrigeringsåtgärder har vidtagits vid eventuella brister.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De relevanta personer som deltar i funktionen för regelefterlevnad ska inte delta i utförandet av tjänster eller uppgifter som de övervakar.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Metoden för att fastställa ersättningen till de relevanta personer som deltar i funktionen för regelefterlevnad får inte äventyra, eller sannolikt kunna komma att äventyra, deras objektivitet.</p>
+            </div>
+         </div>
+         <p class="norm inline-element">Ett förvaltningsbolag ska dock inte vara skyldigt att uppfylla kraven i första stycket leden c och d om det med hänsyn till verksamhetens art, omfattning och komplexitet, och tjänsternas och uppgifternas natur och omfattning, kan visa att kraven inte är proportionella och att dess funktion för regelefterlevnad fortfarande är effektiv.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-c0636fa5-38cb-40e0-a0b2-5757fbf68ce2">Artikel 11</p>
+   <p class="stitle-article-norm">En permanent internrevisionsfunktion</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Om det med hänsyn till arten, omfattningen och komplexiteten hos förvaltningsbolagens verksamhet, och arten på och omfattningen av den kollektiva portföljförvaltning som utförs inom ramen för den verksamheten är lämpligt och rimligt ska medlemsstaterna kräva att förvaltningsbolagen inrättar och upprätthåller en internrevisionsfunktion som är åtskild från och oberoende av bolagens övriga funktioner och verksamhet.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Den internrevisionsfunktion som avses i punkt 1 ska ha till uppgift att</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">införa, tillämpa och upprätthålla en revisionsplan för att undersöka och bedöma om förvaltningsbolagets system, interna kontrollmekanismer och åtgärder är lämpliga och rimliga,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">utfärda rekommendationer på grundval av det arbete som utförts enligt led a,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">kontrollera att rekommendationerna i led b följs,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">rapportera med avseende på internrevisionsfrågor i enlighet med artikel 9.4.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-49bc2672-bc1d-4827-b2fd-ebb10afef85c">Artikel 12</p>
+   <p class="stitle-article-norm">En permanent riskhanteringsfunktion</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inrättar och upprätthåller en permanent riskhanteringsfunktion.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Den permanenta riskhanteringsfunktion som avses i punkt 1 ska vara hierarkiskt och funktionellt oberoende av de operativa enheterna.</p>
+         <p class="norm inline-element">Medlemsstaterna får emellertid tillåta att förvaltningsbolagen avviker från det kravet när det är lämpligt och rimligt med hänsyn till arten, omfattningen och komplexiteten hos verksamheten på förvaltningsbolaget och de fondföretag det förvaltar.</p>
+         <p class="norm inline-element">Ett förvaltningsbolag ska kunna styrka att lämpliga åtgärder till skydd mot intressekonflikter har vidtagits för att möjliggöra en oberoende riskhantering och att dess riskhanteringsprocess uppfyller kraven i artikel 51 i direktiv 2009/65/EG.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Den permanenta riskhanteringsfunktionen ska</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">genomföra riktlinjer och förfaranden för riskhantering,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">säkerställa att fondföretagens riskbegränsningssystem efterlevs, även i fråga om lagstadgade begränsningar för total exponering och motpartsrisk i enlighet med artiklarna 41, 42 och 43,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">ge råd till styrelsen vid identifiering av riskprofilen för varje förvaltat fondföretag,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">tillhandahålla styrelsen och, i tillämpliga fall, tillsynsfunktionen med regelbundna rapporter om</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>i) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">överensstämmelsen mellan den nuvarande risknivån för vart och ett av de förvaltade fondföretagen och den överenskomna riskprofilen för det fondföretaget,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>ii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">vart och ett av de förvaltade fondföretagens efterlevnad av de relevanta riskbegränsningssystemen,</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>iii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">riskhanteringsprocessen, huruvida den är lämplig och effektiv och framför allt om lämpliga korrigeringsåtgärder har vidtagits vid eventuella brister,</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">tillhandahålla företagsledningen med regelbundna rapporter om den nuvarande risknivån för vart och ett av de förvaltade fondföretagen och alla faktiska eller förväntade överskridanden av gränserna i syfte att säkra att lämpliga åtgärder kan vidtas omgående,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>f) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">kontrollera och främja, i tillämpliga fall, ordningar och förfaranden för värdering av OTC-derivat i enlighet med artikel 44.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Den permanenta riskhanteringsfunktionen ska ha de befogenheter som krävs och tillgång till all relevant information som krävs för att fullgöra uppgifterna i punkt 3.</div>
+   </div>
+   <p class="title-article-norm" id="id-bc613779-6a9b-4ac0-9096-f06c5d322414">Artikel 13</p>
+   <p class="stitle-article-norm">Privata transaktioner</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Om en relevant person deltar i verksamhet som kan ge upphov till en intressekonflikt eller har tillgång till insiderinformation i enlighet med artikel 1.1 i direktiv 2003/6/EG eller annan konfidentiell information avseende fondföretag eller transaktioner med eller för fondföretag till följd av verksamhet som denne utför för förvaltningsbolagets räkning, ska medlemsstaterna kräva att förvaltningsbolagen inför, tillämpar och upprätthåller lämpliga åtgärder för att förhindra följande:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Att en privat transaktion utförs som uppfyller minst ett av följande kriterier:</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>i) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Den relevanta personen är förbjuden att utföra den privata transaktionen enligt betydelsen i direktiv 2003/6/EG.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>ii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Transaktionen innebär missbruk eller otillbörligt röjande av konfidentiell information.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>iii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Transaktionen strider mot, eller kommer sannolikt att strida mot, förvaltningsbolagets skyldigheter enligt direktiv 2009/65/EG eller direktiv 2004/39/EG.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Att den relevanta personen råder eller föranleder, på annat sätt än inom ramen för sin anställning eller ett tjänsteavtal, någon annan person att utföra en transaktion med finansiella instrument som, om det gällde en privat transaktion från den relevanta personens sida, skulle omfattas av denna punkt led a eller artikel 25.2 a eller b i direktiv 2006/73/EG, eller på annat sätt skulle utgöra missbruk av information om icke-utförda order.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Att den relevanta personen, på annat sätt än inom ramen för sin anställning eller ett tjänsteavtal och utan att det påverkar tillämpningen av artikel 3 a i direktiv 2003/6/EG, röjer information eller synpunkter till någon annan person om den relevanta personen vet, eller rimligtvis borde veta, att den andra personen till följd av att informationen röjts kommer att eller sannolikt skulle komma att vidta någon av följande åtgärder:</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>i) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Utföra en transaktion med finansiella instrument som, om det gällde en privat transaktion från den relevanta personens sida, skulle omfattas av denna punkt led a eller artikel 25.2 a eller b i direktiv 2006/73/EG, eller på annat sätt skulle utgöra missbruk av information om icke-utförda order.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>ii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Råda eller föranleda en annan person att utföra en sådan transaktion.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">De åtgärder som krävs enligt punkt 1 ska särskilt utformas för att säkerställa att</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">alla relevanta personer som omfattas av punkt 1 är medvetna om begränsningarna avseende privata transaktioner och de åtgärder som fastställts av förvaltningsbolaget med avseende på privata transaktioner och röjande av information enligt punkt 1,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">förvaltningsbolaget snabbt underrättas om alla privata transaktioner som utförts av en relevant person, antingen genom att de anmäls eller genom andra förfaranden som gör det möjligt för förvaltningsbolaget att identifiera dessa transaktioner,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">uppgifter om de privata transaktioner som anmäls till eller som identifieras av förvaltningsbolaget bevaras, däribland alla godkännanden eller förbud avseende dessa transaktioner.</p>
+            </div>
+         </div>
+         <p class="norm inline-element">Vid tillämpningen av första stycket led b, då vissa uppgifter utförs av tredje part, ska förvaltningsbolaget se till att den enhet som utför uppgifterna registrerar privata transaktioner som en relevant person företar samt på begäran snabbt överlämnar den informationen till förvaltningsbolaget.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Punkterna 1 och 2 ska inte tillämpas på följande slag av privata transaktioner:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Privata transaktioner som genomförs som ett led i en portföljförvaltningstjänst med handlingsutrymme för förvaltaren, där det inte finns något föregående utbyte av information i samband med transaktionen mellan portföljförvaltaren och den relevanta personen, eller någon annan person för vars räkning transaktionen utförs.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Privata transaktioner i fondföretag eller med andelar i företag för kollektiva investeringar (fondföretag) som omfattas av tillsyn enligt lagstiftningen i en medlemsstat som kräver en motsvarande riskspridning bland tillgångarna, förutsatt att den relevanta personen eller någon annan person för vars räkning transaktionerna utförs inte deltar i förvaltningen av företaget.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">I punkterna 1, 2 och 3 i denna artikel ska begreppet <span class="italics">privat transaktion</span> ha samma betydelse som i artikel 11 i direktiv 2006/73/EG.</div>
+   </div>
+   <p class="title-article-norm" id="id-92434396-7fe4-4e9f-9d68-aea8d3c4d115">Artikel 14</p>
+   <p class="stitle-article-norm">Registrering av portföljtransaktioner</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att information omgående registreras för varje portföljtransaktion som involverar fondföretag, så att ordern och den genomförda transaktionen kan rekonstrueras i detalj.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Den registrerade information som avses i punkt 1 ska omfatta</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">namnet eller en annan beteckning på fondföretaget och den person som agerar på fondföretagets vägnar,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">uppgifter som är nödvändiga för att identifiera instrumentet i fråga,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">kvantitet,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">orderns eller transaktionens typ,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">pris,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>f) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">för order: datum och den exakta tidpunkten för vidarebefordran av ordern och namn eller annan beteckning på den person som ordern vidarebefordrades till; för transaktioner: datum och den exakta tidpunkten för beslutet att handla och genomförandet av transaktionen,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>g) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">namnet på den person som vidarebefordrade ordern eller genomförde transaktionen,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>h) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">i tillämpliga fall, orsakerna till att en order dragits tillbaka,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>i) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">motpart och handelsplats, för transaktioner som har genomförts.</p>
+            </div>
+         </div>
+         <p class="norm inline-element">I första stycket led i avses med <span class="italics">handelsplats</span> en reglerad marknad enligt artikel 4.1 led 14 i direktiv 2004/39/EG, en multilateral handelsplattform enligt artikel 4.1 led 15 i det direktivet, en systematisk internhandlare enligt artikel 4.7 samma direktiv, en marknadsgarant eller en annan person som tillhandahåller likviditet eller en enhet som i tredjeland utför en liknande funktion som någon av de nämnda.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-bf454c9a-8d77-46db-b647-1f807eba6777">Artikel 15</p>
+   <p class="stitle-article-norm">Registrering av order om teckning och inlösen</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen vidtar alla rimliga mått och steg för att säkerställa att mottagna order om teckning och inlösen som involverar fondföretag samlas och registreras omgående efter mottagandet.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Detta register ska omfatta information om</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">det relevanta fondföretaget,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">den person som ger eller vidarebefordrar ordern,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">den person som tar emot ordern,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">datum och tidpunkt då ordern gavs,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">betalningsvillkor och betalningsmedel,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>f) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">orderns typ,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>g) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">datum då ordern utfördes,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>h) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">antalet andelar som tecknats eller lösts in,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>i) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">tecknings- eller inlösenpris per andel,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>j) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">andelarnas sammanlagda tecknings- eller inlösenpris,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>k) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">orderns bruttovärde, inklusive teckningsavgifter, eller nettobeloppet efter avdrag för inlösenavgift.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-5ffb06d5-7759-4ee0-988f-1450eaa97d6b">Artikel 16</p>
+   <p class="stitle-article-norm">Registreringskrav</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen ser till att de register som avses i artiklarna 14 och 15 bevaras i minst fem år.</p>
+         <p class="norm inline-element">I undantagsfall, när det är nödvändigt för att myndigheten ska kunna utföra sin tillsynsfunktion enligt direktiv 2009/65/EG, får de behöriga myndigheterna dock kräva att förvaltningsbolagen bevarar en del eller alla dessa uppgifter under en längre period som fastställs med hänsyn till instrumentets eller portföljtransaktionens karaktär.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">När ett förvaltningsbolags auktorisering har upphört får medlemsstaterna eller de behöriga myndigheterna kräva att förvaltningsbolaget bevarar de registrerade uppgifter som avses i punkt 1 till dess att femårsperioden har löpt ut.</p>
+         <p class="norm inline-element">Om förvaltningsbolaget överlåter sitt ansvar gentemot fondföretagen till ett annat förvaltningsbolag, får medlemsstaterna eller de behöriga myndigheterna kräva att åtgärder vidtas så att bolaget i fråga får tillgång till de registrerade uppgifterna för de senaste fem åren.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Uppgifterna ska bevaras på ett medium som gör det möjligt att lagra information så att den är tillgänglig för den behöriga myndigheten i framtiden, i en sådan form och på ett sådant sätt att följande villkor är uppfyllda:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Den behöriga myndigheten ska lätt kunna komma åt uppgifterna och kunna rekonstruera varje viktigt steg i hanteringen av varje enskild portföljtransaktion.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Det ska vara lätt att fastställa vilka korrigeringar och övriga ändringar som gjorts, samt uppgifternas innehåll före dessa korrigeringar och ändringar.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Det får inte vara möjligt att manipulera eller förändra uppgifterna på annat sätt.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-3b4ac28e-1b8a-497d-a56b-227303921935">KAPITEL III</p>
+   <p class="title-division-2" id="id-de461bb9-c553-4b26-b3ab-2742ce282e10">INTRESSEKONFLIKT</p>
+   <p class="title-division-2" id="id-b7b54f77-c35d-4ead-abea-7dab76467adf">(Artiklarna 12.1 b, 14.1 d och 14.2 c i direktiv 2009/65/EG)</p>
+   <p class="title-article-norm" id="id-ff555819-672a-45ac-951c-c8545f8a59a7">Artikel 17</p>
+   <p class="stitle-article-norm">Kriterier för identifiering av intressekonflikter</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">För att kunna identifiera de typer av intressekonflikter som uppkommer vid tillhandahållandet av tjänster och uppgifter och som kan skada ett fondföretags intresse, ska medlemsstaterna säkerställa att förvaltningsbolagen genom minimikriterier beaktar om förvaltningsbolaget, en relevant person eller en person som är direkt eller indirekt knuten till förvaltningsbolaget genom kontroll, när det tillhandahåller kollektiv portföljförvaltning eller av annan anledning, befinner sig i någon av följande situationer:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Förvaltningsbolaget eller den berörda personen skulle sannolikt göra en ekonomisk vinst eller undvika en ekonomisk förlust på bekostnad av fondföretaget.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Förvaltningsbolaget eller den berörda personen har ett annat intresse än fondföretaget av resultatet av en tjänst eller en uppgift som tillhandahålls fondföretaget eller en annan kund, eller av en transaktion som genomförs för fondföretagets eller en annan kunds räkning.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Förvaltningsbolaget eller den berörda personen har ett ekonomiskt eller annat skäl att gynna någon annan kunds eller kundgrupps intressen framför fondföretagets intressen.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Förvaltningsbolaget eller den berörda personen utför samma slags uppgifter för fondföretaget som för en eller flera andra kunder som inte är fondföretag.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Förvaltningsbolaget eller den berörda personen tar emot eller kommer, i samband med kollektiv portföljförvaltning som tillhandahålls fondföretaget, att ta emot ett incitament från en annan person än fondföretaget i form av pengar, varor eller tjänster utöver standardprovisionen eller avgiften för tjänsten i fråga.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen, när de identifierar de olika typerna av intressekonflikter, tar hänsyn till</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">förvaltningsbolagets intressen, även de som kan hänföras till grupptillhörighet eller till de tjänster och de uppgifter det utför, kundernas intressen och förvaltningsbolagets skyldigheter gentemot fondföretaget, samt</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">två eller fler förvaltade fondföretags intressen.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021L1270"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021L1270: INSERTED">▼M1</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen, när de identifierar de olika typerna av intressekonflikter som kan skada ett fondföretags intressen, inkluderar de typer av intressekonflikter som kan uppstå till följd av att hållbarhetsrisker integreras i deras processer, system och interna kontroller.</div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32010L0043"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32010L0043">▼B</a>
+   </p>
+   <p class="title-article-norm" id="id-16bb9fb2-15de-4fcb-bbf0-eef109fb7f1a">Artikel 18</p>
+   <p class="stitle-article-norm">Riktlinjer vid intressekonflikter</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför, tillämpar och upprätthåller effektiva riktlinjer för intressekonflikter. Riktlinjerna ska fastställas skriftligen och vara avpassade för förvaltningsbolagets storlek och organisation samt för verksamhetens art, omfattning och komplexitet.</p>
+         <p class="norm inline-element">Om förvaltningsbolaget ingår i en företagsgrupp ska riktlinjerna också beakta de omständigheter som bolaget är eller borde vara medvetet om och som kan ge upphov till en intressekonflikt till följd av strukturen eller affärsverksamheten i andra företag i gruppen.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">I de riktlinjer för intressekonflikter som utarbetas enligt punkt 1 ska</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">med hänsyn till den kollektiva portföljförvaltning som utförs av förvaltningsbolaget eller för dess räkning, det identifieras vilka omständigheter som utgör eller kan ge upphov till en intressekonflikt som medför en betydande risk för att fondföretagets eller en eller flera andra kunders intressen skadas,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">det anges vilka förfaranden som ska tillämpas och vilka åtgärder som ska vidtas för att hantera sådana konflikter.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-86a7bd43-1912-4233-a2cb-1c1f7797b75a">Artikel 19</p>
+   <p class="stitle-article-norm">Oberoende vid konflikthantering</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att de förfaranden och åtgärder som avses i artikel 18.2 b utformas på ett sätt som säkerställer att de relevanta personer, som deltar i affärsverksamheter som innebär en intressekonflikt, bedriver dessa verksamheter med en lämplig grad av oberoende med hänsyn till förvaltningsbolagets storlek och verksamhet, den företagsgrupp som de tillhör och hur reell risken är för att kundernas intressen ska skadas.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">De förfaranden och åtgärder som avses i artikel 18.2 b ska, i den utsträckning som det är nödvändigt och lämpligt för att förvaltningsbolaget ska kunna säkerställa en erforderlig grad av oberoende, inbegripa följande:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Ändamålsenliga förfaranden för att förebygga eller kontrollera informationsutbyte mellan relevanta personer som deltar i sådan kollektiv portföljförvaltning som innebär en risk för intressekonflikt och där utbytet av den berörda informationen skulle kunna skada en eller flera kunders intressen.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Separat tillsyn av relevanta personer vars viktigaste funktioner är att bedriva kollektiv portföljförvaltning åt eller tillhandahålla tjänster till kunder eller investerare vars intressen kan vara motstridiga, eller som på annat sätt företräder olika intressen som kan vara motstridiga, däribland i förhållande till förvaltningsbolagets egna intressen.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Avlägsnande av alla direkta samband mellan ersättningen till relevanta personer som främst utför en verksamhet och ersättningen till, eller intäkterna som genererats av, olika relevanta personer som i huvudsak utför en annan verksamhet, om det kan uppstå en intressekonflikt i samband med dessa verksamheter.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Åtgärder för att förhindra eller begränsa möjligheten för personer att utöva olämpligt inflytande över det sätt på vilket en relevant person utför kollektiv portföljförvaltning.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Åtgärder för att förhindra eller kontrollera en relevant persons samtida eller följande deltagande i separat kollektiv portföljförvaltning, när ett sådant engagemang kan påverka hanteringen av intressekonflikter negativt.</p>
+            </div>
+         </div>
+         <p class="norm inline-element">När antagandet eller tillämpningen av en eller flera av dessa åtgärder och förfaranden inte säkerställer erforderlig grad av oberoende, ska medlemsstaterna kräva att förvaltningsbolagen antar sådana alternativa eller kompletterande åtgärder och förfaranden som krävs och är lämpliga i detta syfte.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-cdd29a4e-2f78-4a1b-a2ef-c90b028a85f0">Artikel 20</p>
+   <p class="stitle-article-norm">Hantering av verksamhet som ger upphov till skadliga intressekonflikter</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen dokumenterar och regelbundet uppdaterar uppgifter om alla slag av kollektiv portföljförvaltning som utförs av det förvaltningsbolag, eller för det förvaltningsbolags räkning, i vilket det har uppkommit en intressekonflikt som innebär en betydande risk för att en eller flera fondföretags eller andra kunders intressen skadas eller, när det gäller pågående kollektiv portföljförvaltning, där det kan uppstå en sådan intressekonflikt.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Om de organisatoriska och administrativa system som ett förvaltningsbolag har infört för att hantera intressekonflikter inte ger tillräckliga garantier för att effektivt förhindra att fondföretagens eller deras andelsägares intressen påverkas negativt, ska medlemsstaterna kräva att företagsledningen eller ett annat behörigt internt organ i bolaget omgående informeras, så att de får möjlighet att anta de beslut som krävs för att garantera att förvaltningsbolaget agerar i fondföretagens och deras andelsägares intresse.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Förvaltningsbolaget ska rapportera till investerarna om sådana situationer som avses i punkt 2 genom ett lämpligt varaktigt medium och motivera sitt beslut.</div>
+   </div>
+   <p class="title-article-norm" id="id-e7f1b5a6-c233-48c6-bc3e-84c74e210bc5">Artikel 21</p>
+   <p class="stitle-article-norm">Strategier för att utöva rösträtter</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen utvecklar lämpliga och effektiva strategier för att fastställa när och hur rösträtter som är knutna till instrumenten i de förvaltade portföljerna ska utövas, uteslutande till förmån för fondföretagen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Strategierna i punkt 1 ska omfatta åtgärder och förfaranden för</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">tillsyn av relevanta företagshändelser,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">säkerställande av att rösträtterna utövas i enlighet med de berörda fondföretagens mål och riktlinjer för investeringar, och</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">förebyggande eller hantering av intressekonflikter som uppkommer när rösträtter utövas.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">En sammanfattande beskrivning av strategierna i punkt 1 ska göras tillgänglig för investerarna.</p>
+         <p class="norm inline-element">Närmare uppgifter om de åtgärder som vidtagits utifrån dessa strategier ska på begäran göras tillgängliga för andelsägarna kostnadsfritt.</p>
+      </div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-086397a0-19f6-495f-abcd-02ca7cdf575c">KAPITEL IV</p>
+   <p class="title-division-2" id="id-ab941e40-ac6b-424c-b606-e8d67b86a269">FÖRHÅLLNINGSREGLER</p>
+   <p class="title-division-2" id="id-9d217356-b194-423b-a8ad-13465effc198">(Artikel 14.1 a och b, och 14.2 a och b i direktiv2009/65/EC)</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-8131f6eb-fb9f-40e4-ba90-393b4e0ef7a7">AVSNITT 1</p>
+   <p class="title-division-2" id="id-766d6ed7-147a-499d-b362-b5d1f1a2e548">Allmänna principer</p>
+   <p class="title-article-norm" id="id-04bb01ea-0c80-445c-8420-7d6410879bd9">Artikel 22</p>
+   <p class="stitle-article-norm">Skyldighet att agera i fondföretagets och andelsägarnas intresse</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen ser till att andelsägarna i de förvaltade fondföretagen behandlas rättvist.</p>
+         <p class="norm inline-element">Förvaltningsbolagen ska inte prioritera vissa andelsägares intresse framför andras.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen tillämpar lämpliga strategier och förfaranden för att förhindra oegentligheter som rimligen kan förväntas påverka marknadens stabilitet och integritet.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Utan att det påverkar tillämpningen av nationell lagstiftning ska medlemsstaterna kräva att förvaltningsbolagen säkerställer att skäliga, korrekta och överskådliga prissättningsmodeller och värderingssystem används för de fondföretag de förvaltar, så att skyldigheten att agera i andelsägarnas intresse efterlevs. Förvaltningsbolagen ska kunna styrka att fondföretagens portföljer har värderats korrekt.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen agerar på ett sådant sätt att fondföretagen och deras andelsägare inte debiteras onödiga omkostnader.</div>
+   </div>
+   <p class="title-article-norm" id="id-4a3647c0-85bb-405e-b6dc-3c326fa40f22">Artikel 23</p>
+   <p class="stitle-article-norm">Krav på vederbörlig aktsamhet</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen garanterar stor aktsamhet vid valet och den löpande övervakningen av investeringar, i fondföretagens och marknadsintegritetens intresse.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen har adekvat kunskap och förståelse för de tillgångar fondföretagen har investerat i.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför skriftliga riktlinjer och förfaranden om vederbörlig aktsamhet och vidtar effektiva åtgärder för att säkerställa att beslut om investeringar på fondföretagens vägnar utförs i överensstämmelse med företagens mål, placeringsstrategier och riskbegränsningar.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen, när de genomför sin riskhanteringsstrategi och när så är lämpligt med hänsyn till den planerade investeringens art, utarbetar prognoser och analyser om investeringens bidrag till fondföretagets portföljsammansättning, likviditet och risk/avkastningsprofil innan de gör investeringen. Analyserna ska genomföras utifrån pålitlig och uppdaterad information, både kvantitativ och kvalitativ.</p>
+         <p class="norm inline-element">Förvaltningsbolagen ska agera med vederbörlig skicklighet, omsorg och aktsamhet när de vidtar, förvaltar och upphäver åtgärder med tredje part i samband med riskhantering. Innan de inleder sådana åtgärder ska förvaltningsbolagen vidta nödvändiga mått och steg för att kontrollera att tredje part har den kunskap och förmåga som krävs för att utföra riskhanteringen tillförlitligt, professionellt och effektivt. Förvaltningsbolaget ska fastställa metoder för löpande bedömning av hur väl tredje part utför sina uppgifter.</p>
+      </div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32021L1270"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32021L1270: INSERTED">▼M1</a>
+   </p>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen beaktar hållbarhetsrisker i sin efterlevnad av kraven i punkterna 1–4.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">6.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolag eller, i tillämpliga fall, investeringsbolag, om de beaktar investeringsbesluts huvudsakliga negativa konsekvenser för hållbarhetsfaktorer i enlighet med artikel 4.1 a i förordning (EU) 2019/2088 eller enligt kraven i artikel 4.3 eller 4.4. i den förordningen, även beaktar sådana huvudsakliga negativa konsekvenser i sin efterlevnad av kraven i punkterna 1–4 i den här artikeln.</div>
+   </div>
+   <p class="modref">
+      <a href="http://publications.europa.eu/resource/celex/32010L0043"
+         onclick="window.open(this.href,'_blank'); return false;"
+         title="32010L0043">▼B</a>
+   </p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-36b60031-914b-4e1b-accd-d9fc6107cb32">AVSNITT 2</p>
+   <p class="title-division-2" id="id-dae09b18-c15e-4ec7-b444-fa6babef1d12">Hantering av order om teckning och inlösen</p>
+   <p class="title-article-norm" id="id-2e359dea-2a09-4e20-a5b2-716238079994">Artikel 24</p>
+   <p class="stitle-article-norm">Rapporteringskrav i samband med order om teckning och inlösen</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska säkerställa att när förvaltningsbolagen har utfört en order om teckning eller inlösen från en andelsägare, måste de meddela andelsägaren via ett varaktigt medium att ordern har utförts; de måste göra detta så snart som möjligt och senast den första affärsdagen efter utförandet eller, om förvaltningsbolaget tar emot bekräftelsen från en tredje part, senast första arbetsdagen efter mottagandet av bekräftelsen från den tredje parten.</p>
+         <p class="norm inline-element">Det första stycket ska inte tillämpas om meddelandet skulle innehålla samma information som en bekräftelse som omgående ska översändas till andelsägaren av en annan person.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Det meddelande som avses i punkt 1 ska i tillämpliga fall innehålla följande information:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Identifikationsuppgifter om förvaltningsbolaget.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Andelsägarens namn eller annan beteckning.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Datum och tidpunkt för mottagandet av ordern samt betalningsmetod.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Datum då ordern utfördes.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Identifikationsuppgifter om fondföretaget.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>f) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Orderns beskaffenhet (teckning eller inlösen).</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>g) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Antal berörda enheter.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>h) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Andelens värde vid teckning eller inlösen.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>i) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Datum för referensvärdet.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>j) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Orderns bruttovärde, inklusive teckningsavgifter, eller nettobeloppet efter avdrag för inlösenavgifter.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>k) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Den totala summan av provisioner och kostnader som tagits ut och, om en investerare så begär, en specifikation av de enskilda posterna.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">När order regelbundet utförs på en andelsägares vägnar ska förvaltningsbolagen antingen vidta de åtgärder som avses i punkt 1 eller minst en gång var sjätte månad tillhandahålla andelsägaren de uppgifter som avses i punkt 2 om dessa transaktioner.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Förvaltningsbolagen ska på begäran tillhandahålla andelsägaren information om orderns status.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-716a21a9-be3d-4876-aaa1-168ca1b5b08f">AVSNITT 3</p>
+   <p class="title-division-2" id="id-3579359e-8fd5-4152-a1f2-dcc5e8c26c45">Bästa möjliga utförande</p>
+   <p class="title-article-norm" id="id-b1c7406b-6d6d-4b96-a68f-c03f69e440a5">Artikel 25</p>
+   <p class="stitle-article-norm">Utförande av beslut om att handla på det förvaltade fondföretagets vägnar</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen agerar i de förvaltade fondföretagens intresse när de utför beslut om att handla på de förvaltade fondföretagens vägnar vid förvaltningen av deras portföljer.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Vid tillämpningen av punkt 1 ska medlemsstaterna se till att förvaltningsbolagen vidtar alla rimliga åtgärder för att uppnå bästa möjliga resultat för fondföretagen, med beaktande av pris, kostnad, skyndsamhet, sannolikhet för utförande och avveckling, orderstorlek, orderart eller varje annat övervägande av intresse för utförandet av ordern. Dessa faktorers relativa betydelse ska fastställas utifrån följande kriterier:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Fondföretagens specifika mål, placeringsstrategi och riskprofil, som anges i prospektet eller eventuellt i fondföretagets fondbestämmelser eller bolagsordning.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Utmärkande egenskaper för ordern.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Utmärkande egenskaper för de finansiella instrument som omfattas av ordern.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Utmärkande egenskaper för de handelsplatser som ordern kan skickas till.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen upprättar och genomför effektiva förfaranden för att uppfylla kravet i punkt 2. Framför allt ska förvaltningsbolagen utforma och genomföra riktlinjer som gör det möjligt för dem att uppnå bästa möjliga resultat för fondföretagens order i enlighet med punkt 2.</p>
+         <p class="norm inline-element">Förvaltningsbolagen ska inhämta förhandsgodkännande från investeringsföretagen om riktlinjerna för utförandet. Förvaltningsbolaget ska tillgängliggöra för andelsägarna lämplig information om de riktlinjer som har fastställts i enlighet med denna artikel och om eventuella väsentliga ändringar i riktlinjerna.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Förvaltningsbolagen ska regelbundet kontrollera hur deras system och riktlinjer för utförandet av order fungerar i praktiken, så att de kan identifiera och avhjälpa eventuella brister.</p>
+         <p class="norm inline-element">Dessutom ska förvaltningsbolagen årligen se över riktlinjerna för utförandet. En översyn ska också göras vid varje tillfälle då en väsentlig förändring inträffar som påverkar förvaltningsbolagets förutsättningar för att fortsätta att uppnå bästa resultat för de förvaltade fondföretagen.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Förvaltningsbolagen ska kunna styrka att de har utfört order på fondföretagens vägnar i enlighet med förvaltningsbolagets riktlinjer för utförande.</div>
+   </div>
+   <p class="title-article-norm" id="id-ec3e91ac-34ea-4d36-b028-7759ad98685c">Artikel 26</p>
+   <p class="stitle-article-norm">Placering hos andra enheter av order att handla på fondföretags vägnar</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen agerar i sina förvaltade fondföretags intresse när de vid förvaltningen av fondföretagens portföljer placerar order hos andra enheter om att handla på de förvaltade fondföretagens vägnar.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska se till att förvaltningsbolagen vidtar alla rimliga åtgärder för att uppnå bästa möjliga resultat för fondföretagen med beaktande av pris, kostnad, skyndsamhet, sannolikhet för utförande och avveckling, storlek, art eller varje annat övervägande av intresse för utförandet av ordern. Dessa faktorers relativa betydelse ska fastställas med hänvisning till artikel 25.2.</p>
+         <p class="norm inline-element">Därför ska förvaltningsbolagen införa och tillämpa riktlinjer som gör det möjligt för dem att uppfylla kravet i första stycket. I riktlinjerna ska det för varje kategori av instrument anges vilka enheter som ordern bör placeras hos. Förvaltningsbolagen ska endast ingå i system för utförande av order när systemen uppfyller kraven i denna artikel. Förvaltningsbolagen ska tillgängliggöra andelsägarna lämplig information om de riktlinjer som har fastställts i enlighet med denna punkt och om eventuella väsentliga ändringar i riktlinjerna.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Förvaltningsbolagen ska regelbundet kontrollera att de riktlinjer som införts enligt punkt 2 är effektiva, särskilt kvaliteten på utförandet för de enheter som anges i riktlinjerna, och avhjälpa eventuella brister.</p>
+         <p class="norm inline-element">Dessutom ska förvaltningsbolagen årligen se över riktlinjerna. En sådan översyn ska också göras vid varje tillfälle då en väsentlig förändring inträffar som påverkar förvaltningsbolagens förutsättningar för att fortsätta att uppnå bästa resultat för de förvaltade fondföretagen.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Förvaltningsbolagen ska kunna uppvisa att de har placerat order på fondföretagens vägnar i enlighet med de riktlinjer som fastställts i enlighet med punkt 2.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-1b5dd93f-4ae1-4db6-b5d5-da6336a947c6">AVSNITT 4</p>
+   <p class="title-division-2" id="id-e2841007-653f-4c10-a75f-63b3b8ebf3cc">Hantering av order</p>
+   <p class="title-article-norm" id="id-e6639ad0-0af6-4958-855f-426df2925b27">Artikel 27</p>
+   <p class="stitle-article-norm">Allmänna principer</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför och tillämpar förfaranden och arrangemang som gör att portföljtransaktioner på fondföretagens vägnar kan utföras snabbt, effektivt och rättvist.</p>
+         <p class="norm inline-element">De förfaranden och arrangemang som förvaltningsbolagen genomför ska</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">säkerställa att order som utförts på fondföretagens vägnar registreras och fördelas snabbt och korrekt,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">utföra i övrigt jämförbara order från fondföretag omgående och i den tidsföljd som de togs emot, såvida detta inte omöjliggörs av orderns egenskaper eller rådande marknadsförhållanden, eller om något annat krävs på grund av fondföretagets intressen.</p>
+            </div>
+         </div>
+         <p class="norm inline-element">Finansiella instrument eller medel som tagits emot för att avveckla den utförda ordern ska snabbt och korrekt överföras till det berörda fondföretagets konto.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Ett förvaltningsbolag ska inte missbruka information som avser ännu inte utförda order från fondföretag och ska vidta alla rimliga mått och steg för att förhindra att någon av företagets relevanta personer missbrukar sådan information.</div>
+   </div>
+   <p class="title-article-norm" id="id-9bfc7b4a-5e6e-4cbd-a808-23c1608259e3">Artikel 28</p>
+   <p class="stitle-article-norm">Ackumulering och fördelning av order att handla</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna får inte tillåta att förvaltningsbolagen ackumulerar en order för ett fondföretag med en order från ett annat fondföretag eller en annan kund eller med en order för egen räkning, om inte följande villkor är uppfyllda:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Det ska vara osannolikt att ackumuleringen av order generellt kommer att vara till nackdel för några fondföretag eller kunder vars order ingår i den.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Riktlinjer för fördelning av order ska fastställas och genomföras; riktlinjerna ska tillräckligt ingående behandla rättvis fördelning av ackumulerade order, däribland hur deras volym och pris bestämmer fördelning samt behandling av delvis utförda order.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att om ett förvaltningsbolag ackumulerar en order från ett fondföretag med en eller flera order från andra fondföretag eller kunder och den ackumulerade ordern delvis utförs, ska förvaltningsbolaget fördela de berörda affärerna i enlighet med sina riktlinjer för fördelning av order.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolag, som har ackumulerat transaktioner för egen räkning med en eller flera order från fondföretag eller andra kunder, inte fördelar de berörda affärerna på ett sätt som är till nackdel för fondföretaget eller den andra kunden.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Om ett förvaltningsbolag ackumulerar en order från ett fondföretag eller en annan kund med en transaktion för egen räkning och den ackumulerade ordern delvis utförs ska medlemsstaterna kräva att förvaltningsbolaget vid fördelningen av de berörda affärerna prioriterar fondföretaget eller den andra kunden före affären i egen räkning.</p>
+         <p class="norm inline-element">Om emellertid förvaltningsbolaget på rimliga grunder kan visa för fondföretaget eller den andra kunden att det inte skulle ha kunnat utföra ordern utan ackumulering till dessa fördelaktiga villkor, eller över huvud taget, får det fördela transaktionen för egen räkning proportionellt i enlighet med de riktlinjer som avses i punkt 1 b.</p>
+      </div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-1a49bcfb-3726-4502-bc9b-ca2bd01a26dd">AVSNITT 5</p>
+   <p class="title-division-2" id="id-83810826-e8e2-4b2a-a340-70dc07729f5b">Incitament</p>
+   <p class="title-article-norm" id="id-f7e2c0f7-bd16-4278-acc4-67c1072a1f51">Artikel 29</p>
+   <p class="stitle-article-norm">Skydd av fondföretagens intressen</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska säkerställa att förvaltningsbolagen inte anses handla hederligt, rättvist eller professionellt i ett fondföretags intresse, om de vid investeringsförvaltning och administration för ett fondföretags räkning, betalar eller tar emot en annan avgift, provision eller naturaförmån än följande:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">En avgift, provision eller naturaförmån som erläggs eller ges till eller av fondföretaget eller en person för fondföretagets räkning.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">En avgift, courtage eller en naturaförmån som erläggs eller ges till eller av en tredje part eller en person som agerar för tredje parts räkning, om följande villkor är uppfyllda:</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>i) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Fondföretaget ska ha blivit klart upplyst om avgiftens, courtagets eller förmånens förekomst, art och belopp, eller om beloppet inte kan fastställas, om metoden för beräkning av beloppet; informationen ska tillhandahållas på ett heltäckande, korrekt och förståeligt sätt innan den berörda tjänsten tillhandahålls.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>ii) </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">Betalningen av avgiften eller courtaget, eller tillhandahållandet av naturaförmånen, ska vara utformade för att höja kvaliteten på den berörda tjänsten och inte hindra förvaltningsbolaget från att uppfylla sin skyldighet att agera i fondföretagets intresse.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Faktiska avgifter som möjliggör eller krävs för tillhandahållande av tjänsterna i fråga, såsom depåkostnader, avvecklings- och växlingsavgifter, lagstadgade avgifter, och som genom sin art inte kan strida mot förvaltningsbolagets förpliktelser att handla hederligt, rättvist och professionellt i fondföretagens intresse.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Vid tillämpning av bestämmelserna i punkt 1 b i ska medlemsstaterna tillåta att förvaltningsbolagen informerar om de grundläggande villkoren för systemet med avseende på avgiften, provisionen eller naturaförmånen i form av en sammanfattning, förutsatt att förvaltningsbolaget åtar sig att lämna ut närmare uppgifter på andelsägarens begäran och uppfyller detta åtagande.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-54e91249-d250-4dc0-95e6-083c6be34d1a">KAPITEL V</p>
+   <p class="title-division-2" id="id-1dd34a5e-5aae-4880-bbe9-bef96c84c617">UPPGIFTER I STANDARDAVTALET MELLAN FÖRVARINGSINSTITUT OCH FÖRVALTNINGSBOLAG</p>
+   <p class="title-division-2" id="id-44d1a66e-63b2-4328-aedd-8edcd32f68f6">(Artiklarna 23.5 och 33.5 i direktiv 2009/65/EG)</p>
+   <p class="title-article-norm" id="id-d7e01102-9a20-45a6-b0b6-4b647e045526">Artikel 30</p>
+   <p class="stitle-article-norm">Faktorer med anknytning till de förfaranden som de avtalsslutande parterna ska följa</p>
+   <p class="norm">Medlemsstaterna ska kräva att förvaringsinstituten och förvaltningsbolagen, i detta kapitel kallade <span class="italics">de avtalsslutande parterna</span>, i det skriftliga avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG minst införlivar följande uppgifter som rör de tjänster som tillhandahålls av de avtalsslutande parterna och de förfaranden som parterna ska följa:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">En beskrivning av de förfaranden, även förfarandena för förvaring, som ska antas för varje typ av tillgång som fondföretagen överlåter på förvaringsinstitutet.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">En beskrivning av de förfaranden som ska följas när förvaltningsbolaget har för avsikt att ändra fondföretagens fondbestämmelser eller prospekt, med angivelse av när förvaringsinstitutet bör informeras och när förhandsgodkännande krävs från förvaringsinstitutet innan ändringen kan göras.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">En beskrivning av de medel och förfaranden som förvaringsinstitutet ska använda för att till förvaltningsbolaget överföra all den information som bolaget behöver för att utföra sina uppgifter, bland annat en beskrivning av de medel och förfaranden som är knuta till utövandet av rättigheter som följer med finansiella instrument och de medel och förfaranden som används för att säkra att förvaltningsbolaget och fondföretaget utan dröjsmål får tillgång till exakt information om fondföretagets räkenskaper.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>d) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">En beskrivning av de medel och förfaranden som ger förvaringsinstitutet tillgång till all den information som det behöver för att utföra sina uppgifter.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>e) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">En beskrivning av de förfaranden som gör förvaringsinstitutet i stånd att undersöka förvaltningsbolagets agerande och bedöma kvaliteten på den information som överförts, bland annat genom besök på plats.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>f) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">En beskrivning av de förfaranden som gör förvaltningsbolaget i stånd att bedöma hur väl förvaringsinstitutet utför sina kontraktsmässiga åtaganden.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-8c9536be-1e87-4aa0-87d5-12ed4a1d2fc5">Artikel 31</p>
+   <p class="stitle-article-norm">Faktorer med anknytning till informationsutbyte, krav på konfidentialitet och penningtvätt</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att de avtalsslutande parterna till det avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG införlivar minst följande faktorer avseende informationsutbyte, krav på konfidentialitet och penningtvätt i avtalet:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">En förteckning över all den information som fondföretaget, dess förvaltningsbolag och förvaringsinstitutet ska utbyta om teckning, inlösen, utfärdande, makulering och återköp av fondföretagets andelar.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De avtalsslutande parternas skyldigheter när det gäller konfidentialitet.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Information om de avtalsslutande parternas uppgifter och ansvar när det gäller skyldigheterna som hör samman med att bekämpa penningtvätt och terrorismfinansiering, när så är tillämpligt.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Skyldigheterna i första stycket b ska utformas på ett sådant sätt att de inte hindrar varken de behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat eller de behöriga myndigheterna i fondföretagets hemmedlemsstat att få tillgång till relevanta dokument och upplysningar.</div>
+   </div>
+   <p class="title-article-norm" id="id-9ba6760a-c0e7-4576-bf3a-e0d6518096d1">Artikel 32</p>
+   <p class="stitle-article-norm">Faktorer med anknytning till utseende av tredje part</p>
+   <p class="norm">När förvaringsinstituten eller förvaltningsbolagen utser en tredje part att utföra deras respektive uppgifter, ska medlemsstaterna kräva att båda avtalsslutande parter till det avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG inför minst följande faktorer i avtalet:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Ett åtagande från båda avtalsslutande parter om att regelbundet ge närmare upplysningar om de tredje parter som förvaringsinstitutet eller förvaltningsbolaget har utsett till att utföra deras respektive uppgifter.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Ett åtagande om att den ena parten på anmodan från den andra informerar om de villkor som legat till grund för valet av tredje part, och de steg som har tagits för att övervaka de uppgifter som den utvalda tredje parten utför.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">En förklaring om att ett förvaringsinstituts ansvar enligt artikel 24 eller 34 i direktiv 2009/65/EG ska gälla oberoende av om institutet anförtrott förvaringen av samtliga eller vissa tillgångar till tredje part.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-d315c73a-bd64-4ba5-8d54-a14f5396e684">Artikel 33</p>
+   <p class="stitle-article-norm">Faktorer med anknytning till eventuella ändringar och uppsägningen av avtalet</p>
+   <p class="norm">Medlemsstaterna ska kräva att de avtalsslutande parterna till det avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG minst införlivar följande uppgifter avseende ändring och uppsägning av avtalet i det avtalet:</p>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>a) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Avtalets giltighetstid.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>b) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Villkoren för när avtalet får ändras eller sägas upp.</p>
+      </div>
+   </div>
+   <div class="grid-container grid-list">
+      <div class="list grid-list-column-1">
+         <span>c) </span>
+      </div>
+      <div class="grid-list-column-2">
+         <p class="norm">Villkoren för att underlätta överföringen till ett annat förvaringsinstitut och, vid sådan överföring, det förfarande som förvaringsinstitutet ska använda för att överlämna all relevant information till det andra förvaringsinstitutet.</p>
+      </div>
+   </div>
+   <p class="title-article-norm" id="id-4f48f230-ed5a-40ed-ae58-e75be425f2ca">Artikel 34</p>
+   <p class="stitle-article-norm">Tillämplig lagstiftning</p>
+   <p class="norm">Medlemsstaterna ska kräva att de avtalsslutande parterna till det avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG anger att lagstiftningen i fondföretagets hemmedlemsstat är tillämplig på avtalet.</p>
+   <p class="title-article-norm" id="id-f3acd506-7e62-4d51-a8af-b7735ce57999">Artikel 35</p>
+   <p class="stitle-article-norm">Överföring av information på elektronisk väg</p>
+   <p class="norm">Om de avtalsslutande parterna till det avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG kommer överens om att en del eller all information överförs på elektronisk väg dem emellan, ska medlemsstaterna kräva att avtalet i fråga innehåller bestämmelser om att sådan information registreras.</p>
+   <p class="title-article-norm" id="id-6b758969-d36e-4702-85b5-db816614a0e5">Artikel 36</p>
+   <p class="stitle-article-norm">Avtalets räckvidd</p>
+   <p class="norm">Medlemsstaterna får tillåta att det avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG omfattar mer än ett fondföretag som förvaltas av förvaltningsbolaget. I så fall ska avtalet innehålla en förteckning över de fondföretag som omfattas.</p>
+   <p class="title-article-norm" id="id-bd6e3ca8-c092-4bb0-a678-36c38bf23029">Artikel 37</p>
+   <p class="stitle-article-norm">Servicenivåavtal</p>
+   <p class="norm">Medlemsstaterna ska tillåta att de avtalsslutande parterna, i det avtal som avses i artikel 23.5 eller 33.5 i direktiv 2009/65/EG eller i ett separat skriftligt avtal, anger närmare uppgifter om de medel och förfaranden som avses i artikel 30 c och d.</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-d483867a-080e-4f1e-9dc3-63a4818a8763">KAPITEL VI</p>
+   <p class="title-division-2" id="id-8e7d1bdb-934b-4e3c-82ef-65a1e8c16e38">RISKHANTERING</p>
+   <p class="title-division-2" id="id-271a5916-2e5a-4ac6-abb2-340382063c12">(Artikel 51.1 i direktiv 2009/65/EG)</p>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-9f486699-2b66-4189-83e5-b8e8385f14d3">AVSNITT 1</p>
+   <p class="title-division-2" id="id-affba9f9-c3fc-4980-b5e7-fd4d39b2963c">Riktlinjer för riskhantering och riskbedömning</p>
+   <p class="title-article-norm" id="id-b4a71d86-b881-4ea3-943b-125a031f8bea">Artikel 38</p>
+   <p class="stitle-article-norm">Riktlinjer för riskhantering</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen inför, tillämpar och upprätthåller lämpliga och dokumenterade riktlinjer för riskhantering, i vilka de risker som de förvaltade fondföretagen utsätts för eller kan utsättas för identifieras.</p>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32021L1270"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32021L1270: REPLACED">▼M1</a>
+         </p>
+         <p class="norm inline-element">Riktlinjerna för riskhantering ska omfatta de förfaranden som är nödvändiga för att göra förvaltningsbolaget i stånd till att för varje förvaltat fondföretag värdera exponeringen för marknads-, likviditets-, hållbarhets- och motpartsrisker samt företagets exponering för alla andra risker, däribland operativa risker, som kan vara av avgörande betydelse för det enskilda förvaltade fondföretaget.</p>
+         <p class="modref">
+            <a href="http://publications.europa.eu/resource/celex/32010L0043"
+               onclick="window.open(this.href,'_blank'); return false;"
+               title="32010L0043">▼B</a>
+         </p>
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen tar upp minst följande faktorer i riktlinjerna för riskhantering:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De tekniker, redskap och förfaranden som gör det möjligt för dem att uppfylla kraven i artiklarna 40 och 41.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Ansvarsfördelningen inom förvaltningsbolaget med hänsyn till riskhantering.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att riktlinjerna för riskhantering enligt punkt 1 behandlar villkoren för, innehållet i och regelbundenheten för de rapporter som riskhanteringsfunktionen enligt artikel 12 ska tillhandahålla styrelsen och företagsledningen och, i tillämpliga fall, tillsynsfunktionen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Vid tillämpning av punkterna 1 och 2 ska medlemsstaterna säkerställa att förvaltningsbolagen tar hänsyn till arten, omfattningen och komplexiteten hos den egna och de förvaltade fondföretagens verksamhet.</div>
+   </div>
+   <p class="title-article-norm" id="id-7dc0b833-a2fe-4488-9b02-2f3704cd329e">Artikel 39</p>
+   <p class="stitle-article-norm">Bedömning, övervakning och översyn av riktlinjerna för riskhantering</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen bedömer, övervakar och med jämna mellanrum ser över</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">att riktlinjerna för riskhantering och de åtgärder, förfaranden och tekniker som avses i artiklarna 40 och 41 är lämpliga och effektiva,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">i vilken utsträckning förvaltningsbolagen efterlever riktlinjerna för riskhantering och de åtgärder, förfaranden och tekniker som avses i artiklarna 40 och 41,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">att de åtgärder som vidtagits för att avhjälpa eventuella brister i genomförandet av riskhanteringsprocessen är lämpliga och effektiva.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen underrättar de behöriga myndigheterna i sina hemmedlemsstater om eventuella väsentliga ändringar i riskhanteringsprocessen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att kraven i punkt 1 ses över av de behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat löpande och när auktorisation beviljas.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-02dd53aa-30b6-4e36-8f74-5b168b9ed9fc">AVSNITT 2</p>
+   <p class="title-division-2" id="id-43014e45-6dce-4051-b362-ae7061a9ed44">Riskhanteringsprocesser, exponering för motpartsrisk och emittentkoncentration</p>
+   <p class="title-article-norm" id="id-b5414070-4128-4d2f-8423-2c7d8f5aaa81">Artikel 40</p>
+   <p class="stitle-article-norm">Riskbedömning och riskhantering</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen antar lämpliga och effektiva åtgärder, förfaranden och tekniker för att</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">vid varje tidpunkt mäta och hantera de risker som de förvaltade fondföretagen är eller kan bli utsatta för,</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">se till att begränsningarna för total exponering och motpartsrisk efterlevs i enlighet med artiklarna 41 och 43.</p>
+            </div>
+         </div>
+         <p class="norm inline-element">Åtgärderna, förfarandena och teknikerna ska vara proportionerliga med arten, omfattningen och komplexiteten hos förvaltningsbolagens egen verksamhet och de förvaltade fondföretagens verksamhet, och vara förenliga med fondföretagens riskprofil.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Vid tillämpningen av punkt 1 ska medlemsstaterna kräva att förvaltningsbolagen vidtar följande åtgärder för varje fondföretag de förvaltar:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De ska införa sådana förfaranden och tekniker för riskbedömning som krävs för att säkerställa att de risker som är förbundna med tagna positioner och deras bidrag till den samlade riskprofilen mäts korrekt utifrån försvarliga och tillförlitliga uppgifter, och att förfarandena och teknikerna för riskbedömning dokumenteras på lämpligt sätt.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">I syfte att pröva giltigheten hos förfarandena för riskbedömning ska de i tillämpliga fall utföra regelbundna utfallstester som omfattar modellbaserade prognoser och uppskattningar.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>c) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De ska i tillämpliga fall utföra regelbundna stresstester och scenarioanalyser för att hantera riskerna vid potentiella förändringar i marknadsvillkoren som skulle kunna påverka fondföretagen negativt.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>d) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De ska införa, tillämpa och upprätthålla ett dokumenterat system av interna gränser för de åtgärder som vidtas för att styra och kontrollera de relevanta riskerna för varje fondföretag, med hänsyn till alla de risker som kan vara väsentliga för fondföretagen i enlighet med artikel 38 och säkerställa att de är förenliga med fondföretagens riskprofil.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>e) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De ska säkerställa att den nuvarande risknivån för varje fondföretag är förenlig med riskbegränsningssystemet i led d.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>f) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">De ska införa, tillämpa och upprätthålla lämpliga förfaranden som, vid faktiska eller väntade överskridanden av fondföretagens riskgränser, utan dröjsmål leder till avhjälpande åtgärder i andelsägarnas intresse.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska se till att förvaltningsbolagen använder en lämplig process för likviditetsriskhantering för att säkerställa att varje fondföretag de förvaltar vid varje tidpunkt kan efterleva artikel 84.1 i direktiv 2009/65/EG.</p>
+         <p class="norm inline-element">Förvaltningsbolagen ska när så är lämpligt utföra stresstester som gör det möjligt att bedöma fondföretagens likviditetsrisk under extraordinära omständigheter.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att likviditetsprofilen för varje förvaltat fondföretags investeringar är förenlig med den inlösenpolicy som fastställs i fondbestämmelserna, i bolagsordningen eller i prospektet.</div>
+   </div>
+   <p class="title-article-norm" id="id-26071515-275d-4583-b897-87508f21c4c0">Artikel 41</p>
+   <p class="stitle-article-norm">Beräkning av total exponering</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen beräknar ett förvaltat fondföretags totala exponering enligt artikel 51.3 i direktiv 2009/65/EG, på ett av följande sätt:</p>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>a) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Den extra exponering och hävstångseffekt som det förvaltade fondföretaget genererar genom att använda finansiella derivatinstrument, även innefattade inbäddade derivat enligt artikel 51.3 fjärde stycket i direktiv 2009/65/EG, som inte får överskrida fondföretagets totala fondandelsvärde.</p>
+            </div>
+         </div>
+         <div class="grid-container grid-list">
+            <div class="list grid-list-column-1">
+               <span>b) </span>
+            </div>
+            <div class="grid-list-column-2">
+               <p class="norm">Marknadsrisken i fondföretagens portfölj.</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen beräknar fondföretagens totala exponering minst en gång om dagen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna får tillåta att förvaltningsbolagen beräknar den totala exponeringen med hjälp av åtagandemetoden, Value-at-risk–modellen eller andra avancerade riskbedömningsmetoder som är lämpliga. Vid tillämpningen av denna bestämmelse avses med<span class="italics">Value-at-risk</span> ett mått för den högsta förväntade förlusten vid en given säkerhetsgrad under en bestämd tidsperiod.</p>
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att den metod som väljs för att mäta total exponering är lämplig med hänsyn till fondföretagets investeringsstrategi, den typ av finansiella derivatinstrument som används, och deras komplexitet, och hur stor del av fondföretagets portfölj som utgörs av finansiella derivatinstrument.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">När ett fondföretag i enlighet med artikel 51.2 i direktiv 2009/65/EG använder tekniker och instrument, även återköpsavtal eller transaktioner avseende utlåning av värdepapper, i syfte att generera ytterligare hävstångseffekt eller exponering för marknadsrisk, ska medlemsstaterna kräva att förvaltningsbolagen tar hänsyn till dessa transaktioner vid beräkningen av total exponering.</div>
+   </div>
+   <p class="title-article-norm" id="id-7a0c2a03-5609-400c-ab0a-b37cab3a3353">Artikel 42</p>
+   <p class="stitle-article-norm">Åtagandemetod</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">När åtagandemetoden används för att beräkna total exponering, ska medlemsstaterna kräva att förvaltningsbolagen tillämpar metoden på positionerna för samtliga finansiella derivatinstrument, även inbäddade derivat enligt artikel 51.3 fjärde stycket i direktiv 2009/65/EG, oavsett om strategin används som ett led i fondföretagens allmänna placeringsinriktning, för riskbegränsning eller för effektiv portföljförvaltning i enlighet med artikel 51.2 i det direktivet.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">När åtagandemetoden används för att beräkna den totala exponeringen ska medlemsstaterna kräva att förvaltningsföretagen omvandlar positionen för varje finansiellt derivatinstrument till marknadsvärdet av motsvarande position i den underliggande tillgången för det derivatet (standardåtagandemetoden).</p>
+         <p class="norm inline-element">Medlemsstaterna får tillåta att förvaltningsföretagen tillämpar andra beräkningsmetoder som motsvarar standardåtagandemetoden.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna får tillåta att förvaltningsbolagen tar hänsyn till metoder för säkringsredovisning vid beräkningen av den totala exponeringen, förutsatt att dessa åtgärder inte åsidosätter omedelbara och väsentliga risker och leder till en tydlig begränsning av riskexponeringen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">När användningen av finansiella derivatinstrument inte ökar fondföretagens exponering är det inte nödvändigt att inkludera den underliggande exponeringen i åtagandeberäkningen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">När åtagandemetoden tillämpas är det inte nödvändigt att ta med tillfälliga lån på fondföretagens vägnar, i enlighet med artikel 83 i direktiv 2009/65/EG, vid beräkningen av den totala exponeringen.</div>
+   </div>
+   <p class="title-article-norm" id="id-c7a58f05-2cb1-419e-a0a0-11276649e3cf">Artikel 43</p>
+   <p class="stitle-article-norm">Motpartsrisk och emittentkoncentration</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att motpartsrisk i samband med derivat som handlas direkt mellan parterna (OTC-derivat) omfattas av begränsningarna i artikel 52 i direktiv 2009/65/EG.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">När ett fondföretags exponering mot en motpart beräknas enligt begränsningarna i artikel 52.1 i direktiv 2009/65/EG, ska förvaltningsbolagen använda det positiva aktuella marknadsvärdet i OTC-derivatavtalet med den motparten.</p>
+         <p class="norm inline-element">Förvaltningsbolagen får kvitta ett fondföretags derivatpositioner med en och samma motpart, under förutsättning att bolagen juridiskt kan hävda kvittningsöverenskommelser med den motparten på fondföretagets vägnar. Kvittning ska endast vara tillåtet i samband med OTC-derivat med en och samma motpart och inte i förening med annan exponering som fondföretagen kan ha med den motparten.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Medlemsstaterna får ge förvaltningsbolagen tillstånd att, mot en säkerhet, minska fondföretagens exponering i förhållande till en motpart i samband med en OTC-derivattransaktion. Den säkerhet som ställs ska vara så likvid att den kan säljas omgående till ett pris som ligger nära värderingen före försäljningen.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen tar hänsyn till säkerheter vid beräkningen av exponeringen till motpartsrisk i enlighet med artikel 55.1 i direktiv 2009/65/EG när förvaltningsbolagen lämnar en säkerhet till OTC-motparten på fondföretagets vägnar. Den lämnade säkerheten får endast beaktas när förvaltningsbolaget har möjlighet att juridiskt hävda kvittningsöverenskommelser med denna motpart på fondföretagens vägnar.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">5.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen beräknar gränser för emittentkoncentration i enlighet med artikel 52 i direktiv 2009/65/EG utifrån den underliggande exponering som skapas genom användning av finansiella derivatinstrument i enlighet med åtagandemetoden.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">6.  </span>
+      <div class="norm inline-element">När det gäller exponering till följd av transaktioner med OTC-derivat i enlighet med artikel 52.2 i direktiv 2009/65/EG ska medlemsstaterna kräva att förvaltningsbolagen i beräkningen tar med eventuell exponering för motpartsrisk i samband med OTC-derivat.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-ae37f4f4-591d-4d4c-ae70-9d1fd3231530">AVSNITT 3</p>
+   <p class="title-division-2" id="id-97efec12-2804-464b-8b97-fb0b63f752e0">Förfaranden för värdering av OTC-derivat</p>
+   <p class="title-article-norm" id="id-952ca926-fcaa-4205-b607-9a6e97116705">Artikel 44</p>
+   <p class="stitle-article-norm">Förfaranden för bedömning av värdet på OTC-derivat</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen kontrollerar att fondföretagens exponering för OTC-derivat tilldelas verkliga värden som inte enbart bygger på motparternas marknadsnoteringar för OTC-transaktionerna, och som uppfyller kriterierna i artikel 8.4 i direktiv 2007/16/EG.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Vid tillämpningen av punkt 1 ska förvaltningsbolagen införa, tillämpa och upprätthålla åtgärder och förfaranden som säkerställer en lämplig, öppen och skälig värdering av fondföretagens exponering för OTC-derivat.</p>
+         <p class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen säkerställer att OTC-derivatens verkliga värde bygger på en lämplig, korrekt och oberoende bedömning.</p>
+         <p class="norm inline-element">Värderingen av åtgärderna och förfarandena ska vara lämplig och proportionerlig med hänsyn till OTC-derivatets art och komplexitet.</p>
+         <p class="norm inline-element">När åtgärder och förfaranden för värderingen av OTC-derivat inbegriper att tredje part utför vissa uppgifter ska förvaltningsbolagen ska efterleva kraven i artikel 5.2 och artikel 23.4 andra stycket.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">3.  </span>
+      <div class="norm inline-element">Vid tillämpning av punkterna 1 och 2 ska riskhanteringsfunktionen åläggas särskilda uppgifter och ansvarsområden.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">4.  </span>
+      <div class="norm inline-element">Åtgärderna och förfarandena för värdering enligt punkt 2 ska dokumenteras på lämpligt sätt.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-f1002e6e-96e0-4e8c-8ba2-15e6eef5cba2">AVSNITT 4</p>
+   <p class="title-division-2" id="id-57fead7e-ad91-467e-9430-1a6fbb7c57d4">Överföring av information om derivatinstrument</p>
+   <p class="title-article-norm" id="id-6839b00d-a7f2-4711-a21a-fb677ee3d80b">Artikel 45</p>
+   <p class="stitle-article-norm">Rapporter om derivatinstrument</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska kräva att förvaltningsbolagen minst en gång om året förelägger de behöriga myndigheterna i hemmedlemsstaten rapporter med information som ger en rättvisande bild av de typer av derivat som används för varje förvaltat fondföretag, de underliggande riskerna, de kvantitativa begränsningarna och de metoder som har valts för att bedöma de risker som hör samman med derivattransaktionerna.</div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska säkerställa att de behöriga myndigheterna i förvaltningsbolagets hemmedlemsstat kontrollerar att informationen i punkt 1 lämnas regelbundet och är komplett, och att de har möjlighet att ingripa när det är lämpligt.</div>
+   </div>
+   <p>
+      <br/>
+      <br/>
+   </p>
+   <p class="title-division-1" id="id-7d4295d7-52b1-42b2-9b1d-323fff815363">KAPITEL VII</p>
+   <p class="title-division-2" id="id-9650fee4-0acd-44b8-8d02-735cee248a87">SLUTBESTÄMMELSER</p>
+   <p class="title-article-norm" id="id-ad7e5341-2ac5-40cb-a16d-0fba42a88bbf">Artikel 46</p>
+   <p class="stitle-article-norm">Införlivande</p>
+   <div class="norm">
+      <span class="no-parag">1.  </span>
+      <div class="norm inline-element">
+         <p class="norm inline-element">Medlemsstaterna ska senast den 30 juni 2011 sätta i kraft de lagar och andra författningar som är nödvändiga för att följa detta direktiv. De ska till kommissionen genast överlämna texten till dessa bestämmelser tillsammans med en jämförelsetabell över dessa bestämmelser och detta direktiv.</p>
+         <p class="norm inline-element">När en medlemsstat antar dessa bestämmelser ska de innehålla en hänvisning till detta direktiv eller åtföljas av en sådan hänvisning när de offentliggörs. Närmare föreskrifter om hur hänvisningen ska göras ska varje medlemsstat själv utfärda.</p>
+      </div>
+   </div>
+   <div class="norm">
+      <span class="no-parag">2.  </span>
+      <div class="norm inline-element">Medlemsstaterna ska till kommissionen överlämna texten till de centrala bestämmelser i nationell lagstiftning som de antar inom det område som omfattas av detta direktiv.</div>
+   </div>
+   <p class="title-article-norm" id="id-337627fc-f1e1-4ea7-a907-3e7e7bdedc07">Artikel 47</p>
+   <p class="stitle-article-norm">Ikraftträdande</p>
+   <p class="norm">Detta direktiv träder i kraft den tjugonde dagen efter det att det har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+   <p class="title-article-norm" id="id-d2f6150d-764b-4b63-9d21-869c691f65b8">Artikel 48</p>
+   <p class="stitle-article-norm">Adressater</p>
+   <p class="norm">Detta direktiv riktar sig till medlemsstaterna.</p>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019 om hållbarhetsrelaterade upplysningar som ska lämnas inom den finansiella tjänstesektorn (EUT L 317, 9.12.2019, s. 1).</p>
+</body>
+</html>

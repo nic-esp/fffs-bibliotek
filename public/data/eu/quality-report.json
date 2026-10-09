@@ -1,0 +1,28 @@
+{
+  "asOf": "2026-10-09",
+  "documents": 84,
+  "consolidated": 58,
+  "original": 26,
+  "articles": 4670,
+  "missingBaseCelex": [
+    "31978L0660",
+    "32003L0006",
+    "32003L0041",
+    "32003L0071",
+    "32003L0124",
+    "32003L0125",
+    "32004L0072",
+    "32014R0680",
+    "32015R0035"
+  ],
+  "verification": {
+    "officialSourceSha256Matched": 84,
+    "bodyLetterDigitSequencePreserved": 84,
+    "method": "Independent htmlparser2 DomUtils source traversal, excluding head/script/style/noscript, #banner and OJ masthead; all source letters and digits retained in order in extracted text. This does not prove visual table/formula fidelity or legal completeness.",
+    "tests": "npx tsx --test tests/eurlex.test.ts — 6 passed",
+    "typecheck": "npx tsc --noEmit — passed",
+    "sourceServing": "Original bytes stored as .html.txt so source downloads are plain text, not active same-origin HTML. All 84 indexed hashes rechecked after renaming."
+  },
+  "indexSha256": "ae550b2415bcacff623e3bc5f4607aa875fba9b645fcbe460e56151ec55912f9",
+  "searchSha256": "69b8bca94a217d59683b9ad379e21d09cac7ead6ee798f9695b438cbcbfc0826"
+}

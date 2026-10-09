@@ -1,5 +1,7 @@
 import { McpServer, ResourceTemplate } from '@modelcontextprotocol/sdk/server/mcp.js';
 import { z } from 'zod';
+import type { EuLoader } from './eurlex.js';
+import { registerToolboxTools } from './toolbox-mcp.js';
 import { canonicalId, findSections, MAX_PAGE_CHARS, pageText, searchDocuments } from './search.js';
 import type { Catalog, CatalogDocument, LibraryLoader } from './types.js';
 
@@ -17,11 +19,11 @@ const annotations = { readOnlyHint: true, destructiveHint: false, idempotentHint
 const jsonResult = (value: Record<string, unknown>) => ({ content: [{ type: 'text' as const, text: JSON.stringify(value) }], structuredContent: value });
 async function guarded(fn: () => Promise<Record<string, unknown>>) { try { return jsonResult(await fn()); } catch (error) { return { content: [{ type: 'text' as const, text: error instanceof Error ? error.message : 'Källdatan kunde inte läsas.' }], isError: true }; } }
 
-export function createFffsServer(loader: LibraryLoader) {
+export function createFffsServer(loader: LibraryLoader, euLoader?: EuLoader) {
   const publicUrl = (value: string | null | undefined) => value && loader.publicBaseUrl ? new URL(value, loader.publicBaseUrl).href : value;
   const withPageUrl = (document: CatalogDocument): CatalogDocument => ({ ...document, pdfUrl: publicUrl(document.pdfUrl), markdownUrl: publicUrl(document.markdownUrl), amendments: document.amendments.map(amendment => ({ ...amendment, pdfUrl: publicUrl(amendment.pdfUrl) })), canonicalUrl: document.canonicalUrl ?? document.pageUrl ?? (loader.publicBaseUrl ? new URL(`fffs/${document.id}/`, loader.publicBaseUrl).href : undefined), pageUrl: document.pageUrl ?? document.canonicalUrl ?? (loader.publicBaseUrl ? new URL(`fffs/${document.id}/`, loader.publicBaseUrl).href : undefined) });
   const getCatalog = async (): Promise<Catalog> => { const catalog = await loader.catalog(); return { ...catalog, documents: catalog.documents.map(withPageUrl) }; };
-  const server = new McpServer({ name: 'fffs-library', version: '1.0.0' }, {
+  const server = new McpServer({ name: 'fffs-regulatory-toolbox', version: '1.1.0' }, {
     instructions: 'Sökbart FFFS-bibliotek. Alla resultat avser angivet asOf/snapshotdatum. Läs och citera källans kapitel/paragraf, status, versionsdatum och FI-länk. Egenkonsolideringar är inte officiella. notes och textQuality följer varje dokument; inga påståenden om fullständig rättslig verifiering. Framtida lydelser kan ingå med ikraftträdandemarkörer. Dra inga slutsatser om gällande rätt enbart från en träff.'
   });
   async function getDocument(number: string) {
@@ -58,5 +60,6 @@ export function createFffsServer(loader: LibraryLoader) {
   }));
   server.registerResource('fffs-catalog', 'fffs://catalog', { title: 'FFFS-katalog', description: 'Källor och metadata inklusive asOf för hela ögonblicksbilden.', mimeType: 'application/json' }, async uri => ({ contents: [{ uri: uri.href, mimeType: 'application/json', text: JSON.stringify(await getCatalog()) }] }));
   server.registerResource('fffs-document', new ResourceTemplate('fffs://{id}', { list: async () => { const catalog = await getCatalog(); return { resources: catalog.documents.map(document => ({ uri: `fffs://${document.id}`, name: document.number, title: document.title, description: `${document.status}; snapshot ${catalog.asOf}`, mimeType: 'application/json' })) }; } }), { description: 'Dokumentets första textsida med metadata och nextCursor. Fortsätt via get_fffs för längre dokument.', mimeType: 'application/json' }, async (uri, variables) => ({ contents: [{ uri: uri.href, mimeType: 'application/json', text: JSON.stringify(await documentPage(String(variables.id))) }] }));
+  if(euLoader) registerToolboxTools(server, euLoader, loader);
   return server;
 }

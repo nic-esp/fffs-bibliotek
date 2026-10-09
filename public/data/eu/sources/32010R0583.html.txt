@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.17.0 # generated_on:20250318-1725 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2010176SV.01000101.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">10.7.2010   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">SV</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 176/1</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-1-1">
+            KOMMISSIONENS FÖRORDNING (EU) nr 583/2010</p>
+            <p class="oj-doc-ti">av den 1 juli 2010
+         </p>
+            <p class="oj-doc-ti">om genomförande av Europaparlamentets och rådets direktiv 2009/65/EG rörande basfakta för investerare och villkor som ska uppfyllas när faktablad med basfakta för investerare eller prospekt tillhandahålls på annat varaktigt medium än papper eller på en webbplats</p>
+            <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DENNA FÖRORDNING</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">med beaktande av Europaparlamentets och rådets direktiv 2009/65/EG av den 13 juli 2009 om samordning av lagar och andra författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) <a id="ntc1-L_2010176SV.01000101-E0001" href="#ntr1-L_2010176SV.01000101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artiklarna 75.4, 78.7 och 81.2, och</p>
+            </div>
+            <p class="oj-normal">av följande skäl:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I direktiv 2009/65/EG anges de huvudprinciper som bör följas vid utformning och tillhandahållande av basfakta för investerare, inklusive villkor för form och presentation, syften, väsentliga uppgifter som ska meddelas, vem som ska lämna uppgifter till vem och på vilket sätt. Detaljer om innehåll och form har utelämnats för att utformas som genomförandebestämmelser, som bör vara så detaljerade att investerare tillförsäkras de uppgifter de behöver för specifika fondstrukturer.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Valet av förordning motiveras av att bara denna regleringsform kan garantera en harmonisering av uttömmande basfakta för investerare. Dessutom kommer ett faktablad med basfakta för investerare att bli mer effektivt, om alla medlemsstater har samma krav på det. Alla aktörer bör gynnas av en harmoniserad ordning om uppgiftslämnandets innehåll och form som tryggar konsekvent och jämförbar information om investeringsmöjligheter på värdepappersmarknaden.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I vissa fall kan basfakta för investerare lämnas på ett mer effektivt sätt om motsvarande faktablad tillhandahålls investerare på en webbplats eller om den bifogas en annan handling när den ges till den eventuelle investeraren. I dessa fall bör dock faktabladet inte förekomma i ett sammanhang som undergräver dess syfte eller ger intryck av att det rör sig om reklammaterial eller att åtföljande reklammaterial har samma eller större relevans för icke-professionella investerare.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Det bör säkerställas att informationens innehåll är relevant, att informationen är logiskt disponerad och formulerad på ett för icke-professionella investerare lämpligt sätt. I detta syfte bör det genom denna förordning säkerställas att faktabladet med basfakta för investerare förmår engagera investerarna och underlätta jämförelser genom sin utformning, presentation och språkets kvalitet och karaktär. Förordningen syftar till att trygga att faktabladet har en konsekvent form och gemensam struktur med identiska rubriker.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I förordningen anges vilket innehåll informationen om fondföretags investeringsmål och placeringsinriktning ska ha, så att investerare lätt kan se om en fond verkar motsvara deras behov. Av informationen bör det därför framgå om avkastningen kan förväntas i form kapitaltillväxt, utbetalning av inkomst eller en kombination av båda. För investeraren bör det av beskrivningen av placeringsinriktningen framgå vilka övergripande mål fondföretaget har och hur de ska uppnås. När det gäller vilka finansiella instrument som det ska investeras i, behöver endast de nämnas som reellt påverkar fondföretagets resultat och inte alla instrument som kan förekomma.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I förordningen anges närmare bestämmelser om hur investeringens risk/avkastningsprofil ska presenteras. Här krävs att en samlingsindikator ska användas och anges hur indikatorn i sig ska förklaras och vilka risker den inte täcker, men som reellt kan påverka fondföretagets risk/avkastningsprofil. Vid tillämpningen av bestämmelserna om samlingsindikatorn bör den beräkningsmetod beaktas som utvecklats av behöriga myndigheter som arbetar inom europeiska värdepapperstillsynskommittén. Förvaltningsbolaget bör efter en analys av varje fonds särdrag i varje enskilt fall besluta vilka specifika risker som bör offentliggöras. Man bör då också betänka att handlingen inte ska överlastas med information som icke-professionella investerare får svårt att begripa. Dessutom bör förklaringen av risk/avkastningsprofilen få begränsat utrymme i faktabladet med basfakta för investerare. Det bör vara möjligt med hänvisningar till fondföretagets prospekt där alla detaljer om dess risker offentliggörs.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Det bör säkerställas att förklaringen av riskerna i faktablad med basfakta för investerare överensstämmer med förvaltningsbolagets interna riskhanteringsförfaranden, som ska svara mot kommissionens direktiv 2010/43/EU av den 1 juli 2010 om genomförande av Europaparlamentets och rådets direktiv 2009/65/EG när det gäller organisatoriska krav, intressekonflikter, uppföranderegler, riskhantering och innehållet i avtalet mellan ett förvaringsinstitut och ett förvaltningsbolag <a id="ntc2-L_2010176SV.01000101-E0002" href="#ntr2-L_2010176SV.01000101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a>. För sådan överensstämmelse bör exempelvis den fasta riskhanteringsfunktionen vid behov kunna se över och kommentera avsnittet om risk/avkastningsprofil i faktabladet med basfakta för investerare.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I denna förordning specificeras standardutformningen för hur avgifter ska presenteras och förklaras, inklusive relevanta varningar, så investerare får lämplig information om vilka avgifter de ska betala och deras andel av det kapital som reellt investeras i fonden. Vid tillämpningen av dessa bestämmelser bör den metod för avgiftsberäkning beaktas som utvecklats av behöriga myndigheter som arbetar inom europeiska värdepapperstillsynskommittén.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">De närmare bestämmelserna om hur information om hur tidigare resultat ska presenteras baseras på kraven på sådan information i Europaparlamentets och rådets direktiv 2004/39/EG av den 21 april 2004 om marknader för finansiella instrument och om ändring av rådets direktiv 85/611/EEG och 93/6/EEG och Europaparlamentets och rådets direktiv 2000/12/EG samt upphävande av rådets direktiv 93/22/EEG <a id="ntc3-L_2010176SV.01000101-E0003" href="#ntr3-L_2010176SV.01000101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a>. Denna förordning kompletterar bestämmelserna i direktiv 2004/39/EG genom att innehålla särskilda krav för att harmonisera informationen, i syfte att underlätta jämförelser mellan olika faktablad med basfakta för investerare. Bland annat föreskrivs det i denna förordning att bara årliga nettoresultat ska redovisas och i stapeldiagramsform. Vissa aspekter på stapeldiagrammets presentation bör regleras, inklusive de begränsade fall där simulerade data får användas.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Förvisso kan hänvisningar till information vara användbara för investeraren, men det är väsentligt att faktablad med basfakta för investerare innehåller alla uppgifter som investeraren behöver för att förstå grundläggande fakta om fondföretaget. Om det förekommer hänvisningar till andra informationskällor än prospektet och periodiska rapporter, bör det klargöras att de senare är investerarnas primära källor för ytterligare information och hänvisningarna bör inte tona ner deras betydelse.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Faktablad med basfakta för investerare bör vid behov ses över och revideras, för att se till att de fortfarande uppfyller kraven på basfakta för investerare enligt artiklarna 78.2 och 79.1 i direktiv 2009/65/EG. Som god praxis bör förvaltningsbolag se över faktablad med basfakta för investerare, innan de tar initiativ till vad som sannolikt leder till att många nya investerare köper andelar i fonden.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Formen eller innehållet i basfakta för investerare kan i speciella fall behöva anpassas. Följaktligen innehåller denna förordning de allmänna bestämmelserna för alla fondföretag, så att hänsyn tas till den särskilda situationen för vissa typer av fondföretag, nämligen de som har olika delfonder eller aktiekategorier, de som är fond-i-fondföretag, de som har master/feeder-struktur och de som är strukturerade, exempelvis kapitalskyddade och andra jämförbara fondföretag.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Fondföretag med olika aktiekategorier bör inte ha skyldighet att för varje aktiekategori ta fram ett faktablad med basfakta för investerare, så länge inte investerarnas intressen äventyras. Detaljerade uppgifter om två eller flera kategorier får bara samlas i ett enda faktablad, om detta kan ske utan att faktabladet blir alltför komplicerat eller späckat. Alternativt kan en representativ kategori väljas ut, men bara om kategorierna är så snarlika att informationen om den representativa kategorin är rättvisande, tydlig och inte vilseledande om kategorin i fråga. Vid bedömningen av om en representativ kategori är rättvisande, tydlig och inte vilseledande bör hänsyn tas till fondföretagets karaktär, skillnaderna mellan de olika aktiekategorierna och det utbud som erbjuds varje investerare eller grupp av investerare.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I fallet fond-i-fondföretag bör en rimlig balans eftersträvas mellan informationen om fondföretaget som investeraren investerar i och om dess underliggande fonder. Faktabladet med basfakta för investerare om ett fond-i-fondföretag bör därför utformas med utgångspunkt från att investeraren inte vill eller behöver få detaljerad information om alla underliggande fonder, som vid en aktiv förvaltning av fondföretaget i alla händelser bör variera med tiden. För att faktablad ska kunna ge effektiv information om fond-i-fondföretagets mål och placeringsinriktning, riskfaktorer och avgiftsstruktur, bör emellertid karaktären på dess underliggande fonder framgå.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_15">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(15)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">När det gäller master/feeder-strukturer, bör beskrivningen av feederfondföretagets risk/avkastningsprofil inte i sak skilja sig från motsvarande avsnitt i masterfondföretagets faktablad med basfakta för investerare, så att feederfondföretaget kan kopiera information från masterfondföretagets faktablad, när så är relevant. Emellertid bör denna information kompletteras med relevanta förklaringar eller adekvat anpassas när feederfondföretagets kompletterande tillgångar kan förändra riskprofilen i förhållande till masterfondföretaget, så att de inneboende riskerna med dessa kompletterande tillgångar beaktas, exempelvis om derivat används. De samlade kostnaderna vid en investering i feeder- och masterfondföretaget bör offentliggöras för dem som investerar i feederfondföretaget.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_16">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(16)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">När det gäller strukturerade fondföretag, exempelvis kapitalskyddade och andra jämförbara fondföretag, krävs det att information lämnas om framtida resultatscenarier och inte om tidigare resultat. Med framtida resultatscenarier menas att fondens väntade resultat ska beräknas utifrån optimistiska, negativa eller neutrala antaganden om marknadssituationen. Dessa scenarier bör väljas så att de klart illustrerar formelns alla tänkbara utfall.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_17">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(17)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Om basfakta för investerare och prospektet ska tillhandahållas på annat varaktigt medium än papper eller på en webbplats, krävs ytterligare säkerhetsåtgärder för skydd av investeraren. Dessa ska säkerställa att investerare får adekvat information och att den tillhandahållna informationen inte påverkas, att förändringar som gör den obegriplig och ineffektiv förhindras och det undviks att obehöriga manipulerar eller ändrar den. I förordningen hänvisas till bestämmelser om varaktiga medier som föreskrivs i kommissionens direktiv 2006/73/EG av den 10 augusti 2006 om genomförandet av Europaparlamentets och rådets direktiv 2004/39/EG vad gäller organisatoriska krav och villkor för verksamheten i värdepappersföretag, och definitioner för tillämpning av det direktivet <a id="ntc4-L_2010176SV.01000101-E0004" href="#ntr4-L_2010176SV.01000101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>. Syftet är att trygga likvärdig behandling av investerare och konkurrens på lika villkor inom finanssektorn.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_18">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(18)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att förvaltningsbolag och investeringsbolag effektivt och ändamålsenlighet ska kunna anpassa sig till de nya kraven i denna förordning, bör förordningens ikraftträdande anpassas till införlivandet av direktiv 2009/65/EG.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_19">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(19)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Europeiska värdepapperstillsynskommittén, som inrättats genom kommissionens beslut 2009/77/EG <a id="ntc5-L_2010176SV.01000101-E0005" href="#ntr5-L_2010176SV.01000101-E0005"
+                                 >(<span class="oj-super oj-note-tag">5</span>)</a>, har rådfrågats i tekniska frågor.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_20">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(20)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">De åtgärder som föreskrivs i denna förordning är förenliga med yttrandet från europeiska värdepapperskommittén.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div id="cpt_I">
+               <p id="d1e230-1-1" class="oj-ti-section-1">KAPITEL I</p>
+               <div class="eli-title" id="cpt_I.tit_1">
+                  <p id="L_2010176SV.01000101-d-001" class="oj-ti-section-2">SYFTE OCH ALLMÄNNA PRINCIPER</p>
+               </div>
+               <div class="eli-subdivision" id="art_1">
+                  <p id="d1e237-1-1" class="oj-ti-art">Artikel 1</p>
+                  <div class="eli-title" id="art_1.tit_1">
+                     <p class="oj-sti-art">Syfte</p>
+                  </div>
+                  <p class="oj-normal">I denna förordning anges närmare bestämmelser för tillämpningen av artiklarna 75.2, 78.2–78.5 och 81.1 i direktiv 2009/65/EG.</p>
+               </div>
+               <div class="eli-subdivision" id="art_2">
+                  <p id="d1e244-1-1" class="oj-ti-art">Artikel 2</p>
+                  <div class="eli-title" id="art_2.tit_1">
+                     <p class="oj-sti-art">Allmänna principer</p>
+                  </div>
+                  <div id="002.001">
+                     <p class="oj-normal">1.   Skyldigheter enligt denna förordning ska tillämpas på alla förvaltningsbolag i förhållande till de fondföretag som bolaget förvaltar.</p>
+                  </div>
+                  <div id="002.002">
+                     <p class="oj-normal">2.   Förordningen ska tillämpas på alla investeringsbolag som inte har utsett ett förvaltningsbolag som är auktoriserat i enlighet med direktiv 2009/65/EG.</p>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_3">
+                  <p id="d1e259-1-1" class="oj-ti-art">Artikel 3</p>
+                  <div class="eli-title" id="art_3.tit_1">
+                     <p class="oj-sti-art">Principer för faktablad med basfakta för investerare</p>
+                  </div>
+                  <div id="003.001">
+                     <p class="oj-normal">1.   I denna förordning anges uttömmande den föreskrivna formen och innehållet för faktablad med basfakta för investerare (nedan kallat <span class="oj-italic">faktablad</span>). Inga andra uppgifter eller förklaringar ska ingå, om inte annat föreskrivs i förordningen.</p>
+                  </div>
+                  <div id="003.002">
+                     <p class="oj-normal">2.   Basfakta för investerare ska vara rättvisande, tydliga och inte vilseledande.</p>
+                  </div>
+                  <div id="003.003">
+                     <p class="oj-normal">3.   Faktabladet ska tillhandahållas på ett sätt som säkerställer att investerare kan skilja den från annat material. Den får i synnerhet inte presenteras eller lämnas på ett sådant sätt att det kan förväntas att investerare kan uppfatta den som mindre viktig än annan information om fondföretaget och dess risker och fördelar.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_II">
+               <p id="d1e283-1-1" class="oj-ti-section-1">KAPITEL II</p>
+               <div class="eli-title" id="cpt_II.tit_1">
+                  <p id="L_2010176SV.01000101-d-002" class="oj-ti-section-2">FORM OCH PRESENTATION AVSEENDE FAKTABLAD MED BASFAKTA FÖR INVESTERARE</p>
+               </div>
+               <div id="cpt_II.sct_1">
+                  <p id="d1e291-1-1" class="oj-ti-section-1">AVSNITT 1</p>
+                  <div class="eli-title" id="cpt_II.sct_1.tit_1">
+                     <p id="L_2010176SV.01000101-d-003" class="oj-ti-section-2">Titel, struktur och avsnittsrubriker</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_4">
+                     <p id="d1e298-1-1" class="oj-ti-art">Artikel 4</p>
+                     <div class="eli-title" id="art_4.tit_1">
+                        <p class="oj-sti-art">Handlingens titel och innehåll</p>
+                     </div>
+                     <div id="004.001">
+                        <p class="oj-normal">1.   Faktabladets innehåll ska presenteras i den ordning som föreskrivs i punkterna 2–13.</p>
+                     </div>
+                     <div id="004.002">
+                        <p class="oj-normal">2.   Titeln ”Basfakta för investerare” ska återges tydligt överst på första sidan i faktabladet.</p>
+                     </div>
+                     <div id="004.003">
+                        <p class="oj-normal">3.   En förklaring ska följa direkt under titeln. Denna ska ha följande lydelse:</p>
+                        <p class="oj-normal">
+                           <span class="oj-italic">
+                           ”Detta faktablad riktar sig till investerare och innehåller basfakta om denna fond. Detta är inte reklammaterial. Det är information som krävs enligt lag för att hjälpa dig att förstå vad en investering i fonden innebär och riskerna med detta. Du rekommenderas att läsa den så att du kan fatta ett välgrundat investeringsbeslut.”
+                        </span>
+                        </p>
+                     </div>
+                     <div id="004.004">
+                        <p class="oj-normal">4.   Fondföretaget ska anges tydligt, inklusive berörd aktiekategori eller delfond. Vid delfonder eller aktiekategorier ska fondföretagets namn följa efter delfondens eller aktiekategorins namn. Om fondföretaget, delfonden eller aktiekategorin har ett kodnummer, ska detta ingå i fondföretagets namn.</p>
+                     </div>
+                     <div id="004.005">
+                        <p class="oj-normal">5.   Förvaltningsbolagets namn ska anges.</p>
+                     </div>
+                     <div id="004.006">
+                        <p class="oj-normal">6.   Om förvaltningsbolaget ingår i en koncern av juridiska, administrativa eller marknadsföringsskäl, kan dessutom koncernens namn anges. Företagssymboler får ingå, om de inte hindrar investerare från att förstå investeringens karaktär eller minskar deras möjligheter att jämföra investeringsprodukter.</p>
+                     </div>
+                     <div id="004.007">
+                        <p class="oj-normal">7.   Det avsnitt i faktabladet som har rubriken ”Mål och placeringsinriktning” ska innehålla den information som anges i kapitel III avsnitt 1 i denna förordning.</p>
+                     </div>
+                     <div id="004.008">
+                        <p class="oj-normal">8.   Det avsnitt i faktabladet som har rubriken ”Risk/avkastningsprofil” ska innehålla den information som anges i kapitel III avsnitt 2 i denna förordning.</p>
+                     </div>
+                     <div id="004.009">
+                        <p class="oj-normal">9.   Det avsnitt i faktabladet som har rubriken ”Avgifter” ska innehålla den information som anges i kapitel III avsnitt 3 i denna förordning.</p>
+                     </div>
+                     <div id="004.010">
+                        <p class="oj-normal">10.   Det avsnitt i faktabladet som har rubriken ”Tidigare resultat” ska innehålla den information som anges i kapitel III avsnitt 4 i denna förordning.</p>
+                     </div>
+                     <div id="004.011">
+                        <p class="oj-normal">11.   Det avsnitt i faktabladet som har rubriken ”Praktisk information” ska innehålla den information som anges i kapitel III avsnitt 5 i denna förordning.</p>
+                     </div>
+                     <div id="004.012">
+                        <p class="oj-normal">12.   Närmare uppgifter om auktorisation ska bestå av följande text:</p>
+                        <p class="oj-normal">
+                           <span class="oj-italic">
+                           ”Detta fondföretag är auktoriserat i [medlemsstatens namn] och tillsyn över fonden utövas av [uppgift om behörig myndighet].”
+                        </span>
+                        </p>
+                        <p class="oj-normal">Om fondföretaget förvaltas av ett förvaltningsbolag med rättigheter enligt artikel 16 i direktiv 2009/65/EG, ska följande text ingå:</p>
+                        <p class="oj-normal">
+                           <span class="oj-italic">
+                           ”[Förvaltningsbolagets namn] är auktoriserat i [medlemsstatens namn] och tillsyn över fonden utövas av [uppgift om behörig myndighet].”
+                        </span>
+                        </p>
+                     </div>
+                     <div id="004.013">
+                        <p class="oj-normal">13.   Information om publicering ska bestå av följande text:</p>
+                        <p class="oj-normal">
+                           <span class="oj-italic">
+                           ”Dessa basfakta för investerare gäller per den [publiceringsdatum].”
+                        </span>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_II.sct_2">
+                  <p id="d1e419-1-1" class="oj-ti-section-1">AVSNITT 2</p>
+                  <div class="eli-title" id="cpt_II.sct_2.tit_1">
+                     <p id="L_2010176SV.01000101-d-004" class="oj-ti-section-2">Språk, längd och presentation</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_5">
+                     <p id="d1e426-1-1" class="oj-ti-art">Artikel 5</p>
+                     <div class="eli-title" id="art_5.tit_1">
+                        <p class="oj-sti-art">Presentation och språk</p>
+                     </div>
+                     <div id="005.001">
+                        <p class="oj-normal">1.   Ett faktablad ska vara följande:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Presenterat och utformat så att det är lättläst, med läsbara tecken.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Tydligt formulerat och skrivet på ett språk som underlättar för investeraren att ta till sig informationen, bland annat på följande sätt:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">i)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Språket är klart, koncist och begripligt.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">ii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Jargong undviks.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">iii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Tekniska termer undviks om vardagliga uttryck kan användas i stället.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Inriktat på basinformation som investerare behöver.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="005.002">
+                        <p class="oj-normal">2.   Om färger används får de inte minska informationens begriplighet, om faktabladet skulle tryckas eller kopieras i svartvitt.</p>
+                     </div>
+                     <div id="005.003">
+                        <p class="oj-normal">3.   Om förvaltningsbolagets eller dess koncerns symbol används, får den inte distrahera investeraren eller skymma texten.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_6">
+                     <p id="d1e486-1-1" class="oj-ti-art">Artikel 6</p>
+                     <div class="eli-title" id="art_6.tit_1">
+                        <p class="oj-sti-art">Längd</p>
+                     </div>
+                     <p class="oj-normal">Faktabladet får inte vara längre än två tryckta A4-papperssidor.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_III">
+               <p id="d1e494-1-1" class="oj-ti-section-1">KAPITEL III</p>
+               <div class="eli-title" id="cpt_III.tit_1">
+                  <p id="L_2010176SV.01000101-d-005" class="oj-ti-section-2">INNEHÅLLET I DE OLIKA AVSNITTEN I FAKTABLADET</p>
+               </div>
+               <div id="cpt_III.sct_1">
+                  <p id="d1e502-1-1" class="oj-ti-section-1">AVSNITT 1</p>
+                  <div class="eli-title" id="cpt_III.sct_1.tit_1">
+                     <p id="L_2010176SV.01000101-d-006" class="oj-ti-section-2">Mål och placeringsinriktning</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_7">
+                     <p id="d1e509-1-1" class="oj-ti-art">Artikel 7</p>
+                     <div class="eli-title" id="art_7.tit_1">
+                        <p class="oj-sti-art">Beskrivningens närmare innehåll</p>
+                     </div>
+                     <div id="007.001">
+                        <p class="oj-normal">1.   Beskrivningen i avsnittet ”Mål och placeringsinriktning” i faktabladet ska omfatta de väsentliga aspekter på fondföretaget som en investerare bör informeras om, även om dessa aspekter inte ingår i prospektets beskrivning av mål och placeringsinriktning. Följande uppgifter ska ingå:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">De huvudkategorier av finansiella instrument som fondmedlen får placeras i.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Investerarens möjlighet att begära inlösen av fondandelar samt uppgift om frekvensen för handeln med andelar.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om fondföretaget har ett särskilt mål för vissa industrisektorer, geografiska sektorer eller andra marknadssektorer eller särskilda tillgångsslag.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om fondföretaget möjliggör diskretionära investeringsval och om detta inkluderar eller förutsätter hänvisning till en jämförelsenorm och i så fall vilken.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om vinster delas ut eller återinvesteras.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-normal">Vid tillämpningen av punkt d ska i tillämpliga fall handlingsfriheten i förhållande till en förutsatt jämförelsenorm anges och fondföretagets indexmål anges.</p>
+                     </div>
+                     <div id="007.002">
+                        <p class="oj-normal">2.   I beskrivningen enligt punkt 1 ska följande uppgifter ingå, om de är relevanta:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om fondföretaget investerar i skuldförbindelser: uppgifter om huruvida de getts ut av företag, myndigheter eller andra organisationer och i tillämpliga fall krav på lägsta kreditvärderingsbetyg.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om fondföretaget är strukturerat: en enkel förklaring av allt som krävs för att rätt begripa vinsten (<span class="oj-italic">pay-off</span>) och vilka faktorer som förväntas påverka resultatet, vid behov även uppgifter om den algoritm som förekommer i prospektet och hur den fungerar.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om valet av tillgångar styrs av särskilda kriterier: en förklaring av kriterierna, exempelvis ”tillväxt”, ”värde” eller ”hög utdelning”.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om särskild förvaltningsteknik används för tillgångarna, som hedging, arbitrage eller hävstångseffekt: en enkel förklaring av vilka faktorer som förväntas påverka fondföretagets resultat.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om fondföretagets strategi gör att portföljens transaktionskostnader kan förväntas påverka resultatet substantiellt: ett förtydligande av att så är fallet och att transaktionskostnaderna betalas ur fondens tillgångar utöver avgifterna enligt avsnitt 3 i detta kapitel.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">f)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om en minsta innehavsperiod för andelar i fondföretaget rekommenderas antingen i prospektet eller i reklammaterial eller om det anges att en minsta innehavsperiod är ett väsentligt inslag i investeringsstrategin: ett förtydligande med följande lydelse:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-normal">
+                           <span class="oj-italic">
+                           ”Rekommendation: denna fond kan vara olämplig för investerare som planerar att ta ut sina pengar inom [tidsperiod].”
+                        </span>
+                        </p>
+                     </div>
+                     <div id="007.003">
+                        <p class="oj-normal">3.   I information enligt punkterna 1 och 2 ska de breda investeringskategorierna enligt punkterna 1 a, 1 c och 2 a skiljas från förvaltningsbolags hantering av dessa investeringar enligt punkterna 1 d och 2 b–d.</p>
+                     </div>
+                     <div id="007.004">
+                        <p class="oj-normal">4.   Avsnittet ”Mål och placeringsinriktning” i faktabladet får innehålla andra uppgifter än de som förtecknas i punkt 2, inklusive en beskrivning av fondföretagets investeringsstrategi, om detta krävs för en adekvat beskrivning av företagets mål och placeringsinriktning.</p>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_III.sct_2">
+                  <p id="d1e636-1-1" class="oj-ti-section-1">AVSNITT 2</p>
+                  <div class="eli-title" id="cpt_III.sct_2.tit_1">
+                     <p id="L_2010176SV.01000101-d-007" class="oj-ti-section-2">Risk/avkastningsprofil</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_8">
+                     <p id="d1e643-1-1" class="oj-ti-art">Artikel 8</p>
+                     <div class="eli-title" id="art_8.tit_1">
+                        <p class="oj-sti-art">Förklaring av potentiella risker och avkastning, inklusive användning av indikator</p>
+                     </div>
+                     <div id="008.001">
+                        <p class="oj-normal">1.   Avsnittet ”Risk/avkastningsprofil” i faktabladet ska innehålla en samlingsindikator, kompletterad med följande:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En förklarande beskrivning av indikatorn och dess viktigaste begränsningar.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En förklarande beskrivning av substantiella risker för fondföretaget och som samlingsindikatorn inte korrekt återger.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="008.002">
+                        <p class="oj-normal">2.   Samlingsindikatorn enligt punkt 1 ska utgöras av en serie av kategorier på en numerisk skala, där fondföretaget förs till en av kategorierna. Samlingsindikatorn ska vara utformad enligt bilaga I.</p>
+                     </div>
+                     <div id="008.003">
+                        <p class="oj-normal">3.   Beräkningen av samlingsindikatorn enligt punkt 1 ska vara dokumenterad på lämpligt sätt, liksom alla revideringar av denna.</p>
+                        <p class="oj-normal">Förvaltningsbolag ska arkivera dessa beräkningar i minst fem år. För strukturerade fonder ska perioden förlängas till fem år efter förfallodagen.</p>
+                     </div>
+                     <div id="008.004">
+                        <p class="oj-normal">4.   Den förklarande beskrivningen enligt punkt 1 a ska innehålla följande uppgifter:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En förklaring om att historiska data, som exempelvis använts vid beräkningen av samlingsindikatorn, kan vara ett otillförlitligt mått på fondföretagets framtida riskprofil.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En förklaring om att den visade risk/avkastningskategorin inte garanterat gäller i framtiden och att fondföretagets klassning kan förändras med tiden.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En förklaring om att den lägsta kategorin inte innebär en riskfri investering.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En kort förklaring av varför fondföretaget tillhör en viss kategori.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Närmare uppgifter om fondföretagets eventuella kapitalgarantier eller skydd vad avser dessas natur, tidsgränser och omfattning, inklusive de potentiella effekterna av inlösen av andelar vid annan tidpunkt än under den garanterade eller skyddade perioden.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="008.005">
+                        <p class="oj-normal">5.   Den förklarande beskrivningen enligt punkt 1 b ska omfatta följande riskkategorier, om riskerna är materiella:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Kreditrisker, om en betydande del av investeringen avser skuldförbindelser.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Likviditetsrisker, om en betydande del av investeringen avser finansiella instrument som till sin natur är tillräckligt likvida, men som i vissa fall kan ha en relativt låg likviditet och därmed totalt sett påverkar fondföretagets likviditetsrisker.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Motpartsrisker, om tredjeman ställt säkerhet för en fond eller om fonden i väsentlig grad är exponerad mot en motpart genom ett eller flera avtal.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Operativa risker och risker i samband med förvaring av tillgångar.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Påverkan av finansiell teknik enligt artikel 50.1 g i direktiv 2009/65/EG som derivatkontrakts påverkan på fondföretagets riskprofil, om sådan teknik används för att skapa, öka eller minska exponering mot underliggande tillgångar.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_9">
+                     <p id="d1e758-1-1" class="oj-ti-art">Artikel 9</p>
+                     <div class="eli-title" id="art_9.tit_1">
+                        <p class="oj-sti-art">Principer för identifiering, förklaring och presentation av risker</p>
+                     </div>
+                     <p class="oj-normal">Identifiering och förklaring av risker enligt artikel 8.1 b ska överensstämma med det interna förfarande för att identifiera, mäta och övervaka risker som fondföretagets förvaltningsbolag antagit i enlighet med direktiv 2010/43/EU. Om ett förvaltningsbolag förvaltar flera fondföretag, ska riskerna identifieras och förklaras på ett enhetligt sätt.</p>
+                  </div>
+               </div>
+               <div id="cpt_III.sct_3">
+                  <p id="d1e766-1-1" class="oj-ti-section-1">AVSNITT 3</p>
+                  <div class="eli-title" id="cpt_III.sct_3.tit_1">
+                     <p id="L_2010176SV.01000101-d-008" class="oj-ti-section-2">Avgifter</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_10">
+                     <p id="d1e773-1-1" class="oj-ti-art">Artikel 10</p>
+                     <div class="eli-title" id="art_10.tit_1">
+                        <p class="oj-sti-art">Presenterandet av avgifter</p>
+                     </div>
+                     <div id="010.001">
+                        <p class="oj-normal">1.   I det avsnitt i faktabladet som har rubriken ”Avgifter” ska avgifterna presenteras i form av en tabell enligt bilaga II.</p>
+                     </div>
+                     <div id="010.002">
+                        <p class="oj-normal">2.   Uppgifterna i tabellen enligt punkt 1 ska uppfylla följande krav:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Tecknings- och inlösenavgifter ska bägge avse den högsta procentsats som får belasta investerarens kapitalinsats i fondföretaget.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En sifferuppgift ska visa avgifter som tagits ur fondföretaget under ett år, angett som ”årliga avgifter” och som avser alla årsavgifter och andra betalningar som tagits ur fondföretagets tillgångar under den angivna perioden och grundas på föregående års siffror.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">I tabellen ska sådana avgifter förtecknas och förklaras som debiteras fondföretaget under särskilda omständigheter, hur avgiften beräknas och när den debiteras.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_11">
+                     <p id="d1e816-1-1" class="oj-ti-art">Artikel 11</p>
+                     <div class="eli-title" id="art_11.tit_1">
+                        <p class="oj-sti-art">Förklaring av avgifter och framställning av avgifters betydelse</p>
+                     </div>
+                     <div id="011.001">
+                        <p class="oj-normal">1.   Avsnittet ”Avgifter” ska innehålla en förklarande beskrivning av varje avgift som visas i tabellen, inklusive följande information:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om tecknings- och inlösenavgifter:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">i)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Det ska göras klart att avgifterna alltid är maximital, så att investeraren i vissa fall kan betala mindre.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">ii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">En förklarande text ska ingå om att investeraren kan få uppgifter om gällande tecknings- och inlösenavgifter från sin finansiella rådgivare eller distributör.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Beträffande ”årliga avgifter” ska det uppges att sifferuppgiften grundas på föregående års utgifter, för det år som slutade [månad/år] och i tillämpliga fall att siffran kan uppvisa årsvariationer.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="011.002">
+                        <p class="oj-normal">2.   Avsnittet ”Avgifter” ska innehålla en framställning av avgifternas betydelse, som ska klargöra att avgifterna investeraren betalar används till att betala fondföretagets driftskostnader, inklusive kostnaderna för att marknadsföra och distribuera fondandelar, och att dessa avgifter minskar investeringens potentiella tillväxt.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_12">
+                     <p id="d1e871-1-1" class="oj-ti-art">Artikel 12</p>
+                     <div class="eli-title" id="art_12.tit_1">
+                        <p class="oj-sti-art">Ytterligare krav</p>
+                     </div>
+                     <div id="012.001">
+                        <p class="oj-normal">1.   Alla inslag i avgiftsstrukturen ska framställas så klart som möjligt, så att investerare kan bedöma avgifternas totala effekt.</p>
+                     </div>
+                     <div id="012.002">
+                        <p class="oj-normal">2.   Om fondföretagets strategi gör att transaktionskostnader kan förväntas påverka resultatet substantiellt, ska detta i enlighet med artikel 7.2 e anges i avsnittet ”Mål och placeringsinriktning”.</p>
+                     </div>
+                     <div id="012.003">
+                        <p class="oj-normal">3.   Resultatrelaterade avgifter ska uppges i enlighet med artikel 10.2 c. Den resultatrelaterade avgift som tagits ut under fondföretagets senaste räkenskapsår ska anges i procent.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_13">
+                     <p id="d1e895-1-1" class="oj-ti-art">Artikel 13</p>
+                     <div class="eli-title" id="art_13.tit_1">
+                        <p class="oj-sti-art">Särskilda fall</p>
+                     </div>
+                     <div id="013.001">
+                        <p class="oj-normal">1.   Om ett nytt fondföretag inte kan uppfylla kraven i artikel 10.2 b och 11.1 b, ska de årliga avgifterna skattas med utgångspunkt från förväntade totala avgifter.</p>
+                     </div>
+                     <div id="013.002">
+                        <p class="oj-normal">2.   Punkt 1 ska inte gälla</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">fonder som tar ut en fast avgift, där i stället den avgiften ska visas.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">fonder med ett tak eller maximum för vad som får debiteras, där i stället motsvarande siffra ska visas under förutsättning att förvaltningsbolaget åtar sig att respektera den offentliggjorda sifferuppgiften och själv svara för eventuella extra kostnader.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_14">
+                     <p id="d1e924-1-1" class="oj-ti-art">Artikel 14</p>
+                     <div class="eli-title" id="art_14.tit_1">
+                        <p class="oj-sti-art">Hänvisningar</p>
+                     </div>
+                     <p class="oj-normal">Om så är relevant, ska avsnittet ”Avgifter” innehålla en hänvisning till de delar av fondföretagets prospekt som innehåller närmare uppgifter om avgifterna, inklusive uppgifter om resultatrelaterade avgifter och hur dessa beräknas.</p>
+                  </div>
+               </div>
+               <div id="cpt_III.sct_4">
+                  <p id="d1e936-1-1" class="oj-ti-section-1">AVSNITT 4</p>
+                  <div class="eli-title" id="cpt_III.sct_4.tit_1">
+                     <p id="L_2010176SV.01000101-d-009" class="oj-ti-section-2">Tidigare resultat</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_15">
+                     <p id="d1e943-1-1" class="oj-ti-art">Artikel 15</p>
+                     <div class="eli-title" id="art_15.tit_1">
+                        <p class="oj-sti-art">Information om tidigare resultat</p>
+                     </div>
+                     <div id="015.001">
+                        <p class="oj-normal">1.   Informationen om fondföretagets tidigare resultat ska presenteras i ett stapeldiagram över fondföretagets resultat under de senaste 10 åren.</p>
+                        <p class="oj-normal">Stapeldiagrammet enligt första stycket ska vara så stort att det är läsbart men får aldrig uppta mer än en halv sida i faktabladet.</p>
+                     </div>
+                     <div id="015.002">
+                        <p class="oj-normal">2.   Fondföretag med kortare verksamhetstid än 5 hela kalenderår ska i presentationen bara ange resultaten under de senaste 5 åren.</p>
+                     </div>
+                     <div id="015.003">
+                        <p class="oj-normal">3.   År för vilka uppgifter saknas ska vara tomma.</p>
+                     </div>
+                     <div id="015.004">
+                        <p class="oj-normal">4.   För fondföretag som saknar resultatuppgifter för ett helt kalenderår, ska det i en förklaring anges att det saknas uppgifter som skulle kunna ge investerare en bild av tidigare resultat.</p>
+                     </div>
+                     <div id="015.005">
+                        <p class="oj-normal">5.   Stapeldiagrammet ska kompletteras med väl synliga kommentarer med följande innehåll:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En varning om dess begränsade värde som vägledning om framtida resultat.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Kortfattad uppgift om vilka avgifter och arvoden som ingår eller inte ingår i beräkningen av tidigare resultat.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Uppgift om fondens startår.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Uppgift om i vilken valuta det tidigare resultatet har beräknats.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-normal">Kravet enligt punkt b ska inte gälla för fondföretag som inte har tecknings- eller inlösenavgifter.</p>
+                     </div>
+                     <div id="015.006">
+                        <p class="oj-normal">6.   Ett faktablad får inte innehålla uppgifter om tidigare resultat för del av aktuellt kalenderår.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_16">
+                     <p id="d1e1009-1-1" class="oj-ti-art">Artikel 16</p>
+                     <div class="eli-title" id="art_16.tit_1">
+                        <p class="oj-sti-art">Beräkningsmetod för tidigare resultat</p>
+                     </div>
+                     <p class="oj-normal">Tidigare resultat ska beräknas på fondföretagets substansvärde och beräkningen ska utgå ifrån att all utdelningsbar inkomst har återinvesterats i fonden.</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_17">
+                     <p id="d1e1016-1-1" class="oj-ti-art">Artikel 17</p>
+                     <div class="eli-title" id="art_17.tit_1">
+                        <p class="oj-sti-art">Effekter och hantering av substantiella förändringar</p>
+                     </div>
+                     <div id="017.001">
+                        <p class="oj-normal">1.   Om ett fondföretags mål och placeringsinriktning substantiellt förändras under den period som visas i stapeldiagrammet enligt artikel 15, ska fondföretagets resultat före denna substantiella förändring fortsätta att visas.</p>
+                     </div>
+                     <div id="017.002">
+                        <p class="oj-normal">2.   Perioden före den substantiella förändringen enligt punkt 1 ska anges i stapeldiagrammet och förses med en tydlig varning om att resultatet uppnåtts under förutsättningar som inte längre gäller.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_18">
+                     <p id="d1e1031-1-1" class="oj-ti-art">Artikel 18</p>
+                     <div class="eli-title" id="art_18.tit_1">
+                        <p class="oj-sti-art">Användning av jämförelsenorm vid tidigare resultat</p>
+                     </div>
+                     <div id="018.001">
+                        <p class="oj-normal">1.   Om det i avsnittet ”Mål och placeringsinriktning” i faktabladet hänvisas till en jämförelsenorm, ska en stapel över resultatet i förhållande till jämförelsenormen visas i stapeldiagrammet vid sidan av stapeln över fondföretagets tidigare resultat.</p>
+                     </div>
+                     <div id="018.002">
+                        <p class="oj-normal">2.   För fondföretag som saknar uppgifter om tidigare resultat under de föreskrivna fem eller tio åren, ska jämförelsenormen inte visas för de år fondföretaget inte existerade.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_19">
+                     <p id="d1e1050-1-1" class="oj-ti-art">Artikel 19</p>
+                     <div class="eli-title" id="art_19.tit_1">
+                        <p class="oj-sti-art">Användning av ”simulerade” data för tidigare resultat</p>
+                     </div>
+                     <div id="019.001">
+                        <p class="oj-normal">1.   Simulerade resultat för perioden innan uppgifter fanns tillgängliga får bara tillåtas i följande fall, förutsatt att användningen är rättvisande, tydlig och inte vilseledande:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">För en ny aktiekategori i ett befintligt fondföretag eller delfond får resultat simuleras genom att resultatet för en annan kategori används, förutsatt att de två kategorierna inte skiljer sig substantiellt när det gäller deras andel av fondföretagets tillgångar.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Ett feederfondföretag får simulera sitt resultat genom att använda masterfondföretagets resultat, om ett av följande villkor uppfylls:</p>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">i)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Enligt feederfondföretagets strategi och mål tillåts inte andra tillgångar än andelar i masterfondföretaget och kompletterande likvida tillgångar.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                       <col width="4%"/>
+                                       <col width="96%"/>
+                                       <tbody>
+                                          <tr>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">ii)</p>
+                                             </td>
+                                             <td valign="top"  >
+                                                <p class="oj-normal">Feederfondföretagets egenskaper skiljer sig inte substantiellt från masterfondföretagets.</p>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="019.002">
+                        <p class="oj-normal">2.   I alla fall där resultatet har simulerats i enlighet med punkt 1, ska det i stapeldiagrammet tydligt anges att så har skett.</p>
+                     </div>
+                     <div id="019.003">
+                        <p class="oj-normal">3.   Ett fondföretag som ändrar sin rättsliga ställning, men fortsätter att vara etablerat i samma medlemsstat, ska bara få bibehålla sin resultathistorik om medlemsstatens behöriga myndighet gör bedömningen att förändringen rimligtvis inte påverkar fondföretagets resultat.</p>
+                     </div>
+                     <div id="019.004">
+                        <p class="oj-normal">4.   Vid fusioner enligt artikel 2.1 p i och iii i direktiv 2009/65/EG, ska bara det övertagande fondföretagets tidigare resultat bibehållas i faktabladet.</p>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_III.sct_5">
+                  <p id="d1e1108-1-1" class="oj-ti-section-1">AVSNITT 5</p>
+                  <div class="eli-title" id="cpt_III.sct_5.tit_1">
+                     <p id="L_2010176SV.01000101-d-010" class="oj-ti-section-2">Praktisk information och hänvisningar</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_20">
+                     <p id="d1e1115-1-1" class="oj-ti-art">Artikel 20</p>
+                     <div class="eli-title" id="art_20.tit_1">
+                        <p class="oj-sti-art">Innehållet i avsnittet ”Praktisk information”</p>
+                     </div>
+                     <div id="020.001">
+                        <p class="oj-normal">1.   Avsnittet ”Praktisk information” i faktabladet ska innehålla följande information som är relevant för investerare i alla medlemsstater där fondföretaget marknadsförs:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Förvaringsinstitutets namn.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Var och hur ytterligare information om fondföretaget kan inhämtas, kopior på dess prospekt och senaste årsrapport och eventuell följande halvårsrapport, med uppgift om vilka/vilket språk handlingarna finns tillgängliga på samt att de kan erhållas kostnadsfritt.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Var och hur annan praktisk information kan inhämtas, inklusive var aktuella fondandelspriser finns tillgängliga.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">d)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En förklaring om att skattelagstiftningen i fondföretagets hemmedlemsstat kan påverka investerarens personliga skattesituation.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">e)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Följande förklaring:</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <p class="oj-normal">
+                           <span class="oj-italic">
+                           ”[investeringsbolagets eller förvaltningsbolagets namn] kan hållas ansvarigt endast om ett påstående i detta faktablad är vilseledande, felaktigt eller oförenligt med de relevanta delarna av fondföretagets prospekt.”
+                        </span>
+                        </p>
+                     </div>
+                     <div id="020.002">
+                        <p class="oj-normal">2.   Om faktabladet tas fram för ett fondföretags delfond, ska avsnittet ”Praktisk information” innehålla information enligt artikel 25.2, inklusive information om investerares rätt att byta mellan delfonder.</p>
+                     </div>
+                     <div id="020.003">
+                        <p class="oj-normal">3.   I tillämpliga fall ska avsnittet ”Praktisk information” i faktabladet innehålla föreskriven information om tillgängliga aktiekategorier enligt artikel 26.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_21">
+                     <p id="d1e1187-1-1" class="oj-ti-art">Artikel 21</p>
+                     <div class="eli-title" id="art_21.tit_1">
+                        <p class="oj-sti-art">Hänvisningar till andra informationskällor</p>
+                     </div>
+                     <div id="021.001">
+                        <p class="oj-normal">1.   Hänvisningar till andra informationskällor, inklusive prospektet och års- eller halvårsrapporter, får ingå i faktabladet om detta innehåller all väsentlig information för att investeraren ska kunna förstå investeringens karaktär.</p>
+                        <p class="oj-normal">Hänvisningar ska tillåtas till fondföretagets eller förvaltningsbolagets webbplats, inklusive delar av en sådan webbplats som innehåller prospektet och de periodiska rapporterna.</p>
+                     </div>
+                     <div id="021.002">
+                        <p class="oj-normal">2.   Hänvisningar enligt punkt 1 ska leda investeraren till den specifika delen av informationskällan i fråga. Flera olika hänvisningar får användas i faktabladet, men de ska vara så få som möjligt.</p>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_III.sct_6">
+                  <p id="d1e1206-1-1" class="oj-ti-section-1">AVSNITT 6</p>
+                  <div class="eli-title" id="cpt_III.sct_6.tit_1">
+                     <p id="L_2010176SV.01000101-d-011" class="oj-ti-section-2">Översyn och ändring av faktabladet</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_22">
+                     <p id="d1e1213-1-1" class="oj-ti-art">Artikel 22</p>
+                     <div class="eli-title" id="art_22.tit_1">
+                        <p class="oj-sti-art">Översyn av basfakta för investerare</p>
+                     </div>
+                     <div id="022.001">
+                        <p class="oj-normal">1.   Ett förvaltningsbolag eller investeringsbolag ska se till att faktabladet ses över minst var tolfte månad.</p>
+                     </div>
+                     <div id="022.002">
+                        <p class="oj-normal">2.   En översyn ska göras före varje föreslagen ändring av prospekt, fondbestämmelser eller investeringsbolags bolagsordning, om dessa ändringar inte varit föremål för en översyn enligt punkt 1.</p>
+                     </div>
+                     <div id="022.003">
+                        <p class="oj-normal">3.   En översyn ska göras före eller efter varje förändring som uppfattas vara relevant för informationen i faktabladet.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_23">
+                     <p id="d1e1234-1-1" class="oj-ti-art">Artikel 23</p>
+                     <div class="eli-title" id="art_23.tit_1">
+                        <p class="oj-sti-art">Offentliggörande av den reviderade versionen</p>
+                     </div>
+                     <div id="023.001">
+                        <p class="oj-normal">1.   Om en översyn enligt artikel 22 visar att ändringar måste göras i faktabladet, ska den reviderade versionen hållas tillgänglig utan dröjsmål.</p>
+                     </div>
+                     <div id="023.002">
+                        <p class="oj-normal">2.   Om en ändring av faktabladet var det väntade resultatet av ett beslut från förvaltningsbolagets sida, inbegripet förändringar av prospekt, fondbestämmelser eller investeringsbolags bolagsordning, ska den reviderade versionen av faktabladet tillhandahållas innan förändringen träder i kraft.</p>
+                     </div>
+                     <div id="023.003">
+                        <p class="oj-normal">3.   Ett faktablad med en uppdaterad presentation av fondföretagets tidigare resultat ska hållas tillgänglig senast 35 arbetsdagar efter den 31 december varje år.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_24">
+                     <p id="d1e1254-1-1" class="oj-ti-art">Artikel 24</p>
+                     <div class="eli-title" id="art_24.tit_1">
+                        <p class="oj-sti-art">Substantiella ändringar av avgiftsstrukturen</p>
+                     </div>
+                     <div id="024.001">
+                        <p class="oj-normal">1.   Avgiftsinformationen ska avspegla alla ändringar av avgiftsstrukturen som föranleder en höjning av det högsta tillåtna beloppet för engångsavgifter som investeraren ska betala.</p>
+                     </div>
+                     <div id="024.002">
+                        <p class="oj-normal">2.   Om uppgiften ”årliga avgifter”, beräknade i enlighet med artikel 10.2 b, inte längre stämmer, ska förvaltningsbolaget i stället göra en skattning av ”årliga avgifter” som det på rimliga grunder anser vara indikativ för det belopp som kan förväntas debiteras fondföretaget i framtiden.</p>
+                        <p class="oj-normal">Dessa förändrade beräkningsgrunder ska meddelas i form av följande uppgift:</p>
+                        <p class="oj-normal">
+                           <span class="oj-italic">
+                           ”Det belopp för årliga avgifter som anges är en skattning. [Infoga en kort förklaring av varför en skattning använts i stället för en faktisk efterhandsuppgift.] Fondföretagets årsrapport kommer för varje räkenskapsår att innehålla närmare uppgifter om de exakta avgifterna.”
+                        </span>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_IV">
+               <p id="d1e1286-1-1" class="oj-ti-section-1">KAPITEL IV</p>
+               <div class="eli-title" id="cpt_IV.tit_1">
+                  <p id="L_2010176SV.01000101-d-012" class="oj-ti-section-2">SÄRSKILDA FONDFÖRETAGSSTRUKTURER</p>
+               </div>
+               <div id="cpt_IV.sct_1">
+                  <p id="d1e1294-1-1" class="oj-ti-section-1">AVSNITT 1</p>
+                  <div class="eli-title" id="cpt_IV.sct_1.tit_1">
+                     <p id="L_2010176SV.01000101-d-013" class="oj-ti-section-2">Delfonder</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_25">
+                     <p id="d1e1301-1-1" class="oj-ti-art">Artikel 25</p>
+                     <div class="eli-title" id="art_25.tit_1">
+                        <p class="oj-sti-art">Delfonder</p>
+                     </div>
+                     <div id="025.001">
+                        <p class="oj-normal">1.   Om ett fondföretag består av två eller flera delfonder, ska ett särskilt faktablad tas fram för varje delfond.</p>
+                     </div>
+                     <div id="025.002">
+                        <p class="oj-normal">2.   Varje faktablad enligt punkt 1 ska i avsnittet ”Praktisk information” innehålla följande information:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Att faktabladet beskriver ett fondföretags delfond och att, om så är fallet, prospektet och de periodiska rapporterna tas fram för hela det fondföretag som anges i början av faktabladet.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om varje delfonds tillgångar och skulder är separerade enligt lag eller om de inte är det, och hur detta kan påverka investeraren.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om investeraren har rätt att byta sina andelar i en delfond mot andelar i en annan delfond och var det i så fall finns information om hur denna rättighet kan utövas.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                     <div id="025.003">
+                        <p class="oj-normal">3.   Om förvaltningsbolaget tar ut en avgift för investerarens byte av andelar enligt punkt 2 c och denna avgift skiljer sig från standardavgiften för att köpa eller sälja andelar, ska denna avgift anges separat i avsnittet ”Avgifter” i faktabladet.</p>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_IV.sct_2">
+                  <p id="d1e1350-1-1" class="oj-ti-section-1">AVSNITT 2</p>
+                  <div class="eli-title" id="cpt_IV.sct_2.tit_1">
+                     <p id="L_2010176SV.01000101-d-014" class="oj-ti-section-2">Aktiekategorier</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_26">
+                     <p id="d1e1357-1-1" class="oj-ti-art">Artikel 26</p>
+                     <div class="eli-title" id="art_26.tit_1">
+                        <p class="oj-sti-art">Faktablad för aktiekategorier</p>
+                     </div>
+                     <div id="026.001">
+                        <p class="oj-normal">1.   Om ett fondföretag har fler än en andels- eller aktiekategori, ska ett faktablad tas fram för varje andels- eller aktiekategori.</p>
+                     </div>
+                     <div id="026.002">
+                        <p class="oj-normal">2.   Faktabladsinformationen för två eller flera av ett fondföretags kategorier får samlas i ett enda faktablad, om detta uppfyller alla krav i kapitel II avsnitt 2, även avseende längd.</p>
+                     </div>
+                     <div id="026.003">
+                        <p class="oj-normal">3.   Förvaltningsbolaget får låta en kategori representera en eller flera andra av fondföretagets kategorier, om valet av kategori är rättvisande, tydligt och inte vilseledande för potentiella investerare i dessa andra kategorier. I sådana fall ska avsnittet ”Risk/avkastningsprofil” i faktabladet innehålla en förklaring av vilka materiella risker som kan påverka någon av de representerade kategorierna. Ett faktablad för en representativ kategori får tillhandahållas dem som investerar i övriga kategorier.</p>
+                     </div>
+                     <div id="026.004">
+                        <p class="oj-normal">4.   Olika kategorier får inte samlas i en sammansatt representativ kategori enligt punkt 3.</p>
+                     </div>
+                     <div id="026.005">
+                        <p class="oj-normal">5.   Förvaltningsbolaget ska föra ett register över vilka kategorier som representeras av en representativ kategori enligt punkt 3 och motiven till valet.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_27">
+                     <p id="d1e1391-1-1" class="oj-ti-art">Artikel 27</p>
+                     <div class="eli-title" id="art_27.tit_1">
+                        <p class="oj-sti-art">Avsnittet praktisk information</p>
+                     </div>
+                     <p class="oj-normal">I tillämpliga fall ska avsnittet ”Praktisk information” i faktabladet kompletteras med en uppgift om vilken kategori som valts till representativ kategori, där den term som används för kategorin i fondföretagets prospekt ska användas.</p>
+                     <p class="oj-normal">Avsnittet ska också innehålla uppgifter om var investerare kan få information om fondföretagets övriga kategorier som marknadsförs i deras medlemsstat.</p>
+                  </div>
+               </div>
+               <div id="cpt_IV.sct_3">
+                  <p id="d1e1406-1-1" class="oj-ti-section-1">AVSNITT 3</p>
+                  <div class="eli-title" id="cpt_IV.sct_3.tit_1">
+                     <p id="L_2010176SV.01000101-d-015" class="oj-ti-section-2">Fond-i-fondföretag</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_28">
+                     <p id="d1e1413-1-1" class="oj-ti-art">Artikel 28</p>
+                     <div class="eli-title" id="art_28.tit_1">
+                        <p class="oj-sti-art">Avsnittet mål och placeringsinriktning</p>
+                     </div>
+                     <p class="oj-normal">Om fondföretaget investerar en betydande del av sina tillgångar i andra fondföretag eller andra företag för kollektiva investeringar enligt artikel 50.1 e i direktiv 2009/65/EG, ska beskrivningen av fondföretagets mål och placeringsinriktning i faktabladet innehålla en kort förklaring av hur de andra företagen för kollektiva investeringar löpande väljs ut.</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_29">
+                     <p id="d1e1420-1-1" class="oj-ti-art">Artikel 29</p>
+                     <div class="eli-title" id="art_29.tit_1">
+                        <p class="oj-sti-art">Risk/avkastningsprofil</p>
+                     </div>
+                     <p class="oj-normal">I den förklarande beskrivningen av riskfaktorer enligt artikel 8.1 b ska underliggande fonders risker beaktas, om dessa sannolikt är materiella risker för fondföretaget som helhet.</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_30">
+                     <p id="d1e1427-1-1" class="oj-ti-art">Artikel 30</p>
+                     <div class="eli-title" id="art_30.tit_1">
+                        <p class="oj-sti-art">Avsnittet avgifter</p>
+                     </div>
+                     <p class="oj-normal">I beskrivningen av avgifterna ska avgifter beaktas som belastar fondföretaget när det investerar i de underliggande fonderna. Särskilt ska eventuella tecknings- och inlösenavgifter och årliga avgifter som underliggande fonder debiterar avspeglas i fondföretagets beräkning av sina egna årliga avgifter.</p>
+                  </div>
+               </div>
+               <div id="cpt_IV.sct_4">
+                  <p id="d1e1435-1-1" class="oj-ti-section-1">AVSNITT 4</p>
+                  <div class="eli-title" id="cpt_IV.sct_4.tit_1">
+                     <p id="L_2010176SV.01000101-d-016" class="oj-ti-section-2">Feederfondföretag</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_31">
+                     <p id="d1e1442-1-1" class="oj-ti-art">Artikel 31</p>
+                     <div class="eli-title" id="art_31.tit_1">
+                        <p class="oj-sti-art">Avsnittet mål och placeringsinriktning</p>
+                     </div>
+                     <div id="031.001">
+                        <p class="oj-normal">1.   Faktabladet för feederfondföretag, enligt definitionen i artikel 58 i direktiv 2009/65/EG, ska i beskrivningen av mål och placeringsinriktning innehålla uppgifter om den andel av företagets tillgångar som placerats i masterfondföretaget.</p>
+                     </div>
+                     <div id="031.002">
+                        <p class="oj-normal">2.   Det ska även innehålla en beskrivning av masterfondföretagets mål och placeringsinriktning, i tillämpliga fall kompletterat med</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">i)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">en uppgift om att feederfondföretagets avkastning i hög grad kommer att motsvara masterfondföretagets, eller</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">ii)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">en förklaring till hur och varför feederfondföretagets och masterfondföretagets avkastning kan skilja sig.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_32">
+                     <p id="d1e1471-1-1" class="oj-ti-art">Artikel 32</p>
+                     <div class="eli-title" id="art_32.tit_1">
+                        <p class="oj-sti-art">Avsnittet risk/avkastningsprofil</p>
+                     </div>
+                     <div id="032.001">
+                        <p class="oj-normal">1.   Om feederfondföretagets risk/avkastningsprofil substantiellt skiljer sig från masterfondföretagets, ska detta faktum och dess orsaker förklaras i avsnittet ”Risk/avkastningsprofil” i faktabladet.</p>
+                     </div>
+                     <div id="032.002">
+                        <p class="oj-normal">2.   Likviditetsrisker och förhållandet mellan master- och feederfondföretagets köp- och inlösenförfaranden ska förklaras i avsnittet ”Risk/avkastningsprofil” i faktabladet.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_33">
+                     <p id="d1e1494-1-1" class="oj-ti-art">Artikel 33</p>
+                     <div class="eli-title" id="art_33.tit_1">
+                        <p class="oj-sti-art">Avsnittet avgifter</p>
+                     </div>
+                     <p class="oj-normal">Avsnittet ”Avgifter” i faktabladet ska både omfatta kostnaderna för att investera i feederfondföretaget och kostnader samt utgifter som masterfondföretaget kan debitera feederfondföretaget.</p>
+                     <p class="oj-normal">Dessutom ska master- och feederfondföretagets kostnader sammanföras i feederfondföretagets uppgift om årliga avgifter.</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_34">
+                     <p id="d1e1508-1-1" class="oj-ti-art">Artikel 34</p>
+                     <div class="eli-title" id="art_34.tit_1">
+                        <p class="oj-sti-art">Avsnittet praktisk information</p>
+                     </div>
+                     <div id="034.001">
+                        <p class="oj-normal">1.   Avsnittet ”Praktisk information” i ett feederfondföretags faktablad ska innehålla information som är specifik för feederfondföretaget.</p>
+                     </div>
+                     <div id="034.002">
+                        <p class="oj-normal">2.   Den information som avses i punkt 1 ska omfatta följande:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">En uppgift om att och hur masterfondföretagets prospekt, faktablad, periodiska rapporter och redovisning tillhandahålls feederfondföretagets investerare på begäran samt på vilka/vilket språk.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om de handlingar som förtecknas i led a bara finns tillgängliga som papperskopior eller även på andra varaktiga medier och om avgift utgår för sådana handlingar som inte ska översändas kostnadsfritt i enlighet med artikel 63.5 i direktiv 2009/65/EG.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om masterfondföretaget är etablerat i en annan medlemsstat än feederfondföretaget och detta kan påverka feederfondföretagets skattesituation, ska detta anges.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_35">
+                     <p id="d1e1547-1-1" class="oj-ti-art">Artikel 35</p>
+                     <div class="eli-title" id="art_35.tit_1">
+                        <p class="oj-sti-art">Tidigare resultat</p>
+                     </div>
+                     <div id="035.001">
+                        <p class="oj-normal">1.   Presentationen av tidigare resultat i feederfondföretagets faktabladet ska avse detta företag och inte återge masterfondföretagets tidigare resultat.</p>
+                     </div>
+                     <div id="035.002">
+                        <p class="oj-normal">2.   Punkt 1 ska inte gälla i följande fall:</p>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">a)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">Om feederfondföretaget visar sitt masterfondföretags tidigare resultat som jämförelsenorm, eller</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">b)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">om feederfondföretaget startades som sådant senare än masterfondföretaget och om villkoren i artikel 19 uppfylls och ett simulerat resultat visas för åren innan feederfondföretaget fanns, baserat på masterfondföretagets resultat, eller</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                           <col width="4%"/>
+                           <col width="96%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">c)</p>
+                                 </td>
+                                 <td valign="top"  >
+                                    <p class="oj-normal">om feederfondföretaget har tidigare resultat från tiden innan verksamheten som feederfondföretag inleddes, med dess egna resultat i stapeldiagrammet för de aktuella åren och med den substantiella förändringen försedd med en uppgift i enlighet med artikel 17.2.</p>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+               </div>
+               <div id="cpt_IV.sct_5">
+                  <p id="d1e1583-1-1" class="oj-ti-section-1">AVSNITT 5</p>
+                  <div class="eli-title" id="cpt_IV.sct_5.tit_1">
+                     <p id="L_2010176SV.01000101-d-017" class="oj-ti-section-2">Strukturerade fondföretag</p>
+                  </div>
+                  <div class="eli-subdivision" id="art_36">
+                     <p id="d1e1590-1-1" class="oj-ti-art">Artikel 36</p>
+                     <div class="eli-title" id="art_36.tit_1">
+                        <p class="oj-sti-art">Resultatscenarier</p>
+                     </div>
+                     <div id="036.001">
+                        <p class="oj-normal">1.   Strukturerade fondföretags faktablad ska inte innehålla något avsnitt med rubriken ”Tidigare resultat”.</p>
+                        <p class="oj-normal">Vid tillämpningen av detta avsnitt ska med strukturerade fondföretag förstås fondföretag som, vid vissa förutbestämda tidpunkter, ger investerare algoritmbaserade vinster som är relaterade till resultat, eller till realiserade prisförändringar eller andra villkor, med avseende på finansiella tillgångar, index eller referensportföljer eller fondföretag med liknande egenskaper.</p>
+                     </div>
+                     <div id="036.002">
+                        <p class="oj-normal">2.   Avsnittet ”Mål och placeringsinriktning” i strukturerade fondföretags faktablad ska innehålla en förklaring av hur formeln (algoritmen) fungerar eller hur vinsten beräknas.</p>
+                     </div>
+                     <div id="036.003">
+                        <p class="oj-normal">3.   Förklaringen enligt punkt 2 ska åtföljas av en illustration som visar minst tre möjliga resultatscenarier för fondföretaget. Lämpliga scenarier ska väljas som visar under vilka omständigheter formeln kan ge investeraren låg, medelstor eller hög avkastning, inklusive eventuell negativ avkastning.</p>
+                     </div>
+                     <div id="036.004">
+                        <p class="oj-normal">4.   Scenarierna enligt punkt 3 ska göra det möjligt för investeraren att förstå alla effekter av formelns beräkningsmekanism.</p>
+                        <p class="oj-normal">De ska presenteras på ett rättvisande, tydligt och inte vilseledande sätt som bör kunna förstås av en genomsnittlig icke-professionell investerare. De ska särskilt inte överdriva vikten av fondföretagets slutliga resultat.</p>
+                     </div>
+                     <div id="036.005">
+                        <p class="oj-normal">5.   Scenarierna enligt punkt 3 ska baseras på rimliga och försiktiga antaganden om framtida marknadssituationer och prisrörelser.</p>
+                        <p class="oj-normal">Om emellertid formeln kan åsamka investerarna betydande förluster, exempelvis genom en kapitalgaranti som bara gäller under vissa omständigheter, ska sådana förluster beskrivas på lämpligt sätt, även om sannolikheten för motsvarande marknadssituationer är låg.</p>
+                     </div>
+                     <div id="036.006">
+                        <p class="oj-normal">6.   Scenarierna enligt punkt 3 ska åtföljas av en förklaring om att de är exempel som ska illustrera formeln och inte utgör någon framtidsprognos. Det ska göras klart att de visade scenarierna kanske inte är lika sannolika.</p>
+                     </div>
+                  </div>
+                  <div class="eli-subdivision" id="art_37">
+                     <p id="d1e1642-1-1" class="oj-ti-art">Artikel 37</p>
+                     <div class="eli-title" id="art_37.tit_1">
+                        <p class="oj-sti-art">Längd</p>
+                     </div>
+                     <p class="oj-normal">Strukturerade fondföretags faktablad får inte vara längre än tre tryckta A4-papperssidor.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_V">
+               <p id="d1e1650-1-1" class="oj-ti-section-1">KAPITEL V</p>
+               <div class="eli-title" id="cpt_V.tit_1">
+                  <p id="L_2010176SV.01000101-d-018" class="oj-ti-section-2">VARAKTIGA MEDIER</p>
+               </div>
+               <div class="eli-subdivision" id="art_38">
+                  <p id="d1e1657-1-1" class="oj-ti-art">Artikel 38</p>
+                  <div class="eli-title" id="art_38.tit_1">
+                     <p class="oj-sti-art">Villkor som gäller när ett faktablad eller ett prospekt tillhandahålls på annat varaktigt medium än papper eller på en webbplats</p>
+                  </div>
+                  <div id="038.001">
+                     <p class="oj-normal">1.   Om vid tillämpning av direktiv 2009/65/EG faktabladet eller prospektet ska tillhandahållas investerarna på annat varaktigt medium än papper, ska följande villkor uppfyllas:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Tillhandahållandet av faktabladet eller prospektet på ett sådant varaktigt medium ska vara lämpligt för det sammanhang där affären mellan förvaltningsbolaget och investeraren genomförs eller ska genomföras, och</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">den person till vilken faktabladet eller prospektet ska tillhandahållas väljer uttryckligen det andra mediet, när det finns en valmöjlighet mellan information på papper och annat varaktigt medium.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="038.002">
+                     <p class="oj-normal">2.   Om faktabladet eller prospektet ska tillhandahållas på en webbplats och denna information inte är personligt riktad till investeraren, ska även följande villkor uppfyllas:</p>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">a)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Tillhandahållandet av informationen på det mediet är lämpligt för det sammanhang där affären mellan förvaltningsbolaget och investeraren genomförs eller ska genomföras.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">b)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Investeraren ska uttryckligen samtycka till att informationen tillhandahålls i den formen.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">c)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Investeraren ska underrättas elektroniskt om webbadressen och var på webbplatsen informationen finns tillgänglig.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">d)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Informationen ska vara aktuell.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <col width="4%"/>
+                        <col width="96%"/>
+                        <tbody>
+                           <tr>
+                              <td valign="top"  >
+                                 <p class="oj-normal">e)</p>
+                              </td>
+                              <td valign="top"  >
+                                 <p class="oj-normal">Informationen ska fortlöpande finnas tillgänglig på webbplatsen under en så lång tidsperiod som kunden rimligtvis kan behöva för att ta del av den.</p>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </div>
+                  <div id="038.003">
+                     <p class="oj-normal">3.   Vid tillämpning av denna artikel ska tillhandahållande av information via elektronisk kommunikation anses vara lämpligt för det sammanhang där affären mellan förvaltningsbolaget och investeraren genomförs eller ska genomföras, om det finns bevis för att investeraren har regelbunden tillgång till Internet. Om investeraren har lämnat en e-postadress för att genomföra affären, ska detta betraktas som ett sådant bevis.</p>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_VI">
+               <p id="d1e1724-1-1" class="oj-ti-section-1">KAPITEL VI</p>
+               <div class="eli-title" id="cpt_VI.tit_1">
+                  <p id="L_2010176SV.01000101-d-019" class="oj-ti-section-2">SLUTBESTÄMMELSER</p>
+               </div>
+               <div class="eli-subdivision" id="art_39">
+                  <p id="d1e1731-1-1" class="oj-ti-art">Artikel 39</p>
+                  <div class="eli-title" id="art_39.tit_1">
+                     <p class="oj-sti-art">Ikraftträdande</p>
+                  </div>
+                  <div id="039.001">
+                     <p class="oj-normal">1.   Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+                  </div>
+                  <div id="039.002">
+                     <p class="oj-normal">2.   Denna förordning ska tillämpas från och med den 1 juli 2011.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+               <p class="oj-normal">Utfärdad i Bryssel den 1 juli 2010.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På kommissionens vägnar</span>
+                  </p>
+                  <p class="oj-signatory">José Manuel BARROSO
+            </p>
+                  <p class="oj-signatory">Ordförande</p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2010176SV.01000101-E0001" href="#ntc1-L_2010176SV.01000101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2009_302_R_TOC"
+               >EUT L 302, 17.11.2009, s. 32</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2010176SV.01000101-E0002" href="#ntc2-L_2010176SV.01000101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Se sidan 42 i detta nummer av EUT.</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2010176SV.01000101-E0003" href="#ntc3-L_2010176SV.01000101-E0003"
+               >(<span class="oj-super">3</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2004_145_R_TOC"
+               >EUT L 145, 30.4.2004, s. 1</a>.</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2010176SV.01000101-E0004" href="#ntc4-L_2010176SV.01000101-E0004"
+               >(<span class="oj-super">4</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2006_241_R_TOC"
+               >EUT L 241, 2.9.2006, s. 26</a>.</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2010176SV.01000101-E0005" href="#ntc5-L_2010176SV.01000101-E0005"
+               >(<span class="oj-super">5</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2009_025_R_TOC"
+               >EUT L 25, 29.1.2009, s. 18</a>.</p>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2010176SV.01001401">
+         <div class="eli-container" id="anx_I">
+            <p class="oj-doc-ti" id="d1e32-14-1">BILAGA I</p>
+            <p class="oj-doc-ti">KRAV PÅ PRESENTERANDET AV SAMLINGSINDIKATORN</p>
+            <p class="oj-normal">1.   Samlingsindikatorn ska klassa fonden på en skala från 1 till 7 med utgångspunkt från historisk volatilitet.</p>
+            <p class="oj-normal">2.   Skalan ska visas som en följd av kategorier angivna med heltal i stigande ordning från 1 till 7 vilka löper från vänster till höger och representerar risk- och avkastningsnivåer, från lägsta till högsta nivå.</p>
+            <p class="oj-normal">3.   Det ska på skalan klargöras att lägre risker kan innebära lägre avkastning och att högre risker kan innebära högre avkastning.</p>
+            <p class="oj-normal">4.   Det ska tydligt framgå vilken kategori fondföretaget tillhör.</p>
+            <p class="oj-normal">5.   Färger får inte användas för att skilja partier på skalan.</p>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2010176SV.01001402">
+         <div class="eli-container" id="anx_II">
+            <p class="oj-doc-ti" id="d1e32-14-2">BILAGA II</p>
+            <p class="oj-doc-ti">PRESENTERANDET AV AVGIFTER</p>
+            <p class="oj-normal">Avgifterna ska presenteras i en tabell med följande struktur:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="oj-table">
+               <col width="60%"/>
+               <col width="40%"/>
+               <tbody>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="2" >
+                        <p class="oj-tbl-txt">Engångsavgifter som debiteras före eller efter investeringstillfället</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">
+                           <span class="oj-bold">Teckningsavgift</span>
+                        </p>
+                        <p class="oj-tbl-txt">
+                           <span class="oj-bold">Inlösenavgift</span>
+                        </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">[] %</p>
+                        <p class="oj-tbl-txt">[] %</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="2" >
+                        <p class="oj-tbl-txt">Följande maximibelopp kan tas ut av dina pengar [innan de investeras] [innan vinsten på din investering betalas ut]</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="2" >
+                        <p class="oj-tbl-txt">Avgifter som debiteras fonden under året</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">
+                           <span class="oj-bold">Förvaltningsavgift</span>
+                        </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">[] %</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table" colspan="2" >
+                        <p class="oj-tbl-txt">Avgifter som debiteras fonden under särskilda omständigheter</p>
+                     </td>
+                  </tr>
+                  <tr class="oj-table">
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">
+                           <span class="oj-bold">Resultatrelaterad avgift</span>
+                        </p>
+                     </td>
+                     <td valign="top" class="oj-table"  >
+                        <p class="oj-tbl-txt">[] % per år av fondens avkastning över jämförelsenormen [<span class="oj-italic">ange jämförelsenormens namn</span>] för dessa avgifter</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">En procentuppgift ska anges för alla dessa avgifter.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">—</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">För den resultatrelaterade avgiften ska vad som debiterats under fondföretagets senaste räkenskapsår anges i procent.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-sep"/>
+      <div id="L_2010176SV.01001501">
+         <div class="eli-container" id="anx_III">
+            <p class="oj-doc-ti" id="d1e32-15-1">BILAGA III</p>
+            <p class="oj-doc-ti">PRESENTERANDET AV INFORMATION OM TIDIGARE RESULTAT</p>
+            <p class="oj-normal">Det stapeldiagram som presenterar tidigare resultat ska uppfylla följande kriterier:</p>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">1.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Y-axelns skala i stapeldiagrammet ska vara linjär, inte logaritmisk.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">2.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Skalan ska vara anpassad till de visade staplarnas storlek och får inte komprimera dem så att avkastningsvariationer blir svårare att urskilja.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">3.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">X-axeln ska börja i nollresultat (0 %).</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">4.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Varje stapel ska förses med uppgift om den uppnådda procentuella avkastningen.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+               <col width="4%"/>
+               <col width="96%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top"  >
+                        <p class="oj-normal">5.</p>
+                     </td>
+                     <td valign="top"  >
+                        <p class="oj-normal">Tidigare resultat ska avrundas till en decimal.</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>

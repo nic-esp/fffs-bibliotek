@@ -1,0 +1,1002 @@
+{
+  "sourceUrl": "https://publications.europa.eu/webapi/rdf/sparql",
+  "retrievedAt": "2026-10-09T16:34:09.636Z",
+  "query": "PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>\nPREFIX xsd: <http://www.w3.org/2001/XMLSchema#>\nSELECT DISTINCT ?baseCelex ?work ?date ?inForce ?versionCelex ?versionDate WHERE {\n VALUES ?baseCelex { \"32014R1125\"^^xsd:string \"32015R0462\"^^xsd:string \"32015R0498\"^^xsd:string \"32015R2011\"^^xsd:string \"32016R0824\"^^xsd:string \"32016R1800\"^^xsd:string \"32017L0593\"^^xsd:string \"32017R1129\"^^xsd:string \"32017R2358\"^^xsd:string \"32017R2359\"^^xsd:string \"32018R0231\"^^xsd:string \"32018R0633\"^^xsd:string \"32019L0878\"^^xsd:string \"32021L1269\"^^xsd:string \"32021L1270\"^^xsd:string \"32021R0896\"^^xsd:string \"32021R0897\"^^xsd:string \"32022R1302\"^^xsd:string \"32023R0894\"^^xsd:string \"32023R2631\"^^xsd:string \"32024R0910\"^^xsd:string }\n ?work cdm:resource_legal_id_celex ?baseCelex .\n OPTIONAL { ?work cdm:work_date_document ?date . }\n OPTIONAL { ?work cdm:resource_legal_in-force ?inForce . }\n OPTIONAL { ?version cdm:act_consolidated_based_on_resource_legal ?work ; cdm:act_consolidated_date ?versionDate ; cdm:resource_legal_id_celex ?versionCelex . }\n} ORDER BY ?baseCelex DESC(?versionDate) LIMIT 10000",
+  "results": [
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32014R1125"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/46e12b8f-5b3a-11e4-8ccf-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2014-09-19"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32015R0462"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/7c751193-ceca-11e4-8b38-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2015-03-19"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32015R0498"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/93f3a6fd-d2c0-11e4-9de8-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2015-03-24"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32015R2011"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/91367c53-890f-11e5-b8b7-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2015-11-11"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02015R2011-20260518"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2026-05-18"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32016R0824"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/398670ca-22d1-11e6-86d0-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-05-25"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32016R1800"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/7c02be51-9040-11e6-ba36-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-10-11"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02016R1800-20240722"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2024-07-22"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32016R1800"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/7c02be51-9040-11e6-ba36-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-10-11"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02016R1800-20211207"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2021-12-07"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32016R1800"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/7c02be51-9040-11e6-ba36-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-10-11"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02016R1800-20200625"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2020-06-25"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32016R1800"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/7c02be51-9040-11e6-ba36-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-10-11"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02016R1800-20180515"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2018-05-15"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017L0593"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/0d53df66-15d4-11e7-808e-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-04-07"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017L0593-20260606"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2026-06-06"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017L0593"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/0d53df66-15d4-11e7-808e-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-04-07"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017L0593-20221122"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2022-11-22"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017L0593"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/0d53df66-15d4-11e7-808e-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2016-04-07"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017L0593-20170331"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-03-31"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R1129"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-06-14"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R1129-20260605"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2026-06-05"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R1129"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-06-14"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R1129-20260305"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2026-03-05"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R1129"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-06-14"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R1129-20241204"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2024-12-04"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R1129"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-06-14"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R1129-20240109"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2024-01-09"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R1129"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-06-14"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R1129-20211110"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2021-11-10"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R1129"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-06-14"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R1129-20210318"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2021-03-18"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R1129"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/1495c976-5d5a-11e7-954d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-06-14"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R1129-20191231"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2019-12-31"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R2358"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/00f4f787-e55e-11e7-9749-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-09-21"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R2358-20220802"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2022-08-02"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R2358"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/00f4f787-e55e-11e7-9749-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-09-21"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R2358-20180426"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2018-04-26"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R2359"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/cee6f0e4-e55d-11e7-9749-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-09-21"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R2359-20220802"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2022-08-02"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32017R2359"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/cee6f0e4-e55d-11e7-9749-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2017-09-21"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02017R2359-20180426"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2018-04-26"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32018R0231"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/32ba59f9-13b2-11e8-9253-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2018-01-26"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02018R0231-20180217"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2018-02-17"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32018R0633"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/5ac5f43d-4856-11e8-be1d-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2018-04-24"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32019L0878"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/23afbc10-8902-11e9-9369-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2019-05-20"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02019L0878-20201228"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2020-12-28"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32019L0878"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/23afbc10-8902-11e9-9369-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2019-05-20"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02019L0878-20190607"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2019-06-07"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32021L1269"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/e21a1f78-f32e-11eb-aeb9-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2021-04-21"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32021L1270"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/09b9190a-f32f-11eb-aeb9-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2021-04-21"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32021R0896"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/b9d234fb-c4ce-11eb-a925-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2021-02-24"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32021R0897"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/f4772d4e-c4ce-11eb-a925-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2021-03-04"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32022R1302"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/90018897-0c80-11ed-b11c-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2022-04-20"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02022R1302-20260208"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2026-02-08"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32023R0894"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/2e2be433-eb07-11ed-a05c-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2023-04-04"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02023R0894-20230505"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2023-05-05"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32023R2631"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/f5110505-8f21-11ee-8aa6-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2023-11-22"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02023R2631-20240109"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2024-01-09"
+      }
+    },
+    {
+      "baseCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "32024R0910"
+      },
+      "work": {
+        "type": "uri",
+        "value": "http://publications.europa.eu/resource/cellar/d8f92f91-ea4b-11ee-bf53-01aa75ed71a1"
+      },
+      "date": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2023-12-15"
+      },
+      "inForce": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+        "value": "1"
+      },
+      "versionCelex": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#string",
+        "value": "02024R0910-20240325"
+      },
+      "versionDate": {
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date",
+        "value": "2024-03-25"
+      }
+    }
+  ]
+}

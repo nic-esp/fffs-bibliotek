@@ -1,0 +1,2887 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.16.1 # generated_on:20250508-2013 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32017R2055 — SV — 20.02.2025</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02017R2055 — SV — 20.02.2025 — 001.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32017R2055"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017R2055">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-072b5a95-6e41-49ae-8d0c-901a7c9066fc">
+                        KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2017/2055</p>
+            <p class="title-doc-first" id="id-d0d69e30-3569-4f9a-98e3-2b2599896519">av den 23 juni 2017
+                     </p>
+            <p class="title-doc-first" id="id-e7ab7f01-95fb-46a8-8f4d-fb89e745814e">om komplettering av Europaparlamentets och rådets direktiv (EU) 2015/2366 vad gäller tekniska tillsynsstandarder för samarbete och utbyte av information mellan behöriga myndigheter vad gäller betalningsinstituts utövande av etableringsrätten och friheten att tillhandahålla tjänster</p>
+            <p class="title-doc-last" id="id-39bbc3a7-5672-4431-8490-6d1a7fd2b6ec">
+               <a href="http://publications.europa.eu/resource/celex/32017R2055"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32017R2055">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-2aebaf4a-b04c-4a85-8d23-775239851a0e">(EGT L 294 11.11.2017, s. 1)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32025R0212"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32025R0212">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-8a5b0517-6dd9-4c3c-8876-c33a574f6fba">
+               <a href="http://publications.europa.eu/resource/celex/32025R0212"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32025R0212">
+                              KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2025/212 av den 13 september 2024
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 212</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">31.1.2025</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <div class="eli-container">
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32017R2055"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32017R2055">▼B</a>
+      </p>
+      <div class="eli-main-title" id="tit_1">
+         <p class="title-doc-first" id="id-c4a58dde-2e73-4df0-bcd2-0202fa454340">
+               KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2017/2055</p>
+         <p class="title-doc-first" id="id-22c808c7-e4a6-47e9-993b-6b3431e8b827">av den 23 juni 2017
+            </p>
+         <p class="title-doc-first" id="id-1530ae11-2888-4100-916b-c75b6407fa43">om komplettering av Europaparlamentets och rådets direktiv (EU) 2015/2366 vad gäller tekniska tillsynsstandarder för samarbete och utbyte av information mellan behöriga myndigheter vad gäller betalningsinstituts utövande av etableringsrätten och friheten att tillhandahålla tjänster</p>
+         <p class="title-doc-last" id="id-10ffc395-0c5a-4377-894d-6a7d316a7667">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <p>
+            <br/>
+            <br/>
+         </p>
+         <div id="cpt_1">
+            <p class="title-division-1" id="id-4f46f577-df28-4e97-827d-2d5be92bd241">KAPITEL 1</p>
+            <p class="title-division-2" id="id-82183ed7-a0fa-47a5-b355-d59d450524e0">
+               <span class="boldface">ALLMÄNNA BESTÄMMELSER</span>
+            </p>
+            <div class="eli-subdivision" id="art_1">
+               <p class="title-article-norm" id="id-6d91f891-ac89-48a5-8b94-8656c1490595">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="stitle-article-norm">Tillämpningsområde</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Genom denna förordning fastställs bestämmelser för samarbete och utbyte av information mellan hemmedlemsstaters och värdmedlemsstaters behöriga myndigheter vad gäller underrättelser för betalningsinstituts utövande av etableringsrätten eller frihet att tillhandahålla tjänster, i enlighet med artikel 28 i direktiv (EU) 2015/2366.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Denna förordning gäller i tillämpliga delar för underrättelser mellan hemmedlemsstaters och värdmedlemsstaters behöriga myndigheter avseende institut för elektroniska pengar som utövar sin etableringsrätt eller frihet att tillhandahålla tjänster, inklusive distribuerar elektroniska pengar genom att anlita en fysisk eller juridisk person, i enlighet med artikel 3.1, 3.4 och 3.5 i direktiv 2009/110/EG och artikel 111 i direktiv (EU) 2015/2366.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Omfattningen och behandlingen av den information som utbyts mellan behöriga myndigheter inom den ram för samarbete som fastställs i denna förordning påverkar inte behörigheten för hemmedlemsstaternas och värdmedlemsstaternas myndigheter som definieras i direktiv (EU) 2015/2366.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p class="title-article-norm" id="id-0b72b762-8a9a-46a6-9e4f-3f4bf0bea155">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="stitle-article-norm">Definitioner</p>
+               </div>
+               <p class="norm">I denna förordning gäller följande definitioner:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="5%"/>
+                  <col width="95%"/>
+                  <tr>
+                     <td valign="top">
+                        <p class="dlist-term">a)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="dlist-definition">
+                           <span class="italics">passansökan</span> : en passansökan för filialer, en passansökan för tjänster eller en passansökan för ombud.</p>
+                     </td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="5%"/>
+                  <col width="95%"/>
+                  <tr>
+                     <td valign="top">
+                        <p class="dlist-term">b)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="dlist-definition">
+                           <span class="italics">passansökan för filialer</span> : en ansökan som givits in i enlighet med artikel 28.1 i direktiv (EU) 2015/2366 av ett auktoriserat betalningsinstitut som önskar etablera en filial i en annan medlemsstat.</p>
+                     </td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="5%"/>
+                  <col width="95%"/>
+                  <tr>
+                     <td valign="top">
+                        <p class="dlist-term">c)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="dlist-definition">
+                           <span class="italics">passansökan för tjänster</span> : en ansökan som givits in i enlighet med artikel 28.1 i direktiv (EU) 2015/2366 av ett auktoriserat betalningsinstitut som önskar tillhandahålla tjänster i en annan medlemsstat.</p>
+                     </td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="5%"/>
+                  <col width="95%"/>
+                  <tr>
+                     <td valign="top">
+                        <p class="dlist-term">d)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="dlist-definition">
+                           <span class="italics">passansökan för ombud</span> : en ansökan som givits in i enlighet med artikel 28.1 i direktiv (EU) 2015/2366 av ett auktoriserat betalningsinstitut som önskar tillhandahålla betaltjänster i en annan medlemsstat genom att anlita ett ombud enligt artikel 19.5 i det direktivet.</p>
+                     </td>
+                  </tr>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p class="title-article-norm" id="id-aedffd31-ced3-4e6d-8011-aa6ad76043f0">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="stitle-article-norm">Allmänna krav</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Underrättelser enligt artikel 1.1 ska översändas med hjälp av mallarna i bilagorna II, III, V och VI.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Underrättelser enligt artikel 1.2 ska översändas med hjälp av mallarna i bilagorna II, III, V och VI.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Underrättelser enligt artikel 1.2 där institut för elektroniska pengar distribuerar elektroniska pengar genom att anlita en fysisk eller juridisk person ska översändas med hjälp av mallarna i bilagorna IV och VI.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">De mallar som avses i punkterna 1, 2 och 3 och informationen i dessa ska uppfylla följande krav:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska göras skriftligt och på ett språk som både hemmedlemsstatens och värdmedlemsstatens behöriga myndigheter godtar.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De ska översändas på elektronisk väg, om detta godtas av de behöriga myndigheterna i den hemmedlemsstat där betalningsinstitutet har för avsikt att tillhandahålla betaltjänster, följt av en elektronisk bekräftelse på mottagande från dessa behöriga myndigheter, eller alternativt ska de översändas per post med ett mottagningsbevis.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Varje behörig myndighet ska göra följande uppgifter tillgängliga för de övriga behöriga myndigheterna:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Uppgift om vilka språk som godtas i enlighet med punkt 4 a.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Uppgift om vilken e-postadress som uppgifter och mallar ska översändas till om de skickas på elektronisk väg eller vilken adress som uppgifter och mallar ska sändas till om de skickas per post.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p class="title-article-norm" id="id-9947d486-bb32-491c-9bba-f8ad0a8a21a4">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="stitle-article-norm">Bedömning av fullständighet och korrekthet</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">När hemmedlemsstatens behöriga myndigheter mottar en passansökan av ett betalningsinstitut ska de bedöma om de lämnade uppgifterna är fullständiga och korrekta i enlighet med artikel 28.1 i direktiv (EU) 2015/2366.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om de uppgifter som lämnats i ansökan bedöms vara ofullständiga eller felaktiga enligt punkt 1 ska hemmedlemsstatens behöriga myndighet utan dröjsmål underrätta betalningsinstitutet om detta och ange i vilket hänseende uppgifterna bedöms vara ofullständiga eller felaktiga.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">De tidsperioder som avses i artikel 28.2 första stycket och artikel 28.3 första stycket i direktiv (EU) 2015/2366 ska anses ha inletts den dag då en fullständig och korrekt passansökan har mottagits.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p class="title-article-norm" id="id-6fda55b0-70ba-486f-af20-307589953db7">Artikel 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="stitle-article-norm">Lösande av tvister mellan behöriga myndigheter</p>
+               </div>
+               <p class="norm">Om ett förfarande för lösande av tvister mellan behöriga myndigheter i olika medlemsstater har inletts i enlighet med artikel 27 i direktiv (EU) 2015/2366 när det gäller en passansökan från ett betalningsinstitut i enlighet med artikel 28 i det direktivet ska hemmedlemsstatens behöriga myndigheter informera betalningsinstitutetet om uppskjutandet av ett beslut om ansökan i väntan på ett avgörande enligt artikel 19 i förordning (EU) nr 1093/2010.</p>
+            </div>
+         </div>
+         <div id="cpt_2">
+            <p class="title-division-1" id="id-a50ccfb3-e793-4dd9-b30e-c7e5b4856213">KAPITEL 2</p>
+            <p class="title-division-2" id="id-d4734386-85bb-4570-88cd-409e4a91777e">
+               <span class="boldface">PASSANSÖKAN FÖR FILIALER</span>
+            </p>
+            <div class="eli-subdivision" id="art_6">
+               <p class="title-article-norm" id="id-bd1987fe-e769-4ba9-95ee-407039813f18">Artikel 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="stitle-article-norm">Uppgifter som ska översändas</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Om en passansökan för filialer lämnas in av ett betalningsinstitut ska hemmedlemsstatens behöriga myndigheter enligt artikel 28.2 första stycket i direktiv (EU) 2015/2366 lämna följande uppgifter till de behöriga myndigheterna i värdmedlemsstaten:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Det datum då en fullständig och korrekt passansökan mottogs från betalningsinstitutet i enlighet med artikel 4.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">I vilken medlemsstat betalningsinstitutet har för avsikt att bedriva verksamhet.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Typ av passansökan.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Betalningsinstitutets namn, adress och, i tillämpliga fall, auktorisationsnummer och unika identifieringsnummer i hemmedlemsstaten i enlighet med formaten i bilaga I.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>e) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Betalningsinstitutets identifieringskod för juridiska personer, i tillämpliga fall.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>f) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Identitets- och kontaktuppgifter för en kontaktperson vid det betalningsinstitut som lämnat in filialanmälan.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>g) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Adress till den filial som ska etableras i värdmedlemsstaten.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>h) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Identitets- och kontaktuppgifter för de personer som ansvarar för ledningen av den filial som ska etableras i värdmedlemsstaten.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>i) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De betaltjänster som ska tillhandahållas i värdmedlemsstaten.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>j) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Den organisatoriska strukturen hos den filial som ska etableras i värdmedlemsstaten.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>k) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En affärsplan med en budgetprognos för de tre första räkenskapsåren, där det visas att filialen har förmåga att utnyttja sådana system, resurser och förfaranden som är lämpliga och väl anpassade för en sund verksamhet i värdmedlemsstaten.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>l) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En beskrivning av filialens styrsystem och interna kontrollmekanismer, inklusive förvaltnings- och riskhanteringsförfaranden, ur vilken det ska framgå att dessa styrsystem, kontrollmekanismer och förfaranden är proportionella, lämpliga, sunda och tillräckliga med hänsyn till betaltjänstverksamheten i värdmedlemsstaten och uppfyller kraven när det gäller penningtvätt och finansiering av terrorism enligt Europaparlamentets och rådets direktiv (EU) 2015/849 (<a href="#E0001" id="src.E0001">
+                                 <span class="superscript">1</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om ett betalningsinstitut har meddelat de behöriga myndigheterna i hemmedlemsstaten att det avser att utkontraktera operativa betaltjänstfunktioner till andra enheter i värdmedlemsstaten ska de behöriga myndigheterna i hemmedlemsstaten meddela detta till de behöriga myndigheterna i värdmedlemsstaten.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p class="title-article-norm" id="id-a25e04e7-b128-4158-85ec-a6d58d1c1ce7">Artikel 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="stitle-article-norm">Översändande av uppgifterna</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Hemmedlemsstatens behöriga myndigheter ska översända den information som avses i artikel 6 till värdmedlemsstatens behöriga myndigheter med hjälp av mallen i bilaga II och meddela betalningsinstitutet att de har översänt informationen.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om det är flera anmälningar som ska delges, kan de behöriga myndigheterna delge informationen i samlad form genom att använda fälten i bilaga II.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p class="title-article-norm" id="id-2ce4fef1-5095-41bd-8ec4-51e9e6533a3d">Artikel 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="stitle-article-norm">Meddelande om ändringar av ansökan</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Om ett betalningsinstitut i enlighet med artikel 28.4 i direktiv (EU) 2015/2366 underrättar de behöriga myndigheterna i hemmedlemsstaten om eventuella relevanta ändringar av en tidigare ansökan ska de behöriga myndigheterna i hemmedlemsstaten meddela dessa relevanta ändringar till de behöriga myndigheterna i värdmedlemsstaten.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">I enlighet med punkt 1 ska hemmedlemsstatens behöriga myndigheter översända de relevanta ändringarna till värdmedlemsstatens behöriga myndigheter genom att använda mallen i bilaga II till denna förordning och därvid sammanställa enbart de delar i mallen som berörs av ändringarna.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p class="title-article-norm" id="id-d5a7a8d0-0dcf-4711-a60a-c0a5c2183b09">Artikel 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="stitle-article-norm">Information om när filialens verksamhet inleds</p>
+               </div>
+               <p class="norm">Vid tillämpningen av artikel 28.3 tredje stycket i direktiv (EU) 2015/2366 ska hemmedlemsstatens behöriga myndigheter utan onödigt dröjsmål meddela det datum då ett betalningsinstitut inleder sin verksamhet i en värdmedlemsstat till den berörda värdmedlemsstatens behöriga myndigheter, med hjälp av mallen i bilaga VI till denna förordning.</p>
+            </div>
+         </div>
+         <div id="cpt_3">
+            <p class="title-division-1" id="id-e4af0704-e99e-4aaf-a0dd-c93dff9da474">KAPITEL 3</p>
+            <p class="title-division-2" id="id-565f49f9-a695-4724-ba78-c741a7634731">
+               <span class="boldface">PASSANSÖKAN FÖR OMBUD</span>
+            </p>
+            <div class="eli-subdivision" id="art_10">
+               <p class="title-article-norm" id="id-1ace6017-0c38-4324-bb67-0d06ac154cc0">Artikel 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="stitle-article-norm">Uppgifter som ska översändas</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Om en passansökan för ombud lämnas in av ett betalningsinstitut ska hemmedlemsstatens behöriga myndigheter enligt artikel 28.2 första stycket i direktiv (EU) 2015/2366 lämna följande uppgifter till de behöriga myndigheterna i värdmedlemsstaten:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Det datum då en fullständig och korrekt passansökan mottogs från betalningsinstitutet i enlighet med artikel 4.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">I vilken medlemsstat betalningsinstitutet har för avsikt att bedriva verksamhet genom att anlita ett ombud.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Typ av passansökan.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Passansökans karaktär och, om användningen av ombudet i värdmedlemsstaten inte ger upphov till en etablering, en beskrivning av de omständigheter som den behöriga myndigheten i hemmedlemsstaten har beaktat i sin bedömning.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>e) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Betalningsinstitutets namn, adress och, i tillämpliga fall, auktorisationsnummer och unika identifieringsnummer i hemmedlemsstaten i enlighet med formaten i bilaga I.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>f) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Betalningsinstitutets identifieringskod för juridiska personer, i tillämpliga fall.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>g) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Identitets- och kontaktuppgifter för en kontaktperson inom det betalningsinstitut som lämnat in passanmälan för ombud.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>h) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Identitets- och kontaktuppgifter för det ombud som anlitats av betalningsinstitutet.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>i) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Ombudets unika identifieringsnummer i den medlemsstat där denne är etablerad, i förekommande fall, i enlighet med formaten i bilaga I.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>j) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">I förekommande fall, identitets- och kontaktuppgifter för de personer som ansvarar för den centrala kontaktpunkten, där denna har utnämnts i enlighet med artikel 29.4 i direktiv (EU) 2015/2366.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>k) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De betaltjänster som ska tillhandahållas i värdmedlemsstaten genom att anlita ombudet.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>l) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En beskrivning av de mekanismer för intern kontroll som ombudet kommer att tillämpa för att uppfylla kraven när det gäller förhindrande av penningtvätt och finansiering av terrorism enligt direktiv (EU) 2015/849.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>m) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Identitets- och kontaktuppgifter för direktörer och personer som svarar för ledningen av det ombud som ska användas för tillhandahållande av betaltjänster samt, för andra ombud än betaltjänstleverantörer, styrkande av deras lämplighet.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om ett betalningsinstitut har meddelat de behöriga myndigheterna i hemmedlemsstaten att det avser att utkontraktera operativa betaltjänstfunktioner till andra enheter i värdmedlemsstaten, ska de behöriga myndigheterna i hemmedlemsstaten meddela detta till de behöriga myndigheterna i värdmedlemsstaten.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_11">
+               <p class="title-article-norm" id="id-3ebab076-2990-4281-8508-741fe7f5b4e2">Artikel 11</p>
+               <div class="eli-title" id="art_11.tit_1">
+                  <p class="stitle-article-norm">Översändande av uppgifterna</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Hemmedlemsstatens behöriga myndigheter ska översända de uppgifter som avses i artikel 10 till värdmedlemsstatens behöriga myndigheter med hjälp av mallen i bilaga III och meddela betalningsinstitutet att de har översänt uppgifterna.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om flera anmälningar ska delges kan behöriga myndigheter delge informationen i samlad form genom att använda fälten i bilaga III.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_12">
+               <p class="title-article-norm" id="id-492d35d4-72b2-496d-9377-bd88c4f422f4">Artikel 12</p>
+               <div class="eli-title" id="art_12.tit_1">
+                  <p class="stitle-article-norm">Meddelande om ändringar av ansökan</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Om ett betalningsinstitut i enlighet med artikel 28.4 i direktiv (EU) 2015/2366 underrättar de behöriga myndigheterna i hemmedlemsstaten om eventuella relevanta ändringar av en tidigare passansökan för ombud, ska de behöriga myndigheterna i hemmedlemsstaten meddela dessa relevanta ändringar till de behöriga myndigheterna i värdmedlemsstaten.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">I enlighet med punkt 1 ska hemmedlemsstatens behöriga myndigheter översända de relevanta ändringarna till värdmedlemsstatens behöriga myndigheter genom att sammanställa enbart de delar av mallen i bilaga III som berörs av ändringarna.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_13">
+               <p class="title-article-norm" id="id-b61a0dae-a69e-4b99-8c42-aa4df036cd85">Artikel 13</p>
+               <div class="eli-title" id="art_13.tit_1">
+                  <p class="stitle-article-norm">Information om när ombudets verksamhet inleds</p>
+               </div>
+               <p class="norm">Vid tillämpningen av artikel 28.3 tredje stycket i direktiv (EU) 2015/2366 ska hemmedlemsstatens behöriga myndigheter utan onödigt dröjsmål meddela det datum då ett betalningsinstitut inleder sin verksamhet via ett ombud i en värdmedlemsstat till den värdmedlemsstatens behöriga myndigheter, med hjälp av mallen i bilaga VI till denna förordning.</p>
+            </div>
+         </div>
+         <div id="cpt_4">
+            <p class="title-division-1" id="id-3cdaa102-d3ea-4ef5-aa15-36d6e77deb93">KAPITEL 4</p>
+            <p class="title-division-2" id="id-32d81d76-9b33-43c4-b2ce-3efc18752aa9">
+               <span class="boldface">PASSANSÖKAN FÖR TJÄNSTER</span>
+            </p>
+            <div class="eli-subdivision" id="art_14">
+               <p class="title-article-norm" id="id-6735b695-5ac1-48b8-beb1-cf70100e7e3e">Artikel 14</p>
+               <div class="eli-title" id="art_14.tit_1">
+                  <p class="stitle-article-norm">Uppgifter som ska översändas</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Om en passansökan för tjänster lämnas in av ett betalningsinstitut ska hemmedlemsstatens behöriga myndigheter enligt artikel 28.2 första stycket i direktiv (EU) 2015/2366 lämna följande uppgifter till de behöriga myndigheterna i värdmedlemsstaten:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Det datum då en fullständig och korrekt passansökan mottogs från betalningsinstitutet i enlighet med artikel 4.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">I vilken medlemsstat betalningsinstitutet har för avsikt att tillhandahålla tjänster.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Typ av passansökan.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Betalningsinstitutets namn, adress och, i tillämpliga fall, auktorisationsnummer och unika identifieringsnummer i hemmedlemsstaten i enlighet med formaten i bilaga I.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>e) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Betalningsinstitutets identifieringskod för juridiska personer, i tillämpliga fall.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>f) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Identitets- och kontaktuppgifter för en kontaktperson vid det betalningsinstitut som lämnat in passansökan för tjänster.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>g) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Det planerade datum då tillhandahållandet av tjänster ska påbörjas i värdmedlemsstaten.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>h) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Den betaltjänst/de betaltjänster som ska tillhandahållas i värdmedlemsstaten.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om ett betalningsinstitut har meddelat de behöriga myndigheterna i hemmedlemsstaten att det avser att utkontraktera operativa betaltjänstfunktioner till andra enheter i värdmedlemsstaten, ska de behöriga myndigheterna i hemmedlemsstaten meddela detta till de behöriga myndigheterna i värdmedlemsstaten.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_15">
+               <p class="title-article-norm" id="id-b41cb190-a26b-4321-95e3-47db5a4ea53e">Artikel 15</p>
+               <div class="eli-title" id="art_15.tit_1">
+                  <p class="stitle-article-norm">Översändande av uppgifter</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Hemmedlemsstatens behöriga myndigheter ska översända de uppgifter som avses i artikel 14 till värdmedlemsstatens behöriga myndigheter med hjälp av mallen i bilaga V och meddela betalningsinstitutet att de har översänt informationen.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Om flera anmälningar ska delges kan behöriga myndigheter delge informationen i samlad form genom att använda fälten i bilaga V.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_16">
+               <p class="title-article-norm" id="id-dd4b8e43-1d10-41e1-a433-772d98e4fe7b">Artikel 16</p>
+               <div class="eli-title" id="art_16.tit_1">
+                  <p class="stitle-article-norm">Meddelande om ändringar av en passansökan för tjänster</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Om ett betalningsinstitut i enlighet med artikel 28.4 i direktiv (EU) 2015/2366 underrättar de behöriga myndigheterna i hemmedlemsstaten om eventuella relevanta ändringar av en tidigare passansökan för tjänster, ska de behöriga myndigheterna i hemmedlemsstaten meddela dessa relevanta ändringar till de behöriga myndigheterna i värdmedlemsstaten.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">I enlighet med punkt 1 ska hemmedlemsstatens behöriga myndigheter översända de relevanta ändringarna till värdmedlemsstatens behöriga myndigheter genom att sammanställa enbart de delar av mallen i bilaga V som berörs av ändringarna.</div>
+               </div>
+            </div>
+         </div>
+         <div id="cpt_5">
+            <p class="title-division-1" id="id-e5f589ba-5422-4324-a3f0-6173f62376cf">KAPITEL 5</p>
+            <p class="title-division-2" id="id-f95979d2-f90b-4aca-9b0b-404b52cc505d">
+               <span class="boldface">SLUTBESTÄMMELSER</span>
+            </p>
+            <div class="eli-subdivision" id="art_17">
+               <p class="title-article-norm" id="id-e8d1f051-b30d-4015-bb1f-8bc8ed925205">Artikel 17</p>
+               <div class="eli-title" id="art_17.tit_1">
+                  <p class="stitle-article-norm">Ikraftträdande</p>
+               </div>
+               <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+            </div>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+      </div>
+      <div id="anx_I">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-18222c00-a836-4ffd-ab57-a84fb45d8e82">BILAGA I</p>
+         <p class="title-gr-seq-level-1" id="id-9afd66ba-9d22-4be6-a5d8-7d61d498d63b">
+            <span class="boldface">Format för det relevanta unika identifieringsnumret i varje medlemsstat</span>
+         </p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="960" border="1" cellpadding="2" cellspacing="0">
+               <col width="1%"/>
+               <col width="15%"/>
+               <col width="45%"/>
+               <col width="20%"/>
+               <col width="19%"/>
+               <tbody>
+                  <tr>
+                     <td rowspan="2" valign="top" style="font-weight: bold">
+                        <p class="tbl-norm">Medlemsstat</p>
+                     </td>
+                     <td colspan="2" style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">Juridisk person</p>
+                     </td>
+                     <td colspan="2" style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">Fysisk person</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">ID-nummer, typ</p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">ID-nummer, format</p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">ID-nummer, typ</p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">ID-nummer, format</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Österrike</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om registrering har skett:</p>
+                        <p class="tbl-norm">Firmenbuchnummer (https://www.justiz.gv.at/web2013/html/default/8ab4a8a422985de30122a90fc2ca620b.de.html)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Högst sex siffror plus en kontrollbokstav</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om registrering inte har skett:</p>
+                        <p class="tbl-norm">Umsatzsteuer-Identifikations-Nummer (UID-Nummer) (https://www.bmf.gv.at/steuern/selbststaendige-unternehmer/umsatzsteuer/UID-und-ZM.html)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Belgien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">KBO/BCE-nummer (KBO = KruispuntBank van Ondernemingen, BCE = Banque-Carrefour des Entreprises)</p>
+                        <p class="tbl-norm">http://economie.fgov.be/en/entreprises/#.WQhDC9LyjIW</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">0 + momsregistreringsnummer (0XXX.XXX.XXX)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">KBO/BCE-nummer (KBO, KruispuntBank van Ondernemingen, BCE, Banque-Carrefour des Entreprises)</p>
+                        <p class="tbl-norm">http://economie.fgov.be/en/entreprises/#.WQhDC9LyjIW</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">10 siffror (0 + niosiffrigt momsregistreringsnummer)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Bulgarien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Enhetlig identifieringskod som regleras i artikel 23.1 i den bulgariska lagen om handelsregister</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Enhetlig identifieringskod som regleras i artikel 23.1 i den bulgariska lagen om handelsregister</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Kroatien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">OIB</p>
+                        <p class="tbl-norm">(skatteregistreringsnummer, Osobni identifikacijski broj – personligt identifieringsnummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">11 siffror</p>
+                        <p class="tbl-norm">(10 slumpmässiga siffror + 1 kontrollsiffra)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">OIB</p>
+                        <p class="tbl-norm">(skatteregistreringsnummer, Osobni identifikacijski broj – personligt identifieringsnummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">11 siffror</p>
+                        <p class="tbl-norm">(10 slumpmässiga siffror + 1 kontrollsiffra)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Cypern</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skatteregistreringsnummer (Tax Identification Number, TIN)</p>
+                        <p class="tbl-norm">https://ec.europa.eu/taxation_customs/tin/tinByCountry.html</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror och 1 bokstav (t.ex.: 99999999L)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skatteidentifieringskod (Tax Identification Code, TIC)</p>
+                        <p class="tbl-norm">https://ec.europa.eu/taxation_customs/tin/tinByCountry.html</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror och 1 bokstav (den första siffran är alltid noll)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Tjeckien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personligt identifieringsnummer (Identifikační číslo osoby, IČO)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror (t.ex.: 12345678)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personnummer eller motsvarande (Identifikační číslo osoby, IČO)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror (t.ex.: 12345678)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="5">
+                        <p class="modref">
+                           <a href="http://publications.europa.eu/resource/celex/32025R0212"
+                              onclick="window.open(this.href,'_blank'); return false;"
+                              title="32025R0212: REPLACED">▼M1</a>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Danmark</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Organisationsnummer (CVR-nummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Åttasiffrigt nummer (t.ex. 12345678)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">För enmansbolag: Organisationsnummer (CVR-nummer)</p>
+                        <p class="tbl-norm">För andra fysiska personer än enmansbolag: Personligt registreringsnummer (CPR-nummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Åttasiffrigt nummer i formatet 12345678</p>
+                        <p class="tbl-norm">Tiosiffrigt nummer i formatet 123456-7890</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="5">
+                        <p class="modref">
+                           <a href="http://publications.europa.eu/resource/celex/32017R2055"
+                              onclick="window.open(this.href,'_blank'); return false;"
+                              title="32017R2055">▼B</a>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Estland</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Företagets registreringsnummer, tillgängligt på företagshandelsregistrets webbplats. https://ariregister.rik.ee/index?lang=eng</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Åttasiffrigt nummer</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personlig identifieringskod (ID-kod)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personlig identifieringskod (ID-kod)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Finland</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Lokalt företagsnummer (https://www.ytj.fi/en/index/businessid.html)</p>
+                        <p class="tbl-norm">eller</p>
+                        <p class="tbl-norm">Internationellt momsregistreringsnummer</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Lokalt företagsnummer: Sju siffror, ett tankstreck och ett kontrollmärke, t.ex. 1234567–8</p>
+                        <p class="tbl-norm">Momsregistreringsnummer: 8 siffror – t.ex. FI12345678</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Frankrike</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SIREN</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">SIREN</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Tyskland</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om registrering har skett:</p>
+                        <p class="tbl-norm">Handelsregisternummer (HReg-Nr.) (https://www.handelsregister.de/rp_web/mask.do), inklusive platsen för registrering</p>
+                        <p class="tbl-norm">HRA, HRB, GnR, PR, VR</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">HRA xxxx</p>
+                        <p class="tbl-norm">HRB xxxx</p>
+                        <p class="tbl-norm">GnR xxxx</p>
+                        <p class="tbl-norm">PR xxxxx</p>
+                        <p class="tbl-norm">VR xxxx</p>
+                        <p class="tbl-norm">Välj tillämpligt format, beroende på typen av (juridisk) person, följt av ett nummer med annan längd</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om registrering inte har skett:</p>
+                        <p class="tbl-norm">Umsatzsteuer-Identifikationsnummer (USt-IdNr.) (http://www.bzst.de/DE/Steuern_International/USt_Identifikationsnummer/Merkblaetter/Aufbau_USt_IdNr.html?nn=19560)</p>
+                        <p class="tbl-norm">(momsregistreringsnummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DExxxxxxxxx</p>
+                        <p class="tbl-norm">följt av ett niosiffrigt nummer</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Grekland</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skatteregistreringsnummer (TIN – ΑΦΜ)</p>
+                        <p class="tbl-norm">https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_EL_en.pdf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skatteregistreringsnummer (TIN – ΑΦΜ)</p>
+                        <p class="tbl-norm">https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_EL_en.pdf</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Ungern</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Organisationsnummer:</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Nummer (##-##-######)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Privata företagares registreringsnummer</p>
+                        <p class="tbl-norm">Registreringsnummer för enmansbolag</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Nummer (########)</p>
+                        <p class="tbl-norm">Nummer (##-##-######)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Island</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Irland</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Organisationsnummer:</p>
+                        <p class="tbl-norm">https://www.cro.ie/</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">6 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Italien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Registreringsnummer</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">5 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skattekod, tillgänglig på OAM:s (Organismo per la Gestione degli Elenchi degli Agenti in Attivita' Finanziaria e dei Mediatori Creditizi) webbplats:</p>
+                        <p class="tbl-norm">https://www.organismo-am.it/elenco-agenti-servizi-di-pagamento</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Alfanumerisk kod på 16 tecken (”SP” följt av siffror)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Lettland</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skatteregistreringsnummer (http://www.csb.gov.lv/en/node/29890)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">11 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personligt ID-nummer (XXXXXX-XXXXX), eller om personen är en skattebetalare – ensamföretagare, skatteregistreringsnummer (http://www.csb.gov.lv/en/node/29890)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skatteregistreringsnummer: 11 siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Liechtenstein</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om den finns tillgänglig, den juridiska personens identifieringskod, eller, om den inte finns tillgänglig:</p>
+                        <p class="tbl-norm">Handelsregisternummer (Handelsregister-Nummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Prefixet FL + elva siffror (FL-XXXX.XXX.XXX-X).</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personligt identifieringsnummer (Personenidentifikationsnummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Högst tolv siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Litauen</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Företagskod från registret över juridiska personer som förvaltas av Republiken Litauens centrum för register (http://www.registrucentras.lt/jar/p_en/);</p>
+                        <p class="tbl-norm">eller</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">nio siffror (tidigare sju siffror fram till 2004)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Skattebetalarkod – förnamn och efternamn (skattebetalarkoden är identisk med den personliga koden men den lämnas normalt inte ut av dataskyddsskäl) eller</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">förnamn och efternamn (bokstäver)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Luxemburg</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Organisationsnummer</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Bokstaven B följt av sex siffror (t.ex. B 123456)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personnummer eller motsvarande</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Tretton siffror (de första åtta siffrorna är personens födelsedatum: ÅÅÅÅMMDD)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Malta</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Organisationsnummer:</p>
+                        <p class="tbl-norm">http://rocsupport.mfsa.com.mt/pages/default.aspx</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Bokstaven C följt av fem siffror – t.ex. C 28938</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Identitetskortnummer ELLER passnummer:</p>
+                        <p class="tbl-norm">http://www.consilium.europa.eu/prado/en/prado-documents/mlt/all/index.html</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">6 siffror och en versal – exempel: 034976M</p>
+                        <p class="tbl-norm">ELLER</p>
+                        <p class="tbl-norm">6 siffror –t.ex. 728349</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Nederländerna</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Registreringsnummer hos handelskammaren (KvK)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Registreringsnummer hos handelskammaren (KvK)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Norge</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Handelsregisternummer (organisationsnummer)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror (t.ex. 981 276 957)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Nationellt identitetsnummer/ID-nummer</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">11 siffror (de första sex siffrorna är personens födelsedatum: DD.MM.ÅÅ.)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Polen</span>
+                        </p>
+                     </td>
+                     <td colspan="2" valign="top">
+                        <p class="tbl-norm">Polskt skatteregistreringsnummer (numer identyfikacji podatkowej)</p>
+                     </td>
+                     <td colspan="2" valign="top">
+                        <p class="tbl-norm">Polskt skatteregistreringsnummer (numer identyfikacji podatkowej)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Portugal</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Número de Identificação de Pessoa Coletiva (NIPC)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Número de Identificação Fiscal (NIF)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">9 siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Rumänien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">—</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Republiken Slovakien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Identifikačné číslo organizácie/organisationsnummer (IČO)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror</p>
+                        <p class="tbl-norm">IČO – 00 000 000</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Organisationsnummer (IČO) tilldelas juridiska personer och företagare</p>
+                        <p class="tbl-norm">http://slovak.statistics.sk/wps/portal/ext/Databases/register_organizacii/!ut/p/b1/jY7RCoIwGEafKPfPqdsuV-BcLGnJlu0mLCKEpl1E0dtn0m3Wd_fBOXCQRzXyXXNvz82t7bvm8v4-2zu9ZvM5FsCwo6DyyiTGrrA06QDsBmAhRZFQDcC0TEGJwm64IQQE-c-HLxPwy18i3x5C9DiGCKKE4pRzChnlLOYEbZEffWGMqbRzIF2cgyJYQmktQE4_wFT_CEwElkUfTugabP2s1OwFKhgzhg!!/dl4/d5/L2dBISEvZ0FBIS9nQSEh/</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">8 siffror</p>
+                        <p class="tbl-norm">IČO – 00 000 000</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Slovenien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Identifieringsnummer (registreringsnummer) som tilldelats av Republiken Sloveniens organ för offentliga rättsliga handlingar och liknande tjänster (www.ajpes.si)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">10 siffror</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Identifieringsnummer (registreringsnummer) som tilldelats av Republiken Sloveniens organ för offentliga rättsliga handlingar och liknande tjänster (www.ajpes.si)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">10 siffror</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Spanien</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">LEI-kod</p>
+                        <p class="tbl-norm">Om en sådan saknas:</p>
+                        <p class="tbl-norm">NIF (”Número de Identificación Fiscal”), även kallat skatteregistreringsnummer.</p>
+                        <p class="tbl-norm">Ytterligare information om skatteregistreringsnumrets struktur finns tillgänglig på följande länkar:</p>
+                        <p class="tbl-norm">NIF (juridiska personer):</p>
+                        <p class="tbl-norm">http://www.agenciatributaria.es/AEAT.internet/Inicio_es_ES/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Empresas_y_profesionales__Declaracion_censal__Modelos_036_y_037/Informacion/NIF_de_personas_juridicas_y_entidades.shtml</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Det består av tjugo tecken enligt följande:</p>
+                        <p class="tbl-norm">Tecken 1–4: Ett prefix med fyra tecken som enbart tilldelas varje LOU (lokal driftsenhet).</p>
+                        <p class="tbl-norm">Tecken 5–6: Två reserverade tecken med det fasta värdet noll.</p>
+                        <p class="tbl-norm">Tecken 7–18: Enhetsspecifik del av koden som genererats och tilldelats av lokala driftsenheter i enlighet med transparenta, hållbara och robusta riktlinjer för tilldelning.</p>
+                        <p class="tbl-norm">Tecken 19–20: Två kontrollsiffror enligt beskrivningen i ISO-standarden 17442</p>
+                        <p class="tbl-norm">Det består av nio tecken enligt följande:</p>
+                        <p class="norm">a)  En bokstav som ger information om dess juridiska form:</p>
+                        <p class="norm">A.  Bolag.</p>
+                        <p class="norm">B.  Aktiebolag.</p>
+                        <p class="norm">C.  Handelsbolag</p>
+                        <p class="norm">D.  Kommanditbolag</p>
+                        <p class="norm">E.  Vilande samäganderätter och arv</p>
+                        <p class="norm">F.  Kooperativa företag</p>
+                        <p class="norm">G.  Partnerskap</p>
+                        <p class="norm">H.  Husägarföreningar</p>
+                        <p class="norm">J.  Civila företag</p>
+                        <p class="norm">N.  Utlandsverksamheter</p>
+                        <p class="norm">P.  Lokala myndigheter</p>
+                        <p class="norm">Q.  Offentliga organ</p>
+                        <p class="norm">R.  Religiösa församlingar och institutioner</p>
+                        <p class="norm">S.  Statliga myndigheter och autonoma regioners organ</p>
+                        <p class="norm">U.  Samriskföretag med status som juridisk person</p>
+                        <p class="norm">V.  Övriga ej angivna i föregående förteckning</p>
+                        <p class="norm">W.  Fasta driftställen som etablerats av utländska enheter</p>
+                        <p class="norm">b)  Ett slumpmässigt nummer med sju siffror.</p>
+                        <p class="norm">c)  En bokstav eller ett nummer, beroende på juridisk form (kontrollkod).</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">NIF (”Número de Identificación Fiscal”) eller skatteregistreringsnummer.</p>
+                        <p class="tbl-norm">För spanska personer bosatta utomlands, för spanska personer under 14 år och för utländska personer bosatta utomlands som utför transaktioner med gränsöverskridande skatt:</p>
+                        <p class="tbl-norm">För utländska personer: NIE (”Número de Identidad de Extranjero”).</p>
+                        <p class="tbl-norm">Ytterligare information om skatteregistreringsnumrets struktur finns tillgänglig på följande länkar:</p>
+                        <p class="tbl-norm">NIF (enskilda personer) och NIE:</p>
+                        <p class="tbl-norm">http://www.agenciatributaria.es/AEAT.internet/Inicio_es_ES/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Ciudadanos/Informacion/NIF_de_personas_fisicas.shtml</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Det består av nio tecken:</p>
+                        <p class="tbl-norm">Åtta siffror och en sista bokstav som kontrollkod i slutet.</p>
+                        <p class="tbl-norm">Det består av en bokstav (”L” för spanska personer bosatta utomlands, ”K” för personer under 14 år och ”M” för utlänningar bosatta utomlands),</p>
+                        <p class="tbl-norm">sju alfanumeriska tecken och en bokstav (kontroll)</p>
+                        <p class="tbl-norm">Det består av nio tecken: en begynnelsebokstav, ”X”, följt av sju siffror och en slutlig bokstav som kontrollkod.</p>
+                        <p class="tbl-norm">När alla sifferkombinationer med bokstaven ”X” har använts fortsätter sekvensen i alfabetisk ordning (först med ”Y” och därefter med ”Z”).</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Sverige</span>
+                        </p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Registreringsnummer (www.bolagsverket.se)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">NNNNNN-XXXX</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Personnummer</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">ÅÅMMDD-XXXX</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-left">
+                           <span class="boldface">Förenade kungariket</span>
+                        </p>
+                     </td>
+                     <td colspan="2" valign="top">
+                        <p class="tbl-norm">Skatteregistreringsnummer (Tax Identification Number, TIN)</p>
+                        <p class="tbl-norm">https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_UK_en.pdf</p>
+                     </td>
+                     <td colspan="2" valign="top">
+                        <p class="tbl-norm">Skatteregistreringsnummer (Tax Identification Number, TIN)</p>
+                        <p class="tbl-norm">https://ec.europa.eu/taxation_customs/tin/pdf/en/TIN_-_country_sheet_UK_en.pdf</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div id="anx_II">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-975ff344-79cd-4b63-ab63-238fbc8f2e21">BILAGA II</p>
+         <p class="title-gr-seq-level-1" id="id-e8b469eb-c44f-44b9-8f31-34769a02ef96">
+            <span class="boldface">Underrättelsemall för utbyte av information avseende passansökningar för filialer av betalningsinstitut och e-penninginstitut</span>
+         </p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="960" border="1" cellpadding="2" cellspacing="0">
+               <col width="0%"/>
+               <col width="89%"/>
+               <col width="11%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Hemmedlemsstat</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Namn på de behöriga myndigheterna i hemmedlemsstaten</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Datum då den behöriga myndigheten i hemmedlemsstaten mottog en fullständig och korrekt ansökan från betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DD/MM/ÅÅ</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Medlemsstat där filialen ska etableras</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av ansökan</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Första ansökan</p>
+                        <p class="tbl-norm">□Ändring av tidigare ansökan</p>
+                        <p class="tbl-norm">□Slut på affärsverksamhet/upphörande</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av institut</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Betalningsinstitut</p>
+                        <p class="tbl-norm">□E-penninginstitut</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets namn</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Adress till betalningsinstitutets/e-penninginstitutets huvudkontor</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets unika identifieringsnummer i hemmedlemsstatens format enligt bilaga I (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets identifieringskod för juridiska personer (LEI) (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">11)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets auktorisationsnummer från hemmedlemsstaten (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">12)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Kontaktperson inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">13)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-postadress till kontaktpersonen inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">14)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Telefonnummer till kontaktpersonen inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">15)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Filialens adress:</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">16)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Identitetsuppgifter om de personer som ansvarar för ledningen av filialens verksamhet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">17)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-postadress till de personer som ansvarar för ledningen av filialens verksamhet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">18)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Telefonnummer till de personer som ansvarar för ledningen av filialens verksamhet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">19)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betaltjänster som ska tillhandahållas</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">1.  □Tjänster som möjliggör kontantinsättningar på ett betalkonto samt alla åtgärder som krävs för förvaltningen av ett betalkonto.</p>
+                        <p class="tbl-norm">2.  □Tjänster som möjliggör kontantuttag från ett betalkonto samt alla åtgärder som krävs för förvaltningen av ett betalkonto</p>
+                        <p class="tbl-norm">3.  Genomförande av betalningstransaktioner, inklusive överföring av medel på ett betalkonto hos användarens betaltjänstleverantör eller hos någon annan betaltjänstleverantör:</p>
+                        <p class="norm">a)  Genomförande av autogireringar, inklusive engångsautogireringar□</p>
+                        <p class="norm">b)  Genomförande av betalningstransaktioner med kontokort eller liknande utrustning□</p>
+                        <p class="norm">c)  Genomförande av betalningar, inklusive stående betalningsorder□</p>
+                        <p class="tbl-norm">4.  Genomförande av betalningstransaktioner, när medlen täcks av en betaltjänstanvändares kreditutrymme:</p>
+                        <p class="norm">a)  Genomförande av autogireringar, inklusive engångsautogireringar□</p>
+                        <p class="norm">b)  Genomförande av betalningstransaktioner med kontokort eller liknande utrustning□</p>
+                        <p class="norm">c)  Genomförande av betalningar, inklusive stående betalningsorder□</p>
+                        <p class="tbl-norm">Inklusive beviljande av kredit i enlighet med artikel 18.4 i direktiv (EU) 2015/2366:□Ja□Nej</p>
+                        <p class="tbl-norm">5.  □Utgivning av betalningsinstrument</p>
+                        <p class="tbl-norm">□Inlösen av betalningstransaktioner</p>
+                        <p class="tbl-norm">Inklusive beviljande av kredit i enlighet med artikel 18.4 i direktiv (EU) 2015/2366:□Ja□Nej</p>
+                        <p class="tbl-norm">6.  □Penningöverföring</p>
+                        <p class="tbl-norm">7.  □Betalningsinitieringstjänster</p>
+                        <p class="tbl-norm">8.  □Kontoinformationstjänster</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">20)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Tjänster som ska tillhandahållas avseende elektroniska pengar (gäller endast e-penninginstitut)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Utgivning av elektroniska pengar</p>
+                        <p class="tbl-norm">□Distribution och/eller inlösen av elektroniska pengar</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">21)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Beskrivning av filialens organisatoriska struktur</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">22)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Affärsplan där det visas att filialen har förmåga att utnyttja system, resurser och förfaranden som är lämpliga och väl anpassade för en sund verksamhet i värdmedlemsstaten, och som inbegriper följande:</p>
+                        <p class="norm">a.  Filialens huvudsakliga mål och affärsstrategi och en förklaring av hur filialen ska bidra till institutets eller, i förekommande fall, koncernens strategi.</p>
+                        <p class="norm">b.  En budgetprognos för de tre första hela räkenskapsåren.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">23)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Styrsystem och interna kontrollmekanismer, inklusive följande:</p>
+                        <p class="norm">a.  Beskrivning av filialens styrningsstruktur, inbegripet funktionella och juridiska rapporteringsvägar och filialens ställning och roll inom institutets och, i förekommande fall, koncernens företagsstruktur.</p>
+                        <p class="norm">b.  En beskrivning av filialens interna kontrollmekanismer, inklusive följande:</p>
+                        <p class="norm">i.  Filialens interna riskhanteringsförfaranden, kopplingen till betalningsinstitutets/e-penninginstitutets interna riskhanteringsförfarande, och i förekommande fall, koncernens riskhanteringsförfarande.</p>
+                        <p class="norm">ii.  Närmare uppgifter om filialens internrevisionssystem.</p>
+                        <p class="norm">iii.  Närmare uppgifter om de förfaranden för bekämpning av penningtvätt som ska införas av filialen i värdmedlemsstaten, enligt direktiv (EU) 2015/849.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">24)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om operativa betaltjänst- eller e-penningtjänstfunktioner utkontrakteras krävs följande information:</p>
+                        <p class="norm">a.  Namn på och adress till den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">b.  Kontaktuppgifter (e-post och telefonnummer) för en kontaktperson inom den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">c.  Typ och uttömmande beskrivning av de utkontrakterade operativa funktionerna.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div id="anx_III">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-df464cea-fb92-4f02-9047-19f30fe0df97">BILAGA III</p>
+         <p class="title-gr-seq-level-1" id="id-5b6833d2-c962-4e89-9ef5-407c832f5c45">
+            <span class="boldface">Underrättelsemall för utbyte av information avseende passansökningar av betalningsinstitut och e-penninginstitut som använder ombud</span>
+         </p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="960" border="1" cellpadding="2" cellspacing="0">
+               <col width="0%"/>
+               <col width="70%"/>
+               <col width="30%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Hemmedlemsstat</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Den värdmedlemsstat där ombudet ska tillhandahålla betaltjänster</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Namn på den behöriga myndigheten i hemmedlemsstaten</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Datum då den behöriga myndigheten i hemmedlemsstaten mottog en fullständig och korrekt ansökan från betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DD/MM/ÅÅ</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av ansökan</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Första ansökan</p>
+                        <p class="tbl-norm">□Ändring av tidigare ansökan</p>
+                        <p class="tbl-norm">□Ytterligare ombud</p>
+                        <p class="tbl-norm">□Avaktivering av ombud</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Ansökans karaktär (bedömning av den behöriga myndigheten i hemmedlemsstaten)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Etableringsrätt</p>
+                        <p class="tbl-norm">□Frihet att tillhandahålla tjänster, på grundval av följande omständigheter:</p>
+                        <p class="tbl-norm">…</p>
+                        <p class="tbl-norm">…</p>
+                        <p class="tbl-norm">…</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av institut</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Betalningsinstitut</p>
+                        <p class="tbl-norm">□E-penninginstitut</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets namn</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Adress till betalningsinstitutets/e-penninginstitutets huvudkontor</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets unika identifieringsnummer i hemmedlemsstatens format enligt bilaga I (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">11)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets identifieringskod för juridiska personer (LEI) (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">12)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets auktorisationsnummer från hemmedlemsstaten (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">13)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Kontaktperson inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">14)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-postadress till kontaktpersonen inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">15)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Telefonnummer till kontaktpersonen inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">16)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Uppgifter om ombud:</p>
+                        <p class="norm">a.  Om det är en juridisk person:</p>
+                        <p class="norm">i.  Namn</p>
+                        <p class="norm">ii.  Registrerad(e) adress(er)</p>
+                        <p class="norm">iii.  Unikt identifieringsnummer i formatet för den hemmedlemsstat där ombudet är etablerat enligt bilaga I (i förekommande fall)</p>
+                        <p class="norm">iv.  Ombudets identifieringskod för juridiska personer (LEI-kod) (i förekommande fall)</p>
+                        <p class="norm">v.  Telefonnummer</p>
+                        <p class="norm">vi.  E-post:</p>
+                        <p class="norm">vii.  De juridiska ombudens namn, födelsedatum och födelseort</p>
+                        <p class="norm">b.  Om det är en fysisk person:</p>
+                        <p class="norm">i.  Namn, födelsedatum och födelseort</p>
+                        <p class="norm">ii.  Registrerad(e) företagsadress(er)</p>
+                        <p class="norm">iii.  Unikt identifieringsnummer i formatet för den hemmedlemsstat där ombudet är etablerat enligt bilaga I (i förekommande fall)</p>
+                        <p class="norm">iv.  Telefonnummer</p>
+                        <p class="norm">v.  E-post:</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">17)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om det är inom ramen för etableringsrätten, anges uppgifter om central kontaktpunkt, om denna redan har utnämnts och/eller föreskrivits av värdmedlemsstaternas myndigheter i enlighet med artikel 29.4 i direktiv (EU) 2015/2366:</p>
+                        <p class="norm">a.  Ombudets namn</p>
+                        <p class="norm">b.  Adress</p>
+                        <p class="norm">c.  Telefonnummer</p>
+                        <p class="norm">d.  E-post:</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">18)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betaltjänster som ska tillhandahållas av ombudet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">1.  □Tjänster som möjliggör kontantinsättningar på ett betalkonto samt alla åtgärder som krävs för förvaltningen av ett betalkonto.</p>
+                        <p class="tbl-norm">2.  □Tjänster som möjliggör kontantuttag från ett betalkonto samt alla åtgärder som krävs för förvaltningen av ett betalkonto</p>
+                        <p class="tbl-norm">3.  Genomförande av betalningstransaktioner, inklusive överföring av medel på ett betalkonto hos användarens betaltjänstleverantör eller hos någon annan betaltjänstleverantör:</p>
+                        <p class="norm">a)  Genomförande av autogireringar, inklusive engångsautogireringar□</p>
+                        <p class="norm">b)  Genomförande av betalningstransaktioner med kontokort eller liknande utrustning□</p>
+                        <p class="norm">c)  Genomförande av betalningar, inklusive stående betalningsorder□</p>
+                        <p class="tbl-norm">4.  Genomförande av betalningstransaktioner, när medlen täcks av en betaltjänstanvändares kreditutrymme:</p>
+                        <p class="norm">a)  Genomförande av autogireringar, inklusive engångsautogireringar□</p>
+                        <p class="norm">b)  Genomförande av betalningstransaktioner med kontokort eller liknande utrustning□</p>
+                        <p class="norm">c)  Genomförande av betalningar, inklusive stående betalningsorder□</p>
+                        <p class="tbl-norm">Inklusive beviljande av kredit i enlighet med artikel 18.4 i direktiv (EU) 2015/2366:□Ja□Nej</p>
+                        <p class="tbl-norm">5.  □Utgivning av betalningsinstrument</p>
+                        <p class="tbl-norm">□Inlösen av betalningstransaktioner</p>
+                        <p class="tbl-norm">Inklusive beviljande av kredit i enlighet med artikel 18.4 i direktiv (EU) 2015/2366:□Ja□Nej</p>
+                        <p class="tbl-norm">6.  □Penningöverföring</p>
+                        <p class="tbl-norm">7.  □Betalningsinitieringstjänster</p>
+                        <p class="tbl-norm">8.  □Kontoinformationstjänster</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">19)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">En beskrivning av de mekanismer för intern kontroll som betalningsinstitutet/e-penninginstitutet/ombudet kommer att använda för att fullgöra skyldigheterna när det gäller förebyggande av penningtvätt och finansiering av terrorism enligt direktiv (EU) 2015/849.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">20)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Identitets- och kontaktuppgifter om direktörer och personer som svarar för ledningen av det ombud som anlitats.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">21)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">För andra ombud än betaltjänstleverantörer, kriterier som anses styrka att de direktörer och personer som svarar för ledningen av det ombud som ska användas för tillhandahållande av betaltjänster är lämpliga.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="norm">a.  □Bevis som samlats in av betalningsinstitutet på att de direktörer och personer som svarar för ledningen av det ombud som ska användas för tillhandahållande av betaltjänster är lämpliga.</p>
+                        <p class="norm">b.  □Åtgärder som vidtagits av den behöriga myndigheten i hemmedlemsstaten i enlighet med artikel 19.3 i direktiv (EU) 2015/2366 för att kontrollera den information som lämnats av betalningsinstitutet.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">22)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om operativa betaltjänst- eller e-penningtjänstfunktioner utkontrakteras krävs följande information:</p>
+                        <p class="norm">a.  Namn på och adress till den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">b.  Kontaktuppgifter (e-post och telefonnummer) för en kontaktperson inom den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">c.  Typ och uttömmande beskrivning av de utkontrakterade operativa funktionerna.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div id="anx_IV">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-5aa144a8-8855-414c-9ecf-c60b324fc2bf">BILAGA IV</p>
+         <p class="title-gr-seq-level-1" id="id-96204423-5844-4cc1-a316-53a7ac0eaa04">
+            <span class="boldface">Underrättelsemall för utbyte av information avseende passansökningar av e-penninginstitut som använder distributörer</span>
+         </p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="960" border="1" cellpadding="2" cellspacing="0">
+               <col width="0%"/>
+               <col width="94%"/>
+               <col width="6%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Hemmedlemsstat</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Den värdmedlemsstat där e-penningtjänsterna ska tillhandahållas</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Namn på den behöriga myndigheten i hemmedlemsstaten</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Datum då den behöriga myndigheten i hemmedlemsstaten mottog en fullständig och korrekt ansökan från e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DD/MM/ÅÅ</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av ansökan</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Första ansökan</p>
+                        <p class="tbl-norm">□Ändring av tidigare ansökan</p>
+                        <p class="tbl-norm">□Ytterligare distributörer</p>
+                        <p class="tbl-norm">□Avaktivering av distributör</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Ansökans karaktär (bedömning av den behöriga myndigheten i hemmedlemsstaten)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Etableringsrätt</p>
+                        <p class="tbl-norm">□Frihet att tillhandahålla tjänster, på grundval av följande omständigheter:</p>
+                        <p class="tbl-norm">…</p>
+                        <p class="tbl-norm">…</p>
+                        <p class="tbl-norm">…</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-penninginstitutets namn</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Adress till e-penninginstitutets huvudkontor</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-penninginstitutets unika identifieringsnummer i hemmedlemsstatens format enligt bilaga I (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-penninginstitutets identifieringskod för juridiska personer (LEI) (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">11)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-penninginstitutets auktorisationsnummer från hemmedlemsstaten (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">12)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Kontaktperson inom e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">13)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-postadress till kontaktpersonen inom e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">14)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Telefonnummer till kontaktpersonen inom e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">15)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Uppgifter om distributör:</p>
+                        <p class="norm">a.  Om det är en juridisk person:</p>
+                        <p class="norm">i.  Namn</p>
+                        <p class="norm">ii.  Registrerad(e) adress(er)</p>
+                        <p class="norm">iii.  Unikt identifieringsnummer i formatet för den medlemsstat där distributören är etablerad enligt bilaga I (i förekommande fall)</p>
+                        <p class="norm">iv.  Distributörens identifieringskod för juridiska personer (LEI-kod) (i förekommande fall)</p>
+                        <p class="norm">v.  Telefonnummer</p>
+                        <p class="norm">vi.  E-post:</p>
+                        <p class="norm">vii.  De juridiska ombudens namn, födelsedatum och födelseort</p>
+                        <p class="norm">b.  Om det är en fysisk person:</p>
+                        <p class="norm">i.  Namn, födelsedatum och födelseort</p>
+                        <p class="norm">ii.  Registrerade företagsadress(er)</p>
+                        <p class="norm">iii.  Unikt identifieringsnummer i formatet för den medlemsstat där distributören är etablerad enligt bilaga I (i förekommande fall)</p>
+                        <p class="norm">iv.  Telefonnummer</p>
+                        <p class="norm">v.  E-post:</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">16)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-penningtjänster som ska tillhandahållas av distributören</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Distribution</p>
+                        <p class="tbl-norm">□Inlösen av elektroniska pengar</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">17)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">En beskrivning av de mekanismer för intern kontroll som e-penninginstitutet/distributören kommer att använda för att fullgöra skyldigheterna när det gäller förebyggande av penningtvätt och finansiering av terrorism enligt direktiv (EU) 2015/849.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">18)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om operativa e-penningtjänstfunktioner utkontrakteras krävs följande information:</p>
+                        <p class="norm">a.  Namn på och adress till den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">b.  Kontaktuppgifter (e-post och telefonnummer) för en kontaktperson inom den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">c.  Typ och uttömmande beskrivning av de utkontrakterade operativa funktionerna.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div id="anx_V">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-1adaa966-e045-4640-98db-56652e99d787">BILAGA V</p>
+         <p class="title-gr-seq-level-1" id="id-b6ea0f03-dfe6-469d-ad73-bec6581da9d8">
+            <span class="boldface">Underrättelsemall för utbyte av information avseende ansökningar om frihet att tillhandahålla tjänster utan ombud eller distributör</span>
+         </p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="720" border="1" cellpadding="2" cellspacing="0">
+               <col width="1%"/>
+               <col width="81%"/>
+               <col width="19%"/>
+               <tbody>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Hemmedlemsstat</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Namn på den behöriga myndigheten i hemmedlemsstaten</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Datum då den behöriga myndigheten i hemmedlemsstaten mottog en fullständig och korrekt ansökan från betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DD/MM/ÅÅ</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Medlemsstat där tjänsterna ska tillhandahållas</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av ansökan</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Första ansökan</p>
+                        <p class="tbl-norm">□Ändring av tidigare ansökan</p>
+                        <p class="tbl-norm">□Slut på affärsverksamhet/upphörande</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av institut</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Betalningsinstitut</p>
+                        <p class="tbl-norm">□E-penninginstitut</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets namn</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Adress till betalningsinstitutets/e-penninginstitutets huvudkontor</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets unika identifieringsnummer i hemmedlemsstatens format enligt bilaga I (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets identifieringskod för juridiska personer (LEI) (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">11)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets auktorisationsnummer från hemmedlemsstaten (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">12)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Kontaktperson inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">13)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-postadress till kontaktpersonen inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">14)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Telefonnummer till kontaktpersonen inom betalningsinstitutet/e-penninginstitutet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">15)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Det planerade datum då tillhandahållandet av betaltjänster/e-penningtjänster ska påbörjas (får inte infalla tidigare än datumet då hemmedlemsstatens behöriga myndighet meddelar sitt beslut enligt artikel 28.3 i direktiv (EU) 2015/2366)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DD/MM/ÅÅÅÅ</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">16)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betaltjänster som ska tillhandahållas</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">1.  □Tjänster som möjliggör kontantinsättningar på ett betalkonto samt alla åtgärder som krävs för förvaltningen av ett betalkonto.</p>
+                        <p class="tbl-norm">2.  □Tjänster som möjliggör kontantuttag från ett betalkonto samt alla åtgärder som krävs för förvaltningen av ett betalkonto</p>
+                        <p class="tbl-norm">3.  Genomförande av betalningstransaktioner, inklusive överföring av medel på ett betalkonto hos användarens betaltjänstleverantör eller hos någon annan betaltjänstleverantör:</p>
+                        <p class="norm">a)  Genomförande av autogireringar, inklusive engångsautogireringar□</p>
+                        <p class="norm">b)  Genomförande av betalningstransaktioner med kontokort eller liknande utrustning□</p>
+                        <p class="norm">c)  Genomförande av betalningar, inklusive stående betalningsorder□</p>
+                        <p class="tbl-norm">4.  Genomförande av betalningstransaktioner, när medlen täcks av en betaltjänstanvändares kreditutrymme:</p>
+                        <p class="norm">a)  Genomförande av autogireringar, inklusive engångsautogireringar□</p>
+                        <p class="norm">b)  Genomförande av betalningstransaktioner med kontokort eller liknande utrustning□</p>
+                        <p class="norm">c)  Genomförande av betalningar, inklusive stående betalningsorder□</p>
+                        <p class="tbl-norm">Inklusive beviljande av kredit i enlighet med artikel 18.4 i direktiv (EU) 2015/2366:□Ja□Nej</p>
+                        <p class="tbl-norm">5.  □Utgivning av betalningsinstrument</p>
+                        <p class="tbl-norm">□Inlösen av betalningstransaktioner</p>
+                        <p class="tbl-norm">Inklusive beviljande av kredit i enlighet med artikel 18.4 i direktiv (EU) 2015/2366:□Ja□Nej</p>
+                        <p class="tbl-norm">6.  □Penningöverföring</p>
+                        <p class="tbl-norm">7.  □Betalningsinitieringstjänster</p>
+                        <p class="tbl-norm">8.  □Kontoinformationstjänster</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">17)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">E-penningtjänster som ska tillhandahållas (gäller endast e-penninginstitut)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Utgivning av elektroniska pengar</p>
+                        <p class="tbl-norm">□Distribution och/eller inlösen av elektroniska pengar</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">18)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Om operativa betaltjänst- eller e-penningtjänstfunktioner utkontrakteras krävs följande information:</p>
+                        <p class="norm">a.  Namn på och adress till den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">b.  Kontaktuppgifter (e-post och telefonnummer) för en kontaktperson inom den enhet till vilken operativa funktioner ska utkontrakteras.</p>
+                        <p class="norm">c.  Typ och uttömmande beskrivning av de utkontrakterade operativa funktionerna.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+      <div id="anx_VI">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-c4b71418-3a99-4408-a39f-a017937fe38b">BILAGA VI</p>
+         <p class="title-gr-seq-level-1" id="id-6f1ab8dc-38b3-4874-9cdd-20aa3535484d">
+            <span class="boldface">Underrättelsemall för utbyte av information avseende inledandet av filialers/ombuds/distributörers passverksamhet av betalningsinstitut och e-penninginstitut</span>
+         </p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="960" border="1" cellpadding="2" cellspacing="0">
+               <col width="0%"/>
+               <col width="26%"/>
+               <col width="74%"/>
+               <tbody>
+                  <tr>
+                     <td colspan="3" style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">Inledande av verksamhet</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">1)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Hemmedlemsstat</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">2)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Namn på den behöriga myndigheten i hemmedlemsstaten</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">3)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Datum för den ursprungliga ansökan enligt bilaga II, III eller IV.</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">4)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Medlemsstat där filialen/ombudet/distributören ska inleda verksamhet</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">5)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av institut</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Betalningsinstitut</p>
+                        <p class="tbl-norm">□E-penninginstitut</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">6)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets namn</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">7)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Adress till betalningsinstitutets/e-penninginstitutets huvudkontor</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">8)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets unika identifieringsnummer i hemmedlemsstatens format enligt bilaga I (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">9)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets identifieringskod för juridiska personer (LEI) (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">10)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Betalningsinstitutets/e-penninginstitutets auktorisationsnummer från hemmedlemsstaten (i förekommande fall)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="normal"> </p>
+                        <div/>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">11)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Typ av passförfarande</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">□Filial</p>
+                        <p class="tbl-norm">□Ombud</p>
+                        <p class="tbl-norm">□Distributör</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">12)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">För ombud/distributörer,</p>
+                     </td>
+                     <td valign="top">
+                        <p class="norm">a.  Om det är en juridisk person:</p>
+                        <p class="norm">i.  Namn</p>
+                        <p class="norm">ii.  Unikt identifieringsnummer i formatet för den medlemsstat där ombudet/distributören är etablerad enligt bilaga I (i förekommande fall)</p>
+                        <p class="norm">iii.  Ombudets/distributörens identifieringskod för juridiska personer (LEI-kod) (i förekommande fall)</p>
+                        <p class="norm">iv.  Telefonnummer</p>
+                        <p class="norm">b.  Om det är en fysisk person:</p>
+                        <p class="norm">i.  Namn, födelsedatum och födelseort</p>
+                        <p class="norm">ii.  Unikt identifieringsnummer i formatet för den medlemsstat där ombudet/distributören är etablerad enligt bilaga I (i förekommande fall)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">13)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">För ombud och filialer, datum för införande i hemmedlemsstatens behöriga myndigheters register</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DD/MM/ÅÅÅÅ</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">14)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Datum för inledande av filialens/ombudets/distributörens verksamhet (för ombud och filialer får datumet inte infalla tidigare än datumet då ombudet/filialen förs in i hemmedlemsstatens register i enlighet med artikel 28.3 i direktiv (EU) 2015/2366)</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">DD/MM/ÅÅÅÅ</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </div>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) Europaparlamentets och rådets direktiv (EU) 2015/849 av den 20 maj 2015 om åtgärder för att förhindra att det finansiella systemet används för penningtvätt eller finansiering av terrorism, om ändring av Europaparlamentets och rådets förordning (EU) nr 648/2012 och om upphävande av Europaparlamentets och rådets direktiv 2005/60/EG och kommissionens direktiv 2006/70/EG (EUT L 141, 5.6.2015, s. 73).</p>
+</body>
+</html>

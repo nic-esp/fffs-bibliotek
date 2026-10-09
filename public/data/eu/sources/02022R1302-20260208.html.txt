@@ -1,0 +1,1566 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.17.0 # generated_on:20260205-1805 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32022R1302 — SV — 08.02.2026</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02022R1302 — SV — 08.02.2026 — 001.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32022R1302"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32022R1302">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-c3059f45-886d-4893-8a87-e515638394da">
+                        KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2022/1302</p>
+            <p class="title-doc-first" id="id-ac274136-4bc4-4b00-a2dc-f5345ecbcb35">av den 20 april 2022
+                     </p>
+            <p class="title-doc-first" id="id-a587ccaa-fd5b-4439-8b20-29745feedb35">om komplettering av Europaparlamentets och rådets direktiv 2014/65/EU vad gäller tekniska tillsynsstandarder för tillämpning av positionslimiter för råvaruderivat och förfaranden för ansökan om undantag från positionslimiter</p>
+            <p class="title-doc-last" id="id-25317334-eb5a-4d4f-a66a-bbe0056df2e6">
+               <a href="http://publications.europa.eu/resource/celex/32022R1302"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32022R1302">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-c0c6bae8-ba78-48af-970d-b9f68c9538f2">(EGT L 197 26.7.2022, s. 52)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32026R0136"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026R0136">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-f8b323b1-b81f-4923-9db2-40016d128674">
+               <a href="http://publications.europa.eu/resource/celex/32026R0136"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026R0136">
+                              KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2026/136 av den 8 oktober 2025
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 136</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">19.1.2026</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <div class="eli-container">
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32022R1302"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32022R1302">▼B</a>
+      </p>
+      <div class="eli-main-title" id="tit_1">
+         <p class="title-doc-first" id="id-2f9209fb-9ac8-4be8-aa26-27132fc09cf3">
+               KOMMISSIONENS DELEGERADE FÖRORDNING (EU) 2022/1302</p>
+         <p class="title-doc-first" id="id-92c6ef90-93da-45d3-9889-e8b3992a979c">av den 20 april 2022
+            </p>
+         <p class="title-doc-first" id="id-dd2ff054-d2ae-4ecf-92ee-7c8a7401093a">om komplettering av Europaparlamentets och rådets direktiv 2014/65/EU vad gäller tekniska tillsynsstandarder för tillämpning av positionslimiter för råvaruderivat och förfaranden för ansökan om undantag från positionslimiter</p>
+         <p class="title-doc-last" id="id-565c6582-ec4d-4de3-8c66-54e97802f0de">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <p>
+            <br/>
+            <br/>
+         </p>
+         <div id="cpt_I">
+            <p class="title-division-1" id="id-07651417-e30e-4397-908f-8a5dfb8fb1b4">KAPITEL I</p>
+            <p class="title-division-2" id="id-438c1160-fa26-4dd5-ba96-aca6573fe756">
+               <span class="boldface">ALLMÄNNA BESTÄMMELSER</span>
+            </p>
+            <div class="eli-subdivision" id="art_1">
+               <p class="title-article-norm" id="id-b1252dde-171d-4d16-8fce-e70849938cbe">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="stitle-article-norm">Syfte</p>
+               </div>
+               <p class="norm">I denna förordning anges regler för beräkning av den nettoposition som en person innehar i ett råvaruderivat, metoden för att beräkna positionslimiter för storleken på denna position och förfaranden för ansökan om undantag från positionslimiter.</p>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p class="title-article-norm" id="id-5e91b90e-5e7b-466b-a52f-5eaf09ffd393">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="stitle-article-norm">Definitioner</p>
+               </div>
+               <p class="norm">I denna förordning gäller följande definitioner:</p>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>1. </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">
+                        <span class="italics">finansiell enhet</span>: något av följande:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Värdepappersföretag som auktoriserats i enlighet med direktiv 2014/65/EU.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Kreditinstitut som auktoriserats i enlighet med Europaparlamentets och rådets direktiv 2013/36/EU (<a href="#E0001" id="src.E0001">
+                                 <span class="superscript">1</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Försäkringsföretag enligt definitionen i artikel 13.1 i Europaparlamentets och rådets direktiv 2009/138/EU (<a href="#E0002" id="src.E0002">
+                                 <span class="superscript">2</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Återförsäkringsföretag enligt definitionen i artikel 13.4 i direktiv 2009/138/EG.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>e) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag), och i tillämpliga fall dess förvaltningsbolag, som auktoriserats i enlighet med Europaparlamentets och rådets direktiv 2009/65/EG (<a href="#E0003" id="src.E0003">
+                                 <span class="superscript">3</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>f) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Tjänstepensionsinstitut i den mening som avses i artikel 6.1 i Europaparlamentets och rådets direktiv (EU) 2016/2341 (<a href="#E0004" id="src.E0004">
+                                 <span class="superscript">4</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>g) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Alternativ investeringsfond förvaltad av en förvaltare av alternativa investeringsfonder som är auktoriserad eller registrerad i enlighet med Europaparlamentets och rådets direktiv 2011/61/EU (<a href="#E0005" id="src.E0005">
+                                 <span class="superscript">5</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>h) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Central motpart som auktoriserats i enlighet med Europaparlamentets och rådets förordning (EU) nr 648/2012 (<a href="#E0006" id="src.E0006">
+                                 <span class="superscript">6</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>i) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Värdepapperscentral som auktoriserats i enlighet med Europaparlamentets och rådets förordning (EU) nr 909/2014 (<a href="#E0007" id="src.E0007">
+                                 <span class="superscript">7</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>2. </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">
+                        <span class="italics">icke-finansiell enhet</span>: juridisk eller fysisk person som inte är en finansiell enhet.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>3. </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">
+                        <span class="italics">spotmånadskontrakt</span>: ett råvaruderivatkontrakt som hänför sig till en särskild underliggande råvara och som är nästa kontrakt att förfalla enligt handelsplatsens regler.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>4. </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">
+                        <span class="italics">andra månaders kontrakt</span>: ett råvaruderivatkontrakt som inte är ett spotmånadskontrakt.</p>
+                  </div>
+               </div>
+               <div class="grid-container grid-list">
+                  <div class="list grid-list-column-1">
+                     <span>5. </span>
+                  </div>
+                  <div class="grid-list-column-2">
+                     <p class="norm">
+                        <span class="italics">post</span>: handelsenhet som används av den handelsplats där råvaruderivatet handlas och som motsvarar en standardiserad kvantitet av den underliggande råvaran.</p>
+                  </div>
+               </div>
+               <p class="norm">En enhet i tredjeland ska betraktas som en finansiell enhet om den skulle vara tvungen att vara auktoriserad enligt någon av de unionsrättsakter som anges i led 1 i första stycket om den vore baserad i unionen och omfattades av unionens lagstiftning.</p>
+               <p class="norm">En enhet i tredjeland ska betraktas som en icke-finansiell enhet om den inte skulle vara tvungen att vara auktoriserad enligt någon av de unionsrättsakter som anges i led 1 i första stycket om den vore baserad i unionen och omfattades av unionens lagstiftning.</p>
+            </div>
+         </div>
+         <div id="cpt_II">
+            <p class="title-division-1" id="id-608fce16-b7a0-4fce-8a22-251a87fcff53">KAPITEL II</p>
+            <p class="title-division-2" id="id-4cc4a40b-894f-4794-b292-0903adbb899d">
+               <span class="boldface">METOD FÖR ATT BERÄKNA STORLEKEN PÅ EN PERSONS NETTOPOSITION</span>
+            </p>
+            <div class="eli-subdivision" id="art_3">
+               <p class="title-article-norm" id="id-5e05c64f-559c-47c5-bfb6-f53c5427128c">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="stitle-article-norm">Aggregering och nettning av positioner i ett råvaruderivat</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">En persons nettoposition i ett råvaruderivat ska vara den aggregerade summan av följande:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Personens positioner i det råvaruderivat som handlas på en handelsplats och i ekonomiskt likvärdiga OTC-kontrakt i enlighet med artikel 6.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om råvaruderivatet är ett jordbruksråvaruderivat som handlas i betydande volym i enlighet med artikel 5, personens position i jordbruksråvaruderivat baserade på samma underliggande råvara och med samma egenskaper, som handlas i betydande volymer på andra handelsplatser och omfattas av de positionslimiter som fastställts av den centrala behöriga myndigheten.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Om det i fråga om råvaruderivatet rör sig om ett kritiskt eller betydande kontrakt, personens positioner i kritiska eller betydande kontrakt baserade på samma underliggande råvara och med samma egenskaper, som handlas på andra handelsplatser och omfattas av de positionslimiter som fastställts av den centrala behöriga myndigheten.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">De positioner som innehas i ett råvaruderivat som handlas på en handelsplats som avses i punkt 1 led a ska omfatta de positioner som innehas i de disaggregerade komponenterna i ett spreadavtal och i andra nära relaterade råvaruderivat som handlas på samma handelsplats och som utgör en bråkdel av värdet av ett motsvarande standardterminskontrakt eller vars prissättningsperiod definieras som perioden mellan det valda startdatumet till och med slutet på avtalsmånaden för standardråvaruderivatet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Om en person innehar både långa och korta positioner i något råvaruderivat som avses i punkterna 1 och 2 ska personen netta dessa positioner vid fastställandet av sin nettoposition i det råvaruderivatet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Positioner som innehas av en icke-finansiell enhet i råvaruderivat som på ett objektivt mätbart sätt kan anses minska risker i enlighet med artikel 7.1 och 7.3 ska, om de godkänns av den behöriga myndigheten enligt artikel 8.5 på grundval av artikel 8.1 och 8.2, inte aggregeras vid jämförelsen av den icke-finansiella enhetens nettoposition med limiterna för det råvaruderivatet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">Positioner som innehas av en finansiell enhet i råvaruderivat som på ett objektivt mätbart sätt kan anses minska risker i enlighet med artikel 7.2 och 7.4 ska, om de godkänns av den behöriga myndigheten i enlighet med artikel 8.5 på grundval av artikel 8.3 och 8.4, inte aggregeras vid jämförelsen av den finansiella enhetens nettoposition med limiterna för det råvaruderivatet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">6.  </span>
+                  <div class="norm inline-element">Positioner som innehas av en person i råvaruderivat som härrör från transaktioner som genomförts på handelsplatser för att uppfylla skyldigheter att tillhandahålla likviditet i enlighet med artikel 10 ska, om de godkänns av den behöriga myndigheten i enlighet med artikel 9, inte aggregeras vid jämförelsen av den personens nettoposition med gränsvärdena för det råvaruderivatet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">7.  </span>
+                  <div class="norm inline-element">De nettopositioner som en person innehar i ett råvaruderivat för spotmånadskontrakt och andra månaders kontrakt ska fastställas separat.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p class="title-article-norm" id="id-5b1be8aa-aa50-429f-ab8d-4106aae974fd">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="stitle-article-norm">Metod för att beräkna juridiska enheters positioner inom en koncern</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Ett moderföretag ska fastställa sin nettoposition genom att i enlighet med artikel 3 aggregera följande positioner:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Sin egen nettoposition.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Nettopositionerna för vart och ett sina dotterföretag.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Med avvikelse från punkt 1 ska moderföretaget till ett företag för kollektiva investeringar eller, om företaget för kollektiva investeringar har utsett ett förvaltningsbolag, moderföretaget till det förvaltningsbolaget, inte aggregera positioner i råvaruderivat i företag för kollektiva investeringar om moderföretaget inte på något sätt påverkar investeringsbesluten i fråga om att öppna, inneha eller avsluta dessa positioner.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p class="title-article-norm" id="id-2bd88345-532f-46ea-aa39-71930579eed5">Artikel 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="stitle-article-norm">Betydande volymer</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Ett jordbruksråvaruderivat ska anses handlas i betydande volym på en handelsplats, om handeln i jordbruksråvaruderivatet på den handelsplatsen under tre på varandra följande månader överstiger en genomsnittlig mängd öppna kontrakt per dag på 20 000  poster för spotmånaden och andra månader tillsammans.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">Den handelsplats som har den största handelsvolymen i råvaruderivat baserade på samma underliggande råvara och med samma egenskaper äger rum ska vara den handelsplats som under ett år har den största genomsnittliga mängden öppna kontrakt per dag.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p class="title-article-norm" id="id-780f6073-a9ab-4413-b9f9-8abb482313a4">Artikel 6</p>
+               <div class="eli-title" id="art_6.tit_1">
+                  <p class="stitle-article-norm">OTC-kontrakt som är ekonomiskt likvärdiga med råvaruderivat som handlas på handelsplatser</p>
+               </div>
+               <p class="norm">Ett OTC-derivat ska anses vara ekonomiskt likvärdigt med ett råvaruderivat som handlas på en handelsplats om det har identiska kontraktsspecifikationer och kontraktsvillkor, med undantag för olika specifikationer avseende poststorlek, leveransdagar som skiljer sig åt med mindre än en kalenderdag och olika riskhanteringsarrangemang efter handeln.</p>
+            </div>
+            <div class="eli-subdivision" id="art_7">
+               <p class="title-article-norm" id="id-13d578f1-caa7-46c5-8868-bda0018a8300">Artikel 7</p>
+               <div class="eli-title" id="art_7.tit_1">
+                  <p class="stitle-article-norm">Positioner som anses minska risker som står i direkt samband med affärsverksamhet</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">En position som innehas av en icke-finansiell enhet i ett råvaruderivat som handlas på handelsplatser eller i ekonomiskt likvärdiga OTC-kontrakt enligt artikel 6 ska anses minska risker som står i direkt samband med den icke-finansiella enhetens affärsverksamhet i enlighet med artikel 57.1 andra stycket led a i direktiv 2014/65/EU, om positionen i sig själv, eller i kombination med andra derivat enligt punkt 3 (”position i en portfölj av råvaruderivat”), uppfyller något av följande kriterier:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Den minskar de risker som följer av potentiella förändringar av värdet för tillgångar, tjänster, insatsvaror, produkter, råvaror eller skulder som den icke-finansiella enheten eller dess koncern äger, producerar, tillverkar, bearbetar, tillhandahåller, köper, handlar med, hyr, säljer eller ådrar sig eller rimligtvis kan räkna med att äga, producera, tillverka, bearbeta, tillhandahålla, köpa, handla med, hyra, sälja eller ådra sig i samband med sin vanliga affärsverksamhet.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Den uppfyller kraven för att vara ett säkringsavtal enligt IFRS-standarderna, som antagits i enlighet med artikel 3 i Europaparlamentets och rådets förordning (EG) nr 1606/2002 (<a href="#E0008" id="src.E0008">
+                                 <span class="superscript">8</span>
+                              </a>).</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">En position som innehas av en finansiell enhet i ett jordbruksråvaruderivat, i ett kritiskt eller signifikant råvaruderivat som handlas på handelsplatser eller i ekonomiskt likvärdiga OTC-kontrakt i enlighet med artikel 6 ska anses minska risker som står i direkt samband med den kommersiella verksamheten hos de icke-finansiella enheterna inom den huvudsakligen kommersiella koncernen i enlighet med artikel 57.1 andra stycket led b i direktiv 2014/65/EU, om positionen i sig själv, eller i kombination med andra derivat enligt punkt 3 (position i en portfölj av råvaruderivat), uppfyller något av de kriterier som nämns i punkt 1 led a eller led b.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Vid tillämpning av punkt 1 ska en position som anses minska risker i sig själv eller i kombination med andra derivat vara en position för vilken den icke-finansiella enheten eller den person som innehar positionen för den enhetens räkning uppfyller följande kriterier:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Enhetens eller personens interna regler innehåller följande:</p>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>i) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">De typer av råvaruderivat som ingår i en portfölj som används för att minska risker som står i direkt samband med affärsverksamheten och de kriterier som kontrakten ska uppfylla för att ingå i en portfölj.</p>
+                              </div>
+                           </div>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>ii) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">Sambandet mellan portföljen och de risker som portföljen ska begränsa.</p>
+                              </div>
+                           </div>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>iii) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">De åtgärder som vidtas för att säkerställa att positioner i sådana råvaruderivat inte tjänar något annat ändamål än att täcka risker som står i direkt samband med den icke-finansiella enhetens affärsverksamhet och att varje position som tjänar ett annat ändamål tydligt kan identifieras.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Enheten eller personen kan tillhandahålla en tillräckligt detaljerad bild av portföljen i fråga om klasser av råvaruderivat, underliggande råvaror, tidshorisonter och andra relevanta faktorer.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Vid tillämpning av punkt 2 ska en position som anses minska risker i sig själv eller i kombination med andra derivat vara en position för vilken den finansiella enheten uppfyller villkoren i punkt 3 leden a och b.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_8">
+               <p class="title-article-norm" id="id-e5319459-6c92-48a0-b7d8-b332106a0fb4">Artikel 8</p>
+               <div class="eli-title" id="art_8.tit_1">
+                  <p class="stitle-article-norm">Ansökan om undantag från positionslimiter för positioner som anses minska risker som står i direkt samband med kommersiell verksamhet</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">En icke-finansiell enhet som innehar en riskminskande position i ett jordbruksråvaruderivat eller i ett kritiskt eller signifikant råvaruderivat ska lämna in en ansökan om det undantag som avses i artikel 57.1 andra stycket led a i direktiv 2014/65/EU till den behöriga myndighet som fastställer positionslimiten för det råvaruderivatet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Den person som avses i punkt 1 ska till den behöriga myndigheten lämna följande uppgifter som visar hur positionen minskar risker som står i direkt samband med den icke-finansiella enhetens affärsverksamhet:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En beskrivning av arten och värdet av den icke-finansiella enhetens affärsverksamhet rörande den råvara för vilken det råvaruderivat som undantaget avser är relevant.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En beskrivning av arten och värdet av den icke-finansiella enhetens verksamhet i fråga om handel med och positioner i relevanta råvaruderivat som handlas på handelsplatser och deras ekonomiskt likvärdiga OTC-kontrakt.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En beskrivning av arten av och storleken på de exponeringar och risker i råvaran som den icke-finansiella enheten har eller väntas ha till följd av sin affärsverksamhet och som begränsas eller skulle begränsas genom användning av råvaruderivat.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">En redogörelse för hur den icke-finansiella enhetens användning av råvaruderivat direkt minskar dess affärsverksamhets exponering och risker.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">En finansiell enhet som innehar en position som kan anses riskminskande i ett jordbruksråvaruderivat eller i ett kritiskt eller betydande råvaruderivat ska ansöka om det undantag som avses i artikel 57.1 andra stycket led b i direktiv 2014/65/EU hos den behöriga myndighet som fastställer positionslimiten för det råvaruderivatet.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Den person som avses i punkt 3 ska till den behöriga myndigheten överlämna följande:.</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Lämpliga uppgifter som visar att moderföretaget har anförtrott den finansiella enheten handel med råvaruderivat som handlas på en handelsplats och deras ekonomiskt likvärdiga OTC-kontrakt för att minska exponeringen och riskerna i den kommersiella verksamheten i de icke-finansiella enheterna i den huvudsakligen kommersiella koncernen.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Följande uppgifter som visar hur positionen minskar de risker som står i direkt samband med den affärsverksamhet som bedrivs av icke-finansiella enheter i samma huvudsakligen kommersiella koncern:</p>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>i) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">En beskrivning av arten och värdet av de icke-finansiella enheternas affärsverksamhet rörande den råvara för vilken det råvaruderivat som undantaget avser är relevant.</p>
+                              </div>
+                           </div>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>ii) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">En beskrivning av arten av och storleken på de exponeringar och risker i råvaran som de icke-finansiella enheterna har eller väntas ha till följd av sin affärsverksamhet och som begränsas eller skulle begränsas genom användning av råvaruderivat.</p>
+                              </div>
+                           </div>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>iii) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">En beskrivning av arten och värdet av den finansiella enhetens verksamhet i fråga om handel med och positioner i relevanta råvaruderivat som handlas på handelsplatser och deras ekonomiskt likvärdiga OTC-kontrakt.</p>
+                              </div>
+                           </div>
+                           <div class="grid-container grid-list">
+                              <div class="list grid-list-column-1">
+                                 <span>iv) </span>
+                              </div>
+                              <div class="grid-list-column-2">
+                                 <p class="norm">En redogörelse för hur den finansiella enhetens användning av råvaruderivat direkt minskar den icke-finansiella enhetens affärsverksamhets exponering och risker.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">5.  </span>
+                  <div class="norm inline-element">Den behöriga myndigheten ska godkänna eller avvisa ansökan inom 21 kalenderdagar efter att ha mottagit den och ska underrätta den sökande om sitt godkännande eller avvisande av undantaget.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">6.  </span>
+                  <div class="norm inline-element">Den icke-finansiella enheten ska meddela den behöriga myndigheten om det sker en betydande ändring av arten eller värdet av dess affärsverksamhet eller dess handel med råvaruderivat och om förändringen är relevant för de uppgifter som avses i punkt 2 led b, och dessutom ska enheten lämna in en ny ansökan om den önskar fortsätta att tillämpa undantaget.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">7.  </span>
+                  <div class="norm inline-element">Den finansiella enheten ska meddela den behöriga myndigheten om det sker en ändring av de uppgifter som anges i punkt 4 led a, eller en betydande ändring av arten eller värdet av den icke-finansiella enhetens affärsverksamhet eller dess handel med råvaruderivat och om ändringen är relevant för de uppgifter som avses i punkt 4 led b iii, och ska lämna in en ny ansökan, om den önskar fortsätta att tillämpa undantaget.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_9">
+               <p class="title-article-norm" id="id-54d94f6b-80e7-4c6c-9ad4-7dfe15aef6f9">Artikel 9</p>
+               <div class="eli-title" id="art_9.tit_1">
+                  <p class="stitle-article-norm">Ansökan om undantag från positionslimiter rörande obligatoriskt tillhandahållande av likviditet</p>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32026R0136"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32026R0136: REPLACED">▼M1</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">En person som innehar en position som anses riskminskande i ett jordbruksråvaruderivat eller ett kritiskt eller betydande råvaruderivat ska ansöka om det undantag som avses i artikel 57.1 andra stycket c i direktiv 2014/65/EU hos den behöriga myndighet som fastställer positionslimiten för det råvaruderivatet.</div>
+               </div>
+               <p class="modref">
+                  <a href="http://publications.europa.eu/resource/celex/32022R1302"
+                     onclick="window.open(this.href,'_blank'); return false;"
+                     title="32022R1302">▼B</a>
+               </p>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Den person som avses i punkt 1 ska till den behöriga myndigheten lämna följande uppgifter som visar hur positionerna är ett resultat av transaktioner som ingåtts för att uppfylla skyldigheter att tillhandahålla likviditet i det råvaruderivatet på en handelsplats i enlighet med artikel 2.4 fjärde stycket led c i direktiv 2014/65/EU:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Förteckning över de råvaruderivat i vilka den personen tillhandahåller likviditet på en handelsplats i enlighet med leden b och c i denna punkt.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Bestämmelser enligt vilka den personen är skyldig att tillhandahålla likviditet i ett råvaruderivat på en handelsplats eller skriftligt avtal som undertecknats med handelsplatsen om skyldigheter att tillhandahålla likviditet som ska uppfyllas av personen på handelsplatsen uppdelat på råvaruderivat.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Beskrivning av arten och värdet av personens verksamhet rörande obligatoriskt tillhandahållande av likviditet i det relevanta råvaruderivatet och av de förväntade resulterande positionerna.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>d) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Alla eventuella positionslimiter som fastställts i personens interna regler för det obligatoriska tillhandahållandet av likviditet, uppdelade på råvaruderivat.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">3.  </span>
+                  <div class="norm inline-element">Den behöriga myndigheten ska godkänna eller avvisa ansökan inom 21 kalenderdagar efter att ha mottagit den och ska underrätta personen om sitt godkännande eller avvisande av undantaget.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">4.  </span>
+                  <div class="norm inline-element">Personen ska meddela den behöriga myndigheten om det sker en betydande ändring av arten eller värdet av personens handel med råvaruderivat och om förändringen är relevant för de uppgifter som avses i punkt 2, och dessutom ska personen lämna in en ny ansökan om den önskar fortsätta att tillämpa undantaget.</div>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_10">
+               <p class="title-article-norm" id="id-97bebbcc-cd1f-4189-9b4b-37c9cb93ebfd">Artikel 10</p>
+               <div class="eli-title" id="art_10.tit_1">
+                  <p class="stitle-article-norm">Positioner som anses vara ett resultat av obligatoriskt tillhandahållande av likviditet</p>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">1.  </span>
+                  <div class="norm inline-element">Vid tillämpning av artikel 9.1 ska en position som innehas av en person i ett jordbruksråvaruderivat eller i ett kritiskt eller betydande råvaruderivat som handlas på en handelsplats anses vara ett resultat av transaktioner som genomförts för att fullgöra skyldigheter att tillhandahålla likviditet, om positionen är ett direkt resultat av transaktioner med ett råvaruderivat som genomförts i enlighet med krav från tillsynsmyndigheter i överensstämmelse med unionsrätten eller nationella lagar och andra författningar, eller det skriftliga avtal som ingåtts med handelsplatsen och identifierats som sådant av handelsplatsen.</div>
+               </div>
+               <div class="norm">
+                  <span class="no-parag">2.  </span>
+                  <div class="norm inline-element">
+                     <p class="norm inline-element">Vid tillämpning av artikel 9.1 ska en position som anses vara resultatet av obligatoriskt tillhandahållande av likviditet, vara en position som innehas av en person vars interna regler innehåller följande:</p>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>a) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De typer av råvaruderivat som ingår i de portföljer som avser skyldigheten att tillhandahålla likviditet.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>b) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">Kopplingen mellan den position som innehas i ett råvaruderivat och de transaktioner som genomförts för att fullgöra skyldigheten att tillhandahålla likviditet i det derivatet i enlighet med punkt 1.</p>
+                        </div>
+                     </div>
+                     <div class="grid-container grid-list">
+                        <div class="list grid-list-column-1">
+                           <span>c) </span>
+                        </div>
+                        <div class="grid-list-column-2">
+                           <p class="norm">De åtgärder som vidtagits för att säkerställa att alla positioner som inte härrör från transaktioner som genomförts för att fullgöra skyldigheten att tillhandahålla likviditet eller som har ett annat syfte tydligt kan identifieras.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div id="cpt_III">
+            <p class="title-division-1" id="id-4cca3280-ccf9-4c44-b79c-33842171fe39">KAPITEL III</p>
+            <p class="title-division-2" id="id-b4422ce3-9adb-4047-818d-05099ac65fd2">
+               <span class="boldface">BEHÖRIGA MYNDIGHETERS METOD FÖR ATT BERÄKNA POSITIONSLIMITER</span>
+            </p>
+            <div id="cpt_III.sct_1">
+               <p class="title-division-1" id="id-0c6c8996-6422-4d94-9bfb-f01827546e3d">
+                  <span class="italics">AVSNITT 1</span>
+               </p>
+               <p class="title-division-2" id="id-93e9a4b5-36fb-49db-8f08-f064946b0edb">
+                  <span class="boldface">
+                     <span class="italics">Fastställande av referensvärden</span>
+                  </span>
+               </p>
+               <div class="eli-subdivision" id="art_11">
+                  <p class="title-article-norm" id="id-4771c6a5-c7a0-4b41-8f8a-b71c256173fe">Artikel 11</p>
+                  <div class="eli-title" id="art_11.tit_1">
+                     <p class="stitle-article-norm">Metod för fastställande av ett referensvärde för spotmånadslimiter</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna ska fastställa ett referensvärde för spotmånadspositionslimiten i ett jordbruksråvaruderivat eller ett kritiskt eller betydande råvaruderivat genom att beräkna 25 % av det levererbara utbudet av det råvaruderivatet. Om det levererbara utbudet väsentligt överstiger den totala mängden öppna kontrakt, ska de behöriga myndigheterna fastställa referensvärdet för spotmånadslimiten genom att beräkna 25 % av mängden öppna kontrakt i det råvaruderivatet.</div>
+                  </div>
+                  <p class="norm">Det referensvärdet ska specificeras i poster.</p>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">När en behörig myndighet fastställer olika positionslimiter för olika tidpunkter inom spotmånadsperioden ska dessa positionslimiter sjunka stegvis fram till råvaruderivatets förfall, med beaktande av handelsplatsens arrangemang för positionshantering.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Med avvikelse från punkt 1 ska de behöriga myndigheterna fastställa referensvärdet för spotmånadens positionslimiter för råvaruderivat med en underliggande råvara som kan klassificeras som livsmedel med en sammanlagd mängd öppna spotmånadskontrakt och andra månaders kontrakt som överstiger 50 000  poster under tre på varandra följande månader genom att beräkna 20 % av det levererbara utbudet av det råvaruderivatet. Om det levererbara utbudet väsentligt överstiger den totala mängden öppna kontrakt, ska de behöriga myndigheterna fastställa referensvärdet för ett sådant råvaruderivats spotmånadslimit genom att beräkna 20 % av mängden öppna kontrakt i det råvaruderivatet.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_12">
+                  <p class="title-article-norm" id="id-8c13a0a9-8dd8-48eb-861e-af842ec060ed">Artikel 12</p>
+                  <div class="eli-title" id="art_12.tit_1">
+                     <p class="stitle-article-norm">Levererbart utbud</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna ska beräkna det levererbara utbudet för ett jordbruksråvaruderivat eller ett kritiskt eller betydande råvaruderivat genom att identifiera den kvantitet av den underliggande råvaran som kan användas för att uppfylla råvaruderivatets leveransvillkor.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">De behöriga myndigheterna ska fastställa det levererbara utbudet för ett råvaruderivat som avses i punkt 1 på grundval av den genomsnittliga månatliga kvantitet av den underliggande råvaran som är tillgänglig för leverans på grundval av de senaste tillgängliga uppgifterna:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">En period på 1 år omedelbart före fastställandet för ett kritiskt eller betydande råvaruderivat.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">En period på 1–5 år omedelbart före fastställandet för ett jordbruksråvaruderivat.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Vid identifieringen av den kvantitet av den underliggande råvaran som uppfyller villkoren i punkt 1 ska de behöriga myndigheterna beakta följande kriterier:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Arrangemangen för lagring av den underliggande råvaran.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">De faktorer som kan påverka utbudet av den underliggande råvaran.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_13">
+                  <p class="title-article-norm" id="id-f13e4c91-cfbc-40cd-8bd4-dbc246c5b926">Artikel 13</p>
+                  <div class="eli-title" id="art_13.tit_1">
+                     <p class="stitle-article-norm">Metod för fastställande av ett referensvärde för andra månaders limiter</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna ska fastställa ett referensvärde för positionslimiten för andra månader i ett jordbruksråvaruderivat eller ett kritiskt eller betydande råvaruderivat genom att beräkna 25 % av mängden öppna kontrakt i det råvaruderivatet.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Det referensvärdet ska specificeras i poster.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_14">
+                  <p class="title-article-norm" id="id-c40dd15f-7963-40bb-aa97-803ddbb6c4e0">Artikel 14</p>
+                  <div class="eli-title" id="art_14.tit_1">
+                     <p class="stitle-article-norm">Mängden öppna kontrakt</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna ska beräkna nettomängden öppna kontrakt i ett jordbruksråvaruderivat eller ett kritiskt eller betydande råvaruderivat genom att aggregera antalet poster i det råvaruderivatet som är utestående på handelsplatser och rapporterade positioner i ekonomiskt likvärdiga OTC-kontrakt under en representativ tidsperiod. De behöriga myndigheterna ska beräkna nettomängden öppna kontrakt i det råvaruderivatet baserat på positionsrapporteringsdata.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">När handeln med ett råvaruderivat efter en fusion, företagsöverlåtelse eller annan företagshändelse överförs från en handelsplats i unionen till en annan, eller från en handelsplats i tredjeland till en handelsplats i unionen, eller från ett eller flera befintliga råvaruderivat till ett råvaruderivat som nyligen tagits upp till handel på samma handelsplats, eller andra liknande omständigheter, ska den behöriga myndigheten genom undantag från punkt 1 beräkna mängden öppna kontrakt i det råvaruderivatet genom att beakta mängden öppna kontrakt på den tidigare handelsplatsen eller i de tidigare råvaruderivaten. Efter en period på sex månader ska den behöriga myndigheten beräkna mängden öppna kontrakt i enlighet med punkt 1.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_15">
+                  <p class="title-article-norm" id="id-c96f6039-5f90-4522-8502-d11712d7e551">Artikel 15</p>
+                  <div class="eli-title" id="art_15.tit_1">
+                     <p class="stitle-article-norm">Metod för fastställande av ett referensvärde för vissa råvaruderivat</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Genom undantag från artikel 11 ska de behöriga myndigheterna fastställa referensvärdet för positionslimiten i spotmånaden för kritiska eller signifikanta kontant betalade råvaruderivat i spotmånaden som omfattas av avsnitt C 10 i bilaga I till direktiv 2014/65/EU och vars levererbara utbud av deras underliggande råvaror inte kan mätas, genom att beräkna 25 % av mängden öppna kontrakt i dessa råvaruderivat.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Genom undantag från artiklarna 11 och 13 och i de fall ett råvaruderivat föreskriver att den underliggande tillgången ska levereras kontinuerligt under en specificerad tidsperiod ska de enligt artiklarna 11 och 13 beräknade referensvärdena tillämpas på relaterade råvaruderivat för samma underliggande tillgång i den utsträckning som deras leveransperioder överlappar varandra. Referensvärdet ska specificeras i ett visst antal enheter av den underliggande tillgången.</div>
+                  </div>
+               </div>
+            </div>
+            <div id="cpt_III.sct_2">
+               <p class="title-division-1" id="id-c763403e-2ddb-497d-9809-bf060a44acc3">
+                  <span class="italics">AVSNITT 2</span>
+               </p>
+               <p class="title-division-2" id="id-78159492-234a-49e6-a5c7-c5fb9c59e11d">
+                  <span class="boldface">
+                     <span class="italics">Faktorer som är relevanta för beräkning av positionslimiter</span>
+                  </span>
+               </p>
+               <div class="eli-subdivision" id="art_16">
+                  <p class="title-article-norm" id="id-6dec2d60-355b-4a34-8d66-d45b17e3fbd0">Artikel 16</p>
+                  <div class="eli-title" id="art_16.tit_1">
+                     <p class="stitle-article-norm">Bedömning av faktorer</p>
+                  </div>
+                  <p class="norm">De behöriga myndigheterna ska fastställa positionslimiter för spotmånaden och andra månader för ett jordbruksråvaruderivat eller ett kritiskt eller betydande råvaruderivat genom att utgå från det referensvärde som fastställts i enlighet med artiklarna 11, 13 och 15 och justera det efter den potentiella inverkan av de faktorer som avses i artiklarna 18–21 på integriteten hos marknaden för det derivatet och för dess underliggande råvara inom något av följande par av gränser:</p>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>a) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Mellan 5 % och 35 %.</p>
+                     </div>
+                  </div>
+                  <div class="grid-container grid-list">
+                     <div class="list grid-list-column-1">
+                        <span>b) </span>
+                     </div>
+                     <div class="grid-list-column-2">
+                        <p class="norm">Mellan 2,5 % och 35 % för alla derivatkontrakt med en underliggande tillgång som uppfyller villkoren för att betraktas som livsmedel och med en sammanlagd mängd öppna spotmånadskontrakt och andra månaders kontrakt på över 50 000  poster under tre på varandra följande månader.</p>
+                     </div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_17">
+                  <p class="title-article-norm" id="id-74865266-11fd-49df-a821-709b60bf5c71">Artikel 17</p>
+                  <div class="eli-title" id="art_17.tit_1">
+                     <p class="stitle-article-norm">Nya och mindre likvida jordbruksråvaruderivat</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Genom undantag från artikel 16 ska de behöriga myndigheterna för råvaruderivat handlade på en handelsplats med en sammanlagd mängd öppna spotmånadskontrakt och andra månaders kontrakt som inte överstiger 20 000  poster under tre på varandra följande månader fastställa spotmånadens och andra månaders limit för positioner i sådana råvaruderivat till 10 000  poster.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Handelsplatsen ska underrätta den behöriga myndigheten när den totala mängden öppna kontrakt i ett råvaruderivat som avses i punkt 1 uppgår till 20 000  poster under tre på varandra följande månader. När de behöriga myndigheterna får en sådan underrättelse ska de se över positionslimiten.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_18">
+                  <p class="title-article-norm" id="id-0cee22a6-885b-4068-9f1a-cd29a0cd5fd3">Artikel 18</p>
+                  <div class="eli-title" id="art_18.tit_1">
+                     <p class="stitle-article-norm">Levererbart utbud av den underliggande råvaran</p>
+                  </div>
+                  <p class="norm">Om det levererbara utbudet av den underliggande råvaran kan inskränkas eller kontrolleras eller om nivån på det levererbara utbudet är låg i förhållande till den mängd som krävs för en ordnad avveckling ska de behöriga myndigheterna justera positionslimiten för spotmånaden nedåt. De behöriga myndigheterna ska bedöma i vilken utsträckning det levererbara utbudet också används som levererbart utbud för andra råvaruderivat.</p>
+               </div>
+               <div class="eli-subdivision" id="art_19">
+                  <p class="title-article-norm" id="id-f6b824f1-b0a1-4f38-8405-5b291dcf65a4">Artikel 19</p>
+                  <div class="eli-title" id="art_19.tit_1">
+                     <p class="stitle-article-norm">Mängden öppna kontrakt</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Om mängden öppna kontrakt är stor ska de behöriga myndigheterna justera positionslimiten nedåt.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">Om mängden öppna kontrakt betydligt överstiger det levererbara utbudet ska de behöriga myndigheterna justera positionslimiten för andra månader nedåt.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">3.  </span>
+                     <div class="norm inline-element">Om mängden öppna kontrakt betydligt understiger det levererbara utbudet, ska de behöriga myndigheterna justera positionslimiten för andra månader uppåt och, utom i de fall där referensvärdet för spotmånadslimiten baseras på mängden öppna kontrakt, justera positionslimiten för spotmånaden nedåt.</div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_20">
+                  <p class="title-article-norm" id="id-128fdead-fa68-474e-816f-a4fd9d85b809">Artikel 20</p>
+                  <div class="eli-title" id="art_20.tit_1">
+                     <p class="stitle-article-norm">Antalet marknadsaktörer</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">Om det genomsnittliga dagliga antalet marknadsaktörer som innehar en position i ett råvaruderivat under ett år är stort ska den behöriga myndigheten justera positionslimiten nedåt.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Genom undantag från artikel 16 ska de behöriga myndigheterna justera positionslimiten uppåt och fastställa positionslimiten för spotmånaden och andra månader till mellan 5 % och 50 % av referensvärdet om</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">det genomsnittliga antalet marknadsaktörer som innehar en position i råvaruderivatet under perioden före fastställandet av positionslimiten understiger tio, eller</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">om råvaruderivatet är ett jordbruksråvaruderivat med en nettomängd öppna kontrakt under 300 000  poster, antalet värdepappersföretag som fungerar som marknadsgarant i enlighet med artikel 4.1 7 i direktiv 2014/65/EU i råvaruderivatet vid den tidpunkt då positionslimiten fastställs eller ses över understiger tre.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <p class="norm">Vid tillämpningen av första stycket får de behöriga myndigheterna fastställa olika gränsvärden för olika tidpunkter inom spotmånadsperioden och andra månaders period eller under båda perioderna.</p>
+               </div>
+               <div class="eli-subdivision" id="art_21">
+                  <p class="title-article-norm" id="id-00fd3f36-606a-49b9-9a89-15204e80ee10">Artikel 21</p>
+                  <div class="eli-title" id="art_21.tit_1">
+                     <p class="stitle-article-norm">Egenskaper hos den underliggande råvarumarknaden</p>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">1.  </span>
+                     <div class="norm inline-element">De behöriga myndigheterna ska beakta hur den underliggande råvarumarknadens egenskaper inverkar på funktionen hos och handeln med råvaruderivat och på storleken på marknadsaktörernas positioner, inbegripet hur enkelt och snabbt marknadsaktörerna kan få tillträde till den underliggande råvaran.</div>
+                  </div>
+                  <div class="norm">
+                     <span class="no-parag">2.  </span>
+                     <div class="norm inline-element">
+                        <p class="norm inline-element">Vid den bedömning av den underliggande råvarumarknaden som avses i punkt 1 ska följande kriterier beaktas:</p>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>a) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Huruvida det finns restriktioner för utbudet av råvaran, däribland den levererbara råvarans lättfördärvlighet.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>b) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Metoden för att transportera och leverera den fysiska råvaran, däribland</p>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>i) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">huruvida råvaran bara kan levereras till angivna leveransställen,</p>
+                                 </div>
+                              </div>
+                              <div class="grid-container grid-list">
+                                 <div class="list grid-list-column-1">
+                                    <span>ii) </span>
+                                 </div>
+                                 <div class="grid-list-column-2">
+                                    <p class="norm">huruvida de angivna leveransställena har kapacitetsbegränsningar.</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>c) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Marknadens struktur, organisation och funktion, inklusive säsongsmässiga variationer på marknader för utvinningsprodukter och jordbruksråvaror som innebär att det fysiska utbudet varierar under kalenderåret.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>d) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Sammansättningen av och rollen för marknadsaktörer på den underliggande råvarumarknaden, med hänsyn till det antal marknadsaktörer som tillhandahåller specifika tjänster som underlättar den underliggande råvarumarknadens funktion, t.ex. i fråga om riskhantering, leverans, lagring eller avveckling.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>e) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Makroekonomiska eller andra relaterade faktorer som inverkar på den underliggande råvarumarknadens funktion, inbegripet leverans, lagring och avveckling av råvaran.</p>
+                           </div>
+                        </div>
+                        <div class="grid-container grid-list">
+                           <div class="list grid-list-column-1">
+                              <span>f) </span>
+                           </div>
+                           <div class="grid-list-column-2">
+                              <p class="norm">Den underliggande råvarans egenskaper, fysiska särdrag och livscykel.</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="eli-subdivision" id="art_22">
+                  <p class="title-article-norm" id="id-6c70946e-41fc-4aa7-a107-38fc5c959752">Artikel 22</p>
+                  <div class="eli-title" id="art_22.tit_1">
+                     <p class="stitle-article-norm">Upphävande</p>
+                  </div>
+                  <p class="norm">Delegerad förordning (EU) 2017/591 ska upphöra att gälla.</p>
+                  <p class="norm">Hänvisningar till delegerad förordning (EU) 2017/591 ska anses som hänvisningar till den här förordningen och ska läsas i enlighet med jämförelsetabellen i bilagan till den här förordningen.</p>
+               </div>
+               <div class="eli-subdivision" id="art_23">
+                  <p class="title-article-norm" id="id-780b750d-6f02-4c9a-801f-44e17528dd1f">Artikel 23</p>
+                  <div class="eli-title" id="art_23.tit_1">
+                     <p class="stitle-article-norm">Ikraftträdande och tillämpning</p>
+                  </div>
+                  <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+      </div>
+      <div id="anx_1">
+         <p>
+            <br/>
+         </p>
+         <hr class="separator-annex"/>
+         <p>
+            <br/>
+         </p>
+         <p class="title-annex-1" id="id-08faa32c-ea6c-42bb-ba91-574b671d2ae3">BILAGA</p>
+         <p class="title-annex-2" id="id-c797cdee-10b3-44a1-83c2-6672fdd0b339">Jämförelsetabell</p>
+         <p>
+            <br/>
+         </p>
+         <div class="centered">
+            <p>
+               <br/>
+            </p>
+            <table width="240" border="1" cellpadding="2" cellspacing="0">
+               <col width="50%"/>
+               <col width="50%"/>
+               <tbody>
+                  <tr>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">Delegerad förordning (EU) 2017/591</p>
+                     </td>
+                     <td style="font-weight: bold" valign="top">
+                        <p class="tbl-norm">Denna förordning</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.1 a</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.1 b och c</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.3</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.4</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.5 och 3.6</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 3.7</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 4</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 5.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 5.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 5.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 5.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 5.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 6</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 6</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 7.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 7.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 7.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 7.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 7.3</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 7.4</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.1 och 8.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.1 och 8.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.3 och 8.4</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.5</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.6</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 8.7</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 9</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 10</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 9.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 11.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 9.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 11.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 9.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 11.3</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 9.4</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 11.4</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 10.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 12.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 12.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 10.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 10.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 12.3</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 11.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 13.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 11.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 13.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 12</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 14</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 13.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 15.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 13.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 13.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 15.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 14</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 16</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 17.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 15.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 15.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 17.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 16</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 17</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 18</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 18.1 och 18.2</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 19.1 och 19.2</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 19.3</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 18.3</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 19.1</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 20.1</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 19.2 första stycket led a</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 20.2 första stycket led a</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 20.2 första stycket led b</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 19.2 första stycket led b</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 19.2 andra stycket</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 20.2 andra stycket</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 20</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 21</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 21</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">–</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 22</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 22</p>
+                     </td>
+                     <td valign="top">
+                        <p class="tbl-norm">Artikel 23</p>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+   </div>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator-short"/>
+   <p class="footnote">(<a href="#src.E0001" id="E0001">
+         <span class="superscript">1</span>
+      </a>) Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut och värdepappersföretag, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG (EUT L 176, 27.6.2013, s. 338).</p>
+   <p class="footnote">(<a href="#src.E0002" id="E0002">
+         <span class="superscript">2</span>
+      </a>) Europaparlamentets och rådets direktiv 2009/138/EG av den 25 november 2009 om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II) (EUT L 335, 17.12.2009, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0003" id="E0003">
+         <span class="superscript">3</span>
+      </a>) Europaparlamentets och rådets direktiv 2009/65/EG av den 13 juli 2009 om samordning av lagar och andra författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) (EUT L 302, 17.11.2009, s. 32).</p>
+   <p class="footnote">(<a href="#src.E0004" id="E0004">
+         <span class="superscript">4</span>
+      </a>) Europaparlamentets och rådets direktiv (EU) 2016/2341 av den 14 december 2016 om verksamhet i och tillsyn över tjänstepensionsinstitut (EUT L 354, 23.12.2016, s. 37).</p>
+   <p class="footnote">(<a href="#src.E0005" id="E0005">
+         <span class="superscript">5</span>
+      </a>) Europaparlamentets och rådets direktiv 2011/61/EU av den 8 juni 2011 om förvaltare av alternativa investeringsfonder samt om ändring av direktiv 2003/41/EG och 2009/65/EG och förordningarna (EG) nr 1060/2009 och (EU) nr 1095/2010 (EUT L 174, 1.7.2011, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0006" id="E0006">
+         <span class="superscript">6</span>
+      </a>) Europaparlamentets och rådets förordning (EU) nr 648/2012 av den 4 juli 2012 om OTC-derivat, centrala motparter och transaktionsregister (EUT L 201, 27.7.2012, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0007" id="E0007">
+         <span class="superscript">7</span>
+      </a>) Europaparlamentets och rådets förordning (EU) nr 909/2014 av den 23 juli 2014 om förbättrad värdepappersavveckling i Europeiska unionen och om värdepapperscentraler samt ändring av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 236/2012 (EUT L 257, 28.8.2014, s. 1).</p>
+   <p class="footnote">(<a href="#src.E0008" id="E0008">
+         <span class="superscript">8</span>
+      </a>) Europaparlamentets och rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om tillämpning av internationella redovisningsstandarder (EGT L 243, 11.9.2002, s. 1).</p>
+</body>
+</html>

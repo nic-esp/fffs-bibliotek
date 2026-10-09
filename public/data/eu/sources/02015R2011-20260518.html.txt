@@ -1,0 +1,293 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- CONVEX # converter_version:9.18.0 # generated_on:20260529-0224 -->
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title>Konsoliderad TEXT: 32015R2011 — SV — 18.05.2026</title>
+   <link type="text/css" rel="stylesheet"
+         href="http://publications.europa.eu/resource/presentation-style-sheet/clg/clg.css"/>
+</head>
+<body>
+   <p class="reference">02015R2011 — SV — 18.05.2026 — 001.001</p>
+   <hr class="separator"/>
+   <p class="disclaimer">Den här texten är endast avsedd som ett dokumentationshjälpmedel och har ingen rättslig verkan. EU-institutionerna tar inget ansvar för innehållet. De autentiska versionerna av motsvarande rättsakter, inklusive ingresserna, publiceras i Europeiska unionens officiella tidning och finns i EUR-Lex. De officiella texterna är direkt tillgängliga via länkarna i det här dokumentet</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="5%"/>
+      <col width="95%"/>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32015R2011"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32015R2011">►B</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-doc-first" id="id-5e801b7e-880f-41b5-88c7-e7b62f801f7d">
+                        KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2015/2011</p>
+            <p class="title-doc-first" id="id-6317ff6e-0b5b-462f-8c4f-6cd372bccffa">av den 11 november 2015
+                     </p>
+            <p class="title-doc-first" id="id-d7958616-c226-4c04-b378-3bfc46161425">om fastställande av tekniska genomförandestandarder gällande förteckningar över regionala och lokala självstyrelseorgan, vars exponeringar ska behandlas som exponeringar mot nationella regeringar i enlighet med Europaparlamentets och rådets direktiv 2009/138/EG</p>
+            <p class="title-doc-last" id="id-54f7a502-c4e7-4ee2-bdf7-542b818a8305">
+               <a href="http://publications.europa.eu/resource/celex/32015R2011"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32015R2011">(Text av betydelse för EES)</a>
+            </p>
+            <p class="title-doc-oj-reference" id="id-73e23362-41c6-40eb-bf20-87a551f8bb5b">(EGT L 295 12.11.2015, s. 1)</p>
+         </td>
+      </tr>
+   </table>
+   <p class="hd-modifiers">Ändrad genom:</p>
+   <table width="100%" border="0" cellspacing="5" cellpadding="0">
+      <col width="10%"/>
+      <col width="55%"/>
+      <col width="10%"/>
+      <col width="10%"/>
+      <col width="15%"/>
+      <tr>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" rowspan="2">
+            <p class="norm"> </p>
+         </td>
+         <td valign="top" colspan="3">
+            <p class="hd-toc-1">Officiella tidningen</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="hd-toc-2">  nr</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">sida</p>
+         </td>
+         <td valign="top">
+            <p class="hd-toc-3">datum</p>
+         </td>
+      </tr>
+      <tr>
+         <td valign="top">
+            <p class="arrow">
+               <a href="http://publications.europa.eu/resource/celex/32026R0911"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026R0911">►M1</a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="title-fam-member-star" id="id-a2511c6b-93e5-41d6-8380-52df36c50879">
+               <a href="http://publications.europa.eu/resource/celex/32026R0911"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026R0911">
+                              KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2026/911 av den 27 april 2026
+                           </a>
+            </p>
+         </td>
+         <td valign="top">
+            <p class="toc-1">  L 911</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">1</p>
+         </td>
+         <td valign="top">
+            <p class="toc-2">28.4.2026</p>
+         </td>
+      </tr>
+   </table>
+   <p>
+      <br/>
+   </p>
+   <hr class="separator"/>
+   <div class="eli-container">
+      <p>
+         <br/>
+      </p>
+      <p class="arrow">
+         <a href="http://publications.europa.eu/resource/celex/32015R2011"
+            onclick="window.open(this.href,'_blank'); return false;"
+            title="32015R2011">▼B</a>
+      </p>
+      <div class="eli-main-title" id="tit_1">
+         <p class="title-doc-first" id="id-7a2c5c0c-cd06-4bea-824c-78070744d83a">
+               KOMMISSIONENS GENOMFÖRANDEFÖRORDNING (EU) 2015/2011</p>
+         <p class="title-doc-first" id="id-6ab2378a-bf21-4b7d-9d35-72b1d80f9581">av den 11 november 2015
+            </p>
+         <p class="title-doc-first" id="id-2115d67e-894a-4f11-9f20-9592c5972053">om fastställande av tekniska genomförandestandarder gällande förteckningar över regionala och lokala självstyrelseorgan, vars exponeringar ska behandlas som exponeringar mot nationella regeringar i enlighet med Europaparlamentets och rådets direktiv 2009/138/EG</p>
+         <p class="title-doc-last" id="id-5e0b7479-e125-4cfc-9513-90fceafcdefd">(Text av betydelse för EES)</p>
+      </div>
+      <div class="eli-subdivision" id="enc_1">
+         <p>
+            <br/>
+            <br/>
+         </p>
+         <div class="eli-subdivision" id="art_1">
+            <p class="title-article-norm" id="id-55ba445d-41b5-49d5-9df7-8d452ad444e6">Artikel 1</p>
+            <div class="eli-title" id="art_1.tit_1">
+               <p class="stitle-article-norm">Förteckningar över regionala och lokala självstyrelseorgan</p>
+            </div>
+            <p class="norm">Följande regionala och lokala självstyrelseorgan ska betraktas som enheter vars exponeringar ska behandlas som exponeringar mot den nationella regeringen i den jurisdiktion där de är etablerade, enligt hänvisning i artikel 109a.2 a i direktiv 2009/138/EG:</p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>1. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Österrike: ”Land” eller ”Gemeinde”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>2. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Belgien: ”communauté” eller ”gemeenschap”, ”région” eller ”gewest”, ”province” eller ”provincie”, eller ”commune” eller ”gemeente”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>3. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Danmark: ”region” eller ”kommune”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>4. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Finland: ”kaupunki” eller ”stad”, ”kunta” eller ”kommun”, eller ”Ahvenanmaan maakunta” eller ”Landskapet Åland”.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32026R0911"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026R0911: REPLACED">▼M1</a>
+            </p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>5. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Frankrike: ”région”, ”département”, ”commune”, ”collectivité à statut particulier” eller ”établissement public de coopération intercommunale à fiscalité propre”.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32015R2011"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32015R2011">▼B</a>
+            </p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>6. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Tyskland: ”Land” eller ”Gemeindeverband” eller ”Gemeinde”.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32026R0911"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026R0911: INSERTED">▼M1</a>
+            </p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>6a. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Lettland: ”valstspilsētas pašvaldība” eller ”novada pašvaldība”.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32015R2011"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32015R2011">▼B</a>
+            </p>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>7. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Liechtenstein: ”Gemeinde”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>8. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Litauen: ”savivaldybė”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>9. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Luxemburg: ”commune”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>10. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Nederländerna: ”provincie”, ”waterschap” eller ”gemeente”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>11. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Polen: ”województwo”, ”związek powiatów”, ”powiat”, ”związek międzygminny”, ”gmina” eller ”miasto stołeczne Warszawa”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>12. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Portugal: ”Região Autónoma dos Açores” eller ”Região Autónoma da Madeira”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>13. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Spanien: ”comunidad autónoma” eller ”corporación local”.</p>
+               </div>
+            </div>
+            <div class="grid-container grid-list">
+               <div class="list grid-list-column-1">
+                  <span>14. </span>
+               </div>
+               <div class="grid-list-column-2">
+                  <p class="norm">Sverige: ”region”, ”landsting” eller ”kommun”.</p>
+               </div>
+            </div>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32026R0911"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32026R0911: DELETED">▼M1</a> —————</p>
+            <p class="modref">
+               <a href="http://publications.europa.eu/resource/celex/32015R2011"
+                  onclick="window.open(this.href,'_blank'); return false;"
+                  title="32015R2011">▼B</a>
+            </p>
+         </div>
+         <div class="eli-subdivision" id="art_2">
+            <p class="title-article-norm" id="id-9f69d75a-ee20-4dbc-8e29-f7fccdeb1aa5">Artikel 2</p>
+            <div class="eli-title" id="art_2.tit_1">
+               <p class="stitle-article-norm">Ikraftträdande</p>
+            </div>
+            <p class="norm">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="italics">Europeiska unionens officiella tidning</span>.</p>
+         </div>
+      </div>
+      <div class="eli-subdivision" id="fnp_1">
+         <p class="norm">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+      </div>
+   </div>
+</body>
+</html>

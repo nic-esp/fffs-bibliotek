@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML//EN" "xhtml-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- CONVEX # converter_version:9.17.0 # generated_on:20250114-1228 # ELI version:0.2 --><head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+      <link type="text/css" rel="stylesheet" href="oj-convex.css"/>
+      <title>L_2014148SV.01002101.xml</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <col width="10%"/>
+         <col width="10%"/>
+         <col width="60%"/>
+         <col width="20%"/>
+         <tbody>
+            <tr>
+               <td  >
+                  <p class="oj-hd-date">20.5.2014   </p>
+               </td>
+               <td  >
+                  <p class="oj-hd-lg">SV</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-ti">Europeiska unionens officiella tidning</p>
+               </td>
+               <td  >
+                  <p class="oj-hd-oj">L 148/21</p>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+      <hr class="oj-separator"/>
+      <div class="eli-container">
+         <div class="eli-main-title" id="tit_1">
+            <p class="oj-doc-ti" id="d1e40-21-1">
+            KOMMISSIONENS DELEGERADE FÖRORDNING (EU) nr 527/2014</p>
+            <p class="oj-doc-ti">av den 12 mars 2014
+         </p>
+            <p class="oj-doc-ti">om komplettering av Europaparlamentets och rådets direktiv 2013/36/EU med avseende på tekniska tillsynsstandarder som specificerar de instrumentklasser som på ett tillbörligt sätt återspeglar institutens kreditkvalitet på löpande basis och är avsedda att användas till rörliga ersättningar</p>
+            <p class="oj-doc-ti">(Text av betydelse för EES)</p>
+         </div>
+         <div class="eli-subdivision" id="pbl_1">
+            <p class="oj-normal">EUROPEISKA KOMMISSIONEN HAR ANTAGIT DENNA FÖRORDNING</p>
+            <div class="eli-subdivision" id="cit_1">
+               <p class="oj-normal">med beaktande av fördraget om Europeiska unionens funktionssätt,</p>
+            </div>
+            <div class="eli-subdivision" id="cit_2">
+               <p class="oj-normal">med beaktande av Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut och värdepappersföretag, om ändring av direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG och 2006/49/EG <a id="ntc1-L_2014148SV.01002101-E0001" href="#ntr1-L_2014148SV.01002101-E0001"
+                     >(<span class="oj-super oj-note-tag">1</span>)</a>, särskilt artikel 94.2, och</p>
+            </div>
+            <p class="oj-normal">av följande skäl:</p>
+            <div class="eli-subdivision" id="rct_1">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(1)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Rörlig ersättning som lämnas i instrument bör främja en sund och effektiv riskhantering och får inte uppmuntra ett risktagande som går utöver institutets tolererade risknivå. Därför bör de klasser av instrument som kan användas för rörlig ersättning balansera personalens intressen mot aktieägarnas, borgenärernas och de andra intressenternas genom att skapa incitament för personal att agera i institutets långsiktiga intresse och inte ta alltför stora risker.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_2">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(2)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">För att säkerställa att det finns en stark koppling till institutets kreditkvalitet på löpande basis bör instrument som används för den rörliga ersättningen innehålla lämpliga utlösande händelser för nedskrivning eller omvandling som minskar instrumentens värde i situationer där institutets kreditkvalitet på löpande basis har försämrats. De utlösande händelser som används för ersättningsändamål bör inte förändra instrumentens förtursrätt och därför inte leda till att primärkapitaltillskott eller supplementärkapitaltillskott diskvalificeras som kapitalbasinstrument.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_3">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(3)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Medan de villkor som gäller för primärkapitaltillskott eller supplementärkapitaltillskott anges i artiklarna 52 och 63 i Europaparlamentets och rådets förordning (EU) nr 575/2013 <a id="ntc2-L_2014148SV.01002101-E0002" href="#ntr2-L_2014148SV.01002101-E0002"
+                                 >(<span class="oj-super oj-note-tag">2</span>)</a> omfattas de övriga instrument som avses i led l ii i artikel 94 i direktiv 2013/36/EU, och som fullt ut kan omvandlas till kärnprimärkapitalinstrument eller skrivas ned, inte av särskilda villkor enligt den förordningen eftersom de inte klassificeras som kapitalbasinstrument för tillsynsändamål. Särskilda krav bör därför fastställas för olika klasser av instrument för att garantera att de är avsedda att användas för rörlig ersättning, med beaktande av instrumentens olika egenskaper. Användningen av instrument för rörlig ersättning bör inte i sig hindra att instrument kan betraktas som ett instituts kapitalbas, så länge villkoren i förordning (EU) nr 575/2013 är uppfyllda. Inte heller bör sådan användning i sig anses ge incitament att lösa in instrumentet, eftersom personalen efter uppskovsperioder och perioder för kvarhållande i allmänhet kan få likvida medel på annat sätt än genom inlösen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_4">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(4)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Övriga instrument omfattar icke-kontanta skuldinstrument eller ”debt-linked”-instrument som inte får räknas som kapitalbas. Övriga instrument är inte uteslutande finansiella instrument enligt definitionen i punkt 50 i artikel 4.1 i förordning (EU) nr 575/2013, utan kan också inbegripa ytterligare icke-kontanta instrument som skulle kunna ingå i avtal mellan institutet och dess personal. För att se till att dessa instrument återspeglar ett instituts kreditkvalitet på löpande basis bör lämpliga krav fastställas för att se till att de omständigheter under vilka sådana instrument skrivs ned eller omvandlas sträcker sig utöver återhämtnings-, rekonstruktions- eller avvecklingssituationer.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_5">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(5)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Om instrument som används för rörliga ersättningar löses in, återköps eller omvandlas bör sådana transaktioner i allmänhet inte öka värdet av den ersättning som beviljas genom utbetalning av belopp som är högre än instrumentets värde eller genom omvandling till instrument med ett högre värde än det ursprungligen beviljade instrumentet. Detta bör garantera att ersättning inte betalas genom instrument eller metoder som gör det enklare att inte efterleva artikel 94.1 i direktiv 2013/36/EU.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_6">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(6)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Vid tilldelning av rörlig ersättning och när instrument som används för rörlig ersättning löses in, återköps eller omvandlas, bör dessa transaktioner baseras på värden som har fastställts i enlighet med tillämpliga redovisningsstandarder. En värdering av instrumenten bör därför krävas i alla sådana situationer för att säkerställa att kraven i direktiv 2013/36/EU avseende ersättning inte kringgås, särskilt när det gäller förhållandet mellan de rörliga och fasta delarna av ersättningen och anpassningen till risktagandet.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_7">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(7)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">I artikel 54 i förordning (EU) nr 575/2013 fastställs mekanismerna för nedskrivning och omvandling av primärkapitaltillskott. Dessutom krävs det i led l ii i artikel 94.1 i direktiv 2013/36/EU att övriga instrument fult ut ska kunna omvandlas till kärnprimärkapitalinstrument eller skrivas ned. Eftersom de ekonomiska konsekvenserna av en omvandling eller nedskrivning av övriga instrument är samma som för primärkapitaltillskott bör nedskrivnings- eller omvandlingsmekanismer för övriga instrument beakta de mekanismer som gäller för primärkapitaltillskott, med anpassningar eftersom de inte klassificeras som kapitalbasinstrument för tillsynsändamål. Supplementärkapital instrument omfattas inte av rättsliga bestämmelser om nedskrivning och omvandling enligt förordning (EU) nr 575/2013. I syfte att säkerställa att värdet av alla sådana instrument, när de används för rörlig ersättning, minskas när institutets kreditkvalitet försämras, bör det fastställas i vilka situationer en nedskrivning eller omvandling av instrumentet är nödvändig. Det bör fastställas mekanismer för nedskrivning, uppskrivning och omvandling för supplementärkapital instrument och övriga instrument för att säkerställa en enhetlig tillämpning.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_8">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(8)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Utdelningar från instrument kan ske på olika sätt. De kan vara rörliga eller fasta och kan betalas regelbundet eller vid instrumentets sista förfallodag. I linje med de riktlinjer om ersättningspolitik och ersättningspraxis som utfärdats av kommittén för europeiska banktillsynsmyndigheter <a id="ntc3-L_2014148SV.01002101-E0003" href="#ntr3-L_2014148SV.01002101-E0003"
+                                 >(<span class="oj-super oj-note-tag">3</span>)</a> bör inga utdelningar betalas till personal under uppskovsperioder, i syfte att främja en sund och effektiv riskhantering. Personal bör endast kunna få utdelning för perioder som följer på erhållandet av rättigheten till instrumentet. Därför är endast instrument med utdelning som betalas regelbundet till ägaren av instrumentet lämpliga som rörlig ersättning. Nollkupongare eller instrument som behåller intäkterna bör inte räknas med i den betydande del av ersättningen som måste bestå av en avvägning av de instrument som avses i led 1 i artikel 94.1 i direktiv 2013/36/EU. Detta beror på att personalen skulle få fördelar av ökande värden under uppskovsperioden, vilket kan anses likvärdigt med att erhålla utdelning.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_9">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(9)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Mycket höga utdelningar kan minska det långsiktiga incitamentet till ansvarsfullt risktagande, eftersom de i praktiken ökar den rörliga delen av ersättningen. I synnerhet bör utdelningar inte betalas ut med intervaller på längre än ett år, eftersom detta skulle innebära att utdelningar i praktiken ackumuleras under uppskovsperioder och betalas ut när den rörliga ersättningen är intjänad. Ackumulering av utdelning skulle kringgå artikel 94.1 g i direktiv 2013/36/EU vad gäller förhållandet mellan rörliga och fasta delar av ersättningen, och principen i led m i den artikeln att ersättning som betalas enligt ett uppskovsförfarande inte ska erhållas snabbare än den som betalas på jämnt fördelad basis (<span class="oj-italic">pro rata</span>). Därför bör utdelningar som sker efter det att rätten till instrumentet har erhållits inte överstiga marknadssatsen. Detta bör uppnås genom kravet att instrument som används för den rörliga ersättningen, eller de instrument till vilka de är kopplade, främst utfärdas till andra investerare, eller genom kravet att sådana instrument omfattas av ett tak för utdelning.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_10">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(10)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Uppskovs- och kvarhållandekrav som gäller för beviljande av rörliga ersättningar i enlighet med artikel 94.1 i direktiv 2013/36/EU måste uppfyllas vid alla relevanta tillfällen, även när instrument som används för rörliga ersättningar löses in, återköps eller omvandlas. I sådana situationer bör instrument därför utbytas mot primärkapital- eller supplementärkapitaltillskott och övriga instrument som återspeglar institutets kreditkvalitet på löpande basis, har egenskaper likvärdiga med det instrument som ursprungligen beviljades och har samma värde, med beaktande av eventuella belopp som har skrivits ned. Om andra instrument än primärkapitaltillskott har en fast löptid bör minimikrav fastställas för den återstående löptiden för sådana instrument när de beviljas, i syfte att säkerställa att de är förenliga med kraven rörande uppskovsperioder och perioder för kvarhållande för den rörliga ersättningen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_11">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(11)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Direktiv 2013/36/EU begränsar inte de klasser av instrument som kan användas för rörlig ersättning till en särskild klass av finansiella instrument. Det bör vara möjligt att använda syntetiska instrument eller avtal mellan anställda och institut som är kopplade till primärkapital- och supplementärkapitaltillskott som kan vara fullständigt omvandlade eller nedskrivna. Detta möjliggör införandet av särskilda villkor i bestämmelserna för sådana instrument, som endast gäller för instrument som tilldelas anställda, utan att dessa villkor behöver införas för andra investerare.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_12">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(12)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">När det gäller grupper kan emissioner administreras centralt inom ett moderföretag. Institut i en sådan grupp kanske därför inte alltid utfärdar instrument som är lämpliga att användas för rörlig ersättning. Genom förordning (EU) nr 575/2013 kan primärkapital- och supplementärkapitaltillskott som utgivits genom en enhet i gruppen på vissa villkor ingå i ett instituts kapitalbas. Det bör därför också vara möjligt att använda sådana instrument för rörlig ersättning, under förutsättning att det finns en klar koppling mellan kreditkvaliteten hos det institut som använder dessa instrument för rörlig ersättning och instrumentemittentens kreditkvalitet. En sådan koppling kan i regel antas föreligga mellan ett moderföretag och ett dotterföretag. Andra instrument än primärkapital och supplementärkapital tillskott som inte utfärdats direkt av ett institut bör också kunna användas för rörlig ersättning om de omfattas av likvärdiga villkor. Instrument som är kopplade till referensinstrument som emitterats av moderföretag i tredje land och som är likvärdiga med primärkapital- och supplementärkapitaltillskott bör kunna användas för rörlig ersättning om den utlösande händelsen avser det institut som använder sådana syntetiska instrument.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_13">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(13)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Denna förordning baseras på det förslag till tekniska tillsynsstandarder som Europeiska bankmyndigheten har överlämnat till Europeiska kommissionen.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="rct_14">
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">(14)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">EBA genomförde även öppna offentliga samråd om förslagen till tekniska tillsynsstandarder, analyserade potentiell nytta och kostnad, samt begärde in ett yttrande från den intressentgrupp för bankfrågor som inrättats i enlighet med artikel 37 i Europaparlamentets och rådets förordning (EU) nr 1093/2010 <a id="ntc4-L_2014148SV.01002101-E0004" href="#ntr4-L_2014148SV.01002101-E0004"
+                                 >(<span class="oj-super oj-note-tag">4</span>)</a>.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <p class="oj-normal">HÄRIGENOM FÖRESKRIVS FÖLJANDE.</p>
+         </div>
+         <div class="eli-subdivision" id="enc_1">
+            <div class="eli-subdivision" id="art_1">
+               <p id="d1e196-21-1" class="oj-ti-art">Artikel 1</p>
+               <div class="eli-title" id="art_1.tit_1">
+                  <p class="oj-sti-art">Klasser av instrument som på ett tillbörligt sätt återspeglar institutens kreditkvalitet på löpande basis och är lämpliga för att användas för rörlig ersättning</p>
+               </div>
+               <div id="001.001">
+                  <p class="oj-normal">1.   Följande klasser av instrument ska anses uppfylla de villkor som fastställs i led l ii i artikel 94.1 i direktiv 2013/36/EU:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Klasser av primärkapitalinstrument om dessa uppfyller villkoren i punkt 2 och i artikel 2 och överensstämmer med artikel 5.9 och 5.13 c.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Klasser av supplementärkapitalinstrument om dessa uppfyller villkoren i punkt 2 och artikel 3 och överensstämmer med artikel 5.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Klasser av instrument som helt kan omvandlas till kärnprimärkapitalinstrument eller skrivas ned, och som varken är primärkapitaltillskott eller supplementärkapitalinstrument (nedan kallade <span class="oj-italic">övriga instrument</span>) i de fall som avses i artikel 4, om dessa uppfyller villkoren i punkt 2 och överensstämmer med artikel 5.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="001.002">
+                  <p class="oj-normal">2.   De instrumentklasser som avses i punkt 1 ska uppfylla följande villkor:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Instrumenten ska inte vara säkrade eller skyddas av en garanti som ökar förmånsrätten för innehavarens fordringar.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Om de bestämmelser som reglerar ett instrument tillåter omvandling ska instrumentet endast användas för att tilldela rörlig ersättning om omvandlingssatsen eller omvandlingsintervallet har fastställts till en nivå som garanterar att värdet av instrumentet till vilket det ursprungligen tilldelade instrumentet omvandlas inte är högre än värdet på det instrument som ursprungligen tilldelades vid den tidpunkt det tilldelades som rörlig ersättning.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Bestämmelserna om konvertibla instrument som uteslutande används som rörlig ersättning ska säkerställa att värdet av de instrument till vilket det ursprungligen tilldelade instrumentet omvandlas inte är högre än värdet på det instrument som ursprungligen tilldelades vid tidpunkten för omvandlingen.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De bestämmelser som reglerar instrumentet ska föreskriva att en utdelning betalas minst en gång per år och betalas till innehavaren av instrumentet.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Instrument ska värderas till det värde de hade vid den tidpunkt då de beviljades, i enlighet med tillämplig redovisningsstandard. Värderingen ska ta hänsyn till institutets kreditkvalitet och ska vara föremål för oberoende granskning.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De bestämmelser som reglerar instrument som uteslutande utfärdats som rörlig ersättning ska omfatta krav på att en värdering genomförs i enlighet med tillämplig redovisningsstandard om instrumentet löses in, återköps eller omvandlas.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_2">
+               <p id="d1e272-21-1" class="oj-ti-art">Artikel 2</p>
+               <div class="eli-title" id="art_2.tit_1">
+                  <p class="oj-sti-art">Villkor för klasser av primärkapitaltillskott</p>
+               </div>
+               <p class="oj-normal">Klasser av primärkapitaltillskott ska uppfylla följande villkor:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">De bestämmelser som reglerar instrumentet ska ange en utlösande händelse för de syften som avses i artikel 52.1 n i förordning (EU) nr 575/2013.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Den utlösande händelse som avses i led a inträffar när kapitalrelationen för kärnprimärkapital för det institut som utfärdar instrumentet, enligt artikel 92.1 a i förordning (EU) nr 575/2013, underskrider endera av följande:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">i)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">7 %.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">ii)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">En nivå högre än 7 %, när detta fastställts av institutet och anges i de bestämmelser som reglerar instrumentet.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Ett av följande krav är uppfyllt:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">i)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Instrumenten är emitterade uteslutande för användning som rörlig ersättning, och de bestämmelser som reglerar instrumentet garanterar att alla utdelningar betalas till en sats som överensstämmer med marknadssatsen för liknande instrument som utfärdats av institutet eller av institut av jämförbar art, omfattning, komplexitet och kreditkvalitet, och som i varje fall vid tidpunkten för ersättningens tilldelning ligger högst 8 procentenheter över den genomsnittliga årliga förändringstakten för unionen som offentliggörs av kommissionen (Eurostat) i dess harmoniserade konsumentprisindex i enlighet med artikel 11 i rådets förordning (EG) nr 2494/95 <a id="ntc5-L_2014148SV.01002101-E0005" href="#ntr5-L_2014148SV.01002101-E0005"
+                                             >(<span class="oj-super oj-note-tag">5</span>)</a>. Om instrumenten tilldelas personal som utför större delen av sin yrkesverksamhet utanför unionen och instrumenten är noterade i ett tredjelands valuta får instituten använda ett liknande, oberoende uträknat konsumentprisindex som utvecklats för detta tredjeland.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">ii)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">Vid tidpunkten för beviljandet av instrumenten som rörlig ersättning är minst 60 % av de emitterade instrumenten utfärdade för andra ändamål än som rörlig ersättning och innehas inte av följande enheter eller av ett företag som har nära förbindelser med följande enheter:</p>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">—</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">Institutet eller dess dotterföretag.</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">—</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">Institutets moderföretag eller dess dotterföretag.</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">—</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">Det finansiella moderholdingföretaget eller dess dotterföretag.</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">—</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">Holdingföretaget med blandad verksamhet eller dess dotterföretag.</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <col width="4%"/>
+                                          <col width="96%"/>
+                                          <tbody>
+                                             <tr>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">—</p>
+                                                </td>
+                                                <td valign="top"  >
+                                                   <p class="oj-normal">Det blandade finansiella holdingföretaget och dess dotterföretag.</p>
+                                                </td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_3">
+               <p id="d1e354-21-1" class="oj-ti-art">Artikel 3</p>
+               <div class="eli-title" id="art_3.tit_1">
+                  <p class="oj-sti-art">Villkor för klasser av supplementärkapitalinstrument</p>
+               </div>
+               <p class="oj-normal">Klasser av supplementärkapitalinstrument ska uppfylla följande villkor:</p>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">a)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Vid tidpunkten för beviljandet av instrumenten som rörlig ersättning ska den återstående perioden fram till förfallodagen vara lika lång eller längre än summan av de uppskovsperioder och perioder för kvarhållande som gäller för rörlig ersättning avseende tilldelningen av dessa instrument.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">b)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">De bestämmelser som reglerar instrumentet föreskriver att instrumentens kapitalbelopp permanent eller tillfälligt skrivs ned eller att instrument omvandlas till kärnprimärkapitalinstrument om en utlösande händelse skulle inträffa.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">c)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Den utlösande händelse som avses i led b inträffar när kapitalrelationen för kärnprimärkapital för det institut som utfärdar instrumentet, enligt artikel 92.1 a i förordning (EU) nr 575/2013, underskrider endera av följande:</p>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">i)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">7 %.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                           <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <col width="4%"/>
+                              <col width="96%"/>
+                              <tbody>
+                                 <tr>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">ii)</p>
+                                    </td>
+                                    <td valign="top"  >
+                                       <p class="oj-normal">En nivå högre än 7 %, när detta fastställts av institutet och anges i de bestämmelser som reglerar instrumentet.</p>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <col width="4%"/>
+                  <col width="96%"/>
+                  <tbody>
+                     <tr>
+                        <td valign="top"  >
+                           <p class="oj-normal">d)</p>
+                        </td>
+                        <td valign="top"  >
+                           <p class="oj-normal">Något av kraven i artikel 2 c är uppfyllt.</p>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+            <div class="eli-subdivision" id="art_4">
+               <p id="d1e401-21-1" class="oj-ti-art">Artikel 4</p>
+               <div class="eli-title" id="art_4.tit_1">
+                  <p class="oj-sti-art">Villkor för klasser av övriga instrument</p>
+               </div>
+               <div id="004.001">
+                  <p class="oj-normal">1.   I enlighet med de villkor som fastställs i artikel 1.1 c ska övriga instrument anses uppfylla de villkor som fastställs i led l ii i artikel 94.1 i direktiv 2013/36/EU i vart och ett av följande fall:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De övriga instrumenten uppfyller de villkor som avses i punkt 2.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De övriga instrumenten är kopplade till ett primärkapital- eller supplementärkapitalinstrument och uppfyller de villkor som avses i punkt 3.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De övriga instrumenten är kopplade till ett instrument som skulle vara ett primärkapital- eller supplementärkapitaltillskott om det inte hade utfärdats av ett moderföretag till institutet som inte omfattas av konsolidering i enlighet med del ett avdelning II kapitel 2 i förordning (EU) nr 575/2013 och de övriga instrumenten uppfyller villkoren i punkt 4.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.002">
+                  <p class="oj-normal">2.   De villkor som avses i punkt 1 a är följande:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De övriga instrumenten ska utfärdas direkt eller genom en enhet inom gruppen i enlighet med del ett avdelning II kapitel 2 i förordning (EU) nr 575/2013, under förutsättning att en ändring av instrumentemittentens kreditkvalitet rimligen kan förväntas leda till en liknande ändring av det instituts kreditkvalitet som utnyttjar de övriga instrumenten för rörlig ersättning.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De bestämmelser som reglerar de övriga instrumenten ger inte innehavaren rätt att tidigarelägga planerade utbetalningar av utdelning eller kapital, annat än vid institutets insolvens eller likvidation.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Vid tidpunkten för beviljandet av de övriga instrumenten som rörlig ersättning ska den återstående perioden fram till förfallodagen vara lika lång eller längre än summan av de uppskovsperioder och perioder för kvarhållande som gäller för rörlig ersättning avseende tilldelningen av dessa instrument.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De bestämmelser som reglerar instrumentet föreskriver att instrumentens kapitalbelopp permanent eller tillfälligt skrivs ned eller att instrument omvandlas till kärnprimärkapitalinstrument om en utlösande händelse skulle inträffa.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Den utlösande händelse som avses i led d inträffar när kapitalrelationen för kärnprimär kapital för det institut som utfärdar instrumentet, enligt artikel 92.1 a i förordning (EU) nr 575/2013, underskrider endera av följande:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">i)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">7 %.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">ii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">En nivå högre än 7 %, när detta fastställts av institutet och anges i de bestämmelser som reglerar instrumentet.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Något av kraven i artikel 2 c är uppfyllt.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.003">
+                  <p class="oj-normal">3.   De villkor som avses i punkt 1 b är följande:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De övriga instrumenten uppfyller de villkor som avses i punkt 2 a–e.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De övriga instrumenten är kopplade till ett primärkapital- eller supplementärkapitaltillskott som utfärdats av en enhet i gruppen i enlighet med del ett avdelning II kapitel 2 i förordning (EU) nr 575/2013 (nedan kallat <span class="oj-italic">referensinstrument</span>).</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Referensinstrumentet uppfyller villkoren i punkt 2 c och f vid den tidpunkt när det beviljas som rörlig ersättning.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Värdet av ett övrigt instrument är kopplat till referensinstrumentet på ett sätt som innebär att det inte vid någon tidpunkt överstiger referensinstrumentets värde.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Värdet av alla utdelningar som betalas ut efter det att rätten till det övriga instrumentet har förvärvats är kopplat till referensinstrumentet på ett sätt som innebär att utdelningarna inte vid någon tidpunkt överstiger värdet på de utdelningar som sker för referensinstrumentet.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">f)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">I bestämmelserna om övriga instrument föreskrivs det att om referensinstrumentet löses in, återköps eller omvandlas inom uppskovsperioden och perioden för kvarhållande ska det övriga instrumentet kopplas till ett motsvarande referensinstrument som uppfyller villkoren i denna artikel så att det totala värdet av de övriga instrumenten inte ökar.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="004.004">
+                  <p class="oj-normal">4.   De villkor som avses i punkt 1 c är följande:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De behöriga myndigheterna har för de syften som avses i artikel 127 direktiv 2013/36/EU fastställt att det institut som utfärdar det instrument som de övriga instrumenten är kopplade till ska omfattas av gruppbaserad tillsyn av en tillsynsmyndighet i ett tredjeland som är likvärdig med den tillsyn som styrs av de principer som anges i det direktivet och kraven i del ett avdelning II kapitel 2 i förordning (EU) nr 575/2013.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De övriga instrumenten uppfyller de villkor som avses i punkt 3 a och c–f.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_5">
+               <p id="d1e553-21-1" class="oj-ti-art">Artikel 5</p>
+               <div class="eli-title" id="art_5.tit_1">
+                  <p class="oj-sti-art">Förfaranden för nedskrivning, uppskrivning och omvandling</p>
+               </div>
+               <div id="005.001">
+                  <p class="oj-normal">1.   Vid tillämpningen av artiklarna 3 b och 4.2 d ska de bestämmelser som reglerar supplementärkapitalinstrument och övriga instrument vara förenliga med de förfaranden och tidsfrister som anges i punkterna 2–14 för beräkning av kapitalrelationen för kärnprimärkapital och de belopp som ska skrivas ned, skrivas upp eller omvandlas. De bestämmelser som reglerar primärkapitaltillskott ska vara förenliga med de förfaranden som anges i punkt 9 och punkt 13 c för belopp som skrivs ned, skrivs upp eller omvandlas.</p>
+               </div>
+               <div id="005.002">
+                  <p class="oj-normal">2.   Om de bestämmelser som reglerar supplementärkapitalinstrument och övriga instrument kräver att dessa ska omvandlas till kärnprimärkapitalinstrument vid en utlösande händelse ska i dessa bestämmelser specifikt anges antingen</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">omvandlingsfaktorn och ett gränsvärde för det belopp som får omvandlas, eller</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">ett intervall inom vilket instrumenten kommer att omvandlas till kärnprimärkapitalinstrument.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.003">
+                  <p class="oj-normal">3.   Om de bestämmelser som reglerar instrumenten föreskriver att instrumentens kapitalbelopp ska skrivas ned vid en utlösande händelse, ska denna nedskrivning permanent eller tillfälligt minska samtliga följande belopp:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Den fordran som innehavaren av instrumentet har vid insolvens eller likvidation av institutet.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Det belopp som ska betalas i händelse av inlösen av instrumentet.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">De utdelningar som sker på instrumentet.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.004">
+                  <p class="oj-normal">4.   Alla utdelningar som ska betalas efter en nedskrivning ska baseras på det reducerade kapitalbeloppet.</p>
+               </div>
+               <div id="005.005">
+                  <p class="oj-normal">5.   Nedskrivning eller omvandling av instrumenten ska enligt tillämpliga redovisningsregler generera poster som är kvalificerade som kärnprimärkapitalposter.</p>
+               </div>
+               <div id="005.006">
+                  <p class="oj-normal">6.   Om institutet har fastställt att kärnprimärkapitalkvoten har fallit under den nivå som aktiverar omvandling eller nedskrivning av instrumentet ska institutets ledningsorgan eller annat berört organ i institutet utan dröjsmål fastställa att en utlösande händelse har inträffat och att det föreligger en oåterkallelig skyldighet att skriva ned eller omvandla instrumentet.</p>
+               </div>
+               <div id="005.007">
+                  <p class="oj-normal">7.   Det totala beloppet för de instrument som måste skrivas ned eller omvandlas om en utlösande händelse skulle inträffa får inte vara lägre än det lägsta av följande:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Det belopp som krävs för att helt återställa institutets kärnprimärkapitalkvot till den procentsats som anges som den utlösande händelsen i de bestämmelser som reglerar instrumentet.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Instrumentets fullständiga kapitalbelopp.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.008">
+                  <p class="oj-normal">8.   Om en utlösande händelse inträffar ska instituten göra följande:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Informera den personal som har tilldelats instrument som rörlig ersättning och de personer som fortfarande innehar sådana instrument.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Skriva ned instrumentens kapitalbelopp eller omvandla instrumenten till kärnprimärkapitalinstrument så snart som möjligt och inom högst en månad i enlighet med de villkor som fastställs i denna artikel.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.009">
+                  <p class="oj-normal">9.   Om primärkapitaltillskott eller supplementärkapitalinstrument och övriga instrument har samma utlösande nivå ska kapitalbeloppet skrivas ned eller omvandlas på proportionell grund för alla innehavare av sådana instrument som används för rörlig ersättning.</p>
+               </div>
+               <div id="005.010">
+                  <p class="oj-normal">10.   Beloppet som ska skrivas ned eller omvandlas ska vara föremål för oberoende översyn. Denna översyn ska slutföras snarast möjligt och får inte hindra institutet från att skriva ned eller omvandla instrumentet.</p>
+               </div>
+               <div id="005.011">
+                  <p class="oj-normal">11.   Ett institut som ger ut instrument som omvandlar till kärnprimärkapital om en utlösande händelse skulle inträffa ska säkerställa att dess aktiekapital vid alla tidpunkter räcker för att alla sådana konvertibla instrument ska kunna konverteras till aktier om en utlösande händelse inträffar. Institutet ska vid alla tidpunkter ha inhämtat de förhandstillstånd som krävs för att ge ut de kärnprimärkapitalinstrument till vilka sådana instrument skulle konverteras om en utlösande händelse inträffar.</p>
+               </div>
+               <div id="005.012">
+                  <p class="oj-normal">12.   Ett institut som ger ut instrument som konverterar till kärnprimärkapital om en utlösande händelse skulle inträffa ska säkerställa att det inte finns några förfarandemässiga hinder för konverteringen i dess bolagsordning eller stadgar eller bestämmelser i avtal.</p>
+               </div>
+               <div id="005.013">
+                  <p class="oj-normal">13.   För att en nedskrivning av ett instrument ska betraktas som tillfällig ska alla följande villkor vara uppfyllda:</p>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">a)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Uppskrivningar ska baseras på institutets vinster efter det att utgivaren av instrumentet har fattat ett formellt beslut som bekräftar den slutliga vinsten.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">b)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Varje uppskrivning av instrumentet eller kupongbetalningar för det minskade kapitalbeloppet ska ske efter institutets eget val med förbehåll för de begränsningar som följer av leden c, d och e, och institutet är inte skyldigt att genomföra eller påskynda en uppskrivning under vissa omständigheter.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">c)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">En uppskrivning ska genomföras proportionellt för primärkapitaltillskott, supplementärkapitalinstrument och övriga instrument som används för rörlig ersättning och som har varit föremål för nedskrivning.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">d)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Det maximibelopp som ska tillföras summan av instrumentets uppskrivningar av supplementärkapital och övriga instrument, tillsammans med kupongbetalningar för det minskade kapitalbeloppet, ska vara lika med institutets vinst multiplicerad med det belopp som erhålls genom att dividera det belopp som fastställs i led i med det belopp som fastställs i led ii:</p>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">i)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">Summan av det nominella beloppet för alla institutets supplementärkapitalinstrument och övriga instrument före nedskrivning som har varit föremål för en nedskrivning.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                 <col width="4%"/>
+                                 <col width="96%"/>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">ii)</p>
+                                       </td>
+                                       <td valign="top"  >
+                                          <p class="oj-normal">Summan av kapitalbasen och av det nominella värdet för övriga instrument som institutet använder för rörlig ersättning.</p>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                     <col width="4%"/>
+                     <col width="96%"/>
+                     <tbody>
+                        <tr>
+                           <td valign="top"  >
+                              <p class="oj-normal">e)</p>
+                           </td>
+                           <td valign="top"  >
+                              <p class="oj-normal">Summan av alla uppskrivningsbelopp och kupongbetalningar för det minskade kapitalbeloppet ska behandlas som en betalning som leder till en minskning av kärnprimärkapitalet och ska tillsammans med andra utdelningar för kärnprimärkapitalinstrument omfattas av begränsningarna för det högsta utdelningsbara beloppet enligt artikel 141.2 i direktiv 2013/36/EU.</p>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div id="005.014">
+                  <p class="oj-normal">14.   Vid tillämpningen av punkt 13 d ska beräkningen göras vid den tidpunkt då uppskrivningen genomförs.</p>
+               </div>
+            </div>
+            <div class="eli-subdivision" id="art_6">
+               <p id="d1e737-21-1" class="oj-ti-art">Artikel 6</p>
+               <p class="oj-normal">Denna förordning träder i kraft den tjugonde dagen efter det att den har offentliggjorts i <span class="oj-italic">Europeiska unionens officiella tidning</span>.</p>
+            </div>
+         </div>
+         <div class="eli-subdivision" id="fnp_1">
+            <div class="oj-final">
+               <p class="oj-normal">Denna förordning är till alla delar bindande och direkt tillämplig i alla medlemsstater.</p>
+               <p class="oj-normal">Utfärdad i Bryssel den 12 mars 2014.</p>
+               <div class="oj-signatory">
+                  <p class="oj-signatory">
+                     <span class="oj-italic">På kommissionens vägnar</span>
+                  </p>
+                  <p class="oj-signatory">José Manuel BARROSO
+            </p>
+                  <p class="oj-signatory">
+                     <span class="oj-italic">Ordförande</span>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <hr class="oj-note"/>
+         <p class="oj-note">
+            <a id="ntr1-L_2014148SV.01002101-E0001" href="#ntc1-L_2014148SV.01002101-E0001"
+               >(<span class="oj-super">1</span>)</a>  
+            <a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >EUT L 176, 27.6.2013, s. 338</a>.</p>
+         <p class="oj-note">
+            <a id="ntr2-L_2014148SV.01002101-E0002" href="#ntc2-L_2014148SV.01002101-E0002"
+               >(<span class="oj-super">2</span>)</a>  Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och värdepappersföretag och om ändring av förordning (EU) nr 648/2012 (<a href="http://publications.europa.eu/resource/oj/JOL_2013_176_R_TOC"
+               >EUT L 176, 27.6.2013, s. 1</a>).</p>
+         <p class="oj-note">
+            <a id="ntr3-L_2014148SV.01002101-E0003" href="#ntc3-L_2014148SV.01002101-E0003"
+               >(<span class="oj-super">3</span>)</a>  Kommittén för europeiska banktillsynsmyndigheter: Riktlinjer om ersättningspolitik och ersättningspraxis av den 10 december 2010.</p>
+         <p class="oj-note">
+            <a id="ntr4-L_2014148SV.01002101-E0004" href="#ntc4-L_2014148SV.01002101-E0004"
+               >(<span class="oj-super">4</span>)</a>  Europaparlamentets och rådets förordning (EU) nr 1093/2010 av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska bankmyndigheten), om ändring av beslut nr 716/2009/EG och om upphävande av kommissionens beslut 2009/78/EG (<a href="http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC"
+               >EUT L 331, 15.12.2010, s. 12</a>).</p>
+         <p class="oj-note">
+            <a id="ntr5-L_2014148SV.01002101-E0005" href="#ntc5-L_2014148SV.01002101-E0005"
+               >(<span class="oj-super">5</span>)</a>  Rådets förordning (EG) nr 2494/95 av den 23 oktober 1995 om harmoniserade konsumentprisindex (<a href="http://publications.europa.eu/resource/oj/JOL_1995_257_R_TOC"
+               >EGT L 257, 27.10.1995, s. 1</a>).</p>
+      </div>
+      <hr class="oj-doc-end"/>
+   </body>
+</html>
