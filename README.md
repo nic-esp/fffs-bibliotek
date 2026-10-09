@@ -3,7 +3,7 @@
 Ett fristående, öppet läs- och sökbibliotek för Finansinspektionens föreskrifter och allmänna råd.
 
 - **Webbplats:** https://nic-esp.github.io/fffs-bibliotek/
-- **Publik MCP:** https://fffs-bibliotek-mcp.nicolasespinoza.chatgpt.site/mcp
+- **Publik MCP:** https://fffs-public-mcp.vercel.app/mcp
 - **Maskinläsbart register:** https://nic-esp.github.io/fffs-bibliotek/data/catalog.json
 
 Varje författning har en statisk HTML-sida, Markdown, JSON och PDF. Listan kan filtreras på institutionstyp, kategori, status, år och utgåva. Fulltextsökningen och den publika MCP-servern använder samma korpus. Inloggning krävs inte; MCP har enbart läsverktyg.
@@ -34,9 +34,11 @@ GitHub Actions bygger och publicerar `dist/` på GitHub Pages när `main` uppdat
 
 ## MCP
 
-Serverkoden finns i `lib/worker.ts`, med MCP-protokollet från det officiella TypeScript-SDK:t. Den publiceras separat som en Worker eftersom GitHub Pages endast serverar statiska filer. Bygg med `npm run build:mcp`; utdata är `dist/server/index.js`. Gör det efter webbbygget eller i en separat checkout så att Pages-utdata inte blandas med serverutdata.
+Serverkoden finns i `lib/worker.ts`, med MCP-protokollet från det officiella TypeScript-SDK:t. Den körs publikt på Vercel Node.js 24, separat från GitHub Pages som endast serverar statiska filer. `server/` innehåller Vercel-adaptern. Kör `npm run build:vercel` efter ändringar i `lib/` och inkludera den genererade `server/worker.mjs` i committen. Projektets Root Directory är `server`.
 
-Miljövariabler för Worker:
+Worker-formatet kan också byggas med `npm run build:mcp` till `dist/server/index.js`. Den valfria Sites-anslutningen kräver OAuth hos värden; den öppna adressen ovan behöver ingen inloggning.
+
+Miljövariabler för servern (dessa värden används som standard i Vercel-adaptern):
 
 ```text
 DATA_BASE_URL=https://nic-esp.github.io/fffs-bibliotek/
@@ -48,7 +50,7 @@ Wildcard-CORS är ett uttryckligt val för denna publika server utan sessionskak
 Verktyg: `search_fffs`, `list_fffs`, `get_fffs`, `get_section`, `get_amendments`, `get_library_status`. Resurser: `fffs://catalog` och `fffs://{id}`. Dokument-ID använder `YYYY-NN`. Standardfiltret är `current`; välj `status=all` för hela samlingen. Fortsätt med `nextCursor` tills den är `null` för långa dokument. Responsen innehåller källor, datum och metadata.
 
 ```sh
-npx tsx scripts/smoke-mcp.ts https://fffs-bibliotek-mcp.nicolasespinoza.chatgpt.site/mcp
+npx tsx scripts/smoke-mcp.ts https://fffs-public-mcp.vercel.app/mcp
 ```
 
 ## Uppdatera samlingen

@@ -10,7 +10,8 @@
     "test": "tsx --test tests/*.test.ts",
     "build:mcp": "node scripts/build-mcp.mjs",
     "check": "tsc --noEmit",
-    "validate": "tsx scripts/validate-build.ts"
+    "validate": "tsx scripts/validate-build.ts",
+    "build:vercel": "node scripts/build-vercel.mjs"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.32.1",
